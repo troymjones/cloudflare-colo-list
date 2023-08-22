@@ -25,6 +25,7 @@ def get(url, retry=5):
 
 def generate():
     data = {}
+    north_america = []
 
     # www.cloudflarestatus.com for DC list
     # Site Struct: Table --div--> continents --div--> DCs --text--> Info
@@ -50,20 +51,22 @@ def generate():
         iata = location['iata']
         if iata in data:
             data[iata].update(location)
-            del data[iata]['iata']
         else:
             print(iata, 'not found in cloudflare status')
             data[iata] = location
             data[iata]['name'] = location['city'] + ', ' + country_codes[location['cca2']]
-            del data[iata]['iata']
-    return data, speed_locations
+            
+        if data[iata]["region"] == "North America":
+            north_america.append(data[iata])
+    return data, speed_locations, north_america
 
 
 if __name__ == '__main__':
-    match_data, location_data = generate()
+    match_data, location_data, north_america = generate()
 
     locations_json_content = json.dumps(location_data, indent=4, ensure_ascii=False, sort_keys=True)
     dc_colos_json_content = json.dumps(match_data, indent=4, ensure_ascii=False, sort_keys=True)
+    north_america_json_cotent = json.dumps(north_america, indent=4, ensure_ascii=False, sort_keys=True)
     content_changed = True
 
     if (os.path.exists('DC-Colos.json')):
@@ -83,6 +86,11 @@ if __name__ == '__main__':
     with open('DC-Colos.json', 'w', encoding='utf-8') as f:
         f.write(dc_colos_json_content)
 
+    # save as DC-Colo matched data json
+    with open('north-america.json', 'w', encoding='utf-8') as f:
+        f.write(north_america_json_content)
+              
+    
     # save as xlsx & csv
     dt = pd.DataFrame(match_data).T
     dt.index.name = 'colo'
