@@ -1,0 +1,515 @@
+[
+    {
+        "cca2": "CA",
+        "city": "Calgary",
+        "iata": "YYC",
+        "lat": 51.113899231,
+        "lon": -114.019996643,
+        "name": "Calgary, AB, Canada",
+        "region": "North America"
+    },
+    {
+        "cca2": "CA",
+        "city": "Vancouver",
+        "iata": "YVR",
+        "lat": 49.193901062,
+        "lon": -123.183998108,
+        "name": "Vancouver, BC, Canada",
+        "region": "North America"
+    },
+    {
+        "cca2": "CA",
+        "city": "Winnipeg",
+        "iata": "YWG",
+        "lat": 49.9099998474,
+        "lon": -97.2398986816,
+        "name": "Winnipeg, MB, Canada",
+        "region": "North America"
+    },
+    {
+        "cca2": "CA",
+        "city": "Ottawa",
+        "iata": "YOW",
+        "lat": 45.3224983215,
+        "lon": -75.6691970825,
+        "name": "Ottawa, Canada",
+        "region": "North America"
+    },
+    {
+        "cca2": "CA",
+        "city": "Toronto",
+        "iata": "YYZ",
+        "lat": 43.6772003174,
+        "lon": -79.6305999756,
+        "name": "Toronto, ON, Canada",
+        "region": "North America"
+    },
+    {
+        "cca2": "CA",
+        "city": "Montréal",
+        "iata": "YUL",
+        "lat": 45.4706001282,
+        "lon": -73.7407989502,
+        "name": "Montréal, QC, Canada",
+        "region": "North America"
+    },
+    {
+        "cca2": "CA",
+        "city": "Saskatoon",
+        "iata": "YXE",
+        "lat": 52.1707992554,
+        "lon": -106.699996948,
+        "name": "Saskatoon, SK, Canada",
+        "region": "North America"
+    },
+    {
+        "cca2": "DO",
+        "city": "Santo Domingo",
+        "iata": "SDQ",
+        "lat": 18.4297008514,
+        "lon": -69.6688995361,
+        "name": "Santo Domingo, Dominican Republic",
+        "region": "North America"
+    },
+    {
+        "cca2": "GT",
+        "city": "Guatemala City",
+        "iata": "GUA",
+        "lat": 14.5832996368,
+        "lon": -90.5274963379,
+        "name": "Guatemala City, Guatemala",
+        "region": "North America"
+    },
+    {
+        "cca2": "JM",
+        "city": "Kingston",
+        "iata": "KIN",
+        "lat": 17.9951,
+        "lon": -76.7846,
+        "name": "Kingston, Jamaica",
+        "region": "North America"
+    },
+    {
+        "cca2": "MX",
+        "city": "Guadalajara",
+        "iata": "GDL",
+        "lat": 20.5217990875,
+        "lon": -103.3109970093,
+        "name": "Guadalajara, Mexico",
+        "region": "North America"
+    },
+    {
+        "cca2": "MX",
+        "city": "Mexico City",
+        "iata": "MEX",
+        "lat": 19.4363002777,
+        "lon": -99.0720977783,
+        "name": "Mexico City, Mexico",
+        "region": "North America"
+    },
+    {
+        "cca2": "MX",
+        "city": "Queretaro",
+        "iata": "QRO",
+        "lat": 20.6173000336,
+        "lon": -100.185997009,
+        "name": "Queretaro, MX, Mexico",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Montgomery",
+        "iata": "MGM",
+        "lat": 32.30059814,
+        "lon": -86.39399719,
+        "name": "Montgomery, AL, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Phoenix",
+        "iata": "PHX",
+        "lat": 33.434299469,
+        "lon": -112.012001038,
+        "name": "Phoenix, AZ, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Los Angeles",
+        "iata": "LAX",
+        "lat": 33.94250107,
+        "lon": -118.4079971,
+        "name": "Los Angeles, CA, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Sacramento",
+        "iata": "SMF",
+        "lat": 38.695400238,
+        "lon": -121.591003418,
+        "name": "Sacramento, CA, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "San Diego",
+        "iata": "SAN",
+        "lat": 32.7336006165,
+        "lon": -117.190002441,
+        "name": "San Diego, CA, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "San Francisco",
+        "iata": "SFO",
+        "lat": 37.6189994812,
+        "lon": -122.375,
+        "name": "San Francisco, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "San Jose",
+        "iata": "SJC",
+        "lat": 37.3625984192,
+        "lon": -121.929000855,
+        "name": "San Jose, CA, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Denver",
+        "iata": "DEN",
+        "lat": 39.8616981506,
+        "lon": -104.672996521,
+        "name": "Denver, CO, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Jacksonville",
+        "iata": "JAX",
+        "lat": 30.4941005707,
+        "lon": -81.6878967285,
+        "name": "Jacksonville, FL, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Miami",
+        "iata": "MIA",
+        "lat": 25.7931995392,
+        "lon": -80.2906036377,
+        "name": "Miami, FL, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Tallahassee",
+        "iata": "TLH",
+        "lat": 30.3964996338,
+        "lon": -84.3503036499,
+        "name": "Tallahassee, FL, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Atlanta",
+        "iata": "ATL",
+        "lat": 33.6366996765,
+        "lon": -84.4281005859,
+        "name": "Atlanta, GA, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Honolulu",
+        "iata": "HNL",
+        "lat": 21.3187007904,
+        "lon": -157.9219970703,
+        "name": "Honolulu, HI, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Chicago",
+        "iata": "ORD",
+        "lat": 41.97859955,
+        "lon": -87.90480042,
+        "name": "Chicago, IL, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Indianapolis",
+        "iata": "IND",
+        "lat": 39.717300415,
+        "lon": -86.2944030762,
+        "name": "Indianapolis, IN, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Bangor",
+        "iata": "BGR",
+        "lat": 44.8081,
+        "lon": -68.795,
+        "name": "Bangor, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Boston",
+        "iata": "BOS",
+        "lat": 42.36429977,
+        "lon": -71.00520325,
+        "name": "Boston, MA, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Detroit",
+        "iata": "DTW",
+        "lat": 42.2123985291,
+        "lon": -83.3534011841,
+        "name": "Detroit, MI, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Minneapolis",
+        "iata": "MSP",
+        "lat": 44.8819999695,
+        "lon": -93.2218017578,
+        "name": "Minneapolis, MN, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Kansas City",
+        "iata": "MCI",
+        "lat": 39.2975997925,
+        "lon": -94.7138977051,
+        "name": "Kansas City, MO, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "St. Louis",
+        "iata": "STL",
+        "lat": 38.7486991882,
+        "lon": -90.3700027466,
+        "name": "St. Louis, MO, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Omaha",
+        "iata": "OMA",
+        "lat": 41.3031997681,
+        "lon": -95.8940963745,
+        "name": "Omaha, NE, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Las Vegas",
+        "iata": "LAS",
+        "lat": 36.08010101,
+        "lon": -115.1520004,
+        "name": "Las Vegas, NV, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Newark",
+        "iata": "EWR",
+        "lat": 40.6925010681,
+        "lon": -74.1687011719,
+        "name": "Newark, NJ, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Albuquerque",
+        "iata": "ABQ",
+        "lat": 35.0844,
+        "lon": -106.6504,
+        "name": "Albuquerque, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Buffalo",
+        "iata": "BUF",
+        "lat": 42.94049835,
+        "lon": -78.73220062,
+        "name": "Buffalo, NY, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Charlotte",
+        "iata": "CLT",
+        "lat": 35.2140007019,
+        "lon": -80.9430999756,
+        "name": "Charlotte, NC, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Columbus",
+        "iata": "CMH",
+        "lat": 39.9980010986,
+        "lon": -82.8918991089,
+        "name": "Columbus, OH, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Portland",
+        "iata": "PDX",
+        "lat": 45.58869934,
+        "lon": -122.5979996,
+        "name": "Portland, OR, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Philadelphia",
+        "iata": "PHL",
+        "lat": 39.8718986511,
+        "lon": -75.2410964966,
+        "name": "Philadelphia, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Pittsburgh",
+        "iata": "PIT",
+        "lat": 40.49150085,
+        "lon": -80.23290253,
+        "name": "Pittsburgh, PA, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Sioux Falls",
+        "iata": "FSD",
+        "lat": 43.540819819502,
+        "lon": -96.65511577730963,
+        "name": "Sioux Falls, South Dakota",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Memphis",
+        "iata": "MEM",
+        "lat": 35.0424003601,
+        "lon": -89.9766998291,
+        "name": "Memphis, TN, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Nashville",
+        "iata": "BNA",
+        "lat": 36.1245002747,
+        "lon": -86.6781997681,
+        "name": "Nashville, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Austin",
+        "iata": "AUS",
+        "lat": 30.1975,
+        "lon": -97.6664,
+        "name": "Austin, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Dallas",
+        "iata": "DFW",
+        "lat": 32.8968009949,
+        "lon": -97.0380020142,
+        "name": "Dallas, TX, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Houston",
+        "iata": "IAH",
+        "lat": 29.9843997955,
+        "lon": -95.3414001465,
+        "name": "Houston, TX, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "McAllen",
+        "iata": "MFE",
+        "lat": 26.17580032,
+        "lon": -98.23860168,
+        "name": "McAllen, TX, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "San Antonio",
+        "iata": "SAT",
+        "lat": 29.429461,
+        "lon": -98.487061,
+        "name": "San Antonio, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Salt Lake City",
+        "iata": "SLC",
+        "lat": 40.7883987427,
+        "lon": -111.977996826,
+        "name": "Salt Lake City, UT, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Ashburn",
+        "iata": "IAD",
+        "lat": 38.94449997,
+        "lon": -77.45580292,
+        "name": "Ashburn, VA, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Norfolk",
+        "iata": "ORF",
+        "lat": 36.8945999146,
+        "lon": -76.2012023926,
+        "name": "Norfolk, VA, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Richmond",
+        "iata": "RIC",
+        "lat": 37.5051994324,
+        "lon": -77.3197021484,
+        "name": "Richmond, VA, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "city": "Seattle",
+        "iata": "SEA",
+        "lat": 47.4490013123,
+        "lon": -122.308998108,
+        "name": "Seattle, WA, United States",
+        "region": "North America"
+    }
+]

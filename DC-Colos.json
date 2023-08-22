@@ -2,6 +2,7 @@
     "AAE": {
         "cca2": "DZ",
         "city": "Annaba",
+        "iata": "AAE",
         "lat": 36.85596,
         "lon": 7.79207,
         "name": "Annaba, Algeria",
@@ -10,6 +11,7 @@
     "ABQ": {
         "cca2": "US",
         "city": "Albuquerque",
+        "iata": "ABQ",
         "lat": 35.0844,
         "lon": -106.6504,
         "name": "Albuquerque, United States",
@@ -18,6 +20,7 @@
     "ACC": {
         "cca2": "GH",
         "city": "Accra",
+        "iata": "ACC",
         "lat": 5.614818,
         "lon": -0.205874,
         "name": "Accra, Ghana",
@@ -26,6 +29,7 @@
     "ADB": {
         "cca2": "TR",
         "city": "Izmir",
+        "iata": "ADB",
         "lat": 38.32377,
         "lon": 27.14317,
         "name": "Izmir, Turkey",
@@ -34,6 +38,7 @@
     "ADL": {
         "cca2": "AU",
         "city": "Adelaide",
+        "iata": "ADL",
         "lat": -34.9431729,
         "lon": 138.5335637,
         "name": "Adelaide, SA, Australia",
@@ -42,6 +47,7 @@
     "AKL": {
         "cca2": "NZ",
         "city": "Auckland",
+        "iata": "AKL",
         "lat": -37.0080986023,
         "lon": 174.792007446,
         "name": "Auckland, New Zealand",
@@ -50,6 +56,7 @@
     "ALA": {
         "cca2": "KZ",
         "city": "Almaty",
+        "iata": "ALA",
         "lat": 43.3521003723,
         "lon": 77.0404968262,
         "name": "Almaty, Kazakhstan",
@@ -58,6 +65,7 @@
     "ALG": {
         "cca2": "DZ",
         "city": "Algiers",
+        "iata": "ALG",
         "lat": 36.6910018921,
         "lon": 3.2154099941,
         "name": "Algiers, Algeria",
@@ -66,6 +74,7 @@
     "AMD": {
         "cca2": "IN",
         "city": "Ahmedabad",
+        "iata": "AMD",
         "lat": 23.0225,
         "lon": 72.5714,
         "name": "Ahmedabad, India",
@@ -74,6 +83,7 @@
     "AMM": {
         "cca2": "JO",
         "city": "Amman",
+        "iata": "AMM",
         "lat": 31.7226009369,
         "lon": 35.9931983948,
         "name": "Amman, Jordan",
@@ -82,6 +92,7 @@
     "AMS": {
         "cca2": "NL",
         "city": "Amsterdam",
+        "iata": "AMS",
         "lat": 52.3086013794,
         "lon": 4.7638897896,
         "name": "Amsterdam, Netherlands",
@@ -90,6 +101,7 @@
     "ARI": {
         "cca2": "CL",
         "city": "Arica",
+        "iata": "ARI",
         "lat": -18.348611,
         "lon": -70.338889,
         "name": "Arica, Chile",
@@ -98,6 +110,7 @@
     "ARN": {
         "cca2": "SE",
         "city": "Stockholm",
+        "iata": "ARN",
         "lat": 59.6519012451,
         "lon": 17.9186000824,
         "name": "Stockholm, Sweden",
@@ -106,6 +119,7 @@
     "ASU": {
         "cca2": "PY",
         "city": "Asunción",
+        "iata": "ASU",
         "lat": -25.2399997711,
         "lon": -57.5200004578,
         "name": "Asunción, Paraguay",
@@ -114,6 +128,7 @@
     "ATH": {
         "cca2": "GR",
         "city": "Athens",
+        "iata": "ATH",
         "lat": 37.9364013672,
         "lon": 23.9444999695,
         "name": "Athens, Greece",
@@ -122,6 +137,7 @@
     "ATL": {
         "cca2": "US",
         "city": "Atlanta",
+        "iata": "ATL",
         "lat": 33.6366996765,
         "lon": -84.4281005859,
         "name": "Atlanta, GA, United States",
@@ -130,6 +146,7 @@
     "AUS": {
         "cca2": "US",
         "city": "Austin",
+        "iata": "AUS",
         "lat": 30.1975,
         "lon": -97.6664,
         "name": "Austin, United States",
@@ -138,6 +155,7 @@
     "BAH": {
         "cca2": "BH",
         "city": "Manama",
+        "iata": "BAH",
         "lat": 26.2707996368,
         "lon": 50.6335983276,
         "name": "Manama, Bahrain",
@@ -146,6 +164,7 @@
     "BBI": {
         "cca2": "IN",
         "city": "Bhubaneswar",
+        "iata": "BBI",
         "lat": 20.2961,
         "lon": 85.8245,
         "name": "Bhubaneswar, India",
@@ -154,6 +173,7 @@
     "BCN": {
         "cca2": "ES",
         "city": "Barcelona",
+        "iata": "BCN",
         "lat": 41.2971000671,
         "lon": 2.0784599781,
         "name": "Barcelona, Spain",
@@ -162,6 +182,7 @@
     "BEG": {
         "cca2": "RS",
         "city": "Belgrade",
+        "iata": "BEG",
         "lat": 44.8184013367,
         "lon": 20.3090991974,
         "name": "Belgrade, Serbia",
@@ -170,6 +191,7 @@
     "BEL": {
         "cca2": "BR",
         "city": "Belém",
+        "iata": "BEL",
         "lat": -1.4563,
         "lon": -48.5013,
         "name": "Belém, Brazil",
@@ -178,6 +200,7 @@
     "BEY": {
         "cca2": "LB",
         "city": "Beirut",
+        "iata": "BEY",
         "lat": 33.8208999634,
         "lon": 35.4883995056,
         "name": "Beirut, Lebanon",
@@ -186,6 +209,7 @@
     "BGR": {
         "cca2": "US",
         "city": "Bangor",
+        "iata": "BGR",
         "lat": 44.8081,
         "lon": -68.795,
         "name": "Bangor, United States",
@@ -194,6 +218,7 @@
     "BGW": {
         "cca2": "IQ",
         "city": "Baghdad",
+        "iata": "BGW",
         "lat": 33.2625007629,
         "lon": 44.2346000671,
         "name": "Baghdad, Iraq",
@@ -202,6 +227,7 @@
     "BKK": {
         "cca2": "TH",
         "city": "Bangkok",
+        "iata": "BKK",
         "lat": 13.6810998917,
         "lon": 100.747001648,
         "name": "Bangkok, Thailand",
@@ -210,6 +236,7 @@
     "BLR": {
         "cca2": "IN",
         "city": "Bangalore",
+        "iata": "BLR",
         "lat": 13.7835719,
         "lon": 76.6165937,
         "name": "Bangalore, India",
@@ -218,6 +245,7 @@
     "BNA": {
         "cca2": "US",
         "city": "Nashville",
+        "iata": "BNA",
         "lat": 36.1245002747,
         "lon": -86.6781997681,
         "name": "Nashville, United States",
@@ -226,6 +254,7 @@
     "BNE": {
         "cca2": "AU",
         "city": "Brisbane",
+        "iata": "BNE",
         "lat": -27.3841991425,
         "lon": 153.117004394,
         "name": "Brisbane, QLD, Australia",
@@ -234,6 +263,7 @@
     "BNU": {
         "cca2": "BR",
         "city": "Blumenau",
+        "iata": "BNU",
         "lat": -26.89245,
         "lon": -49.07696,
         "name": "Blumenau, Brazil",
@@ -242,6 +272,7 @@
     "BOD": {
         "cca2": "FR",
         "city": "Bordeaux",
+        "iata": "BOD",
         "lat": 44.82946,
         "lon": -0.58355,
         "name": "Bordeaux, France",
@@ -250,6 +281,7 @@
     "BOG": {
         "cca2": "CO",
         "city": "Bogotá",
+        "iata": "BOG",
         "lat": 4.70159,
         "lon": -74.1469,
         "name": "Bogotá, Colombia",
@@ -258,6 +290,7 @@
     "BOM": {
         "cca2": "IN",
         "city": "Mumbai",
+        "iata": "BOM",
         "lat": 19.0886993408,
         "lon": 72.8678970337,
         "name": "Mumbai, India",
@@ -266,6 +299,7 @@
     "BOS": {
         "cca2": "US",
         "city": "Boston",
+        "iata": "BOS",
         "lat": 42.36429977,
         "lon": -71.00520325,
         "name": "Boston, MA, United States",
@@ -274,6 +308,7 @@
     "BRU": {
         "cca2": "BE",
         "city": "Brussels",
+        "iata": "BRU",
         "lat": 50.9014015198,
         "lon": 4.4844398499,
         "name": "Brussels, Belgium",
@@ -282,6 +317,7 @@
     "BSB": {
         "cca2": "BR",
         "city": "Brasilia",
+        "iata": "BSB",
         "lat": -15.79824,
         "lon": -47.90859,
         "name": "Brasilia, Brazil",
@@ -290,6 +326,7 @@
     "BSR": {
         "cca2": "IQ",
         "city": "Basra",
+        "iata": "BSR",
         "lat": 30.5491008759,
         "lon": 47.6621017456,
         "name": "Basra, Iraq",
@@ -298,6 +335,7 @@
     "BTS": {
         "cca2": "SK",
         "city": "Bratislava",
+        "iata": "BTS",
         "lat": 48.1486,
         "lon": 17.1077,
         "name": "Bratislava, Slovakia",
@@ -306,6 +344,7 @@
     "BUD": {
         "cca2": "HU",
         "city": "Budapest",
+        "iata": "BUD",
         "lat": 47.4369010925,
         "lon": 19.2555999756,
         "name": "Budapest, Hungary",
@@ -314,6 +353,7 @@
     "BUF": {
         "cca2": "US",
         "city": "Buffalo",
+        "iata": "BUF",
         "lat": 42.94049835,
         "lon": -78.73220062,
         "name": "Buffalo, NY, United States",
@@ -322,6 +362,7 @@
     "BWN": {
         "cca2": "BN",
         "city": "Bandar Seri Begawan",
+        "iata": "BWN",
         "lat": 4.903052,
         "lon": 114.939819,
         "name": "Bandar Seri Begawan, Brunei",
@@ -333,6 +374,7 @@
     "CAW": {
         "cca2": "BR",
         "city": "Campos dos Goytacazes",
+        "iata": "CAW",
         "lat": -21.698299408,
         "lon": -41.301700592,
         "name": "Campos dos Goytacazes, Brazil",
@@ -341,6 +383,7 @@
     "CBR": {
         "cca2": "AU",
         "city": "Canberra",
+        "iata": "CBR",
         "lat": -35.3069000244,
         "lon": 149.1950073242,
         "name": "Canberra, ACT, Australia",
@@ -349,6 +392,7 @@
     "CCU": {
         "cca2": "IN",
         "city": "Kolkata",
+        "iata": "CCU",
         "lat": 22.6476933,
         "lon": 88.4349249,
         "name": "Kolkata, India",
@@ -357,6 +401,7 @@
     "CDG": {
         "cca2": "FR",
         "city": "Paris",
+        "iata": "CDG",
         "lat": 49.0127983093,
         "lon": 2.5499999523,
         "name": "Paris, France",
@@ -365,6 +410,7 @@
     "CEB": {
         "cca2": "PH",
         "city": "Cebu",
+        "iata": "CEB",
         "lat": 10.3074998856,
         "lon": 123.978996277,
         "name": "Cebu, Philippines",
@@ -373,6 +419,7 @@
     "CFC": {
         "cca2": "BR",
         "city": "Cacador",
+        "iata": "CFC",
         "lat": -26.7762,
         "lon": -51.0125,
         "name": "Caçador, Brazil",
@@ -381,6 +428,7 @@
     "CGB": {
         "cca2": "BR",
         "city": "Cuiaba",
+        "iata": "CGB",
         "lat": -15.59611,
         "lon": -56.09667,
         "name": "Cuiabá, Brazil",
@@ -392,6 +440,7 @@
     "CGK": {
         "cca2": "ID",
         "city": "Jakarta",
+        "iata": "CGK",
         "lat": -6.1275229,
         "lon": 106.6515118,
         "name": "Jakarta, Indonesia",
@@ -403,6 +452,7 @@
     "CGP": {
         "cca2": "BD",
         "city": "Chittagong",
+        "iata": "CGP",
         "lat": 22.2495995,
         "lon": 91.8133011,
         "name": "Chittagong, Bangladesh",
@@ -414,6 +464,7 @@
     "CGY": {
         "cca2": "PH",
         "city": "Cagayan de Oro",
+        "iata": "CGY",
         "lat": 8.4156198502,
         "lon": 124.611000061,
         "name": "Cagayan de Oro, Philippines",
@@ -422,6 +473,7 @@
     "CHC": {
         "cca2": "NZ",
         "city": "Christchurch",
+        "iata": "CHC",
         "lat": -43.4893989563,
         "lon": 172.5319976807,
         "name": "Christchurch, New Zealand",
@@ -430,6 +482,7 @@
     "CLT": {
         "cca2": "US",
         "city": "Charlotte",
+        "iata": "CLT",
         "lat": 35.2140007019,
         "lon": -80.9430999756,
         "name": "Charlotte, NC, United States",
@@ -438,6 +491,7 @@
     "CMB": {
         "cca2": "LK",
         "city": "Colombo",
+        "iata": "CMB",
         "lat": 7.1807599068,
         "lon": 79.8841018677,
         "name": "Colombo, Sri Lanka",
@@ -446,6 +500,7 @@
     "CMH": {
         "cca2": "US",
         "city": "Columbus",
+        "iata": "CMH",
         "lat": 39.9980010986,
         "lon": -82.8918991089,
         "name": "Columbus, OH, United States",
@@ -454,6 +509,7 @@
     "CMN": {
         "cca2": "MA",
         "city": "Casablanca",
+        "iata": "CMN",
         "lat": 33.3675003052,
         "lon": -7.5899701118,
         "name": "Casablanca, Morocco",
@@ -462,6 +518,7 @@
     "CNF": {
         "cca2": "BR",
         "city": "Belo Horizonte",
+        "iata": "CNF",
         "lat": -19.624444,
         "lon": -43.971944,
         "name": "Belo Horizonte, Brazil",
@@ -470,6 +527,7 @@
     "CNN": {
         "cca2": "IN",
         "city": "Kannur",
+        "iata": "CNN",
         "lat": 11.915858,
         "lon": 75.55094,
         "name": "Kannur, India",
@@ -478,6 +536,7 @@
     "CNX": {
         "cca2": "TH",
         "city": "Chiang Mai",
+        "iata": "CNX",
         "lat": 18.7667999268,
         "lon": 98.962600708,
         "name": "Chiang Mai, Thailand",
@@ -486,6 +545,7 @@
     "COK": {
         "cca2": "IN",
         "city": "Kochi",
+        "iata": "COK",
         "lat": 9.9312,
         "lon": 76.2673,
         "name": "Kochi, India",
@@ -494,6 +554,7 @@
     "COR": {
         "cca2": "AR",
         "city": "Córdoba",
+        "iata": "COR",
         "lat": -31.31,
         "lon": -64.208333,
         "name": "Córdoba, Argentina",
@@ -502,6 +563,7 @@
     "CPH": {
         "cca2": "DK",
         "city": "Copenhagen",
+        "iata": "CPH",
         "lat": 55.6179008484,
         "lon": 12.6560001373,
         "name": "Copenhagen, Denmark",
@@ -510,6 +572,7 @@
     "CPT": {
         "cca2": "ZA",
         "city": "Cape Town",
+        "iata": "CPT",
         "lat": -33.9648017883,
         "lon": 18.6016998291,
         "name": "Cape Town, South Africa",
@@ -521,6 +584,7 @@
     "CUR": {
         "cca2": "CW",
         "city": "Willemstad",
+        "iata": "CUR",
         "lat": 12.1888999939,
         "lon": -68.9598007202,
         "name": "Willemstad, Curaçao",
@@ -529,6 +593,7 @@
     "CWB": {
         "cca2": "BR",
         "city": "Curitiba",
+        "iata": "CWB",
         "lat": -25.5284996033,
         "lon": -49.1758003235,
         "name": "Curitiba, Brazil",
@@ -540,6 +605,7 @@
     "DAC": {
         "cca2": "BD",
         "city": "Dhaka",
+        "iata": "DAC",
         "lat": 23.843347,
         "lon": 90.397783,
         "name": "Dhaka, Bangladesh",
@@ -548,6 +614,7 @@
     "DAR": {
         "cca2": "TZ",
         "city": "Dar es Salaam",
+        "iata": "DAR",
         "lat": -6.8781099319,
         "lon": 39.2025985718,
         "name": "Dar Es Salaam, Tanzania",
@@ -556,6 +623,7 @@
     "DEL": {
         "cca2": "IN",
         "city": "New Delhi",
+        "iata": "DEL",
         "lat": 28.5664997101,
         "lon": 77.1031036377,
         "name": "New Delhi, India",
@@ -564,6 +632,7 @@
     "DEN": {
         "cca2": "US",
         "city": "Denver",
+        "iata": "DEN",
         "lat": 39.8616981506,
         "lon": -104.672996521,
         "name": "Denver, CO, United States",
@@ -572,6 +641,7 @@
     "DFW": {
         "cca2": "US",
         "city": "Dallas",
+        "iata": "DFW",
         "lat": 32.8968009949,
         "lon": -97.0380020142,
         "name": "Dallas, TX, United States",
@@ -580,6 +650,7 @@
     "DKR": {
         "cca2": "SN",
         "city": "Dakar",
+        "iata": "DKR",
         "lat": 14.7412099,
         "lon": -17.4889771,
         "name": "Dakar, Senegal",
@@ -588,6 +659,7 @@
     "DME": {
         "cca2": "RU",
         "city": "Moscow",
+        "iata": "DME",
         "lat": 55.4087982178,
         "lon": 37.9062995911,
         "name": "Moscow, Russia",
@@ -596,6 +668,7 @@
     "DMM": {
         "cca2": "SA",
         "city": "Dammam",
+        "iata": "DMM",
         "lat": 26.471200943,
         "lon": 49.7979011536,
         "name": "Dammam, Saudi Arabia",
@@ -604,6 +677,7 @@
     "DOH": {
         "cca2": "QA",
         "city": "Doha",
+        "iata": "DOH",
         "lat": 25.2605946,
         "lon": 51.6137665,
         "name": "Doha, Qatar",
@@ -612,6 +686,7 @@
     "DPS": {
         "cca2": "ID",
         "city": "Denpasar",
+        "iata": "DPS",
         "lat": -8.748169899,
         "lon": 115.1669998169,
         "name": "Denpasar, Indonesia",
@@ -620,6 +695,7 @@
     "DTW": {
         "cca2": "US",
         "city": "Detroit",
+        "iata": "DTW",
         "lat": 42.2123985291,
         "lon": -83.3534011841,
         "name": "Detroit, MI, United States",
@@ -628,6 +704,7 @@
     "DUB": {
         "cca2": "IE",
         "city": "Dublin",
+        "iata": "DUB",
         "lat": 53.4212989807,
         "lon": -6.270070076,
         "name": "Dublin, Ireland",
@@ -636,6 +713,7 @@
     "DUR": {
         "cca2": "ZA",
         "city": "Durban",
+        "iata": "DUR",
         "lat": -29.6144444444,
         "lon": 31.1197222222,
         "name": "Durban, South Africa",
@@ -644,6 +722,7 @@
     "DUS": {
         "cca2": "DE",
         "city": "Düsseldorf",
+        "iata": "DUS",
         "lat": 51.2895011902,
         "lon": 6.7667798996,
         "name": "Düsseldorf, Germany",
@@ -652,6 +731,7 @@
     "DXB": {
         "cca2": "AE",
         "city": "Dubai",
+        "iata": "DXB",
         "lat": 25.2527999878,
         "lon": 55.3643989563,
         "name": "Dubai, United Arab Emirates",
@@ -660,6 +740,7 @@
     "EBL": {
         "cca2": "IQ",
         "city": "Erbil",
+        "iata": "EBL",
         "lat": 36.1901,
         "lon": 43.993,
         "name": "Erbil, Iraq",
@@ -668,6 +749,7 @@
     "EDI": {
         "cca2": "GB",
         "city": "Edinburgh",
+        "iata": "EDI",
         "lat": 55.9500007629,
         "lon": -3.3724999428,
         "name": "Edinburgh, United Kingdom",
@@ -676,6 +758,7 @@
     "EVN": {
         "cca2": "AM",
         "city": "Yerevan",
+        "iata": "EVN",
         "lat": 40.1473007202,
         "lon": 44.3959007263,
         "name": "Yerevan, Armenia",
@@ -684,6 +767,7 @@
     "EWR": {
         "cca2": "US",
         "city": "Newark",
+        "iata": "EWR",
         "lat": 40.6925010681,
         "lon": -74.1687011719,
         "name": "Newark, NJ, United States",
@@ -692,6 +776,7 @@
     "EZE": {
         "cca2": "AR",
         "city": "Buenos Aires",
+        "iata": "EZE",
         "lat": -34.8222,
         "lon": -58.5358,
         "name": "Buenos Aires, Argentina",
@@ -700,6 +785,7 @@
     "FCO": {
         "cca2": "IT",
         "city": "Rome",
+        "iata": "FCO",
         "lat": 41.8045005798,
         "lon": 12.2508001328,
         "name": "Rome, Italy",
@@ -708,6 +794,7 @@
     "FIH": {
         "cca2": "CD",
         "city": "Kinshasa",
+        "iata": "FIH",
         "lat": -4.3857498169,
         "lon": 15.4446001053,
         "name": "Kinshasa, DR Congo",
@@ -716,6 +803,7 @@
     "FLN": {
         "cca2": "BR",
         "city": "Florianopolis",
+        "iata": "FLN",
         "lat": -27.6702785492,
         "lon": -48.5525016785,
         "name": "Florianopolis, Brazil",
@@ -727,6 +815,7 @@
     "FOR": {
         "cca2": "BR",
         "city": "Fortaleza",
+        "iata": "FOR",
         "lat": -3.7762799263,
         "lon": -38.5326004028,
         "name": "Fortaleza, Brazil",
@@ -735,6 +824,7 @@
     "FRA": {
         "cca2": "DE",
         "city": "Frankfurt",
+        "iata": "FRA",
         "lat": 50.0264015198,
         "lon": 8.543129921,
         "name": "Frankfurt, Germany",
@@ -743,6 +833,7 @@
     "FSD": {
         "cca2": "US",
         "city": "Sioux Falls",
+        "iata": "FSD",
         "lat": 43.540819819502,
         "lon": -96.65511577730963,
         "name": "Sioux Falls, South Dakota",
@@ -751,6 +842,7 @@
     "FUK": {
         "cca2": "JP",
         "city": "Fukuoka",
+        "iata": "FUK",
         "lat": 33.5902,
         "lon": 130.4017,
         "name": "Fukuoka, Japan",
@@ -762,6 +854,7 @@
     "GBE": {
         "cca2": "BW",
         "city": "Gaborone",
+        "iata": "GBE",
         "lat": -24.6282,
         "lon": 25.9231,
         "name": "Gaborone, Botswana",
@@ -770,6 +863,7 @@
     "GDL": {
         "cca2": "MX",
         "city": "Guadalajara",
+        "iata": "GDL",
         "lat": 20.5217990875,
         "lon": -103.3109970093,
         "name": "Guadalajara, Mexico",
@@ -778,6 +872,7 @@
     "GEO": {
         "cca2": "GY",
         "city": "Georgetown",
+        "iata": "GEO",
         "lat": 6.825648,
         "lon": -58.163756,
         "name": "Georgetown, Guyana",
@@ -786,6 +881,7 @@
     "GIG": {
         "cca2": "BR",
         "city": "Rio de Janeiro",
+        "iata": "GIG",
         "lat": -22.8099994659,
         "lon": -43.2505569458,
         "name": "Rio de Janeiro, Brazil",
@@ -794,6 +890,7 @@
     "GND": {
         "cca2": "GD",
         "city": "St. George's",
+        "iata": "GND",
         "lat": 12.007116,
         "lon": -61.7882288,
         "name": "St. George's, Grenada",
@@ -802,6 +899,7 @@
     "GOT": {
         "cca2": "SE",
         "city": "Gothenburg",
+        "iata": "GOT",
         "lat": 57.6627998352,
         "lon": 12.279800415,
         "name": "Gothenburg, Sweden",
@@ -810,6 +908,7 @@
     "GRU": {
         "cca2": "BR",
         "city": "São Paulo",
+        "iata": "GRU",
         "lat": -23.4355564117,
         "lon": -46.4730567932,
         "name": "São Paulo, Brazil",
@@ -818,6 +917,7 @@
     "GUA": {
         "cca2": "GT",
         "city": "Guatemala City",
+        "iata": "GUA",
         "lat": 14.5832996368,
         "lon": -90.5274963379,
         "name": "Guatemala City, Guatemala",
@@ -826,6 +926,7 @@
     "GUM": {
         "cca2": "GU",
         "city": "Hagatna",
+        "iata": "GUM",
         "lat": 13.4834003448,
         "lon": 144.796005249,
         "name": "Hagatna, Guam",
@@ -834,6 +935,7 @@
     "GVA": {
         "cca2": "CH",
         "city": "Geneva",
+        "iata": "GVA",
         "lat": 46.2380981445,
         "lon": 6.1089501381,
         "name": "Geneva, Switzerland",
@@ -842,6 +944,7 @@
     "GYD": {
         "cca2": "AZ",
         "city": "Baku",
+        "iata": "GYD",
         "lat": 40.4674987793,
         "lon": 50.0466995239,
         "name": "Baku, Azerbaijan",
@@ -850,6 +953,7 @@
     "GYE": {
         "cca2": "EC",
         "city": "Guayaquil",
+        "iata": "GYE",
         "lat": -2.1894,
         "lon": -79.8891,
         "name": "Guayaquil, Ecuador",
@@ -858,6 +962,7 @@
     "GYN": {
         "cca2": "BR",
         "city": "Goiania",
+        "iata": "GYN",
         "lat": -16.69727,
         "lon": -49.26851,
         "name": "Goiânia, Brazil",
@@ -869,6 +974,7 @@
     "HAM": {
         "cca2": "DE",
         "city": "Hamburg",
+        "iata": "HAM",
         "lat": 53.6304016113,
         "lon": 9.9882297516,
         "name": "Hamburg, Germany",
@@ -877,6 +983,7 @@
     "HAN": {
         "cca2": "VN",
         "city": "Hanoi",
+        "iata": "HAN",
         "lat": 21.221200943,
         "lon": 105.806999206,
         "name": "Hanoi, Vietnam",
@@ -885,6 +992,7 @@
     "HBA": {
         "cca2": "AU",
         "city": "Hobart",
+        "iata": "HBA",
         "lat": -42.883209,
         "lon": 147.331665,
         "name": "Hobart, Australia",
@@ -893,6 +1001,7 @@
     "HEL": {
         "cca2": "FI",
         "city": "Helsinki",
+        "iata": "HEL",
         "lat": 60.317199707,
         "lon": 24.963300705,
         "name": "Helsinki, Finland",
@@ -901,6 +1010,7 @@
     "HFA": {
         "cca2": "IL",
         "city": "Haifa",
+        "iata": "HFA",
         "lat": 32.78492,
         "lon": 34.96069,
         "name": "Haifa, Israel",
@@ -909,6 +1019,7 @@
     "HKG": {
         "cca2": "HK",
         "city": "Hong Kong",
+        "iata": "HKG",
         "lat": 22.3089008331,
         "lon": 113.915000916,
         "name": "Hong Kong",
@@ -917,6 +1028,7 @@
     "HNL": {
         "cca2": "US",
         "city": "Honolulu",
+        "iata": "HNL",
         "lat": 21.3187007904,
         "lon": -157.9219970703,
         "name": "Honolulu, HI, United States",
@@ -925,6 +1037,7 @@
     "HRE": {
         "cca2": "ZW",
         "city": "Harare",
+        "iata": "HRE",
         "lat": -17.9318008423,
         "lon": 31.0928001404,
         "name": "Harare, Zimbabwe",
@@ -933,6 +1046,7 @@
     "HYD": {
         "cca2": "IN",
         "city": "Hyderabad",
+        "iata": "HYD",
         "lat": 17.2313175201,
         "lon": 78.4298553467,
         "name": "Hyderabad, India",
@@ -944,6 +1058,7 @@
     "IAD": {
         "cca2": "US",
         "city": "Ashburn",
+        "iata": "IAD",
         "lat": 38.94449997,
         "lon": -77.45580292,
         "name": "Ashburn, VA, United States",
@@ -952,6 +1067,7 @@
     "IAH": {
         "cca2": "US",
         "city": "Houston",
+        "iata": "IAH",
         "lat": 29.9843997955,
         "lon": -95.3414001465,
         "name": "Houston, TX, United States",
@@ -960,6 +1076,7 @@
     "ICN": {
         "cca2": "KR",
         "city": "Seoul",
+        "iata": "ICN",
         "lat": 37.4691009521,
         "lon": 126.450996399,
         "name": "Seoul, South Korea",
@@ -968,6 +1085,7 @@
     "IND": {
         "cca2": "US",
         "city": "Indianapolis",
+        "iata": "IND",
         "lat": 39.717300415,
         "lon": -86.2944030762,
         "name": "Indianapolis, IN, United States",
@@ -976,6 +1094,7 @@
     "ISB": {
         "cca2": "PK",
         "city": "Islamabad",
+        "iata": "ISB",
         "lat": 33.6166992188,
         "lon": 73.0991973877,
         "name": "Islamabad, Pakistan",
@@ -984,6 +1103,7 @@
     "IST": {
         "cca2": "TR",
         "city": "Istanbul",
+        "iata": "IST",
         "lat": 40.9768981934,
         "lon": 28.8145999908,
         "name": "Istanbul, Turkey",
@@ -992,6 +1112,7 @@
     "ISU": {
         "cca2": "IQ",
         "city": "Sulaymaniyah",
+        "iata": "ISU",
         "lat": 35.5668,
         "lon": 45.4161,
         "name": "Sulaymaniyah, Iraq",
@@ -1000,6 +1121,7 @@
     "ITJ": {
         "cca2": "BR",
         "city": "Itajai",
+        "iata": "ITJ",
         "lat": -27.6116676331,
         "lon": -48.6727790833,
         "name": "Itajaí, Brazil",
@@ -1008,6 +1130,7 @@
     "IXC": {
         "cca2": "IN",
         "city": "Chandigarh",
+        "iata": "IXC",
         "lat": 30.673500061,
         "lon": 76.7884979248,
         "name": "Chandigarh, India",
@@ -1016,6 +1139,7 @@
     "JAX": {
         "cca2": "US",
         "city": "Jacksonville",
+        "iata": "JAX",
         "lat": 30.4941005707,
         "lon": -81.6878967285,
         "name": "Jacksonville, FL, United States",
@@ -1024,6 +1148,7 @@
     "JDO": {
         "cca2": "BR",
         "city": "Juazeiro do Norte",
+        "iata": "JDO",
         "lat": -7.2242,
         "lon": -39.313,
         "name": "Juazeiro do Norte, Brazil",
@@ -1032,6 +1157,7 @@
     "JED": {
         "cca2": "SA",
         "city": "Jeddah",
+        "iata": "JED",
         "lat": 21.679599762,
         "lon": 39.15650177,
         "name": "Jeddah, Saudi Arabia",
@@ -1040,6 +1166,7 @@
     "JHB": {
         "cca2": "MY",
         "city": "Johor Bahru",
+        "iata": "JHB",
         "lat": 1.635848,
         "lon": 103.665943,
         "name": "Johor Bahru, Malaysia",
@@ -1048,6 +1175,7 @@
     "JIB": {
         "cca2": "DJ",
         "city": "Djibouti",
+        "iata": "JIB",
         "lat": 11.5473003387,
         "lon": 43.1595001221,
         "name": "Djibouti City, Djibouti",
@@ -1056,6 +1184,7 @@
     "JNB": {
         "cca2": "ZA",
         "city": "Johannesburg",
+        "iata": "JNB",
         "lat": -26.133333,
         "lon": 28.25,
         "name": "Johannesburg, South Africa",
@@ -1064,6 +1193,7 @@
     "JOG": {
         "cca2": "ID",
         "city": "Yogyakarta",
+        "iata": "JOG",
         "lat": -7.7881798744,
         "lon": 110.4319992065,
         "name": "Yogyakarta, Indonesia",
@@ -1072,6 +1202,7 @@
     "JOI": {
         "cca2": "BR",
         "city": "Joinville",
+        "iata": "JOI",
         "lat": -26.304408,
         "lon": -48.846383,
         "name": "Joinville, Brazil",
@@ -1080,6 +1211,7 @@
     "JSR": {
         "cca2": "BD",
         "city": "Jashore",
+        "iata": "JSR",
         "lat": 23.1837997437,
         "lon": 89.1607971191,
         "name": "Jashore, Bangladesh",
@@ -1088,6 +1220,7 @@
     "KBP": {
         "cca2": "UA",
         "city": "Kyiv",
+        "iata": "KBP",
         "lat": 50.3450012207,
         "lon": 30.8946990967,
         "name": "Kyiv, Ukraine",
@@ -1096,6 +1229,7 @@
     "KEF": {
         "cca2": "IS",
         "city": "Reykjavík",
+        "iata": "KEF",
         "lat": 63.9850006104,
         "lon": -22.6056003571,
         "name": "Reykjavík, Iceland",
@@ -1104,6 +1238,7 @@
     "KGL": {
         "cca2": "RW",
         "city": "Kigali",
+        "iata": "KGL",
         "lat": -1.9686299563,
         "lon": 30.1394996643,
         "name": "Kigali, Rwanda",
@@ -1112,6 +1247,7 @@
     "KHH": {
         "cca2": "TW",
         "city": "Kaohsiung City",
+        "iata": "KHH",
         "lat": 22.5771007538,
         "lon": 120.3499984741,
         "name": "Kaohsiung City, Taiwan",
@@ -1120,6 +1256,7 @@
     "KHI": {
         "cca2": "PK",
         "city": "Karachi",
+        "iata": "KHI",
         "lat": 24.9064998627,
         "lon": 67.1607971191,
         "name": "Karachi, Pakistan",
@@ -1131,6 +1268,7 @@
     "KHV": {
         "cca2": "RU",
         "city": "Khabarovsk",
+        "iata": "KHV",
         "lat": 48.5279998779,
         "lon": 135.18800354,
         "name": "Khabarovsk, Russia",
@@ -1139,6 +1277,7 @@
     "KIN": {
         "cca2": "JM",
         "city": "Kingston",
+        "iata": "KIN",
         "lat": 17.9951,
         "lon": -76.7846,
         "name": "Kingston, Jamaica",
@@ -1147,6 +1286,7 @@
     "KIV": {
         "cca2": "MD",
         "city": "Chișinău",
+        "iata": "KIV",
         "lat": 46.9277000427,
         "lon": 28.9309997559,
         "name": "Chișinău, Moldova",
@@ -1155,6 +1295,7 @@
     "KIX": {
         "cca2": "JP",
         "city": "Osaka",
+        "iata": "KIX",
         "lat": 34.4272994995,
         "lon": 135.244003296,
         "name": "Osaka, Japan",
@@ -1163,6 +1304,7 @@
     "KJA": {
         "cca2": "RU",
         "city": "Krasnoyarsk",
+        "iata": "KJA",
         "lat": 56.0153,
         "lon": 92.8932,
         "name": "Krasnoyarsk, Russia",
@@ -1171,6 +1313,7 @@
     "KLD": {
         "cca2": "RU",
         "city": "Tver",
+        "iata": "KLD",
         "lat": 56.8587,
         "lon": 35.9176,
         "name": "Tver, Russian Federation",
@@ -1179,6 +1322,7 @@
     "KNU": {
         "cca2": "IN",
         "city": "Kanpur",
+        "iata": "KNU",
         "lat": 26.4499,
         "lon": 80.3319,
         "name": "Kanpur, India",
@@ -1187,6 +1331,7 @@
     "KTM": {
         "cca2": "NP",
         "city": "Kathmandu",
+        "iata": "KTM",
         "lat": 27.6965999603,
         "lon": 85.3591003418,
         "name": "Kathmandu, Nepal",
@@ -1195,6 +1340,7 @@
     "KUL": {
         "cca2": "MY",
         "city": "Kuala Lumpur",
+        "iata": "KUL",
         "lat": 2.745579958,
         "lon": 101.709999084,
         "name": "Kuala Lumpur, Malaysia",
@@ -1206,6 +1352,7 @@
     "KWI": {
         "cca2": "KW",
         "city": "Kuwait City",
+        "iata": "KWI",
         "lat": 29.226600647,
         "lon": 47.9688987732,
         "name": "Kuwait City, Kuwait",
@@ -1214,6 +1361,7 @@
     "LAD": {
         "cca2": "AO",
         "city": "Luanda",
+        "iata": "LAD",
         "lat": -8.8583698273,
         "lon": 13.2312002182,
         "name": "Luanda, Angola",
@@ -1222,6 +1370,7 @@
     "LAS": {
         "cca2": "US",
         "city": "Las Vegas",
+        "iata": "LAS",
         "lat": 36.08010101,
         "lon": -115.1520004,
         "name": "Las Vegas, NV, United States",
@@ -1230,6 +1379,7 @@
     "LAX": {
         "cca2": "US",
         "city": "Los Angeles",
+        "iata": "LAX",
         "lat": 33.94250107,
         "lon": -118.4079971,
         "name": "Los Angeles, CA, United States",
@@ -1238,6 +1388,7 @@
     "LCA": {
         "cca2": "CY",
         "city": "Nicosia",
+        "iata": "LCA",
         "lat": 34.8750991821,
         "lon": 33.6249008179,
         "name": "Nicosia, Cyprus",
@@ -1246,6 +1397,7 @@
     "LED": {
         "cca2": "RU",
         "city": "Saint Petersburg",
+        "iata": "LED",
         "lat": 59.8003005981,
         "lon": 30.2625007629,
         "name": "Saint Petersburg, Russia",
@@ -1254,6 +1406,7 @@
     "LHE": {
         "cca2": "PK",
         "city": "Lahore",
+        "iata": "LHE",
         "lat": 31.5216007233,
         "lon": 74.4036026001,
         "name": "Lahore, Pakistan",
@@ -1262,6 +1415,7 @@
     "LHR": {
         "cca2": "GB",
         "city": "London",
+        "iata": "LHR",
         "lat": 51.4706001282,
         "lon": -0.4619410038,
         "name": "London, United Kingdom",
@@ -1273,6 +1427,7 @@
     "LIM": {
         "cca2": "PE",
         "city": "Lima",
+        "iata": "LIM",
         "lat": -12.021900177,
         "lon": -77.1143035889,
         "name": "Lima, Peru",
@@ -1281,6 +1436,7 @@
     "LIS": {
         "cca2": "PT",
         "city": "Lisbon",
+        "iata": "LIS",
         "lat": 38.7812995911,
         "lon": -9.1359195709,
         "name": "Lisbon, Portugal",
@@ -1289,6 +1445,7 @@
     "LLK": {
         "cca2": "AZ",
         "city": "Astara",
+        "iata": "LLK",
         "lat": 38.7463989258,
         "lon": 48.8180007935,
         "name": "Astara, Azerbaijan",
@@ -1297,6 +1454,7 @@
     "LOS": {
         "cca2": "NG",
         "city": "Lagos",
+        "iata": "LOS",
         "lat": 6.5773701668,
         "lon": 3.321160078,
         "name": "Lagos, Nigeria",
@@ -1305,6 +1463,7 @@
     "LUX": {
         "cca2": "LU",
         "city": "Luxembourg City",
+        "iata": "LUX",
         "lat": 49.6265983582,
         "lon": 6.211520195,
         "name": "Luxembourg City, Luxembourg",
@@ -1316,6 +1475,7 @@
     "LYS": {
         "cca2": "FR",
         "city": "Lyon",
+        "iata": "LYS",
         "lat": 45.7263,
         "lon": 5.0908,
         "name": "Lyon, France",
@@ -1324,6 +1484,7 @@
     "MAA": {
         "cca2": "IN",
         "city": "Chennai",
+        "iata": "MAA",
         "lat": 12.9900054932,
         "lon": 80.1692962646,
         "name": "Chennai, India",
@@ -1332,6 +1493,7 @@
     "MAD": {
         "cca2": "ES",
         "city": "Madrid",
+        "iata": "MAD",
         "lat": 40.4936,
         "lon": -3.56676,
         "name": "Madrid, Spain",
@@ -1340,6 +1502,7 @@
     "MAN": {
         "cca2": "GB",
         "city": "Manchester",
+        "iata": "MAN",
         "lat": 53.3536987305,
         "lon": -2.2749500275,
         "name": "Manchester, United Kingdom",
@@ -1348,6 +1511,7 @@
     "MAO": {
         "cca2": "BR",
         "city": "Manaus",
+        "iata": "MAO",
         "lat": -3.11286,
         "lon": -60.01949,
         "name": "Manaus, Brazil",
@@ -1356,6 +1520,7 @@
     "MBA": {
         "cca2": "KE",
         "city": "Mombasa",
+        "iata": "MBA",
         "lat": -4.0348300934,
         "lon": 39.5942001343,
         "name": "Mombasa, Kenya",
@@ -1364,6 +1529,7 @@
     "MCI": {
         "cca2": "US",
         "city": "Kansas City",
+        "iata": "MCI",
         "lat": 39.2975997925,
         "lon": -94.7138977051,
         "name": "Kansas City, MO, United States",
@@ -1372,6 +1538,7 @@
     "MCT": {
         "cca2": "OM",
         "city": "Muscat",
+        "iata": "MCT",
         "lat": 23.5932998657,
         "lon": 58.2844009399,
         "name": "Muscat, Oman",
@@ -1380,6 +1547,7 @@
     "MDE": {
         "cca2": "CO",
         "city": "Medellín",
+        "iata": "MDE",
         "lat": 6.16454,
         "lon": -75.4231,
         "name": "Medellín, Colombia",
@@ -1388,6 +1556,7 @@
     "MDL": {
         "cca2": "MM",
         "city": "Mandalay",
+        "iata": "MDL",
         "lat": 21.7051697,
         "lon": 95.9695206,
         "name": "Mandalay, Myanmar",
@@ -1396,6 +1565,7 @@
     "MEL": {
         "cca2": "AU",
         "city": "Melbourne",
+        "iata": "MEL",
         "lat": -37.6733016968,
         "lon": 144.843002319,
         "name": "Melbourne, VIC, Australia",
@@ -1404,6 +1574,7 @@
     "MEM": {
         "cca2": "US",
         "city": "Memphis",
+        "iata": "MEM",
         "lat": 35.0424003601,
         "lon": -89.9766998291,
         "name": "Memphis, TN, United States",
@@ -1412,6 +1583,7 @@
     "MEX": {
         "cca2": "MX",
         "city": "Mexico City",
+        "iata": "MEX",
         "lat": 19.4363002777,
         "lon": -99.0720977783,
         "name": "Mexico City, Mexico",
@@ -1420,6 +1592,7 @@
     "MFE": {
         "cca2": "US",
         "city": "McAllen",
+        "iata": "MFE",
         "lat": 26.17580032,
         "lon": -98.23860168,
         "name": "McAllen, TX, United States",
@@ -1428,6 +1601,7 @@
     "MFM": {
         "cca2": "MO",
         "city": "Macau",
+        "iata": "MFM",
         "lat": 22.1495990753,
         "lon": 113.592002869,
         "name": "Macau",
@@ -1436,6 +1610,7 @@
     "MGM": {
         "cca2": "US",
         "city": "Montgomery",
+        "iata": "MGM",
         "lat": 32.30059814,
         "lon": -86.39399719,
         "name": "Montgomery, AL, United States",
@@ -1444,6 +1619,7 @@
     "MIA": {
         "cca2": "US",
         "city": "Miami",
+        "iata": "MIA",
         "lat": 25.7931995392,
         "lon": -80.2906036377,
         "name": "Miami, FL, United States",
@@ -1452,6 +1628,7 @@
     "MLE": {
         "cca2": "MV",
         "city": "Male",
+        "iata": "MLE",
         "lat": 4.1748,
         "lon": 73.50888,
         "name": "Malé, Maldives",
@@ -1460,6 +1637,7 @@
     "MNL": {
         "cca2": "PH",
         "city": "Manila",
+        "iata": "MNL",
         "lat": 14.508600235,
         "lon": 121.019996643,
         "name": "Manila, Philippines",
@@ -1468,6 +1646,7 @@
     "MPM": {
         "cca2": "MZ",
         "city": "Maputo",
+        "iata": "MPM",
         "lat": -25.9207992554,
         "lon": 32.5726013184,
         "name": "Maputo, Mozambique",
@@ -1476,6 +1655,7 @@
     "MRS": {
         "cca2": "FR",
         "city": "Marseille",
+        "iata": "MRS",
         "lat": 43.439271922,
         "lon": 5.2214241028,
         "name": "Marseille, France",
@@ -1484,6 +1664,7 @@
     "MRU": {
         "cca2": "MU",
         "city": "Port Louis",
+        "iata": "MRU",
         "lat": -20.4302005768,
         "lon": 57.6836013794,
         "name": "Port Louis, Mauritius",
@@ -1492,6 +1673,7 @@
     "MSP": {
         "cca2": "US",
         "city": "Minneapolis",
+        "iata": "MSP",
         "lat": 44.8819999695,
         "lon": -93.2218017578,
         "name": "Minneapolis, MN, United States",
@@ -1500,6 +1682,7 @@
     "MSQ": {
         "cca2": "BY",
         "city": "Minsk",
+        "iata": "MSQ",
         "lat": 53.9006,
         "lon": 27.599,
         "name": "Minsk, Belarus",
@@ -1508,6 +1691,7 @@
     "MUC": {
         "cca2": "DE",
         "city": "Munich",
+        "iata": "MUC",
         "lat": 48.3538017273,
         "lon": 11.7861003876,
         "name": "Munich, Germany",
@@ -1516,6 +1700,7 @@
     "MXP": {
         "cca2": "IT",
         "city": "Milan",
+        "iata": "MXP",
         "lat": 45.6305999756,
         "lon": 8.7281103134,
         "name": "Milan, Italy",
@@ -1524,6 +1709,7 @@
     "NAG": {
         "cca2": "IN",
         "city": "Nagpur",
+        "iata": "NAG",
         "lat": 21.1610714,
         "lon": 79.0024702,
         "name": "Nagpur, India",
@@ -1532,6 +1718,7 @@
     "NBO": {
         "cca2": "KE",
         "city": "Nairobi",
+        "iata": "NBO",
         "lat": -1.319239974,
         "lon": 36.9277992249,
         "name": "Nairobi, Kenya",
@@ -1540,6 +1727,7 @@
     "NJF": {
         "cca2": "IQ",
         "city": "Najaf",
+        "iata": "NJF",
         "lat": 31.989722,
         "lon": 44.404167,
         "name": "Najaf, Iraq",
@@ -1548,6 +1736,7 @@
     "NOU": {
         "cca2": "NC",
         "city": "Noumea",
+        "iata": "NOU",
         "lat": -22.0146007538,
         "lon": 166.212997436,
         "name": "Noumea, New Caledonia",
@@ -1556,6 +1745,7 @@
     "NQN": {
         "cca2": "AR",
         "city": "Neuquen",
+        "iata": "NQN",
         "lat": -38.9490013123,
         "lon": -68.1557006836,
         "name": "Neuquén, Argentina",
@@ -1564,6 +1754,7 @@
     "NRT": {
         "cca2": "JP",
         "city": "Tokyo",
+        "iata": "NRT",
         "lat": 35.7647018433,
         "lon": 140.386001587,
         "name": "Tokyo, Japan",
@@ -1572,6 +1763,7 @@
     "NVT": {
         "cca2": "BR",
         "city": "Timbo",
+        "iata": "NVT",
         "lat": -26.8251,
         "lon": -49.2695,
         "name": "Timbó, Brazil",
@@ -1580,6 +1772,7 @@
     "OKA": {
         "cca2": "JP",
         "city": "Naha",
+        "iata": "OKA",
         "lat": 26.1958,
         "lon": 127.646,
         "name": "Naha, Japan",
@@ -1588,6 +1781,7 @@
     "OMA": {
         "cca2": "US",
         "city": "Omaha",
+        "iata": "OMA",
         "lat": 41.3031997681,
         "lon": -95.8940963745,
         "name": "Omaha, NE, United States",
@@ -1596,6 +1790,7 @@
     "ORD": {
         "cca2": "US",
         "city": "Chicago",
+        "iata": "ORD",
         "lat": 41.97859955,
         "lon": -87.90480042,
         "name": "Chicago, IL, United States",
@@ -1604,6 +1799,7 @@
     "ORF": {
         "cca2": "US",
         "city": "Norfolk",
+        "iata": "ORF",
         "lat": 36.8945999146,
         "lon": -76.2012023926,
         "name": "Norfolk, VA, United States",
@@ -1612,6 +1808,7 @@
     "ORK": {
         "cca2": "IE",
         "city": "Cork",
+        "iata": "ORK",
         "lat": 51.8413009644,
         "lon": -8.491109848,
         "name": "Cork, Ireland",
@@ -1620,6 +1817,7 @@
     "ORN": {
         "cca2": "DZ",
         "city": "Oran",
+        "iata": "ORN",
         "lat": 35.6911,
         "lon": -0.6416,
         "name": "Oran, Algeria",
@@ -1628,6 +1826,7 @@
     "OSL": {
         "cca2": "NO",
         "city": "Oslo",
+        "iata": "OSL",
         "lat": 60.193901062,
         "lon": 11.100399971,
         "name": "Oslo, Norway",
@@ -1636,6 +1835,7 @@
     "OTP": {
         "cca2": "RO",
         "city": "Bucharest",
+        "iata": "OTP",
         "lat": 44.5722007751,
         "lon": 26.1021995544,
         "name": "Bucharest, Romania",
@@ -1644,6 +1844,7 @@
     "OUA": {
         "cca2": "BF",
         "city": "Ouagadougou",
+        "iata": "OUA",
         "lat": 12.3531999588,
         "lon": -1.5124200583,
         "name": "Ouagadougou, Burkina Faso",
@@ -1652,6 +1853,7 @@
     "PAT": {
         "cca2": "IN",
         "city": "Patna",
+        "iata": "PAT",
         "lat": 25.591299057,
         "lon": 85.0879974365,
         "name": "Patna, India",
@@ -1660,6 +1862,7 @@
     "PBH": {
         "cca2": "BT",
         "city": "Thimphu",
+        "iata": "PBH",
         "lat": 27.4712,
         "lon": 89.6339,
         "name": "Thimphu, Bhutan",
@@ -1668,6 +1871,7 @@
     "PBM": {
         "cca2": "SR",
         "city": "Paramaribo",
+        "iata": "PBM",
         "lat": 5.452831,
         "lon": -55.187783,
         "name": "Paramaribo, Suriname",
@@ -1676,6 +1880,7 @@
     "PDX": {
         "cca2": "US",
         "city": "Portland",
+        "iata": "PDX",
         "lat": 45.58869934,
         "lon": -122.5979996,
         "name": "Portland, OR, United States",
@@ -1684,6 +1889,7 @@
     "PER": {
         "cca2": "AU",
         "city": "Perth",
+        "iata": "PER",
         "lat": -31.9402999878,
         "lon": 115.967002869,
         "name": "Perth, WA, Australia",
@@ -1692,6 +1898,7 @@
     "PHL": {
         "cca2": "US",
         "city": "Philadelphia",
+        "iata": "PHL",
         "lat": 39.8718986511,
         "lon": -75.2410964966,
         "name": "Philadelphia, United States",
@@ -1700,6 +1907,7 @@
     "PHX": {
         "cca2": "US",
         "city": "Phoenix",
+        "iata": "PHX",
         "lat": 33.434299469,
         "lon": -112.012001038,
         "name": "Phoenix, AZ, United States",
@@ -1708,6 +1916,7 @@
     "PIT": {
         "cca2": "US",
         "city": "Pittsburgh",
+        "iata": "PIT",
         "lat": 40.49150085,
         "lon": -80.23290253,
         "name": "Pittsburgh, PA, United States",
@@ -1719,6 +1928,7 @@
     "PMO": {
         "cca2": "IT",
         "city": "Palermo",
+        "iata": "PMO",
         "lat": 38.16114,
         "lon": 13.31546,
         "name": "Palermo, Italy",
@@ -1727,6 +1937,7 @@
     "PNH": {
         "cca2": "KH",
         "city": "Phnom Penh",
+        "iata": "PNH",
         "lat": 11.5466003418,
         "lon": 104.84400177,
         "name": "Phnom Penh, Cambodia",
@@ -1735,6 +1946,7 @@
     "POA": {
         "cca2": "BR",
         "city": "Porto Alegre",
+        "iata": "POA",
         "lat": -29.9944000244,
         "lon": -51.1713981628,
         "name": "Porto Alegre, Brazil",
@@ -1743,6 +1955,7 @@
     "PPT": {
         "cca2": "PF",
         "city": "Tahiti",
+        "iata": "PPT",
         "lat": -17.5536994934,
         "lon": -149.606994629,
         "name": "Tahiti, French Polynesia",
@@ -1751,6 +1964,7 @@
     "PRG": {
         "cca2": "CZ",
         "city": "Prague",
+        "iata": "PRG",
         "lat": 50.1007995605,
         "lon": 14.2600002289,
         "name": "Prague, Czech Republic",
@@ -1759,6 +1973,7 @@
     "PTY": {
         "cca2": "PA",
         "city": "Panama City",
+        "iata": "PTY",
         "lat": 9.0713596344,
         "lon": -79.3834991455,
         "name": "Panama City, Panama",
@@ -1767,6 +1982,7 @@
     "QRO": {
         "cca2": "MX",
         "city": "Queretaro",
+        "iata": "QRO",
         "lat": 20.6173000336,
         "lon": -100.185997009,
         "name": "Queretaro, MX, Mexico",
@@ -1775,6 +1991,7 @@
     "QWJ": {
         "cca2": "BR",
         "city": "Americana",
+        "iata": "QWJ",
         "lat": -22.738,
         "lon": -47.334,
         "name": "Americana, Brazil",
@@ -1783,6 +2000,7 @@
     "RAO": {
         "cca2": "BR",
         "city": "Ribeirao Preto",
+        "iata": "RAO",
         "lat": -21.1363887787,
         "lon": -47.7766685486,
         "name": "Ribeirao Preto, Brazil",
@@ -1791,6 +2009,7 @@
     "REC": {
         "cca2": "BR",
         "city": "Recife",
+        "iata": "REC",
         "lat": -8.1264896393,
         "lon": -34.9235992432,
         "name": "Recife, Brazil",
@@ -1799,6 +2018,7 @@
     "RGN": {
         "cca2": "MM",
         "city": "Yangon",
+        "iata": "RGN",
         "lat": 16.9073009491,
         "lon": 96.1332015991,
         "name": "Yangon, Myanmar",
@@ -1807,6 +2027,7 @@
     "RIC": {
         "cca2": "US",
         "city": "Richmond",
+        "iata": "RIC",
         "lat": 37.5051994324,
         "lon": -77.3197021484,
         "name": "Richmond, VA, United States",
@@ -1815,6 +2036,7 @@
     "RIX": {
         "cca2": "LV",
         "city": "Riga",
+        "iata": "RIX",
         "lat": 56.9235992432,
         "lon": 23.9710998535,
         "name": "Riga, Latvia",
@@ -1823,6 +2045,7 @@
     "RUH": {
         "cca2": "SA",
         "city": "Riyadh",
+        "iata": "RUH",
         "lat": 24.9575996399,
         "lon": 46.6987991333,
         "name": "Riyadh, Saudi Arabia",
@@ -1831,6 +2054,7 @@
     "RUN": {
         "cca2": "RE",
         "city": "Saint-Denis",
+        "iata": "RUN",
         "lat": -20.8871002197,
         "lon": 55.5102996826,
         "name": "Réunion, France",
@@ -1839,6 +2063,7 @@
     "SAN": {
         "cca2": "US",
         "city": "San Diego",
+        "iata": "SAN",
         "lat": 32.7336006165,
         "lon": -117.190002441,
         "name": "San Diego, CA, United States",
@@ -1847,6 +2072,7 @@
     "SAT": {
         "cca2": "US",
         "city": "San Antonio",
+        "iata": "SAT",
         "lat": 29.429461,
         "lon": -98.487061,
         "name": "San Antonio, United States",
@@ -1855,6 +2081,7 @@
     "SCL": {
         "cca2": "CL",
         "city": "Santiago",
+        "iata": "SCL",
         "lat": -33.3930015564,
         "lon": -70.7857971191,
         "name": "Santiago, Chile",
@@ -1863,6 +2090,7 @@
     "SDQ": {
         "cca2": "DO",
         "city": "Santo Domingo",
+        "iata": "SDQ",
         "lat": 18.4297008514,
         "lon": -69.6688995361,
         "name": "Santo Domingo, Dominican Republic",
@@ -1871,6 +2099,7 @@
     "SEA": {
         "cca2": "US",
         "city": "Seattle",
+        "iata": "SEA",
         "lat": 47.4490013123,
         "lon": -122.308998108,
         "name": "Seattle, WA, United States",
@@ -1879,6 +2108,7 @@
     "SFO": {
         "cca2": "US",
         "city": "San Francisco",
+        "iata": "SFO",
         "lat": 37.6189994812,
         "lon": -122.375,
         "name": "San Francisco, United States",
@@ -1887,6 +2117,7 @@
     "SGN": {
         "cca2": "VN",
         "city": "Ho Chi Minh City",
+        "iata": "SGN",
         "lat": 10.8187999725,
         "lon": 106.652000427,
         "name": "Ho Chi Minh City, Vietnam",
@@ -1898,6 +2129,7 @@
     "SIN": {
         "cca2": "SG",
         "city": "Singapore",
+        "iata": "SIN",
         "lat": 1.3501900434,
         "lon": 103.994003296,
         "name": "Singapore, Singapore",
@@ -1906,6 +2138,7 @@
     "SJC": {
         "cca2": "US",
         "city": "San Jose",
+        "iata": "SJC",
         "lat": 37.3625984192,
         "lon": -121.929000855,
         "name": "San Jose, CA, United States",
@@ -1914,6 +2147,7 @@
     "SJK": {
         "cca2": "BR",
         "city": "São José dos Campos",
+        "iata": "SJK",
         "lat": -23.1791,
         "lon": -45.8872,
         "name": "São José dos Campos, Brazil",
@@ -1922,6 +2156,7 @@
     "SJO": {
         "cca2": "CR",
         "city": "San José",
+        "iata": "SJO",
         "lat": 9.9938602448,
         "lon": -84.2088012695,
         "name": "San José, Costa Rica",
@@ -1930,6 +2165,7 @@
     "SJP": {
         "cca2": "BR",
         "city": "São José do Rio Preto",
+        "iata": "SJP",
         "lat": -20.807157,
         "lon": -49.378994,
         "name": "São José do Rio Preto, Brazil",
@@ -1941,6 +2177,7 @@
     "SKG": {
         "cca2": "GR",
         "city": "Thessaloniki",
+        "iata": "SKG",
         "lat": 40.5196990967,
         "lon": 22.9708995819,
         "name": "Thessaloniki, Greece",
@@ -1949,6 +2186,7 @@
     "SLC": {
         "cca2": "US",
         "city": "Salt Lake City",
+        "iata": "SLC",
         "lat": 40.7883987427,
         "lon": -111.977996826,
         "name": "Salt Lake City, UT, United States",
@@ -1957,6 +2195,7 @@
     "SMF": {
         "cca2": "US",
         "city": "Sacramento",
+        "iata": "SMF",
         "lat": 38.695400238,
         "lon": -121.591003418,
         "name": "Sacramento, CA, United States",
@@ -1965,6 +2204,7 @@
     "SOD": {
         "cca2": "BR",
         "city": "Sorocaba",
+        "iata": "SOD",
         "lat": -23.54389,
         "lon": -46.63445,
         "name": "Sorocaba, Brazil",
@@ -1973,6 +2213,7 @@
     "SOF": {
         "cca2": "BG",
         "city": "Sofia",
+        "iata": "SOF",
         "lat": 42.6966934204,
         "lon": 23.4114360809,
         "name": "Sofia, Bulgaria",
@@ -1981,6 +2222,7 @@
     "SSA": {
         "cca2": "BR",
         "city": "Salvador",
+        "iata": "SSA",
         "lat": -12.9086112976,
         "lon": -38.3224983215,
         "name": "Salvador, Brazil",
@@ -1989,6 +2231,7 @@
     "STL": {
         "cca2": "US",
         "city": "St. Louis",
+        "iata": "STL",
         "lat": 38.7486991882,
         "lon": -90.3700027466,
         "name": "St. Louis, MO, United States",
@@ -1997,6 +2240,7 @@
     "STR": {
         "cca2": "DE",
         "city": "Stuttgart",
+        "iata": "STR",
         "lat": 48.783333,
         "lon": 9.183333,
         "name": "Stuttgart, Germany",
@@ -2005,6 +2249,7 @@
     "SVX": {
         "cca2": "RU",
         "city": "Yekaterinburg",
+        "iata": "SVX",
         "lat": 56.8431,
         "lon": 60.6454,
         "name": "Yekaterinburg, Russia",
@@ -2013,6 +2258,7 @@
     "SYD": {
         "cca2": "AU",
         "city": "Sydney",
+        "iata": "SYD",
         "lat": -33.9460983276,
         "lon": 151.177001953,
         "name": "Sydney, NSW, Australia",
@@ -2027,6 +2273,7 @@
     "TAS": {
         "cca2": "UZ",
         "city": "Tashkent",
+        "iata": "TAS",
         "lat": 41.257900238,
         "lon": 69.2811965942,
         "name": "Tashkent, Uzbekistan",
@@ -2035,6 +2282,7 @@
     "TBS": {
         "cca2": "GE",
         "city": "Tbilisi",
+        "iata": "TBS",
         "lat": 41.6692008972,
         "lon": 44.95470047,
         "name": "Tbilisi, Georgia",
@@ -2043,6 +2291,7 @@
     "TGU": {
         "cca2": "HN",
         "city": "Tegucigalpa",
+        "iata": "TGU",
         "lat": 14.0608,
         "lon": -87.2172,
         "name": "Tegucigalpa, Honduras",
@@ -2051,6 +2300,7 @@
     "TIA": {
         "cca2": "AL",
         "city": "Tirana",
+        "iata": "TIA",
         "lat": 41.4146995544,
         "lon": 19.7206001282,
         "name": "Tirana, Albania",
@@ -2059,6 +2309,7 @@
     "TLH": {
         "cca2": "US",
         "city": "Tallahassee",
+        "iata": "TLH",
         "lat": 30.3964996338,
         "lon": -84.3503036499,
         "name": "Tallahassee, FL, United States",
@@ -2067,6 +2318,7 @@
     "TLL": {
         "cca2": "EE",
         "city": "Tallinn",
+        "iata": "TLL",
         "lat": 59.4132995605,
         "lon": 24.8327999115,
         "name": "Tallinn, Estonia",
@@ -2075,6 +2327,7 @@
     "TLV": {
         "cca2": "IL",
         "city": "Tel Aviv",
+        "iata": "TLV",
         "lat": 32.0113983154,
         "lon": 34.8866996765,
         "name": "Tel Aviv, Israel",
@@ -2086,6 +2339,7 @@
     "TNR": {
         "cca2": "MG",
         "city": "Antananarivo",
+        "iata": "TNR",
         "lat": -18.91368,
         "lon": 47.53613,
         "name": "Antananarivo, Madagascar",
@@ -2094,6 +2348,7 @@
     "TPE": {
         "cca2": "TW",
         "city": "Taipei",
+        "iata": "TPE",
         "lat": 25.0776996613,
         "lon": 121.233001709,
         "name": "Taipei",
@@ -2105,6 +2360,7 @@
     "TUN": {
         "cca2": "TN",
         "city": "Tunis",
+        "iata": "TUN",
         "lat": 36.8510017395,
         "lon": 10.2271995544,
         "name": "Tunis, Tunisia",
@@ -2113,6 +2369,7 @@
     "TXL": {
         "cca2": "DE",
         "city": "Berlin",
+        "iata": "TXL",
         "lat": 52.5597000122,
         "lon": 13.2876996994,
         "name": "Berlin, Germany",
@@ -2121,6 +2378,7 @@
     "UDI": {
         "cca2": "BR",
         "city": "Uberlandia",
+        "iata": "UDI",
         "lat": -18.8836116791,
         "lon": -48.225276947,
         "name": "Uberlândia, Brazil",
@@ -2129,6 +2387,7 @@
     "UIO": {
         "cca2": "EC",
         "city": "Quito",
+        "iata": "UIO",
         "lat": -0.1291666667,
         "lon": -78.3575,
         "name": "Quito, Ecuador",
@@ -2137,6 +2396,7 @@
     "ULN": {
         "cca2": "MN",
         "city": "Ulaanbaatar",
+        "iata": "ULN",
         "lat": 47.8431015015,
         "lon": 106.766998291,
         "name": "Ulaanbaatar, Mongolia",
@@ -2145,6 +2405,7 @@
     "URT": {
         "cca2": "TH",
         "city": "Surat Thani",
+        "iata": "URT",
         "lat": 9.1325998306,
         "lon": 99.135597229,
         "name": "Surat Thani, Thailand",
@@ -2153,6 +2414,7 @@
     "VCP": {
         "cca2": "BR",
         "city": "Campinas",
+        "iata": "VCP",
         "lat": -22.90662,
         "lon": -47.08576,
         "name": "Campinas, Brazil",
@@ -2161,6 +2423,7 @@
     "VIE": {
         "cca2": "AT",
         "city": "Vienna",
+        "iata": "VIE",
         "lat": 48.1102981567,
         "lon": 16.5697002411,
         "name": "Vienna, Austria",
@@ -2169,6 +2432,7 @@
     "VIX": {
         "cca2": "BR",
         "city": "Vitoria",
+        "iata": "VIX",
         "lat": -20.64871,
         "lon": -41.90857,
         "name": "Vitoria, Brazil",
@@ -2177,6 +2441,7 @@
     "VNO": {
         "cca2": "LT",
         "city": "Vilnius",
+        "iata": "VNO",
         "lat": 54.6341018677,
         "lon": 25.2858009338,
         "name": "Vilnius, Lithuania",
@@ -2185,6 +2450,7 @@
     "VTE": {
         "cca2": "LA",
         "city": "Vientiane",
+        "iata": "VTE",
         "lat": 17.9757,
         "lon": 102.5683,
         "name": "Vientiane, Laos",
@@ -2193,6 +2459,7 @@
     "WAW": {
         "cca2": "PL",
         "city": "Warsaw",
+        "iata": "WAW",
         "lat": 52.1656990051,
         "lon": 20.9671001434,
         "name": "Warsaw, Poland",
@@ -2210,6 +2477,7 @@
     "XNH": {
         "cca2": "IQ",
         "city": "Nasiriyah",
+        "iata": "XNH",
         "lat": 30.9358005524,
         "lon": 46.0900993347,
         "name": "Nasiriyah, Iraq",
@@ -2218,6 +2486,7 @@
     "YOW": {
         "cca2": "CA",
         "city": "Ottawa",
+        "iata": "YOW",
         "lat": 45.3224983215,
         "lon": -75.6691970825,
         "name": "Ottawa, Canada",
@@ -2226,6 +2495,7 @@
     "YUL": {
         "cca2": "CA",
         "city": "Montréal",
+        "iata": "YUL",
         "lat": 45.4706001282,
         "lon": -73.7407989502,
         "name": "Montréal, QC, Canada",
@@ -2234,6 +2504,7 @@
     "YVR": {
         "cca2": "CA",
         "city": "Vancouver",
+        "iata": "YVR",
         "lat": 49.193901062,
         "lon": -123.183998108,
         "name": "Vancouver, BC, Canada",
@@ -2242,6 +2513,7 @@
     "YWG": {
         "cca2": "CA",
         "city": "Winnipeg",
+        "iata": "YWG",
         "lat": 49.9099998474,
         "lon": -97.2398986816,
         "name": "Winnipeg, MB, Canada",
@@ -2250,6 +2522,7 @@
     "YXE": {
         "cca2": "CA",
         "city": "Saskatoon",
+        "iata": "YXE",
         "lat": 52.1707992554,
         "lon": -106.699996948,
         "name": "Saskatoon, SK, Canada",
@@ -2258,6 +2531,7 @@
     "YYC": {
         "cca2": "CA",
         "city": "Calgary",
+        "iata": "YYC",
         "lat": 51.113899231,
         "lon": -114.019996643,
         "name": "Calgary, AB, Canada",
@@ -2266,6 +2540,7 @@
     "YYZ": {
         "cca2": "CA",
         "city": "Toronto",
+        "iata": "YYZ",
         "lat": 43.6772003174,
         "lon": -79.6305999756,
         "name": "Toronto, ON, Canada",
@@ -2274,6 +2549,7 @@
     "ZAG": {
         "cca2": "HR",
         "city": "Zagreb",
+        "iata": "ZAG",
         "lat": 45.7429008484,
         "lon": 16.0687999725,
         "name": "Zagreb, Croatia",
@@ -2282,6 +2558,7 @@
     "ZDM": {
         "cca2": "PS",
         "city": "Ramallah",
+        "iata": "ZDM",
         "lat": 32.2719,
         "lon": 35.0194,
         "name": "Ramallah",
@@ -2293,6 +2570,7 @@
     "ZRH": {
         "cca2": "CH",
         "city": "Zurich",
+        "iata": "ZRH",
         "lat": 47.4646987915,
         "lon": 8.5491695404,
         "name": "Zürich, Switzerland",
