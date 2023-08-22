@@ -66,7 +66,7 @@ if __name__ == '__main__':
 
     locations_json_content = json.dumps(location_data, indent=4, ensure_ascii=False, sort_keys=True)
     dc_colos_json_content = json.dumps(match_data, indent=4, ensure_ascii=False, sort_keys=True)
-    north_america_json_cotent = json.dumps(north_america, indent=4, ensure_ascii=False, sort_keys=True)
+    north_america_json_content = json.dumps(north_america, indent=4, ensure_ascii=False, sort_keys=True)
     content_changed = True
 
     if (os.path.exists('DC-Colos.json')):
