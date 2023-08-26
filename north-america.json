@@ -361,6 +361,15 @@
     },
     {
         "cca2": "US",
+        "city": "Cleveland",
+        "iata": "CLE",
+        "lat": 41.50069,
+        "lon": -81.68412,
+        "name": "Cleveland, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
         "city": "Columbus",
         "iata": "CMH",
         "lat": 39.9980010986,
