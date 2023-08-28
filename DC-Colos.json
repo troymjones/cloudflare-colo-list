@@ -368,6 +368,15 @@
         "name": "Bandar Seri Begawan, Brunei",
         "region": "Asia Pacific"
     },
+    "CAI": {
+        "cca2": "EG",
+        "city": "Cairo",
+        "iata": "CAI",
+        "lat": 30.1219005585,
+        "lon": 31.4055995941,
+        "name": "Cairo, Egypt",
+        "region": "Africa"
+    },
     "CAN": {
         "name": "Guangzhou, China"
     },
@@ -1024,6 +1033,9 @@
         "lon": 34.96069,
         "name": "Haifa, Israel",
         "region": "Middle East"
+    },
+    "HGH": {
+        "name": "Shaoxing, China"
     },
     "HKG": {
         "cca2": "HK",
@@ -2503,6 +2515,9 @@
         "lon": 46.0900993347,
         "name": "Nasiriyah, Iraq",
         "region": "Middle East"
+    },
+    "YNJ": {
+        "name": "Yanbian, China"
     },
     "YOW": {
         "cca2": "CA",
