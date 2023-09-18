@@ -1,5 +1,14 @@
 [
     {
+        "cca2": "BB",
+        "city": "Bridgetown",
+        "iata": "BGI",
+        "lat": 13.103562,
+        "lon": -59.603226,
+        "name": "Bridgetown, Barbados",
+        "region": "North America"
+    },
+    {
         "cca2": "CA",
         "city": "Calgary",
         "iata": "YYC",

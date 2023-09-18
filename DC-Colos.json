@@ -206,6 +206,15 @@
         "name": "Beirut, Lebanon",
         "region": "Middle East"
     },
+    "BGI": {
+        "cca2": "BB",
+        "city": "Bridgetown",
+        "iata": "BGI",
+        "lat": 13.103562,
+        "lon": -59.603226,
+        "name": "Bridgetown, Barbados",
+        "region": "North America"
+    },
     "BGR": {
         "cca2": "US",
         "city": "Bangor",
@@ -616,9 +625,6 @@
         "lon": -49.1758003235,
         "name": "Curitiba, Brazil",
         "region": "South America"
-    },
-    "CZX": {
-        "name": "Changzhou, China"
     },
     "DAC": {
         "cca2": "BD",
