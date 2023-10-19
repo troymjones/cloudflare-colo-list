@@ -2396,6 +2396,15 @@
         "name": "Antananarivo, Madagascar",
         "region": "Africa"
     },
+    "TPA": {
+        "cca2": "US",
+        "city": "Tampa",
+        "iata": "TPA",
+        "lat": 27.9755001068,
+        "lon": -82.533203125,
+        "name": "Tampa, United States",
+        "region": "North America"
+    },
     "TPE": {
         "cca2": "TW",
         "city": "Taipei",
