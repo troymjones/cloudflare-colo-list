@@ -91,12 +91,11 @@ if __name__ == '__main__':
         f.write(north_america_json_content)
               
     
-    # save as xlsx & csv
+    # save as csv
     dt = pd.DataFrame(match_data).T
     dt.index.name = 'colo'
-    dt.to_excel('DC-Colos.xlsx', encoding='utf-8')
     dt.to_csv('DC-Colos.csv', encoding='utf-8')
 
     # final check for log
     for colo in dt.index[dt.cca2.isnull()]:
-        print(colo, 'not found in cloudflare locations')
+        print(colo, match_data[colo], 'not found in cloudflare locations')
