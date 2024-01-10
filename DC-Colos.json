@@ -464,9 +464,6 @@
         "name": "Jakarta, Indonesia",
         "region": "Asia Pacific"
     },
-    "CGO": {
-        "name": "Zhengzhou, China"
-    },
     "CGP": {
         "cca2": "BD",
         "city": "Chittagong",
@@ -1498,9 +1495,6 @@
         "lon": 6.211520195,
         "name": "Luxembourg City, Luxembourg",
         "region": "Europe"
-    },
-    "LYA": {
-        "name": "Luoyang, China"
     },
     "LYS": {
         "cca2": "FR",
@@ -2536,9 +2530,6 @@
         "lon": -52.6566009521,
         "name": "Chapeco, Brazil",
         "region": "South America"
-    },
-    "XMN": {
-        "name": "Xiamen, China"
     },
     "XNH": {
         "cca2": "IQ",
