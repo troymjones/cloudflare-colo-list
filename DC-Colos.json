@@ -482,9 +482,6 @@
         "name": "Chittagong, Bangladesh",
         "region": "Asia Pacific"
     },
-    "CGQ": {
-        "name": "Changchun, China"
-    },
     "CGY": {
         "cca2": "PH",
         "city": "Cagayan de Oro",
@@ -2527,9 +2524,6 @@
     },
     "WHU": {
         "name": "Wuhu, China"
-    },
-    "WUX": {
-        "name": "Wuxi, China"
     },
     "XAP": {
         "cca2": "BR",
