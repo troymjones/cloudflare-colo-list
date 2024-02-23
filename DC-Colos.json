@@ -2267,6 +2267,15 @@
         "name": "Salvador, Brazil",
         "region": "South America"
     },
+    "STI": {
+        "cca2": "DO",
+        "city": "Santiago de los Caballeros",
+        "iata": "STI",
+        "lat": 19.4060993195,
+        "lon": -70.6046981812,
+        "name": "Santiago de los Caballeros, Dominican Republic",
+        "region": "North America"
+    },
     "STL": {
         "cca2": "US",
         "city": "St. Louis",
