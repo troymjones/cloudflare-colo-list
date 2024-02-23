@@ -91,6 +91,15 @@
     },
     {
         "cca2": "DO",
+        "city": "Santiago de los Caballeros",
+        "iata": "STI",
+        "lat": 19.4060993195,
+        "lon": -70.6046981812,
+        "name": "Santiago de los Caballeros, Dominican Republic",
+        "region": "North America"
+    },
+    {
+        "cca2": "DO",
         "city": "Santo Domingo",
         "iata": "SDQ",
         "lat": 18.4297008514,
