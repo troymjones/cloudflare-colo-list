@@ -1497,7 +1497,13 @@
         "region": "Africa"
     },
     "LPB": {
-        "name": "La Paz, Bolivia"
+        "cca2": "BO",
+        "city": "La Paz",
+        "iata": "LPB",
+        "lat": -16.4897,
+        "lon": -68.1193,
+        "name": "La Paz, Bolivia",
+        "region": "South America"
     },
     "LUX": {
         "cca2": "LU",
