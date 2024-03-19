@@ -117,6 +117,15 @@
         "region": "North America"
     },
     {
+        "cca2": "HT",
+        "city": "Port-au-Prince",
+        "iata": "PAP",
+        "lat": 18.5799999237,
+        "lon": -72.2925033569,
+        "name": "Port-au-Prince, Haiti",
+        "region": "North America"
+    },
+    {
         "cca2": "JM",
         "city": "Kingston",
         "iata": "KIN",
