@@ -124,11 +124,11 @@ BTS,"Bratislava, Slovakia",BTS,48.1486,17.1077,SK,Europe,Bratislava
 BRU,"Brussels, Belgium",BRU,50.9014015198,4.4844398499,BE,Europe,Brussels
 OTP,"Bucharest, Romania",OTP,44.5722007751,26.1021995544,RO,Europe,Bucharest
 BUD,"Budapest, Hungary",BUD,47.4369010925,19.2555999756,HU,Europe,Budapest
-KIV,"Chișinău, Moldova",KIV,46.9277000427,28.9309997559,MD,Europe,Chișinău
+KIV,"Chișinău, Moldova",KIV,46.9277000427,28.9309997559,MD,Europe,Chișinău
 CPH,"Copenhagen, Denmark",CPH,55.6179008484,12.6560001373,DK,Europe,Copenhagen
 ORK,"Cork, Ireland",ORK,51.8413009644,-8.491109848,IE,Europe,Cork
 DUB,"Dublin, Ireland",DUB,53.4212989807,-6.270070076,IE,Europe,Dublin
-DUS,"Düsseldorf, Germany",DUS,51.2895011902,6.7667798996,DE,Europe,Düsseldorf
+DUS,"Düsseldorf, Germany",DUS,51.2895011902,6.7667798996,DE,Europe,Düsseldorf
 EDI,"Edinburgh, United Kingdom",EDI,55.9500007629,-3.3724999428,GB,Europe,Edinburgh
 FRA,"Frankfurt, Germany",FRA,50.0264015198,8.543129921,DE,Europe,Frankfurt
 GVA,"Geneva, Switzerland",GVA,46.2380981445,6.1089501381,CH,Europe,Geneva
@@ -153,7 +153,7 @@ OSL,"Oslo, Norway",OSL,60.193901062,11.100399971,NO,Europe,Oslo
 PMO,"Palermo, Italy",PMO,38.16114,13.31546,IT,Europe,Palermo
 CDG,"Paris, France",CDG,49.0127983093,2.5499999523,FR,Europe,Paris
 PRG,"Prague, Czech Republic",PRG,50.1007995605,14.2600002289,CZ,Europe,Prague
-KEF,"Reykjavík, Iceland",KEF,63.9850006104,-22.6056003571,IS,Europe,Reykjavík
+KEF,"Reykjavík, Iceland",KEF,63.9850006104,-22.6056003571,IS,Europe,Reykjavík
 RIX,"Riga, Latvia",RIX,56.9235992432,23.9710998535,LV,Europe,Riga
 FCO,"Rome, Italy",FCO,41.8045005798,12.2508001328,IT,Europe,Rome
 LED,"Saint Petersburg, Russia",LED,59.8003005981,30.2625007629,RU,Europe,Saint Petersburg
@@ -176,16 +176,16 @@ BOD,"Bordeaux, France",BOD,44.82946,-0.58355,FR,Europe,Bordeaux
 SKP,"Skopje, North Macedonia",SKP,41.9616012573,21.6214008331,MK,Europe,Skopje
 QWJ,"Americana, Brazil",QWJ,-22.738,-47.334,BR,South America,Americana
 ARI,"Arica, Chile",ARI,-18.348611,-70.338889,CL,South America,Arica
-ASU,"Asunción, Paraguay",ASU,-25.2399997711,-57.5200004578,PY,South America,Asunción
-BEL,"Belém, Brazil",BEL,-1.4563,-48.5013,BR,South America,Belém
+ASU,"Asunción, Paraguay",ASU,-25.2399997711,-57.5200004578,PY,South America,Asunción
+BEL,"Belém, Brazil",BEL,-1.4563,-48.5013,BR,South America,Belém
 CNF,"Belo Horizonte, Brazil",CNF,-19.624444,-43.971944,BR,South America,Belo Horizonte
 BNU,"Blumenau, Brazil",BNU,-26.89245,-49.07696,BR,South America,Blumenau
-BOG,"Bogotá, Colombia",BOG,4.70159,-74.1469,CO,South America,Bogotá
+BOG,"Bogotá, Colombia",BOG,4.70159,-74.1469,CO,South America,Bogotá
 BSB,"Brasilia, Brazil",BSB,-15.79824,-47.90859,BR,South America,Brasilia
 EZE,"Buenos Aires, Argentina",EZE,-34.8222,-58.5358,AR,South America,Buenos Aires
 CFC,"Caçador, Brazil",CFC,-26.7762,-51.0125,BR,South America,Cacador
 VCP,"Campinas, Brazil",VCP,-22.90662,-47.08576,BR,South America,Campinas
-COR,"Córdoba, Argentina",COR,-31.31,-64.208333,AR,South America,Córdoba
+COR,"Córdoba, Argentina",COR,-31.31,-64.208333,AR,South America,Córdoba
 CGB,"Cuiabá, Brazil",CGB,-15.59611,-56.09667,BR,South America,Cuiaba
 CWB,"Curitiba, Brazil",CWB,-25.5284996033,-49.1758003235,BR,South America,Curitiba
 FLN,"Florianopolis, Brazil",FLN,-27.6702785492,-48.5525016785,BR,South America,Florianopolis
@@ -199,7 +199,7 @@ JOI,"Joinville, Brazil",JOI,-26.304408,-48.846383,BR,South America,Joinville
 JDO,"Juazeiro do Norte, Brazil",JDO,-7.2242,-39.313,BR,South America,Juazeiro do Norte
 LIM,"Lima, Peru",LIM,-12.021900177,-77.1143035889,PE,South America,Lima
 MAO,"Manaus, Brazil",MAO,-3.11286,-60.01949,BR,South America,Manaus
-MDE,"Medellín, Colombia",MDE,6.16454,-75.4231,CO,South America,Medellín
+MDE,"Medellín, Colombia",MDE,6.16454,-75.4231,CO,South America,Medellín
 NQN,"Neuquén, Argentina",NQN,-38.9490013123,-68.1557006836,AR,South America,Neuquen
 PTY,"Panama City, Panama",PTY,9.0713596344,-79.3834991455,PA,South America,Panama City
 PBM,"Paramaribo, Suriname",PBM,5.452831,-55.187783,SR,South America,Paramaribo
@@ -209,12 +209,12 @@ REC,"Recife, Brazil",REC,-8.1264896393,-34.9235992432,BR,South America,Recife
 RAO,"Ribeirao Preto, Brazil",RAO,-21.1363887787,-47.7766685486,BR,South America,Ribeirao Preto
 GIG,"Rio de Janeiro, Brazil",GIG,-22.8099994659,-43.2505569458,BR,South America,Rio de Janeiro
 SSA,"Salvador, Brazil",SSA,-12.9086112976,-38.3224983215,BR,South America,Salvador
-SJO,"San José, Costa Rica",SJO,9.9938602448,-84.2088012695,CR,South America,San José
+SJO,"San José, Costa Rica",SJO,9.9938602448,-84.2088012695,CR,South America,San José
 SCL,"Santiago, Chile",SCL,-33.3930015564,-70.7857971191,CL,South America,Santiago
 SDQ,"Santo Domingo, Dominican Republic",SDQ,18.4297008514,-69.6688995361,DO,North America,Santo Domingo
-SJP,"São José do Rio Preto, Brazil",SJP,-20.807157,-49.378994,BR,South America,São José do Rio Preto
-SJK,"São José dos Campos, Brazil",SJK,-23.1791,-45.8872,BR,South America,São José dos Campos
-GRU,"São Paulo, Brazil",GRU,-23.4355564117,-46.4730567932,BR,South America,São Paulo
+SJP,"São José do Rio Preto, Brazil",SJP,-20.807157,-49.378994,BR,South America,São José do Rio Preto
+SJK,"São José dos Campos, Brazil",SJK,-23.1791,-45.8872,BR,South America,São José dos Campos
+GRU,"São Paulo, Brazil",GRU,-23.4355564117,-46.4730567932,BR,South America,São Paulo
 SOD,"Sorocaba, Brazil",SOD,-23.54389,-46.63445,BR,South America,Sorocaba
 TGU,"Tegucigalpa, Honduras",TGU,14.0608,-87.2172,HN,South America,Tegucigalpa
 NVT,"Timbó, Brazil",NVT,-26.8251,-49.2695,BR,South America,Timbo
@@ -274,7 +274,7 @@ MEX,"Mexico City, Mexico",MEX,19.4363002777,-99.0720977783,MX,North America,Mexi
 MIA,"Miami, FL, United States",MIA,25.7931995392,-80.2906036377,US,North America,Miami
 MSP,"Minneapolis, MN, United States",MSP,44.8819999695,-93.2218017578,US,North America,Minneapolis
 MGM,"Montgomery, AL, United States",MGM,32.30059814,-86.39399719,US,North America,Montgomery
-YUL,"Montréal, QC, Canada",YUL,45.4706001282,-73.7407989502,CA,North America,Montréal
+YUL,"Montréal, QC, Canada",YUL,45.4706001282,-73.7407989502,CA,North America,Montréal
 BNA,"Nashville, United States",BNA,36.1245002747,-86.6781997681,US,North America,Nashville
 EWR,"Newark, NJ, United States",EWR,40.6925010681,-74.1687011719,US,North America,Newark
 ORF,"Norfolk, VA, United States",ORF,36.8945999146,-76.2012023926,US,North America,Norfolk
