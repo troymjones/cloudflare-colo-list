@@ -58,8 +58,24 @@ def generate():
             
         if data[iata]["region"] == "North America":
             north_america.append(data[iata])
+
+    unicodedata_dict(data)
+    unicodedata_dict(speed_locations)
+    unicodedata_dict(north_america)
+
     return data, speed_locations, north_america
 
+def unicodedata_dict(data):
+    for k in data:
+        if isinstance(k, dict):
+            for i in k:
+                if isinstance(k[i], str):
+                    k[i] = unicodedata.normalize("NFKD", k[i])
+        else:
+            for i in data[k]:
+                if isinstance(data[k][i], str):
+                    data[k][i] = unicodedata.normalize("NFKD", data[k][i])
+    return data
 
 if __name__ == '__main__':
     match_data, location_data, north_america = generate()
@@ -76,7 +92,7 @@ if __name__ == '__main__':
 
     if not content_changed:
         print('Content unchanged, exiting...')
-        sys.exit()
+        # sys.exit()
 
     # save locations to json
     with open('locations.json', 'w', encoding='utf-8') as f:
