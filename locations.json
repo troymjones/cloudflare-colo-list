@@ -641,7 +641,7 @@
     },
     {
         "cca2": "CI",
-        "city": "ABIDJAN",
+        "city": "Abidjan",
         "iata": "ABJ",
         "lat": 5.292598,
         "lon": -3.999133,
@@ -649,10 +649,10 @@
     },
     {
         "cca2": "CI",
-        "city": "ABIDJAN",
+        "city": "Yamoussoukro",
         "iata": "ASK",
-        "lat": 5.292598,
-        "lon": -3.999133,
+        "lat": 6.842178,
+        "lon": -5.259932,
         "region": "Africa"
     },
     {
