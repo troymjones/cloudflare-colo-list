@@ -824,6 +824,15 @@
         "name": "Dubai, United Arab Emirates",
         "region": "Middle East"
     },
+    "EBB": {
+        "cca2": "UG",
+        "city": "KAMPALA",
+        "iata": "EBB",
+        "lat": 0.3152,
+        "lon": 32.5816,
+        "name": "KAMPALA, Uganda",
+        "region": "Africa"
+    },
     "EBL": {
         "cca2": "IQ",
         "city": "Erbil",

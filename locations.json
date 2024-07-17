@@ -1904,6 +1904,14 @@
         "region": "Europe"
     },
     {
+        "cca2": "UG",
+        "city": "KAMPALA",
+        "iata": "EBB",
+        "lat": 0.3152,
+        "lon": 32.5816,
+        "region": "Africa"
+    },
+    {
         "cca2": "UA",
         "city": "Kyiv",
         "iata": "KBP",
