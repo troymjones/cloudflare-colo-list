@@ -2075,6 +2075,15 @@
         "name": "Porto Alegre, Brazil",
         "region": "South America"
     },
+    "POS": {
+        "cca2": "TT",
+        "city": "Port of Spain",
+        "iata": "POS",
+        "lat": 10.5953998566,
+        "lon": -61.3372001648,
+        "name": "Port of Spain, Trinidad and Tobago",
+        "region": "South America"
+    },
     "PPT": {
         "cca2": "PF",
         "city": "Tahiti",
