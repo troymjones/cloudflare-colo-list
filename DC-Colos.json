@@ -1859,7 +1859,7 @@
         "iata": "NQN",
         "lat": -38.9490013123,
         "lon": -68.1557006836,
-        "name": "Neuquén, Argentina",
+        "name": "Neuquen, Argentina",
         "region": "South America"
     },
     "NQZ": {
@@ -1886,7 +1886,7 @@
         "iata": "NVT",
         "lat": -26.8251,
         "lon": -49.2695,
-        "name": "Timbó, Brazil",
+        "name": "Timbo, Brazil",
         "region": "South America"
     },
     "OKA": {
@@ -2213,7 +2213,7 @@
         "iata": "RUN",
         "lat": -20.8871002197,
         "lon": 55.5102996826,
-        "name": "Réunion, France",
+        "name": "Saint-Denis, Réunion",
         "region": "Africa"
     },
     "SAN": {
@@ -2526,7 +2526,7 @@
         "region": "Middle East"
     },
     "TNA": {
-        "name": "Jinan, China"
+        "name": "Zibo, China"
     },
     "TNR": {
         "cca2": "MG",
