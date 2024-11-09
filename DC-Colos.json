@@ -497,7 +497,7 @@
         "iata": "CFC",
         "lat": -26.7762,
         "lon": -51.0125,
-        "name": "Caçador, Brazil",
+        "name": "Cacador, Brazil",
         "region": "South America"
     },
     "CGB": {
@@ -506,7 +506,7 @@
         "iata": "CGB",
         "lat": -15.59611,
         "lon": -56.09667,
-        "name": "Cuiabá, Brazil",
+        "name": "Cuiaba, Brazil",
         "region": "South America"
     },
     "CGD": {
@@ -704,7 +704,7 @@
         "iata": "DAR",
         "lat": -6.8781099319,
         "lon": 39.2025985718,
-        "name": "Dar Es Salaam, Tanzania",
+        "name": "Dar es Salaam, Tanzania",
         "region": "Africa"
     },
     "DEL": {
@@ -833,7 +833,7 @@
         "iata": "EBB",
         "lat": 0.3152,
         "lon": 32.5816,
-        "name": "KAMPALA, Uganda",
+        "name": "Kampala, Uganda",
         "region": "Africa"
     },
     "EBL": {
@@ -1064,11 +1064,11 @@
         "iata": "GYN",
         "lat": -16.69727,
         "lon": -49.26851,
-        "name": "Goiânia, Brazil",
+        "name": "Goiania, Brazil",
         "region": "South America"
     },
     "HAK": {
-        "name": "Haikou, China"
+        "name": "Chengmai, China"
     },
     "HAM": {
         "cca2": "DE",
@@ -1229,7 +1229,7 @@
         "iata": "ITJ",
         "lat": -27.6116676331,
         "lon": -48.6727790833,
-        "name": "Itajaí, Brazil",
+        "name": "Itajai, Brazil",
         "region": "South America"
     },
     "IXC": {
@@ -1283,7 +1283,7 @@
         "iata": "JIB",
         "lat": 11.5473003387,
         "lon": 43.1595001221,
-        "name": "Djibouti City, Djibouti",
+        "name": "Djibouti, Djibouti",
         "region": "Africa"
     },
     "JNB": {
@@ -1340,7 +1340,7 @@
         "iata": "KCH",
         "lat": 1.709727,
         "lon": 110.353455,
-        "name": "KUCHING, Malaysia",
+        "name": "Kuching, Malaysia",
         "region": "Asia Pacific"
     },
     "KEF": {
@@ -1380,7 +1380,7 @@
         "region": "Asia Pacific"
     },
     "KHN": {
-        "name": "Xinyu, China"
+        "name": "Nanchang, China"
     },
     "KIN": {
         "cca2": "JM",
@@ -1748,7 +1748,7 @@
         "iata": "MLE",
         "lat": 4.1748,
         "lon": 73.50888,
-        "name": "Malé, Maldives",
+        "name": "Male, Maldives",
         "region": "Asia Pacific"
     },
     "MNL": {
@@ -1877,7 +1877,7 @@
         "iata": "NQZ",
         "lat": 51.167801,
         "lon": 71.418893,
-        "name": "ASTANA, Kazakhstan",
+        "name": "Astana, Kazakhstan",
         "region": "Asia Pacific"
     },
     "NRT": {
@@ -2561,7 +2561,7 @@
         "iata": "TPE",
         "lat": 25.0776996613,
         "lon": 121.233001709,
-        "name": "Taipei, Taiwan",
+        "name": "Taipei",
         "region": "Asia Pacific"
     },
     "TSN": {
@@ -2594,7 +2594,7 @@
         "iata": "UDI",
         "lat": -18.8836116791,
         "lon": -48.225276947,
-        "name": "Uberlândia, Brazil",
+        "name": "Uberlandia, Brazil",
         "region": "South America"
     },
     "UIO": {
