@@ -70,11 +70,11 @@ def unicodedata_dict(data):
         if isinstance(k, dict):
             for i in k:
                 if isinstance(k[i], str):
-                    k[i] = unicodedata.normalize("NFKD", k[i]).encode("ascii", "ignore")
+                    k[i] = unicodedata.normalize("NFKD", k[i]).encode("ascii", "ignore").decode("utf-8")
         else:
             for i in data[k]:
                 if isinstance(data[k][i], str):
-                    data[k][i] = unicodedata.normalize("NFKD", data[k][i]).encode("ascii", "ignore")
+                    data[k][i] = unicodedata.normalize("NFKD", data[k][i]).encode("ascii", "ignore").decode("utf-8")
     return data
 
 if __name__ == '__main__':
