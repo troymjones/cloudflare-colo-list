@@ -163,11 +163,11 @@
     },
     "ASU": {
         "cca2": "PY",
-        "city": "Asunción",
+        "city": "Asuncion",
         "iata": "ASU",
         "lat": -25.2399997711,
         "lon": -57.5200004578,
-        "name": "Asunción, Paraguay",
+        "name": "Asuncion, Paraguay",
         "region": "South America"
     },
     "ATH": {
@@ -244,11 +244,11 @@
     },
     "BEL": {
         "cca2": "BR",
-        "city": "Belém",
+        "city": "Belem",
         "iata": "BEL",
         "lat": -1.4563,
         "lon": -48.5013,
-        "name": "Belém, Brazil",
+        "name": "Belem, Brazil",
         "region": "South America"
     },
     "BEY": {
@@ -350,7 +350,7 @@
         "iata": "BOG",
         "lat": 4.70159,
         "lon": -74.1469,
-        "name": "Bogotá, Colombia",
+        "name": "Bogota, Colombia",
         "region": "South America"
     },
     "BOM": {
@@ -637,11 +637,11 @@
     },
     "COR": {
         "cca2": "AR",
-        "city": "Córdoba",
+        "city": "Cordoba",
         "iata": "COR",
         "lat": -31.31,
         "lon": -64.208333,
-        "name": "Córdoba, Argentina",
+        "name": "Cordoba, Argentina",
         "region": "South America"
     },
     "CPH": {
@@ -820,11 +820,11 @@
     },
     "DUS": {
         "cca2": "DE",
-        "city": "Düsseldorf",
+        "city": "Dusseldorf",
         "iata": "DUS",
         "lat": 51.2895011902,
         "lon": 6.7667798996,
-        "name": "Düsseldorf, Germany",
+        "name": "Dusseldorf, Germany",
         "region": "Europe"
     },
     "DXB": {
@@ -1015,11 +1015,11 @@
     },
     "GRU": {
         "cca2": "BR",
-        "city": "São Paulo",
+        "city": "Sao Paulo",
         "iata": "GRU",
         "lat": -23.4355564117,
         "lon": -46.4730567932,
-        "name": "São Paulo, Brazil",
+        "name": "Sao Paulo, Brazil",
         "region": "South America"
     },
     "GUA": {
@@ -1354,11 +1354,11 @@
     },
     "KEF": {
         "cca2": "IS",
-        "city": "Reykjavík",
+        "city": "Reykjavik",
         "iata": "KEF",
         "lat": 63.9850006104,
         "lon": -22.6056003571,
-        "name": "Reykjavík, Iceland",
+        "name": "Reykjavik, Iceland",
         "region": "Europe"
     },
     "KGL": {
@@ -1402,11 +1402,11 @@
     },
     "KIV": {
         "cca2": "MD",
-        "city": "Chișinău",
+        "city": "Chisinau",
         "iata": "KIV",
         "lat": 46.9277000427,
         "lon": 28.9309997559,
-        "name": "Chișinău, Moldova",
+        "name": "Chisinau, Moldova",
         "region": "Europe"
     },
     "KIX": {
@@ -1672,11 +1672,11 @@
     },
     "MDE": {
         "cca2": "CO",
-        "city": "Medellín",
+        "city": "Medellin",
         "iata": "MDE",
         "lat": 6.16454,
         "lon": -75.4231,
-        "name": "Medellín, Colombia",
+        "name": "Medellin, Colombia",
         "region": "South America"
     },
     "MDL": {
@@ -2231,7 +2231,7 @@
         "iata": "RUN",
         "lat": -20.8871002197,
         "lon": 55.5102996826,
-        "name": "Saint-Denis, Réunion",
+        "name": "Saint-Denis, Reunion",
         "region": "Africa"
     },
     "SAN": {
@@ -2320,29 +2320,29 @@
     },
     "SJK": {
         "cca2": "BR",
-        "city": "São José dos Campos",
+        "city": "Sao Jose dos Campos",
         "iata": "SJK",
         "lat": -23.1791,
         "lon": -45.8872,
-        "name": "São José dos Campos, Brazil",
+        "name": "Sao Jose dos Campos, Brazil",
         "region": "South America"
     },
     "SJO": {
         "cca2": "CR",
-        "city": "San José",
+        "city": "San Jose",
         "iata": "SJO",
         "lat": 9.9938602448,
         "lon": -84.2088012695,
-        "name": "San José, Costa Rica",
+        "name": "San Jose, Costa Rica",
         "region": "South America"
     },
     "SJP": {
         "cca2": "BR",
-        "city": "São José do Rio Preto",
+        "city": "Sao Jose do Rio Preto",
         "iata": "SJP",
         "lat": -20.807157,
         "lon": -49.378994,
-        "name": "São José do Rio Preto, Brazil",
+        "name": "Sao Jose do Rio Preto, Brazil",
         "region": "South America"
     },
     "SJU": {
@@ -2746,11 +2746,11 @@
     },
     "YUL": {
         "cca2": "CA",
-        "city": "Montréal",
+        "city": "Montreal",
         "iata": "YUL",
         "lat": 45.4706001282,
         "lon": -73.7407989502,
-        "name": "Montréal, QC, Canada",
+        "name": "Montreal, QC, Canada",
         "region": "North America"
     },
     "YVR": {
@@ -2825,7 +2825,7 @@
         "iata": "ZRH",
         "lat": 47.4646987915,
         "lon": 8.5491695404,
-        "name": "Zürich, Switzerland",
+        "name": "Zurich, Switzerland",
         "region": "Europe"
     }
 }
