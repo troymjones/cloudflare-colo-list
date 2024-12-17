@@ -49,7 +49,7 @@
     },
     {
         "cca2": "AR",
-        "city": "Córdoba",
+        "city": "Cordoba",
         "iata": "COR",
         "lat": -31.31,
         "lon": -64.208333,
@@ -249,7 +249,7 @@
     },
     {
         "cca2": "BR",
-        "city": "Belém",
+        "city": "Belem",
         "iata": "BEL",
         "lat": -1.4563,
         "lon": -48.5013,
@@ -433,7 +433,7 @@
     },
     {
         "cca2": "BR",
-        "city": "São José do Rio Preto",
+        "city": "Sao Jose do Rio Preto",
         "iata": "SJP",
         "lat": -20.807157,
         "lon": -49.378994,
@@ -441,7 +441,7 @@
     },
     {
         "cca2": "BR",
-        "city": "São José dos Campos",
+        "city": "Sao Jose dos Campos",
         "iata": "SJK",
         "lat": -23.1791,
         "lon": -45.8872,
@@ -449,7 +449,7 @@
     },
     {
         "cca2": "BR",
-        "city": "São Paulo",
+        "city": "Sao Paulo",
         "iata": "GRU",
         "lat": -23.4355564117,
         "lon": -46.4730567932,
@@ -569,7 +569,7 @@
     },
     {
         "cca2": "CA",
-        "city": "Montréal",
+        "city": "Montreal",
         "iata": "YUL",
         "lat": 45.4706001282,
         "lon": -73.7407989502,
@@ -625,7 +625,7 @@
     },
     {
         "cca2": "CO",
-        "city": "Medellín",
+        "city": "Medellin",
         "iata": "MDE",
         "lat": 6.16454,
         "lon": -75.4231,
@@ -641,7 +641,7 @@
     },
     {
         "cca2": "CR",
-        "city": "San José",
+        "city": "San Jose",
         "iata": "SJO",
         "lat": 9.9938602448,
         "lon": -84.2088012695,
@@ -825,7 +825,7 @@
     },
     {
         "cca2": "DE",
-        "city": "Düsseldorf",
+        "city": "Dusseldorf",
         "iata": "DUS",
         "lat": 51.2895011902,
         "lon": 6.7667798996,
@@ -945,7 +945,7 @@
     },
     {
         "cca2": "IS",
-        "city": "Reykjavík",
+        "city": "Reykjavik",
         "iata": "KEF",
         "lat": 63.9850006104,
         "lon": -22.6056003571,
@@ -1417,7 +1417,7 @@
     },
     {
         "cca2": "MD",
-        "city": "Chișinău",
+        "city": "Chisinau",
         "iata": "KIV",
         "lat": 46.9277000427,
         "lon": 28.9309997559,
@@ -1577,7 +1577,7 @@
     },
     {
         "cca2": "PY",
-        "city": "Asunción",
+        "city": "Asuncion",
         "iata": "ASU",
         "lat": -25.2399997711,
         "lon": -57.5200004578,
