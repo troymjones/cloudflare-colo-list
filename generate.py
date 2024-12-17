@@ -46,7 +46,7 @@ def generate():
     # speed.cloudflare.com for locations
     # format: json
     speed_locations = json.loads(get('https://speed.cloudflare.com/locations').text)
-    country_codes = json.load(open('country.json', 'r', encoding='utf-8'))
+    country_codes = json.load(open('country.json', 'r', encoding='ascii'))
     for location in speed_locations:
         iata = location['iata']
         if iata in data:
@@ -80,13 +80,13 @@ def unicodedata_dict(data):
 if __name__ == '__main__':
     match_data, location_data, north_america = generate()
 
-    locations_json_content = json.dumps(location_data, indent=4, ensure_ascii=False, sort_keys=True)
-    dc_colos_json_content = json.dumps(match_data, indent=4, ensure_ascii=False, sort_keys=True)
-    north_america_json_content = json.dumps(north_america, indent=4, ensure_ascii=False, sort_keys=True)
+    locations_json_content = json.dumps(location_data, indent=4, ensure_ascii=True, sort_keys=True)
+    dc_colos_json_content = json.dumps(match_data, indent=4, ensure_ascii=True, sort_keys=True)
+    north_america_json_content = json.dumps(north_america, indent=4, ensure_ascii=True, sort_keys=True)
     content_changed = True
 
     if (os.path.exists('DC-Colos.json')):
-        with open('DC-Colos.json', 'r', encoding='utf-8') as f:
+        with open('DC-Colos.json', 'r', encoding='ascii') as f:
             if f.read() == dc_colos_json_content:
                 content_changed = False
 
@@ -95,22 +95,22 @@ if __name__ == '__main__':
         # sys.exit()
 
     # save locations to json
-    with open('locations.json', 'w', encoding='utf-8') as f:
+    with open('locations.json', 'w', encoding='ascii') as f:
         f.write(locations_json_content)
 
     # save as DC-Colo matched data json
-    with open('DC-Colos.json', 'w', encoding='utf-8') as f:
+    with open('DC-Colos.json', 'w', encoding='ascii') as f:
         f.write(dc_colos_json_content)
 
     # save as DC-Colo matched data json
-    with open('north-america.json', 'w', encoding='utf-8') as f:
+    with open('north-america.json', 'w', encoding='ascii') as f:
         f.write(north_america_json_content)
               
     
     # save as csv
     dt = pd.DataFrame(match_data).T
     dt.index.name = 'colo'
-    dt.to_csv('DC-Colos.csv', encoding='utf-8')
+    dt.to_csv('DC-Colos.csv', encoding='ascii')
 
     # final check for log
     for colo in dt.index[dt.cca2.isnull()]:
