@@ -1,0 +1,524 @@
+[
+    {
+        "cca2": "AL",
+        "city": "Tirana",
+        "iata": "TIA",
+        "lat": 41.4146995544,
+        "lon": 19.7206001282,
+        "name": "Tirana, Albania",
+        "region": "Europe"
+    },
+    {
+        "cca2": "AT",
+        "city": "Vienna",
+        "iata": "VIE",
+        "lat": 48.1102981567,
+        "lon": 16.5697002411,
+        "name": "Vienna, Austria",
+        "region": "Europe"
+    },
+    {
+        "cca2": "BY",
+        "city": "Minsk",
+        "iata": "MSQ",
+        "lat": 53.9006,
+        "lon": 27.599,
+        "name": "Minsk, Belarus",
+        "region": "Europe"
+    },
+    {
+        "cca2": "BE",
+        "city": "Brussels",
+        "iata": "BRU",
+        "lat": 50.9014015198,
+        "lon": 4.4844398499,
+        "name": "Brussels, Belgium",
+        "region": "Europe"
+    },
+    {
+        "cca2": "BG",
+        "city": "Sofia",
+        "iata": "SOF",
+        "lat": 42.6966934204,
+        "lon": 23.4114360809,
+        "name": "Sofia, Bulgaria",
+        "region": "Europe"
+    },
+    {
+        "cca2": "HR",
+        "city": "Zagreb",
+        "iata": "ZAG",
+        "lat": 45.7429008484,
+        "lon": 16.0687999725,
+        "name": "Zagreb, Croatia",
+        "region": "Europe"
+    },
+    {
+        "cca2": "CY",
+        "city": "Nicosia",
+        "iata": "LCA",
+        "lat": 34.8750991821,
+        "lon": 33.6249008179,
+        "name": "Nicosia, Cyprus",
+        "region": "Europe"
+    },
+    {
+        "cca2": "CZ",
+        "city": "Prague",
+        "iata": "PRG",
+        "lat": 50.1007995605,
+        "lon": 14.2600002289,
+        "name": "Prague, Czech Republic",
+        "region": "Europe"
+    },
+    {
+        "cca2": "DK",
+        "city": "Copenhagen",
+        "iata": "CPH",
+        "lat": 55.6179008484,
+        "lon": 12.6560001373,
+        "name": "Copenhagen, Denmark",
+        "region": "Europe"
+    },
+    {
+        "cca2": "EE",
+        "city": "Tallinn",
+        "iata": "TLL",
+        "lat": 59.4132995605,
+        "lon": 24.8327999115,
+        "name": "Tallinn, Estonia",
+        "region": "Europe"
+    },
+    {
+        "cca2": "FI",
+        "city": "Helsinki",
+        "iata": "HEL",
+        "lat": 60.317199707,
+        "lon": 24.963300705,
+        "name": "Helsinki, Finland",
+        "region": "Europe"
+    },
+    {
+        "cca2": "FR",
+        "city": "Bordeaux",
+        "iata": "BOD",
+        "lat": 44.82946,
+        "lon": -0.58355,
+        "name": "Bordeaux, France",
+        "region": "Europe"
+    },
+    {
+        "cca2": "FR",
+        "city": "Lyon",
+        "iata": "LYS",
+        "lat": 45.7263,
+        "lon": 5.0908,
+        "name": "Lyon, France",
+        "region": "Europe"
+    },
+    {
+        "cca2": "FR",
+        "city": "Marseille",
+        "iata": "MRS",
+        "lat": 43.439271922,
+        "lon": 5.2214241028,
+        "name": "Marseille, France",
+        "region": "Europe"
+    },
+    {
+        "cca2": "FR",
+        "city": "Paris",
+        "iata": "CDG",
+        "lat": 49.0127983093,
+        "lon": 2.5499999523,
+        "name": "Paris, France",
+        "region": "Europe"
+    },
+    {
+        "cca2": "GE",
+        "city": "Tbilisi",
+        "iata": "TBS",
+        "lat": 41.6692008972,
+        "lon": 44.95470047,
+        "name": "Tbilisi, Georgia",
+        "region": "Europe"
+    },
+    {
+        "cca2": "DE",
+        "city": "Berlin",
+        "iata": "TXL",
+        "lat": 52.5597000122,
+        "lon": 13.2876996994,
+        "name": "Berlin, Germany",
+        "region": "Europe"
+    },
+    {
+        "cca2": "DE",
+        "city": "Dusseldorf",
+        "iata": "DUS",
+        "lat": 51.2895011902,
+        "lon": 6.7667798996,
+        "name": "Dusseldorf, Germany",
+        "region": "Europe"
+    },
+    {
+        "cca2": "DE",
+        "city": "Frankfurt",
+        "iata": "FRA",
+        "lat": 50.0264015198,
+        "lon": 8.543129921,
+        "name": "Frankfurt, Germany",
+        "region": "Europe"
+    },
+    {
+        "cca2": "DE",
+        "city": "Hamburg",
+        "iata": "HAM",
+        "lat": 53.6304016113,
+        "lon": 9.9882297516,
+        "name": "Hamburg, Germany",
+        "region": "Europe"
+    },
+    {
+        "cca2": "DE",
+        "city": "Munich",
+        "iata": "MUC",
+        "lat": 48.3538017273,
+        "lon": 11.7861003876,
+        "name": "Munich, Germany",
+        "region": "Europe"
+    },
+    {
+        "cca2": "DE",
+        "city": "Stuttgart",
+        "iata": "STR",
+        "lat": 48.783333,
+        "lon": 9.183333,
+        "name": "Stuttgart, Germany",
+        "region": "Europe"
+    },
+    {
+        "cca2": "GR",
+        "city": "Athens",
+        "iata": "ATH",
+        "lat": 37.9364013672,
+        "lon": 23.9444999695,
+        "name": "Athens, Greece",
+        "region": "Europe"
+    },
+    {
+        "cca2": "GR",
+        "city": "Thessaloniki",
+        "iata": "SKG",
+        "lat": 40.5196990967,
+        "lon": 22.9708995819,
+        "name": "Thessaloniki, Greece",
+        "region": "Europe"
+    },
+    {
+        "cca2": "HU",
+        "city": "Budapest",
+        "iata": "BUD",
+        "lat": 47.4369010925,
+        "lon": 19.2555999756,
+        "name": "Budapest, Hungary",
+        "region": "Europe"
+    },
+    {
+        "cca2": "IS",
+        "city": "Reykjavik",
+        "iata": "KEF",
+        "lat": 63.9850006104,
+        "lon": -22.6056003571,
+        "name": "Reykjavik, Iceland",
+        "region": "Europe"
+    },
+    {
+        "cca2": "IE",
+        "city": "Cork",
+        "iata": "ORK",
+        "lat": 51.8413009644,
+        "lon": -8.491109848,
+        "name": "Cork, Ireland",
+        "region": "Europe"
+    },
+    {
+        "cca2": "IE",
+        "city": "Dublin",
+        "iata": "DUB",
+        "lat": 53.4212989807,
+        "lon": -6.270070076,
+        "name": "Dublin, Ireland",
+        "region": "Europe"
+    },
+    {
+        "cca2": "IT",
+        "city": "Milan",
+        "iata": "MXP",
+        "lat": 45.6305999756,
+        "lon": 8.7281103134,
+        "name": "Milan, Italy",
+        "region": "Europe"
+    },
+    {
+        "cca2": "IT",
+        "city": "Palermo",
+        "iata": "PMO",
+        "lat": 38.16114,
+        "lon": 13.31546,
+        "name": "Palermo, Italy",
+        "region": "Europe"
+    },
+    {
+        "cca2": "IT",
+        "city": "Rome",
+        "iata": "FCO",
+        "lat": 41.8045005798,
+        "lon": 12.2508001328,
+        "name": "Rome, Italy",
+        "region": "Europe"
+    },
+    {
+        "cca2": "LV",
+        "city": "Riga",
+        "iata": "RIX",
+        "lat": 56.9235992432,
+        "lon": 23.9710998535,
+        "name": "Riga, Latvia",
+        "region": "Europe"
+    },
+    {
+        "cca2": "LT",
+        "city": "Vilnius",
+        "iata": "VNO",
+        "lat": 54.6341018677,
+        "lon": 25.2858009338,
+        "name": "Vilnius, Lithuania",
+        "region": "Europe"
+    },
+    {
+        "cca2": "LU",
+        "city": "Luxembourg City",
+        "iata": "LUX",
+        "lat": 49.6265983582,
+        "lon": 6.211520195,
+        "name": "Luxembourg City, Luxembourg",
+        "region": "Europe"
+    },
+    {
+        "cca2": "MD",
+        "city": "Chisinau",
+        "iata": "KIV",
+        "lat": 46.9277000427,
+        "lon": 28.9309997559,
+        "name": "Chisinau, Moldova",
+        "region": "Europe"
+    },
+    {
+        "cca2": "NL",
+        "city": "Amsterdam",
+        "iata": "AMS",
+        "lat": 52.3086013794,
+        "lon": 4.7638897896,
+        "name": "Amsterdam, Netherlands",
+        "region": "Europe"
+    },
+    {
+        "cca2": "MK",
+        "city": "Skopje",
+        "iata": "SKP",
+        "lat": 41.9616012573,
+        "lon": 21.6214008331,
+        "name": "Skopje, North Macedonia",
+        "region": "Europe"
+    },
+    {
+        "cca2": "NO",
+        "city": "Oslo",
+        "iata": "OSL",
+        "lat": 60.193901062,
+        "lon": 11.100399971,
+        "name": "Oslo, Norway",
+        "region": "Europe"
+    },
+    {
+        "cca2": "PL",
+        "city": "Warsaw",
+        "iata": "WAW",
+        "lat": 52.1656990051,
+        "lon": 20.9671001434,
+        "name": "Warsaw, Poland",
+        "region": "Europe"
+    },
+    {
+        "cca2": "PT",
+        "city": "Lisbon",
+        "iata": "LIS",
+        "lat": 38.7812995911,
+        "lon": -9.1359195709,
+        "name": "Lisbon, Portugal",
+        "region": "Europe"
+    },
+    {
+        "cca2": "RO",
+        "city": "Bucharest",
+        "iata": "OTP",
+        "lat": 44.5722007751,
+        "lon": 26.1021995544,
+        "name": "Bucharest, Romania",
+        "region": "Europe"
+    },
+    {
+        "cca2": "RU",
+        "city": "Moscow",
+        "iata": "DME",
+        "lat": 55.4087982178,
+        "lon": 37.9062995911,
+        "name": "Moscow, Russia",
+        "region": "Europe"
+    },
+    {
+        "cca2": "RU",
+        "city": "Saint Petersburg",
+        "iata": "LED",
+        "lat": 59.8003005981,
+        "lon": 30.2625007629,
+        "name": "Saint Petersburg, Russia",
+        "region": "Europe"
+    },
+    {
+        "cca2": "RU",
+        "city": "Tver",
+        "iata": "KLD",
+        "lat": 56.8587,
+        "lon": 35.9176,
+        "name": "Tver, Russian Federation",
+        "region": "Europe"
+    },
+    {
+        "cca2": "RS",
+        "city": "Belgrade",
+        "iata": "BEG",
+        "lat": 44.8184013367,
+        "lon": 20.3090991974,
+        "name": "Belgrade, Serbia",
+        "region": "Europe"
+    },
+    {
+        "cca2": "SK",
+        "city": "Bratislava",
+        "iata": "BTS",
+        "lat": 48.1486,
+        "lon": 17.1077,
+        "name": "Bratislava, Slovakia",
+        "region": "Europe"
+    },
+    {
+        "cca2": "ES",
+        "city": "Barcelona",
+        "iata": "BCN",
+        "lat": 41.2971000671,
+        "lon": 2.0784599781,
+        "name": "Barcelona, Spain",
+        "region": "Europe"
+    },
+    {
+        "cca2": "ES",
+        "city": "Madrid",
+        "iata": "MAD",
+        "lat": 40.4936,
+        "lon": -3.56676,
+        "name": "Madrid, Spain",
+        "region": "Europe"
+    },
+    {
+        "cca2": "SE",
+        "city": "Gothenburg",
+        "iata": "GOT",
+        "lat": 57.6627998352,
+        "lon": 12.279800415,
+        "name": "Gothenburg, Sweden",
+        "region": "Europe"
+    },
+    {
+        "cca2": "SE",
+        "city": "Stockholm",
+        "iata": "ARN",
+        "lat": 59.6519012451,
+        "lon": 17.9186000824,
+        "name": "Stockholm, Sweden",
+        "region": "Europe"
+    },
+    {
+        "cca2": "CH",
+        "city": "Geneva",
+        "iata": "GVA",
+        "lat": 46.2380981445,
+        "lon": 6.1089501381,
+        "name": "Geneva, Switzerland",
+        "region": "Europe"
+    },
+    {
+        "cca2": "CH",
+        "city": "Zurich",
+        "iata": "ZRH",
+        "lat": 47.4646987915,
+        "lon": 8.5491695404,
+        "name": "Zurich, Switzerland",
+        "region": "Europe"
+    },
+    {
+        "cca2": "TR",
+        "city": "Istanbul",
+        "iata": "IST",
+        "lat": 40.9768981934,
+        "lon": 28.8145999908,
+        "name": "Istanbul, Turkey",
+        "region": "Europe"
+    },
+    {
+        "cca2": "TR",
+        "city": "Izmir",
+        "iata": "ADB",
+        "lat": 38.32377,
+        "lon": 27.14317,
+        "name": "Izmir, Turkey",
+        "region": "Europe"
+    },
+    {
+        "cca2": "UA",
+        "city": "Kyiv",
+        "iata": "KBP",
+        "lat": 50.3450012207,
+        "lon": 30.8946990967,
+        "name": "Kyiv, Ukraine",
+        "region": "Europe"
+    },
+    {
+        "cca2": "GB",
+        "city": "Edinburgh",
+        "iata": "EDI",
+        "lat": 55.9500007629,
+        "lon": -3.3724999428,
+        "name": "Edinburgh, United Kingdom",
+        "region": "Europe"
+    },
+    {
+        "cca2": "GB",
+        "city": "London",
+        "iata": "LHR",
+        "lat": 51.4706001282,
+        "lon": -0.4619410038,
+        "name": "London, United Kingdom",
+        "region": "Europe"
+    },
+    {
+        "cca2": "GB",
+        "city": "Manchester",
+        "iata": "MAN",
+        "lat": 53.3536987305,
+        "lon": -2.2749500275,
+        "name": "Manchester, United Kingdom",
+        "region": "Europe"
+    }
+]
