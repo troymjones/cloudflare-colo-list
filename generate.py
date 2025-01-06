@@ -26,6 +26,7 @@ def get(url, retry=5):
 def generate():
     data = {}
     north_america = []
+    europe = []
 
     # www.cloudflarestatus.com for DC list
     # Site Struct: Table --div--> continents --div--> DCs --text--> Info
@@ -58,12 +59,15 @@ def generate():
             
         if data[iata]["region"] == "North America":
             north_america.append(data[iata])
+        elif data[iata]["region"] == "Europe":
+            europe.append(data[iata])
 
     unicodedata_dict(data)
     unicodedata_dict(speed_locations)
     unicodedata_dict(north_america)
+    unicodedata_dict(europe)
 
-    return data, speed_locations, north_america
+    return data, speed_locations, north_america, europe
 
 def unicodedata_dict(data):
     for k in data:
@@ -78,11 +82,12 @@ def unicodedata_dict(data):
     return data
 
 if __name__ == '__main__':
-    match_data, location_data, north_america = generate()
+    match_data, location_data, north_america, europe = generate()
 
     locations_json_content = json.dumps(location_data, indent=4, ensure_ascii=False, sort_keys=True)
     dc_colos_json_content = json.dumps(match_data, indent=4, ensure_ascii=False, sort_keys=True)
     north_america_json_content = json.dumps(north_america, indent=4, ensure_ascii=False, sort_keys=True)
+    europe_json_content = json.dumps(europe, indent=4, ensure_ascii=False, sort_keys=True)
     content_changed = True
 
     if (os.path.exists('DC-Colos.json')):
@@ -105,8 +110,11 @@ if __name__ == '__main__':
     # save as DC-Colo matched data json
     with open('north-america.json', 'w', encoding='utf-8') as f:
         f.write(north_america_json_content)
-              
-    
+
+    with open('europe.json', 'w', encoding='utf-8') as f:
+        f.write(europe_json_content)
+
+
     # save as csv
     dt = pd.DataFrame(match_data).T
     dt.index.name = 'colo'
