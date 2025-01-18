@@ -2171,15 +2171,6 @@
         "name": "Recife, Brazil",
         "region": "South America"
     },
-    "RGN": {
-        "cca2": "MM",
-        "city": "Yangon",
-        "iata": "RGN",
-        "lat": 16.9073009491,
-        "lon": 96.1332015991,
-        "name": "Yangon, Myanmar",
-        "region": "Asia Pacific"
-    },
     "RIC": {
         "cca2": "US",
         "city": "Richmond",
