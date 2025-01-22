@@ -1427,15 +1427,6 @@
         "name": "Krasnoyarsk, Russia",
         "region": "Asia Pacific"
     },
-    "KLD": {
-        "cca2": "RU",
-        "city": "Tver",
-        "iata": "KLD",
-        "lat": 56.8587,
-        "lon": 35.9176,
-        "name": "Tver, Russian Federation",
-        "region": "Europe"
-    },
     "KMG": {
         "name": "Kunming, China"
     },
