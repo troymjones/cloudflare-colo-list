@@ -27,6 +27,11 @@ def generate():
     data = {}
     north_america = []
     europe = []
+    asia = []
+    africa = []
+    south_america = []
+    middle_east = []
+    oceania = []
 
     # www.cloudflarestatus.com for DC list
     # Site Struct: Table --div--> continents --div--> DCs --text--> Info
@@ -61,13 +66,30 @@ def generate():
             north_america.append(data[iata])
         elif data[iata]["region"] == "Europe":
             europe.append(data[iata])
+        elif data[iata]["region"] == "Asia Pacific":
+            asia.append(data[iata])
+        elif data[iata]["region"] == "Africa":
+            africa.append(data[iata])
+        elif data[iata]["region"] == "South America":
+            south_america.append(data[iata])
+        elif data[iata]["region"] == "Middle East":
+            middle_east.append(data[iata])
+        elif data[iata]["region"] == "Oceania":
+            oceania.append(data[iata])
+        else:
+            print(data[iata]["region"])
 
     unicodedata_dict(data)
     unicodedata_dict(speed_locations)
     unicodedata_dict(north_america)
     unicodedata_dict(europe)
+    unicodedata_dict(asia)
+    unicodedata_dict(africa)
+    unicodedata_dict(south_america)
+    unicodedata_dict(middle_east)
+    unicodedata_dict(oceania)
 
-    return data, speed_locations, north_america, europe
+    return data, speed_locations, north_america, europe, asia, africa, south_america, middle_east, oceania
 
 def unicodedata_dict(data):
     for k in data:
@@ -82,12 +104,17 @@ def unicodedata_dict(data):
     return data
 
 if __name__ == '__main__':
-    match_data, location_data, north_america, europe = generate()
+    match_data, location_data, north_america, europe, asia, africa, south_america, middle_east, oceania = generate()
 
     locations_json_content = json.dumps(location_data, indent=4, ensure_ascii=False, sort_keys=True)
     dc_colos_json_content = json.dumps(match_data, indent=4, ensure_ascii=False, sort_keys=True)
     north_america_json_content = json.dumps(north_america, indent=4, ensure_ascii=False, sort_keys=True)
     europe_json_content = json.dumps(europe, indent=4, ensure_ascii=False, sort_keys=True)
+    asia_json_content = json.dumps(asia, indent=4, ensure_ascii=False, sort_keys=True)
+    africa_json_content = json.dumps(africa, indent=4, ensure_ascii=False, sort_keys=True)
+    south_america_json_content = json.dumps(south_america, indent=4, ensure_ascii=False, sort_keys=True)
+    middle_east_json_content = json.dumps(middle_east, indent=4, ensure_ascii=False, sort_keys=True)
+    oceania_json_content = json.dumps(oceania, indent=4, ensure_ascii=False, sort_keys=True)
     content_changed = True
 
     if (os.path.exists('DC-Colos.json')):
@@ -114,6 +141,20 @@ if __name__ == '__main__':
     with open('europe.json', 'w', encoding='utf-8') as f:
         f.write(europe_json_content)
 
+    with open('asia.json', 'w', encoding='utf-8') as f:
+        f.write(asia_json_content)
+
+    with open('africa.json', 'w', encoding='utf-8') as f:
+        f.write(africa_json_content)
+
+    with open('south-america.json', 'w', encoding='utf-8') as f:
+        f.write(south_america_json_content)
+
+    with open('middle-east.json', 'w', encoding='utf-8') as f:
+        f.write(middle_east_json_content)
+
+    with open('oceania.json', 'w', encoding='utf-8') as f:
+        f.write(oceania_json_content)
 
     # save as csv
     dt = pd.DataFrame(match_data).T
