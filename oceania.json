@@ -1,0 +1,110 @@
+[
+    {
+        "cca2": "AU",
+        "city": "Adelaide",
+        "iata": "ADL",
+        "lat": -34.9431729,
+        "lon": 138.5335637,
+        "name": "Adelaide, SA, Australia",
+        "region": "Oceania"
+    },
+    {
+        "cca2": "AU",
+        "city": "Brisbane",
+        "iata": "BNE",
+        "lat": -27.3841991425,
+        "lon": 153.117004394,
+        "name": "Brisbane, QLD, Australia",
+        "region": "Oceania"
+    },
+    {
+        "cca2": "AU",
+        "city": "Canberra",
+        "iata": "CBR",
+        "lat": -35.3069000244,
+        "lon": 149.1950073242,
+        "name": "Canberra, ACT, Australia",
+        "region": "Oceania"
+    },
+    {
+        "cca2": "AU",
+        "city": "Hobart",
+        "iata": "HBA",
+        "lat": -42.883209,
+        "lon": 147.331665,
+        "name": "Hobart, Australia",
+        "region": "Oceania"
+    },
+    {
+        "cca2": "AU",
+        "city": "Melbourne",
+        "iata": "MEL",
+        "lat": -37.6733016968,
+        "lon": 144.843002319,
+        "name": "Melbourne, VIC, Australia",
+        "region": "Oceania"
+    },
+    {
+        "cca2": "AU",
+        "city": "Perth",
+        "iata": "PER",
+        "lat": -31.9402999878,
+        "lon": 115.967002869,
+        "name": "Perth, WA, Australia",
+        "region": "Oceania"
+    },
+    {
+        "cca2": "AU",
+        "city": "Sydney",
+        "iata": "SYD",
+        "lat": -33.9460983276,
+        "lon": 151.177001953,
+        "name": "Sydney, NSW, Australia",
+        "region": "Oceania"
+    },
+    {
+        "cca2": "FJ",
+        "city": "Suva",
+        "iata": "SUV",
+        "lat": -18.11319,
+        "lon": 178.43859,
+        "name": "Suva, Fiji",
+        "region": "Oceania"
+    },
+    {
+        "cca2": "PF",
+        "city": "Tahiti",
+        "iata": "PPT",
+        "lat": -17.5536994934,
+        "lon": -149.606994629,
+        "name": "Tahiti, French Polynesia",
+        "region": "Oceania"
+    },
+    {
+        "cca2": "NC",
+        "city": "Noumea",
+        "iata": "NOU",
+        "lat": -22.0146007538,
+        "lon": 166.212997436,
+        "name": "Noumea, New Caledonia",
+        "region": "Oceania"
+    },
+    {
+        "cca2": "NZ",
+        "city": "Auckland",
+        "iata": "AKL",
+        "lat": -37.0080986023,
+        "lon": 174.792007446,
+        "name": "Auckland, New Zealand",
+        "region": "Oceania"
+    },
+    {
+        "cca2": "NZ",
+        "city": "Christchurch",
+        "iata": "CHC",
+        "lat": -43.4893989563,
+        "lon": 172.5319976807,
+        "name": "Christchurch, New Zealand",
+        "region": "Oceania"
+    }
+]

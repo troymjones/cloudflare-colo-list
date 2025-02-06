@@ -1,0 +1,542 @@
+[
+    {
+        "cca2": "BD",
+        "city": "Chittagong",
+        "iata": "CGP",
+        "lat": 22.2495995,
+        "lon": 91.8133011,
+        "name": "Chittagong, Bangladesh",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "BD",
+        "city": "Dhaka",
+        "iata": "DAC",
+        "lat": 23.843347,
+        "lon": 90.397783,
+        "name": "Dhaka, Bangladesh",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "BD",
+        "city": "Jashore",
+        "iata": "JSR",
+        "lat": 23.1837997437,
+        "lon": 89.1607971191,
+        "name": "Jashore, Bangladesh",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "BT",
+        "city": "Thimphu",
+        "iata": "PBH",
+        "lat": 27.4712,
+        "lon": 89.6339,
+        "name": "Thimphu, Bhutan",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "BN",
+        "city": "Bandar Seri Begawan",
+        "iata": "BWN",
+        "lat": 4.903052,
+        "lon": 114.939819,
+        "name": "Bandar Seri Begawan, Brunei",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "KH",
+        "city": "Phnom Penh",
+        "iata": "PNH",
+        "lat": 11.5466003418,
+        "lon": 104.84400177,
+        "name": "Phnom Penh, Cambodia",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "GU",
+        "city": "Hagatna",
+        "iata": "GUM",
+        "lat": 13.4834003448,
+        "lon": 144.796005249,
+        "name": "Hagatna, Guam",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "HK",
+        "city": "Hong Kong",
+        "iata": "HKG",
+        "lat": 22.3089008331,
+        "lon": 113.915000916,
+        "name": "Hong Kong",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "Ahmedabad",
+        "iata": "AMD",
+        "lat": 23.0225,
+        "lon": 72.5714,
+        "name": "Ahmedabad, India",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "Bangalore",
+        "iata": "BLR",
+        "lat": 13.7835719,
+        "lon": 76.6165937,
+        "name": "Bangalore, India",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "Bhubaneswar",
+        "iata": "BBI",
+        "lat": 20.2961,
+        "lon": 85.8245,
+        "name": "Bhubaneswar, India",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "Chandigarh",
+        "iata": "IXC",
+        "lat": 30.673500061,
+        "lon": 76.7884979248,
+        "name": "Chandigarh, India",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "Chennai",
+        "iata": "MAA",
+        "lat": 12.9900054932,
+        "lon": 80.1692962646,
+        "name": "Chennai, India",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "Hyderabad",
+        "iata": "HYD",
+        "lat": 17.2313175201,
+        "lon": 78.4298553467,
+        "name": "Hyderabad, India",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "Kannur",
+        "iata": "CNN",
+        "lat": 11.915858,
+        "lon": 75.55094,
+        "name": "Kannur, India",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "Kanpur",
+        "iata": "KNU",
+        "lat": 26.4499,
+        "lon": 80.3319,
+        "name": "Kanpur, India",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "Kochi",
+        "iata": "COK",
+        "lat": 9.9312,
+        "lon": 76.2673,
+        "name": "Kochi, India",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "Kolkata",
+        "iata": "CCU",
+        "lat": 22.6476933,
+        "lon": 88.4349249,
+        "name": "Kolkata, India",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "Mumbai",
+        "iata": "BOM",
+        "lat": 19.0886993408,
+        "lon": 72.8678970337,
+        "name": "Mumbai, India",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "Nagpur",
+        "iata": "NAG",
+        "lat": 21.1610714,
+        "lon": 79.0024702,
+        "name": "Nagpur, India",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "New Delhi",
+        "iata": "DEL",
+        "lat": 28.5664997101,
+        "lon": 77.1031036377,
+        "name": "New Delhi, India",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "IN",
+        "city": "Patna",
+        "iata": "PAT",
+        "lat": 25.591299057,
+        "lon": 85.0879974365,
+        "name": "Patna, India",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "ID",
+        "city": "Denpasar",
+        "iata": "DPS",
+        "lat": -8.748169899,
+        "lon": 115.1669998169,
+        "name": "Denpasar, Indonesia",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "ID",
+        "city": "Jakarta",
+        "iata": "CGK",
+        "lat": -6.1275229,
+        "lon": 106.6515118,
+        "name": "Jakarta, Indonesia",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "ID",
+        "city": "Yogyakarta",
+        "iata": "JOG",
+        "lat": -7.7881798744,
+        "lon": 110.4319992065,
+        "name": "Yogyakarta, Indonesia",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "JP",
+        "city": "Fukuoka",
+        "iata": "FUK",
+        "lat": 33.5902,
+        "lon": 130.4017,
+        "name": "Fukuoka, Japan",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "JP",
+        "city": "Naha",
+        "iata": "OKA",
+        "lat": 26.1958,
+        "lon": 127.646,
+        "name": "Naha, Japan",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "JP",
+        "city": "Osaka",
+        "iata": "KIX",
+        "lat": 34.4272994995,
+        "lon": 135.244003296,
+        "name": "Osaka, Japan",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "JP",
+        "city": "Tokyo",
+        "iata": "NRT",
+        "lat": 35.7647018433,
+        "lon": 140.386001587,
+        "name": "Tokyo, Japan",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "KZ",
+        "city": "Aktobe",
+        "iata": "AKX",
+        "lat": 50.286922,
+        "lon": 57.224121,
+        "name": "Aktobe, Kazakhstan",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "KZ",
+        "city": "Almaty",
+        "iata": "ALA",
+        "lat": 43.3521003723,
+        "lon": 77.0404968262,
+        "name": "Almaty, Kazakhstan",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "KZ",
+        "city": "Astana",
+        "iata": "NQZ",
+        "lat": 51.167801,
+        "lon": 71.418893,
+        "name": "Astana, Kazakhstan",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "KR",
+        "city": "Seoul",
+        "iata": "ICN",
+        "lat": 37.4691009521,
+        "lon": 126.450996399,
+        "name": "Seoul, South Korea",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "LA",
+        "city": "Vientiane",
+        "iata": "VTE",
+        "lat": 17.9757,
+        "lon": 102.5683,
+        "name": "Vientiane, Laos",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "MO",
+        "city": "Macau",
+        "iata": "MFM",
+        "lat": 22.1495990753,
+        "lon": 113.592002869,
+        "name": "Macau",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "MY",
+        "city": "Johor Bahru",
+        "iata": "JHB",
+        "lat": 1.635848,
+        "lon": 103.665943,
+        "name": "Johor Bahru, Malaysia",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "MY",
+        "city": "Kuala Lumpur",
+        "iata": "KUL",
+        "lat": 2.745579958,
+        "lon": 101.709999084,
+        "name": "Kuala Lumpur, Malaysia",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "MY",
+        "city": "Kuching",
+        "iata": "KCH",
+        "lat": 1.709727,
+        "lon": 110.353455,
+        "name": "Kuching, Malaysia",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "MV",
+        "city": "Male",
+        "iata": "MLE",
+        "lat": 4.1748,
+        "lon": 73.50888,
+        "name": "Male, Maldives",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "MN",
+        "city": "Ulaanbaatar",
+        "iata": "ULN",
+        "lat": 47.8431015015,
+        "lon": 106.766998291,
+        "name": "Ulaanbaatar, Mongolia",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "NP",
+        "city": "Kathmandu",
+        "iata": "KTM",
+        "lat": 27.6965999603,
+        "lon": 85.3591003418,
+        "name": "Kathmandu, Nepal",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "PK",
+        "city": "Islamabad",
+        "iata": "ISB",
+        "lat": 33.6166992188,
+        "lon": 73.0991973877,
+        "name": "Islamabad, Pakistan",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "PK",
+        "city": "Karachi",
+        "iata": "KHI",
+        "lat": 24.9064998627,
+        "lon": 67.1607971191,
+        "name": "Karachi, Pakistan",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "PK",
+        "city": "Lahore",
+        "iata": "LHE",
+        "lat": 31.5216007233,
+        "lon": 74.4036026001,
+        "name": "Lahore, Pakistan",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "PH",
+        "city": "Cagayan de Oro",
+        "iata": "CGY",
+        "lat": 8.4156198502,
+        "lon": 124.611000061,
+        "name": "Cagayan de Oro, Philippines",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "PH",
+        "city": "Cebu",
+        "iata": "CEB",
+        "lat": 10.3074998856,
+        "lon": 123.978996277,
+        "name": "Cebu, Philippines",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "PH",
+        "city": "Manila",
+        "iata": "MNL",
+        "lat": 14.508600235,
+        "lon": 121.019996643,
+        "name": "Manila, Philippines",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "PH",
+        "city": "Tarlac City",
+        "iata": "CRK",
+        "lat": 15.1859,
+        "lon": 120.5599,
+        "name": "Tarlac City, Philippines",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "RU",
+        "city": "Krasnoyarsk",
+        "iata": "KJA",
+        "lat": 56.0153,
+        "lon": 92.8932,
+        "name": "Krasnoyarsk, Russia",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "RU",
+        "city": "Yekaterinburg",
+        "iata": "SVX",
+        "lat": 56.8431,
+        "lon": 60.6454,
+        "name": "Yekaterinburg, Russia",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "SG",
+        "city": "Singapore",
+        "iata": "SIN",
+        "lat": 1.3501900434,
+        "lon": 103.994003296,
+        "name": "Singapore, Singapore",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "LK",
+        "city": "Colombo",
+        "iata": "CMB",
+        "lat": 7.1807599068,
+        "lon": 79.8841018677,
+        "name": "Colombo, Sri Lanka",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "TW",
+        "city": "Kaohsiung City",
+        "iata": "KHH",
+        "lat": 22.5771007538,
+        "lon": 120.3499984741,
+        "name": "Kaohsiung City, Taiwan",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "TW",
+        "city": "Taipei",
+        "iata": "TPE",
+        "lat": 25.0776996613,
+        "lon": 121.233001709,
+        "name": "Taipei",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "TH",
+        "city": "Bangkok",
+        "iata": "BKK",
+        "lat": 13.6810998917,
+        "lon": 100.747001648,
+        "name": "Bangkok, Thailand",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "TH",
+        "city": "Chiang Mai",
+        "iata": "CNX",
+        "lat": 18.7667999268,
+        "lon": 98.962600708,
+        "name": "Chiang Mai, Thailand",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "TH",
+        "city": "Surat Thani",
+        "iata": "URT",
+        "lat": 9.1325998306,
+        "lon": 99.135597229,
+        "name": "Surat Thani, Thailand",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "VN",
+        "city": "Da Nang",
+        "iata": "DAD",
+        "lat": 16.02636,
+        "lon": 108.20869,
+        "name": "Da Nang, Vietnam",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "VN",
+        "city": "Hanoi",
+        "iata": "HAN",
+        "lat": 21.221200943,
+        "lon": 105.806999206,
+        "name": "Hanoi, Vietnam",
+        "region": "Asia Pacific"
+    },
+    {
+        "cca2": "VN",
+        "city": "Ho Chi Minh City",
+        "iata": "SGN",
+        "lat": 10.8187999725,
+        "lon": 106.652000427,
+        "name": "Ho Chi Minh City, Vietnam",
+        "region": "Asia Pacific"
+    }
+]
