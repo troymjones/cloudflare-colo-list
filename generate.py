@@ -1,6 +1,5 @@
 import requests
 import json
-import bs4
 import os
 import sys
 import re
