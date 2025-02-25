@@ -2,6 +2,7 @@
     {
         "cca2": "BB",
         "city": "Bridgetown",
+        "country": "Barbados",
         "iata": "BGI",
         "lat": 13.103562,
         "lon": -59.603226,
@@ -11,6 +12,7 @@
     {
         "cca2": "CA",
         "city": "Calgary",
+        "country": "Canada",
         "iata": "YYC",
         "lat": 51.113899231,
         "lon": -114.019996643,
@@ -20,6 +22,7 @@
     {
         "cca2": "CA",
         "city": "Vancouver",
+        "country": "Canada",
         "iata": "YVR",
         "lat": 49.193901062,
         "lon": -123.183998108,
@@ -29,6 +32,7 @@
     {
         "cca2": "CA",
         "city": "Winnipeg",
+        "country": "Canada",
         "iata": "YWG",
         "lat": 49.9099998474,
         "lon": -97.2398986816,
@@ -38,6 +42,7 @@
     {
         "cca2": "CA",
         "city": "Halifax",
+        "country": "Canada",
         "iata": "YHZ",
         "lat": 44.64601,
         "lon": -63.66844,
@@ -47,6 +52,7 @@
     {
         "cca2": "CA",
         "city": "Ottawa",
+        "country": "Canada",
         "iata": "YOW",
         "lat": 45.3224983215,
         "lon": -75.6691970825,
@@ -56,6 +62,7 @@
     {
         "cca2": "CA",
         "city": "Toronto",
+        "country": "Canada",
         "iata": "YYZ",
         "lat": 43.6772003174,
         "lon": -79.6305999756,
@@ -65,6 +72,7 @@
     {
         "cca2": "CA",
         "city": "Montreal",
+        "country": "Canada",
         "iata": "YUL",
         "lat": 45.4706001282,
         "lon": -73.7407989502,
@@ -74,6 +82,7 @@
     {
         "cca2": "CA",
         "city": "Saskatoon",
+        "country": "Canada",
         "iata": "YXE",
         "lat": 52.1707992554,
         "lon": -106.699996948,
@@ -83,6 +92,7 @@
     {
         "cca2": "DO",
         "city": "Santiago de los Caballeros",
+        "country": "Dominican Republic",
         "iata": "STI",
         "lat": 19.4060993195,
         "lon": -70.6046981812,
@@ -92,6 +102,7 @@
     {
         "cca2": "DO",
         "city": "Santo Domingo",
+        "country": "Dominican Republic",
         "iata": "SDQ",
         "lat": 18.4297008514,
         "lon": -69.6688995361,
@@ -101,6 +112,7 @@
     {
         "cca2": "GT",
         "city": "Guatemala City",
+        "country": "Guatemala",
         "iata": "GUA",
         "lat": 14.5832996368,
         "lon": -90.5274963379,
@@ -110,6 +122,7 @@
     {
         "cca2": "JM",
         "city": "Kingston",
+        "country": "Jamaica",
         "iata": "KIN",
         "lat": 17.9951,
         "lon": -76.7846,
@@ -119,6 +132,7 @@
     {
         "cca2": "MX",
         "city": "Guadalajara",
+        "country": "Mexico",
         "iata": "GDL",
         "lat": 20.5217990875,
         "lon": -103.3109970093,
@@ -128,6 +142,7 @@
     {
         "cca2": "MX",
         "city": "Mexico City",
+        "country": "Mexico",
         "iata": "MEX",
         "lat": 19.4363002777,
         "lon": -99.0720977783,
@@ -137,6 +152,7 @@
     {
         "cca2": "MX",
         "city": "Queretaro",
+        "country": "Mexico",
         "iata": "QRO",
         "lat": 20.6173000336,
         "lon": -100.185997009,
@@ -146,6 +162,7 @@
     {
         "cca2": "PR",
         "city": "San Juan",
+        "country": "Puerto Rico",
         "iata": "SJU",
         "lat": 18.411391,
         "lon": -66.102793,
@@ -155,6 +172,7 @@
     {
         "cca2": "US",
         "city": "Anchorage",
+        "country": "United States",
         "iata": "ANC",
         "lat": 61.158555,
         "lon": -149.890208,
@@ -164,6 +182,7 @@
     {
         "cca2": "US",
         "city": "Phoenix",
+        "country": "United States",
         "iata": "PHX",
         "lat": 33.434299469,
         "lon": -112.012001038,
@@ -173,6 +192,7 @@
     {
         "cca2": "US",
         "city": "Los Angeles",
+        "country": "United States",
         "iata": "LAX",
         "lat": 33.94250107,
         "lon": -118.4079971,
@@ -182,6 +202,7 @@
     {
         "cca2": "US",
         "city": "Sacramento",
+        "country": "United States",
         "iata": "SMF",
         "lat": 38.695400238,
         "lon": -121.591003418,
@@ -191,6 +212,7 @@
     {
         "cca2": "US",
         "city": "San Diego",
+        "country": "United States",
         "iata": "SAN",
         "lat": 32.7336006165,
         "lon": -117.190002441,
@@ -200,6 +222,7 @@
     {
         "cca2": "US",
         "city": "San Francisco",
+        "country": "United States",
         "iata": "SFO",
         "lat": 37.6189994812,
         "lon": -122.375,
@@ -209,6 +232,7 @@
     {
         "cca2": "US",
         "city": "San Jose",
+        "country": "United States",
         "iata": "SJC",
         "lat": 37.3625984192,
         "lon": -121.929000855,
@@ -218,6 +242,7 @@
     {
         "cca2": "US",
         "city": "Denver",
+        "country": "United States",
         "iata": "DEN",
         "lat": 39.8616981506,
         "lon": -104.672996521,
@@ -227,6 +252,7 @@
     {
         "cca2": "US",
         "city": "Jacksonville",
+        "country": "United States",
         "iata": "JAX",
         "lat": 30.4941005707,
         "lon": -81.6878967285,
@@ -236,6 +262,7 @@
     {
         "cca2": "US",
         "city": "Miami",
+        "country": "United States",
         "iata": "MIA",
         "lat": 25.7931995392,
         "lon": -80.2906036377,
@@ -245,6 +272,7 @@
     {
         "cca2": "US",
         "city": "Tallahassee",
+        "country": "United States",
         "iata": "TLH",
         "lat": 30.3964996338,
         "lon": -84.3503036499,
@@ -254,6 +282,7 @@
     {
         "cca2": "US",
         "city": "Tampa",
+        "country": "United States",
         "iata": "TPA",
         "lat": 27.9755001068,
         "lon": -82.533203125,
@@ -263,6 +292,7 @@
     {
         "cca2": "US",
         "city": "Atlanta",
+        "country": "United States",
         "iata": "ATL",
         "lat": 33.6366996765,
         "lon": -84.4281005859,
@@ -272,6 +302,7 @@
     {
         "cca2": "US",
         "city": "Honolulu",
+        "country": "United States",
         "iata": "HNL",
         "lat": 21.3187007904,
         "lon": -157.9219970703,
@@ -281,6 +312,7 @@
     {
         "cca2": "US",
         "city": "Chicago",
+        "country": "United States",
         "iata": "ORD",
         "lat": 41.97859955,
         "lon": -87.90480042,
@@ -290,6 +322,7 @@
     {
         "cca2": "US",
         "city": "Indianapolis",
+        "country": "United States",
         "iata": "IND",
         "lat": 39.717300415,
         "lon": -86.2944030762,
@@ -299,6 +332,7 @@
     {
         "cca2": "US",
         "city": "Bangor",
+        "country": "United States",
         "iata": "BGR",
         "lat": 44.8081,
         "lon": -68.795,
@@ -308,6 +342,7 @@
     {
         "cca2": "US",
         "city": "Boston",
+        "country": "United States",
         "iata": "BOS",
         "lat": 42.36429977,
         "lon": -71.00520325,
@@ -317,6 +352,7 @@
     {
         "cca2": "US",
         "city": "Detroit",
+        "country": "United States",
         "iata": "DTW",
         "lat": 42.2123985291,
         "lon": -83.3534011841,
@@ -326,6 +362,7 @@
     {
         "cca2": "US",
         "city": "Minneapolis",
+        "country": "United States",
         "iata": "MSP",
         "lat": 44.8819999695,
         "lon": -93.2218017578,
@@ -335,6 +372,7 @@
     {
         "cca2": "US",
         "city": "Kansas City",
+        "country": "United States",
         "iata": "MCI",
         "lat": 39.2975997925,
         "lon": -94.7138977051,
@@ -344,6 +382,7 @@
     {
         "cca2": "US",
         "city": "St. Louis",
+        "country": "United States",
         "iata": "STL",
         "lat": 38.7486991882,
         "lon": -90.3700027466,
@@ -353,6 +392,7 @@
     {
         "cca2": "US",
         "city": "Omaha",
+        "country": "United States",
         "iata": "OMA",
         "lat": 41.3031997681,
         "lon": -95.8940963745,
@@ -362,6 +402,7 @@
     {
         "cca2": "US",
         "city": "Las Vegas",
+        "country": "United States",
         "iata": "LAS",
         "lat": 36.08010101,
         "lon": -115.1520004,
@@ -371,6 +412,7 @@
     {
         "cca2": "US",
         "city": "Newark",
+        "country": "United States",
         "iata": "EWR",
         "lat": 40.6925010681,
         "lon": -74.1687011719,
@@ -380,6 +422,7 @@
     {
         "cca2": "US",
         "city": "Albuquerque",
+        "country": "United States",
         "iata": "ABQ",
         "lat": 35.0844,
         "lon": -106.6504,
@@ -389,6 +432,7 @@
     {
         "cca2": "US",
         "city": "Buffalo",
+        "country": "United States",
         "iata": "BUF",
         "lat": 42.94049835,
         "lon": -78.73220062,
@@ -398,6 +442,7 @@
     {
         "cca2": "US",
         "city": "Charlotte",
+        "country": "United States",
         "iata": "CLT",
         "lat": 35.2140007019,
         "lon": -80.9430999756,
@@ -407,6 +452,7 @@
     {
         "cca2": "US",
         "city": "Durham",
+        "country": "United States",
         "iata": "RDU",
         "lat": 35.93543,
         "lon": -78.88075,
@@ -416,6 +462,7 @@
     {
         "cca2": "US",
         "city": "Cleveland",
+        "country": "United States",
         "iata": "CLE",
         "lat": 41.50069,
         "lon": -81.68412,
@@ -425,6 +472,7 @@
     {
         "cca2": "US",
         "city": "Columbus",
+        "country": "United States",
         "iata": "CMH",
         "lat": 39.9980010986,
         "lon": -82.8918991089,
@@ -434,6 +482,7 @@
     {
         "cca2": "US",
         "city": "Oklahoma City",
+        "country": "United States",
         "iata": "OKC",
         "lat": 35.46655,
         "lon": -97.65373,
@@ -443,6 +492,7 @@
     {
         "cca2": "US",
         "city": "Portland",
+        "country": "United States",
         "iata": "PDX",
         "lat": 45.58869934,
         "lon": -122.5979996,
@@ -452,6 +502,7 @@
     {
         "cca2": "US",
         "city": "Philadelphia",
+        "country": "United States",
         "iata": "PHL",
         "lat": 39.8718986511,
         "lon": -75.2410964966,
@@ -461,6 +512,7 @@
     {
         "cca2": "US",
         "city": "Pittsburgh",
+        "country": "United States",
         "iata": "PIT",
         "lat": 40.49150085,
         "lon": -80.23290253,
@@ -470,6 +522,7 @@
     {
         "cca2": "US",
         "city": "Sioux Falls",
+        "country": "South Dakota",
         "iata": "FSD",
         "lat": 43.540819819502,
         "lon": -96.65511577730963,
@@ -479,6 +532,7 @@
     {
         "cca2": "US",
         "city": "Memphis",
+        "country": "United States",
         "iata": "MEM",
         "lat": 35.0424003601,
         "lon": -89.9766998291,
@@ -488,6 +542,7 @@
     {
         "cca2": "US",
         "city": "Nashville",
+        "country": "United States",
         "iata": "BNA",
         "lat": 36.1245002747,
         "lon": -86.6781997681,
@@ -497,6 +552,7 @@
     {
         "cca2": "US",
         "city": "Austin",
+        "country": "United States",
         "iata": "AUS",
         "lat": 30.1975,
         "lon": -97.6664,
@@ -506,6 +562,7 @@
     {
         "cca2": "US",
         "city": "Dallas",
+        "country": "United States",
         "iata": "DFW",
         "lat": 32.8968009949,
         "lon": -97.0380020142,
@@ -515,6 +572,7 @@
     {
         "cca2": "US",
         "city": "Houston",
+        "country": "United States",
         "iata": "IAH",
         "lat": 29.9843997955,
         "lon": -95.3414001465,
@@ -524,6 +582,7 @@
     {
         "cca2": "US",
         "city": "McAllen",
+        "country": "United States",
         "iata": "MFE",
         "lat": 26.17580032,
         "lon": -98.23860168,
@@ -533,6 +592,7 @@
     {
         "cca2": "US",
         "city": "San Antonio",
+        "country": "United States",
         "iata": "SAT",
         "lat": 29.429461,
         "lon": -98.487061,
@@ -542,6 +602,7 @@
     {
         "cca2": "US",
         "city": "Salt Lake City",
+        "country": "United States",
         "iata": "SLC",
         "lat": 40.7883987427,
         "lon": -111.977996826,
@@ -551,6 +612,7 @@
     {
         "cca2": "US",
         "city": "Ashburn",
+        "country": "United States",
         "iata": "IAD",
         "lat": 38.94449997,
         "lon": -77.45580292,
@@ -560,6 +622,7 @@
     {
         "cca2": "US",
         "city": "Norfolk",
+        "country": "United States",
         "iata": "ORF",
         "lat": 36.8945999146,
         "lon": -76.2012023926,
@@ -569,6 +632,7 @@
     {
         "cca2": "US",
         "city": "Richmond",
+        "country": "United States",
         "iata": "RIC",
         "lat": 37.5051994324,
         "lon": -77.3197021484,
@@ -578,6 +642,7 @@
     {
         "cca2": "US",
         "city": "Seattle",
+        "country": "United States",
         "iata": "SEA",
         "lat": 47.4490013123,
         "lon": -122.308998108,

@@ -2,6 +2,7 @@
     {
         "cca2": "AL",
         "city": "Tirana",
+        "country": "Albania",
         "iata": "TIA",
         "lat": 41.4146995544,
         "lon": 19.7206001282,
@@ -11,6 +12,7 @@
     {
         "cca2": "AT",
         "city": "Vienna",
+        "country": "Austria",
         "iata": "VIE",
         "lat": 48.1102981567,
         "lon": 16.5697002411,
@@ -20,6 +22,7 @@
     {
         "cca2": "BY",
         "city": "Minsk",
+        "country": "Belarus",
         "iata": "MSQ",
         "lat": 53.9006,
         "lon": 27.599,
@@ -29,6 +32,7 @@
     {
         "cca2": "BE",
         "city": "Brussels",
+        "country": "Belgium",
         "iata": "BRU",
         "lat": 50.9014015198,
         "lon": 4.4844398499,
@@ -38,6 +42,7 @@
     {
         "cca2": "BG",
         "city": "Sofia",
+        "country": "Bulgaria",
         "iata": "SOF",
         "lat": 42.6966934204,
         "lon": 23.4114360809,
@@ -47,6 +52,7 @@
     {
         "cca2": "HR",
         "city": "Zagreb",
+        "country": "Croatia",
         "iata": "ZAG",
         "lat": 45.7429008484,
         "lon": 16.0687999725,
@@ -56,6 +62,7 @@
     {
         "cca2": "CY",
         "city": "Nicosia",
+        "country": "Cyprus",
         "iata": "LCA",
         "lat": 34.8750991821,
         "lon": 33.6249008179,
@@ -65,6 +72,7 @@
     {
         "cca2": "CZ",
         "city": "Prague",
+        "country": "Czech Republic",
         "iata": "PRG",
         "lat": 50.1007995605,
         "lon": 14.2600002289,
@@ -74,6 +82,7 @@
     {
         "cca2": "DK",
         "city": "Copenhagen",
+        "country": "Denmark",
         "iata": "CPH",
         "lat": 55.6179008484,
         "lon": 12.6560001373,
@@ -83,6 +92,7 @@
     {
         "cca2": "EE",
         "city": "Tallinn",
+        "country": "Estonia",
         "iata": "TLL",
         "lat": 59.4132995605,
         "lon": 24.8327999115,
@@ -92,6 +102,7 @@
     {
         "cca2": "FI",
         "city": "Helsinki",
+        "country": "Finland",
         "iata": "HEL",
         "lat": 60.317199707,
         "lon": 24.963300705,
@@ -101,6 +112,7 @@
     {
         "cca2": "FR",
         "city": "Bordeaux",
+        "country": "France",
         "iata": "BOD",
         "lat": 44.82946,
         "lon": -0.58355,
@@ -110,6 +122,7 @@
     {
         "cca2": "FR",
         "city": "Lyon",
+        "country": "France",
         "iata": "LYS",
         "lat": 45.7263,
         "lon": 5.0908,
@@ -119,6 +132,7 @@
     {
         "cca2": "FR",
         "city": "Marseille",
+        "country": "France",
         "iata": "MRS",
         "lat": 43.439271922,
         "lon": 5.2214241028,
@@ -128,6 +142,7 @@
     {
         "cca2": "FR",
         "city": "Paris",
+        "country": "France",
         "iata": "CDG",
         "lat": 49.0127983093,
         "lon": 2.5499999523,
@@ -137,6 +152,7 @@
     {
         "cca2": "GE",
         "city": "Tbilisi",
+        "country": "Georgia",
         "iata": "TBS",
         "lat": 41.6692008972,
         "lon": 44.95470047,
@@ -146,6 +162,7 @@
     {
         "cca2": "DE",
         "city": "Berlin",
+        "country": "Germany",
         "iata": "TXL",
         "lat": 52.5597000122,
         "lon": 13.2876996994,
@@ -155,6 +172,7 @@
     {
         "cca2": "DE",
         "city": "Dusseldorf",
+        "country": "Germany",
         "iata": "DUS",
         "lat": 51.2895011902,
         "lon": 6.7667798996,
@@ -164,6 +182,7 @@
     {
         "cca2": "DE",
         "city": "Frankfurt",
+        "country": "Germany",
         "iata": "FRA",
         "lat": 50.0264015198,
         "lon": 8.543129921,
@@ -173,6 +192,7 @@
     {
         "cca2": "DE",
         "city": "Hamburg",
+        "country": "Germany",
         "iata": "HAM",
         "lat": 53.6304016113,
         "lon": 9.9882297516,
@@ -182,6 +202,7 @@
     {
         "cca2": "DE",
         "city": "Munich",
+        "country": "Germany",
         "iata": "MUC",
         "lat": 48.3538017273,
         "lon": 11.7861003876,
@@ -191,6 +212,7 @@
     {
         "cca2": "DE",
         "city": "Stuttgart",
+        "country": "Germany",
         "iata": "STR",
         "lat": 48.783333,
         "lon": 9.183333,
@@ -200,6 +222,7 @@
     {
         "cca2": "GR",
         "city": "Athens",
+        "country": "Greece",
         "iata": "ATH",
         "lat": 37.9364013672,
         "lon": 23.9444999695,
@@ -209,6 +232,7 @@
     {
         "cca2": "GR",
         "city": "Thessaloniki",
+        "country": "Greece",
         "iata": "SKG",
         "lat": 40.5196990967,
         "lon": 22.9708995819,
@@ -218,6 +242,7 @@
     {
         "cca2": "HU",
         "city": "Budapest",
+        "country": "Hungary",
         "iata": "BUD",
         "lat": 47.4369010925,
         "lon": 19.2555999756,
@@ -227,6 +252,7 @@
     {
         "cca2": "IS",
         "city": "Reykjavik",
+        "country": "Iceland",
         "iata": "KEF",
         "lat": 63.9850006104,
         "lon": -22.6056003571,
@@ -236,6 +262,7 @@
     {
         "cca2": "IE",
         "city": "Cork",
+        "country": "Ireland",
         "iata": "ORK",
         "lat": 51.8413009644,
         "lon": -8.491109848,
@@ -245,6 +272,7 @@
     {
         "cca2": "IE",
         "city": "Dublin",
+        "country": "Ireland",
         "iata": "DUB",
         "lat": 53.4212989807,
         "lon": -6.270070076,
@@ -254,6 +282,7 @@
     {
         "cca2": "IT",
         "city": "Milan",
+        "country": "Italy",
         "iata": "MXP",
         "lat": 45.6305999756,
         "lon": 8.7281103134,
@@ -263,6 +292,7 @@
     {
         "cca2": "IT",
         "city": "Palermo",
+        "country": "Italy",
         "iata": "PMO",
         "lat": 38.16114,
         "lon": 13.31546,
@@ -272,6 +302,7 @@
     {
         "cca2": "IT",
         "city": "Rome",
+        "country": "Italy",
         "iata": "FCO",
         "lat": 41.8045005798,
         "lon": 12.2508001328,
@@ -281,6 +312,7 @@
     {
         "cca2": "LV",
         "city": "Riga",
+        "country": "Latvia",
         "iata": "RIX",
         "lat": 56.9235992432,
         "lon": 23.9710998535,
@@ -290,6 +322,7 @@
     {
         "cca2": "LT",
         "city": "Vilnius",
+        "country": "Lithuania",
         "iata": "VNO",
         "lat": 54.6341018677,
         "lon": 25.2858009338,
@@ -299,6 +332,7 @@
     {
         "cca2": "LU",
         "city": "Luxembourg City",
+        "country": "Luxembourg",
         "iata": "LUX",
         "lat": 49.6265983582,
         "lon": 6.211520195,
@@ -308,6 +342,7 @@
     {
         "cca2": "MD",
         "city": "Chisinau",
+        "country": "Moldova",
         "iata": "KIV",
         "lat": 46.9277000427,
         "lon": 28.9309997559,
@@ -317,6 +352,7 @@
     {
         "cca2": "NL",
         "city": "Amsterdam",
+        "country": "Netherlands",
         "iata": "AMS",
         "lat": 52.3086013794,
         "lon": 4.7638897896,
@@ -326,6 +362,7 @@
     {
         "cca2": "MK",
         "city": "Skopje",
+        "country": "North Macedonia",
         "iata": "SKP",
         "lat": 41.9616012573,
         "lon": 21.6214008331,
@@ -335,6 +372,7 @@
     {
         "cca2": "NO",
         "city": "Oslo",
+        "country": "Norway",
         "iata": "OSL",
         "lat": 60.193901062,
         "lon": 11.100399971,
@@ -344,6 +382,7 @@
     {
         "cca2": "PL",
         "city": "Warsaw",
+        "country": "Poland",
         "iata": "WAW",
         "lat": 52.1656990051,
         "lon": 20.9671001434,
@@ -353,6 +392,7 @@
     {
         "cca2": "PT",
         "city": "Lisbon",
+        "country": "Portugal",
         "iata": "LIS",
         "lat": 38.7812995911,
         "lon": -9.1359195709,
@@ -362,6 +402,7 @@
     {
         "cca2": "RO",
         "city": "Bucharest",
+        "country": "Romania",
         "iata": "OTP",
         "lat": 44.5722007751,
         "lon": 26.1021995544,
@@ -371,6 +412,7 @@
     {
         "cca2": "RU",
         "city": "Moscow",
+        "country": "Russia",
         "iata": "DME",
         "lat": 55.4087982178,
         "lon": 37.9062995911,
@@ -380,6 +422,7 @@
     {
         "cca2": "RU",
         "city": "Saint Petersburg",
+        "country": "Russia",
         "iata": "LED",
         "lat": 59.8003005981,
         "lon": 30.2625007629,
@@ -389,6 +432,7 @@
     {
         "cca2": "RS",
         "city": "Belgrade",
+        "country": "Serbia",
         "iata": "BEG",
         "lat": 44.8184013367,
         "lon": 20.3090991974,
@@ -398,6 +442,7 @@
     {
         "cca2": "SK",
         "city": "Bratislava",
+        "country": "Slovakia",
         "iata": "BTS",
         "lat": 48.1486,
         "lon": 17.1077,
@@ -407,6 +452,7 @@
     {
         "cca2": "ES",
         "city": "Barcelona",
+        "country": "Spain",
         "iata": "BCN",
         "lat": 41.2971000671,
         "lon": 2.0784599781,
@@ -416,6 +462,7 @@
     {
         "cca2": "ES",
         "city": "Madrid",
+        "country": "Spain",
         "iata": "MAD",
         "lat": 40.4936,
         "lon": -3.56676,
@@ -425,6 +472,7 @@
     {
         "cca2": "SE",
         "city": "Gothenburg",
+        "country": "Sweden",
         "iata": "GOT",
         "lat": 57.6627998352,
         "lon": 12.279800415,
@@ -434,6 +482,7 @@
     {
         "cca2": "SE",
         "city": "Stockholm",
+        "country": "Sweden",
         "iata": "ARN",
         "lat": 59.6519012451,
         "lon": 17.9186000824,
@@ -443,6 +492,7 @@
     {
         "cca2": "CH",
         "city": "Geneva",
+        "country": "Switzerland",
         "iata": "GVA",
         "lat": 46.2380981445,
         "lon": 6.1089501381,
@@ -452,6 +502,7 @@
     {
         "cca2": "CH",
         "city": "Zurich",
+        "country": "Switzerland",
         "iata": "ZRH",
         "lat": 47.4646987915,
         "lon": 8.5491695404,
@@ -461,6 +512,7 @@
     {
         "cca2": "TR",
         "city": "Istanbul",
+        "country": "Turkey",
         "iata": "IST",
         "lat": 40.9768981934,
         "lon": 28.8145999908,
@@ -470,6 +522,7 @@
     {
         "cca2": "TR",
         "city": "Izmir",
+        "country": "Turkey",
         "iata": "ADB",
         "lat": 38.32377,
         "lon": 27.14317,
@@ -479,6 +532,7 @@
     {
         "cca2": "UA",
         "city": "Kyiv",
+        "country": "Ukraine",
         "iata": "KBP",
         "lat": 50.3450012207,
         "lon": 30.8946990967,
@@ -488,6 +542,7 @@
     {
         "cca2": "GB",
         "city": "Edinburgh",
+        "country": "United Kingdom",
         "iata": "EDI",
         "lat": 55.9500007629,
         "lon": -3.3724999428,
@@ -497,6 +552,7 @@
     {
         "cca2": "GB",
         "city": "London",
+        "country": "United Kingdom",
         "iata": "LHR",
         "lat": 51.4706001282,
         "lon": -0.4619410038,
@@ -506,6 +562,7 @@
     {
         "cca2": "GB",
         "city": "Manchester",
+        "country": "United Kingdom",
         "iata": "MAN",
         "lat": 53.3536987305,
         "lon": -2.2749500275,

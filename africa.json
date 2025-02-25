@@ -2,6 +2,7 @@
     {
         "cca2": "DZ",
         "city": "Algiers",
+        "country": "Algeria",
         "iata": "ALG",
         "lat": 36.6910018921,
         "lon": 3.2154099941,
@@ -11,6 +12,7 @@
     {
         "cca2": "DZ",
         "city": "Annaba",
+        "country": "Algeria",
         "iata": "AAE",
         "lat": 36.85596,
         "lon": 7.79207,
@@ -20,6 +22,7 @@
     {
         "cca2": "DZ",
         "city": "Oran",
+        "country": "Algeria",
         "iata": "ORN",
         "lat": 35.6911,
         "lon": -0.6416,
@@ -29,6 +32,7 @@
     {
         "cca2": "AO",
         "city": "Luanda",
+        "country": "Angola",
         "iata": "LAD",
         "lat": -8.8583698273,
         "lon": 13.2312002182,
@@ -38,6 +42,7 @@
     {
         "cca2": "BW",
         "city": "Gaborone",
+        "country": "Botswana",
         "iata": "GBE",
         "lat": -24.6282,
         "lon": 25.9231,
@@ -47,6 +52,7 @@
     {
         "cca2": "BF",
         "city": "Ouagadougou",
+        "country": "Burkina Faso",
         "iata": "OUA",
         "lat": 12.3531999588,
         "lon": -1.5124200583,
@@ -56,6 +62,7 @@
     {
         "cca2": "CD",
         "city": "Kinshasa",
+        "country": "DR Congo",
         "iata": "FIH",
         "lat": -4.3857498169,
         "lon": 15.4446001053,
@@ -65,6 +72,7 @@
     {
         "cca2": "CI",
         "city": "Abidjan",
+        "country": "Ivory Coast",
         "iata": "ABJ",
         "lat": 5.292598,
         "lon": -3.999133,
@@ -74,6 +82,7 @@
     {
         "cca2": "CI",
         "city": "Yamoussoukro",
+        "country": "Ivory Coast",
         "iata": "ASK",
         "lat": 6.842178,
         "lon": -5.259932,
@@ -83,6 +92,7 @@
     {
         "cca2": "DJ",
         "city": "Djibouti",
+        "country": "Djibouti",
         "iata": "JIB",
         "lat": 11.5473003387,
         "lon": 43.1595001221,
@@ -92,6 +102,7 @@
     {
         "cca2": "EG",
         "city": "Cairo",
+        "country": "Egypt",
         "iata": "CAI",
         "lat": 30.1219005585,
         "lon": 31.4055995941,
@@ -101,6 +112,7 @@
     {
         "cca2": "GH",
         "city": "Accra",
+        "country": "Ghana",
         "iata": "ACC",
         "lat": 5.614818,
         "lon": -0.205874,
@@ -110,6 +122,7 @@
     {
         "cca2": "KE",
         "city": "Mombasa",
+        "country": "Kenya",
         "iata": "MBA",
         "lat": -4.0348300934,
         "lon": 39.5942001343,
@@ -119,6 +132,7 @@
     {
         "cca2": "KE",
         "city": "Nairobi",
+        "country": "Kenya",
         "iata": "NBO",
         "lat": -1.319239974,
         "lon": 36.9277992249,
@@ -128,6 +142,7 @@
     {
         "cca2": "MG",
         "city": "Antananarivo",
+        "country": "Madagascar",
         "iata": "TNR",
         "lat": -18.91368,
         "lon": 47.53613,
@@ -137,6 +152,7 @@
     {
         "cca2": "MU",
         "city": "Port Louis",
+        "country": "Mauritius",
         "iata": "MRU",
         "lat": -20.4302005768,
         "lon": 57.6836013794,
@@ -146,6 +162,7 @@
     {
         "cca2": "MZ",
         "city": "Maputo",
+        "country": "Mozambique",
         "iata": "MPM",
         "lat": -25.9207992554,
         "lon": 32.5726013184,
@@ -155,6 +172,7 @@
     {
         "cca2": "NA",
         "city": "Windhoek",
+        "country": "Namibia",
         "iata": "WDH",
         "lat": -22.565587,
         "lon": 17.085334,
@@ -164,6 +182,7 @@
     {
         "cca2": "NG",
         "city": "Lagos",
+        "country": "Nigeria",
         "iata": "LOS",
         "lat": 6.5773701668,
         "lon": 3.321160078,
@@ -173,6 +192,7 @@
     {
         "cca2": "RE",
         "city": "Saint-Denis",
+        "country": "Reunion",
         "iata": "RUN",
         "lat": -20.8871002197,
         "lon": 55.5102996826,
@@ -182,6 +202,7 @@
     {
         "cca2": "RW",
         "city": "Kigali",
+        "country": "Rwanda",
         "iata": "KGL",
         "lat": -1.9686299563,
         "lon": 30.1394996643,
@@ -191,6 +212,7 @@
     {
         "cca2": "SN",
         "city": "Dakar",
+        "country": "Senegal",
         "iata": "DKR",
         "lat": 14.7412099,
         "lon": -17.4889771,
@@ -200,6 +222,7 @@
     {
         "cca2": "ZA",
         "city": "Cape Town",
+        "country": "South Africa",
         "iata": "CPT",
         "lat": -33.9648017883,
         "lon": 18.6016998291,
@@ -209,6 +232,7 @@
     {
         "cca2": "ZA",
         "city": "Durban",
+        "country": "South Africa",
         "iata": "DUR",
         "lat": -29.6144444444,
         "lon": 31.1197222222,
@@ -218,6 +242,7 @@
     {
         "cca2": "ZA",
         "city": "Johannesburg",
+        "country": "South Africa",
         "iata": "JNB",
         "lat": -26.133333,
         "lon": 28.25,
@@ -227,6 +252,7 @@
     {
         "cca2": "TZ",
         "city": "Dar es Salaam",
+        "country": "Tanzania",
         "iata": "DAR",
         "lat": -6.8781099319,
         "lon": 39.2025985718,
@@ -236,6 +262,7 @@
     {
         "cca2": "TN",
         "city": "Tunis",
+        "country": "Tunisia",
         "iata": "TUN",
         "lat": 36.8510017395,
         "lon": 10.2271995544,
@@ -245,6 +272,7 @@
     {
         "cca2": "UG",
         "city": "Kampala",
+        "country": "Uganda",
         "iata": "EBB",
         "lat": 0.3152,
         "lon": 32.5816,
@@ -254,6 +282,7 @@
     {
         "cca2": "ZW",
         "city": "Harare",
+        "country": "Zimbabwe",
         "iata": "HRE",
         "lat": -17.9318008423,
         "lon": 31.0928001404,

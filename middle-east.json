@@ -2,6 +2,7 @@
     {
         "cca2": "AM",
         "city": "Yerevan",
+        "country": "Armenia",
         "iata": "EVN",
         "lat": 40.1473007202,
         "lon": 44.3959007263,
@@ -11,6 +12,7 @@
     {
         "cca2": "AZ",
         "city": "Astara",
+        "country": "Azerbaijan",
         "iata": "LLK",
         "lat": 38.7463989258,
         "lon": 48.8180007935,
@@ -20,6 +22,7 @@
     {
         "cca2": "AZ",
         "city": "Baku",
+        "country": "Azerbaijan",
         "iata": "GYD",
         "lat": 40.4674987793,
         "lon": 50.0466995239,
@@ -29,6 +32,7 @@
     {
         "cca2": "BH",
         "city": "Manama",
+        "country": "Bahrain",
         "iata": "BAH",
         "lat": 26.2707996368,
         "lon": 50.6335983276,
@@ -38,6 +42,7 @@
     {
         "cca2": "IQ",
         "city": "Baghdad",
+        "country": "Iraq",
         "iata": "BGW",
         "lat": 33.2625007629,
         "lon": 44.2346000671,
@@ -47,6 +52,7 @@
     {
         "cca2": "IQ",
         "city": "Basra",
+        "country": "Iraq",
         "iata": "BSR",
         "lat": 30.5491008759,
         "lon": 47.6621017456,
@@ -56,6 +62,7 @@
     {
         "cca2": "IQ",
         "city": "Erbil",
+        "country": "Iraq",
         "iata": "EBL",
         "lat": 36.1901,
         "lon": 43.993,
@@ -65,6 +72,7 @@
     {
         "cca2": "IQ",
         "city": "Najaf",
+        "country": "Iraq",
         "iata": "NJF",
         "lat": 31.989722,
         "lon": 44.404167,
@@ -74,6 +82,7 @@
     {
         "cca2": "IQ",
         "city": "Nasiriyah",
+        "country": "Iraq",
         "iata": "XNH",
         "lat": 30.9358005524,
         "lon": 46.0900993347,
@@ -83,6 +92,7 @@
     {
         "cca2": "IQ",
         "city": "Sulaymaniyah",
+        "country": "Iraq",
         "iata": "ISU",
         "lat": 35.5668,
         "lon": 45.4161,
@@ -92,6 +102,7 @@
     {
         "cca2": "IL",
         "city": "Haifa",
+        "country": "Israel",
         "iata": "HFA",
         "lat": 32.78492,
         "lon": 34.96069,
@@ -101,6 +112,7 @@
     {
         "cca2": "IL",
         "city": "Tel Aviv",
+        "country": "Israel",
         "iata": "TLV",
         "lat": 32.0113983154,
         "lon": 34.8866996765,
@@ -110,6 +122,7 @@
     {
         "cca2": "JO",
         "city": "Amman",
+        "country": "Jordan",
         "iata": "AMM",
         "lat": 31.7226009369,
         "lon": 35.9931983948,
@@ -119,6 +132,7 @@
     {
         "cca2": "KW",
         "city": "Kuwait City",
+        "country": "Kuwait",
         "iata": "KWI",
         "lat": 29.226600647,
         "lon": 47.9688987732,
@@ -128,6 +142,7 @@
     {
         "cca2": "LB",
         "city": "Beirut",
+        "country": "Lebanon",
         "iata": "BEY",
         "lat": 33.8208999634,
         "lon": 35.4883995056,
@@ -137,6 +152,7 @@
     {
         "cca2": "OM",
         "city": "Muscat",
+        "country": "Oman",
         "iata": "MCT",
         "lat": 23.5932998657,
         "lon": 58.2844009399,
@@ -155,6 +171,7 @@
     {
         "cca2": "QA",
         "city": "Doha",
+        "country": "Qatar",
         "iata": "DOH",
         "lat": 25.2605946,
         "lon": 51.6137665,
@@ -164,6 +181,7 @@
     {
         "cca2": "SA",
         "city": "Dammam",
+        "country": "Saudi Arabia",
         "iata": "DMM",
         "lat": 26.471200943,
         "lon": 49.7979011536,
@@ -173,6 +191,7 @@
     {
         "cca2": "SA",
         "city": "Jeddah",
+        "country": "Saudi Arabia",
         "iata": "JED",
         "lat": 21.679599762,
         "lon": 39.15650177,
@@ -182,6 +201,7 @@
     {
         "cca2": "SA",
         "city": "Riyadh",
+        "country": "Saudi Arabia",
         "iata": "RUH",
         "lat": 24.9575996399,
         "lon": 46.6987991333,
@@ -191,6 +211,7 @@
     {
         "cca2": "AE",
         "city": "Dubai",
+        "country": "United Arab Emirates",
         "iata": "DXB",
         "lat": 25.2527999878,
         "lon": 55.3643989563,

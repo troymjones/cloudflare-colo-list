@@ -2,6 +2,7 @@
     {
         "cca2": "BD",
         "city": "Chittagong",
+        "country": "Bangladesh",
         "iata": "CGP",
         "lat": 22.2495995,
         "lon": 91.8133011,
@@ -11,6 +12,7 @@
     {
         "cca2": "BD",
         "city": "Dhaka",
+        "country": "Bangladesh",
         "iata": "DAC",
         "lat": 23.843347,
         "lon": 90.397783,
@@ -20,6 +22,7 @@
     {
         "cca2": "BD",
         "city": "Jashore",
+        "country": "Bangladesh",
         "iata": "JSR",
         "lat": 23.1837997437,
         "lon": 89.1607971191,
@@ -29,6 +32,7 @@
     {
         "cca2": "BT",
         "city": "Thimphu",
+        "country": "Bhutan",
         "iata": "PBH",
         "lat": 27.4712,
         "lon": 89.6339,
@@ -38,6 +42,7 @@
     {
         "cca2": "BN",
         "city": "Bandar Seri Begawan",
+        "country": "Brunei",
         "iata": "BWN",
         "lat": 4.903052,
         "lon": 114.939819,
@@ -47,6 +52,7 @@
     {
         "cca2": "KH",
         "city": "Phnom Penh",
+        "country": "Cambodia",
         "iata": "PNH",
         "lat": 11.5466003418,
         "lon": 104.84400177,
@@ -56,6 +62,7 @@
     {
         "cca2": "GU",
         "city": "Hagatna",
+        "country": "Guam",
         "iata": "GUM",
         "lat": 13.4834003448,
         "lon": 144.796005249,
@@ -74,6 +81,7 @@
     {
         "cca2": "IN",
         "city": "Ahmedabad",
+        "country": "India",
         "iata": "AMD",
         "lat": 23.0225,
         "lon": 72.5714,
@@ -83,6 +91,7 @@
     {
         "cca2": "IN",
         "city": "Bangalore",
+        "country": "India",
         "iata": "BLR",
         "lat": 13.7835719,
         "lon": 76.6165937,
@@ -92,6 +101,7 @@
     {
         "cca2": "IN",
         "city": "Bhubaneswar",
+        "country": "India",
         "iata": "BBI",
         "lat": 20.2961,
         "lon": 85.8245,
@@ -101,6 +111,7 @@
     {
         "cca2": "IN",
         "city": "Chandigarh",
+        "country": "India",
         "iata": "IXC",
         "lat": 30.673500061,
         "lon": 76.7884979248,
@@ -110,6 +121,7 @@
     {
         "cca2": "IN",
         "city": "Chennai",
+        "country": "India",
         "iata": "MAA",
         "lat": 12.9900054932,
         "lon": 80.1692962646,
@@ -119,6 +131,7 @@
     {
         "cca2": "IN",
         "city": "Hyderabad",
+        "country": "India",
         "iata": "HYD",
         "lat": 17.2313175201,
         "lon": 78.4298553467,
@@ -128,6 +141,7 @@
     {
         "cca2": "IN",
         "city": "Kannur",
+        "country": "India",
         "iata": "CNN",
         "lat": 11.915858,
         "lon": 75.55094,
@@ -137,6 +151,7 @@
     {
         "cca2": "IN",
         "city": "Kanpur",
+        "country": "India",
         "iata": "KNU",
         "lat": 26.4499,
         "lon": 80.3319,
@@ -146,6 +161,7 @@
     {
         "cca2": "IN",
         "city": "Kochi",
+        "country": "India",
         "iata": "COK",
         "lat": 9.9312,
         "lon": 76.2673,
@@ -155,6 +171,7 @@
     {
         "cca2": "IN",
         "city": "Kolkata",
+        "country": "India",
         "iata": "CCU",
         "lat": 22.6476933,
         "lon": 88.4349249,
@@ -164,6 +181,7 @@
     {
         "cca2": "IN",
         "city": "Mumbai",
+        "country": "India",
         "iata": "BOM",
         "lat": 19.0886993408,
         "lon": 72.8678970337,
@@ -173,6 +191,7 @@
     {
         "cca2": "IN",
         "city": "Nagpur",
+        "country": "India",
         "iata": "NAG",
         "lat": 21.1610714,
         "lon": 79.0024702,
@@ -182,6 +201,7 @@
     {
         "cca2": "IN",
         "city": "New Delhi",
+        "country": "India",
         "iata": "DEL",
         "lat": 28.5664997101,
         "lon": 77.1031036377,
@@ -191,6 +211,7 @@
     {
         "cca2": "IN",
         "city": "Patna",
+        "country": "India",
         "iata": "PAT",
         "lat": 25.591299057,
         "lon": 85.0879974365,
@@ -200,6 +221,7 @@
     {
         "cca2": "ID",
         "city": "Denpasar",
+        "country": "Indonesia",
         "iata": "DPS",
         "lat": -8.748169899,
         "lon": 115.1669998169,
@@ -209,6 +231,7 @@
     {
         "cca2": "ID",
         "city": "Jakarta",
+        "country": "Indonesia",
         "iata": "CGK",
         "lat": -6.1275229,
         "lon": 106.6515118,
@@ -218,6 +241,7 @@
     {
         "cca2": "ID",
         "city": "Yogyakarta",
+        "country": "Indonesia",
         "iata": "JOG",
         "lat": -7.7881798744,
         "lon": 110.4319992065,
@@ -227,6 +251,7 @@
     {
         "cca2": "JP",
         "city": "Fukuoka",
+        "country": "Japan",
         "iata": "FUK",
         "lat": 33.5902,
         "lon": 130.4017,
@@ -236,6 +261,7 @@
     {
         "cca2": "JP",
         "city": "Naha",
+        "country": "Japan",
         "iata": "OKA",
         "lat": 26.1958,
         "lon": 127.646,
@@ -245,6 +271,7 @@
     {
         "cca2": "JP",
         "city": "Osaka",
+        "country": "Japan",
         "iata": "KIX",
         "lat": 34.4272994995,
         "lon": 135.244003296,
@@ -254,6 +281,7 @@
     {
         "cca2": "JP",
         "city": "Tokyo",
+        "country": "Japan",
         "iata": "NRT",
         "lat": 35.7647018433,
         "lon": 140.386001587,
@@ -263,6 +291,7 @@
     {
         "cca2": "KZ",
         "city": "Aktobe",
+        "country": "Kazakhstan",
         "iata": "AKX",
         "lat": 50.286922,
         "lon": 57.224121,
@@ -272,6 +301,7 @@
     {
         "cca2": "KZ",
         "city": "Almaty",
+        "country": "Kazakhstan",
         "iata": "ALA",
         "lat": 43.3521003723,
         "lon": 77.0404968262,
@@ -281,6 +311,7 @@
     {
         "cca2": "KZ",
         "city": "Astana",
+        "country": "Kazakhstan",
         "iata": "NQZ",
         "lat": 51.167801,
         "lon": 71.418893,
@@ -290,6 +321,7 @@
     {
         "cca2": "KR",
         "city": "Seoul",
+        "country": "South Korea",
         "iata": "ICN",
         "lat": 37.4691009521,
         "lon": 126.450996399,
@@ -299,6 +331,7 @@
     {
         "cca2": "LA",
         "city": "Vientiane",
+        "country": "Laos",
         "iata": "VTE",
         "lat": 17.9757,
         "lon": 102.5683,
@@ -317,6 +350,7 @@
     {
         "cca2": "MY",
         "city": "Johor Bahru",
+        "country": "Malaysia",
         "iata": "JHB",
         "lat": 1.635848,
         "lon": 103.665943,
@@ -326,6 +360,7 @@
     {
         "cca2": "MY",
         "city": "Kuala Lumpur",
+        "country": "Malaysia",
         "iata": "KUL",
         "lat": 2.745579958,
         "lon": 101.709999084,
@@ -335,6 +370,7 @@
     {
         "cca2": "MY",
         "city": "Kuching",
+        "country": "Malaysia",
         "iata": "KCH",
         "lat": 1.709727,
         "lon": 110.353455,
@@ -344,6 +380,7 @@
     {
         "cca2": "MV",
         "city": "Male",
+        "country": "Maldives",
         "iata": "MLE",
         "lat": 4.1748,
         "lon": 73.50888,
@@ -353,6 +390,7 @@
     {
         "cca2": "MN",
         "city": "Ulaanbaatar",
+        "country": "Mongolia",
         "iata": "ULN",
         "lat": 47.8431015015,
         "lon": 106.766998291,
@@ -362,6 +400,7 @@
     {
         "cca2": "NP",
         "city": "Kathmandu",
+        "country": "Nepal",
         "iata": "KTM",
         "lat": 27.6965999603,
         "lon": 85.3591003418,
@@ -371,6 +410,7 @@
     {
         "cca2": "PK",
         "city": "Islamabad",
+        "country": "Pakistan",
         "iata": "ISB",
         "lat": 33.6166992188,
         "lon": 73.0991973877,
@@ -380,6 +420,7 @@
     {
         "cca2": "PK",
         "city": "Karachi",
+        "country": "Pakistan",
         "iata": "KHI",
         "lat": 24.9064998627,
         "lon": 67.1607971191,
@@ -389,6 +430,7 @@
     {
         "cca2": "PK",
         "city": "Lahore",
+        "country": "Pakistan",
         "iata": "LHE",
         "lat": 31.5216007233,
         "lon": 74.4036026001,
@@ -398,6 +440,7 @@
     {
         "cca2": "PH",
         "city": "Cagayan de Oro",
+        "country": "Philippines",
         "iata": "CGY",
         "lat": 8.4156198502,
         "lon": 124.611000061,
@@ -407,6 +450,7 @@
     {
         "cca2": "PH",
         "city": "Cebu",
+        "country": "Philippines",
         "iata": "CEB",
         "lat": 10.3074998856,
         "lon": 123.978996277,
@@ -416,6 +460,7 @@
     {
         "cca2": "PH",
         "city": "Manila",
+        "country": "Philippines",
         "iata": "MNL",
         "lat": 14.508600235,
         "lon": 121.019996643,
@@ -425,6 +470,7 @@
     {
         "cca2": "PH",
         "city": "Tarlac City",
+        "country": "Philippines",
         "iata": "CRK",
         "lat": 15.1859,
         "lon": 120.5599,
@@ -434,6 +480,7 @@
     {
         "cca2": "RU",
         "city": "Krasnoyarsk",
+        "country": "Russia",
         "iata": "KJA",
         "lat": 56.0153,
         "lon": 92.8932,
@@ -443,6 +490,7 @@
     {
         "cca2": "RU",
         "city": "Yekaterinburg",
+        "country": "Russia",
         "iata": "SVX",
         "lat": 56.8431,
         "lon": 60.6454,
@@ -452,6 +500,7 @@
     {
         "cca2": "SG",
         "city": "Singapore",
+        "country": "Singapore",
         "iata": "SIN",
         "lat": 1.3501900434,
         "lon": 103.994003296,
@@ -461,6 +510,7 @@
     {
         "cca2": "LK",
         "city": "Colombo",
+        "country": "Sri Lanka",
         "iata": "CMB",
         "lat": 7.1807599068,
         "lon": 79.8841018677,
@@ -470,6 +520,7 @@
     {
         "cca2": "TW",
         "city": "Kaohsiung City",
+        "country": "Taiwan",
         "iata": "KHH",
         "lat": 22.5771007538,
         "lon": 120.3499984741,
@@ -488,6 +539,7 @@
     {
         "cca2": "TH",
         "city": "Bangkok",
+        "country": "Thailand",
         "iata": "BKK",
         "lat": 13.6810998917,
         "lon": 100.747001648,
@@ -497,6 +549,7 @@
     {
         "cca2": "TH",
         "city": "Chiang Mai",
+        "country": "Thailand",
         "iata": "CNX",
         "lat": 18.7667999268,
         "lon": 98.962600708,
@@ -506,6 +559,7 @@
     {
         "cca2": "TH",
         "city": "Surat Thani",
+        "country": "Thailand",
         "iata": "URT",
         "lat": 9.1325998306,
         "lon": 99.135597229,
@@ -515,6 +569,7 @@
     {
         "cca2": "VN",
         "city": "Da Nang",
+        "country": "Vietnam",
         "iata": "DAD",
         "lat": 16.02636,
         "lon": 108.20869,
@@ -524,6 +579,7 @@
     {
         "cca2": "VN",
         "city": "Hanoi",
+        "country": "Vietnam",
         "iata": "HAN",
         "lat": 21.221200943,
         "lon": 105.806999206,
@@ -533,6 +589,7 @@
     {
         "cca2": "VN",
         "city": "Ho Chi Minh City",
+        "country": "Vietnam",
         "iata": "SGN",
         "lat": 10.8187999725,
         "lon": 106.652000427,

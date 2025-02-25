@@ -2,6 +2,7 @@
     {
         "cca2": "AU",
         "city": "Adelaide",
+        "country": "Australia",
         "iata": "ADL",
         "lat": -34.9431729,
         "lon": 138.5335637,
@@ -11,6 +12,7 @@
     {
         "cca2": "AU",
         "city": "Brisbane",
+        "country": "Australia",
         "iata": "BNE",
         "lat": -27.3841991425,
         "lon": 153.117004394,
@@ -20,6 +22,7 @@
     {
         "cca2": "AU",
         "city": "Canberra",
+        "country": "Australia",
         "iata": "CBR",
         "lat": -35.3069000244,
         "lon": 149.1950073242,
@@ -29,6 +32,7 @@
     {
         "cca2": "AU",
         "city": "Hobart",
+        "country": "Australia",
         "iata": "HBA",
         "lat": -42.883209,
         "lon": 147.331665,
@@ -38,6 +42,7 @@
     {
         "cca2": "AU",
         "city": "Melbourne",
+        "country": "Australia",
         "iata": "MEL",
         "lat": -37.6733016968,
         "lon": 144.843002319,
@@ -47,6 +52,7 @@
     {
         "cca2": "AU",
         "city": "Perth",
+        "country": "Australia",
         "iata": "PER",
         "lat": -31.9402999878,
         "lon": 115.967002869,
@@ -56,6 +62,7 @@
     {
         "cca2": "AU",
         "city": "Sydney",
+        "country": "Australia",
         "iata": "SYD",
         "lat": -33.9460983276,
         "lon": 151.177001953,
@@ -65,6 +72,7 @@
     {
         "cca2": "FJ",
         "city": "Suva",
+        "country": "Fiji",
         "iata": "SUV",
         "lat": -18.11319,
         "lon": 178.43859,
@@ -74,6 +82,7 @@
     {
         "cca2": "PF",
         "city": "Tahiti",
+        "country": "French Polynesia",
         "iata": "PPT",
         "lat": -17.5536994934,
         "lon": -149.606994629,
@@ -83,6 +92,7 @@
     {
         "cca2": "NC",
         "city": "Noumea",
+        "country": "New Caledonia",
         "iata": "NOU",
         "lat": -22.0146007538,
         "lon": 166.212997436,
@@ -92,6 +102,7 @@
     {
         "cca2": "NZ",
         "city": "Auckland",
+        "country": "New Zealand",
         "iata": "AKL",
         "lat": -37.0080986023,
         "lon": 174.792007446,
@@ -101,6 +112,7 @@
     {
         "cca2": "NZ",
         "city": "Christchurch",
+        "country": "New Zealand",
         "iata": "CHC",
         "lat": -43.4893989563,
         "lon": 172.5319976807,
