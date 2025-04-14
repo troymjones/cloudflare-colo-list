@@ -9,7 +9,6 @@ import pandas as pd
 
 os.chdir(os.path.split(os.path.realpath(sys.argv[0]))[0])
 
-
 def get(url, retry=5):
     try:
         r = requests.get(url, timeout=5)
