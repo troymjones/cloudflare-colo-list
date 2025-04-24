@@ -240,7 +240,6 @@ EVN,"Yerevan, Armenia",Middle East,Yerevan,Armenia,AM,EVN,40.1473007202,44.39590
 JOG,"Yogyakarta, Indonesia",Asia Pacific,Yogyakarta,Indonesia,ID,JOG,-7.7881798744,110.4319992065
 ZGN,"Zhongshan, China",Asia,Zhongshan,China,CN,,,
 CGY,"Cagayan de Oro, Philippines",Asia Pacific,Cagayan de Oro,Philippines,PH,CGY,8.4156198502,124.611000061
-HYN,"Taizhou, China",Asia,Taizhou,China,CN,,,
 COK,"Kochi, India",Asia Pacific,Kochi,India,IN,COK,9.9312,76.2673
 DPS,"Denpasar, Indonesia",Asia Pacific,Denpasar,Indonesia,ID,DPS,-8.748169899,115.1669998169
 CNN,"Kannur, India",Asia Pacific,Kannur,India,IN,CNN,11.915858,75.55094
@@ -268,6 +267,7 @@ NNG,"Nanning, China",Asia,Nanning,China,CN,,,
 KCH,"Kuching, Malaysia",Asia Pacific,Kuching,Malaysia,MY,KCH,1.709727,110.353455
 AKX,"Aktobe, Kazakhstan",Asia Pacific,Aktobe,Kazakhstan,KZ,AKX,50.286922,57.224121
 TEN,"Tongren, China",Asia,Tongren,China,CN,,,
+HYN,"Taizhou, China",Asia,Taizhou,China,CN,,,
 IAD,"Ashburn, VA, United States",North America,Ashburn,United States,US,IAD,38.94449997,-77.45580292
 ATL,"Atlanta, GA, United States",North America,Atlanta,United States,US,ATL,33.6366996765,-84.4281005859
 BOS,"Boston, MA, United States",North America,Boston,United States,US,BOS,42.36429977,-71.00520325
