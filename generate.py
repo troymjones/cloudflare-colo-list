@@ -158,6 +158,22 @@ def generate():
 
     regions = json.load(open('regions.json', 'r', encoding='utf-8'))["regions"]
     country_to_cloudflare_region = {}
+    cf_region_to_pops = {
+        "EEU": [],
+        "ENAM": [],
+        "ME": [],
+        "NAF": [],
+        "NEAS": [],
+        "NSAM": [],
+        "OC": [],
+        "SAF": [],
+        "SAS": [],
+        "SEAS": [],
+        "SSAM": [],
+        "WEU": [],
+        "WNAM": [],
+    }
+
     for region in regions:
         region_code = region["region_code"]
         for country in region["countries"]:
@@ -231,11 +247,12 @@ def generate():
             print(iata, 'not found in cloudflare status')
             data[iata] = location
             data[iata]['name'] = location['city'] + ', ' + country_codes[location['cca2']]
-        
+
         data[iata]["cf_lb_region"] = country_to_cloudflare_region[location["cca2"]]
         if isinstance(country_to_cloudflare_region[location["cca2"]], list):
             if iata in pop_to_cf_lb_region:
                 data[iata]["cf_lb_region"] = pop_to_cf_lb_region[iata]
+                cf_region_to_pops[pop_to_cf_lb_region[iata]].append(iata)
             else:
                 print(f"Error\n{data[iata]}\n {iata} has multiple cf_lb_regions: {country_to_cloudflare_region[location['cca2']]}")
                 sys.exit()
@@ -267,7 +284,7 @@ def generate():
     unicodedata_dict(middle_east)
     unicodedata_dict(oceania)
 
-    return data, speed_locations, north_america, europe, asia, africa, south_america, middle_east, oceania
+    return data, speed_locations, north_america, europe, asia, africa, south_america, middle_east, oceania, cf_region_to_pops
 
 def unicodedata_dict(data):
     for k in data:
@@ -282,7 +299,7 @@ def unicodedata_dict(data):
     return data
 
 if __name__ == '__main__':
-    match_data, location_data, north_america, europe, asia, africa, south_america, middle_east, oceania = generate()
+    match_data, location_data, north_america, europe, asia, africa, south_america, middle_east, oceania, region_pops = generate()
 
     locations_json_content = json.dumps(location_data, indent=4, ensure_ascii=False, sort_keys=True)
     dc_colos_json_content = json.dumps(match_data, indent=4, ensure_ascii=False, sort_keys=True)
@@ -293,6 +310,7 @@ if __name__ == '__main__':
     south_america_json_content = json.dumps(south_america, indent=4, ensure_ascii=False, sort_keys=True)
     middle_east_json_content = json.dumps(middle_east, indent=4, ensure_ascii=False, sort_keys=True)
     oceania_json_content = json.dumps(oceania, indent=4, ensure_ascii=False, sort_keys=True)
+    cf_region_pops_json_content = json.dumps(region_pops, indent=4, ensure_ascii=False, sort_keys=True)
     content_changed = True
 
     if (os.path.exists('DC-Colos.json')):
@@ -333,6 +351,9 @@ if __name__ == '__main__':
 
     with open('oceania.json', 'w', encoding='utf-8') as f:
         f.write(oceania_json_content)
+    
+    with open('cloudflare_lb_region_pops.json', 'w', encoding='utf-8') as f:
+        f.write(cf_region_pops_json_content)
 
     # save as csv
     dt = pd.DataFrame(match_data).T
