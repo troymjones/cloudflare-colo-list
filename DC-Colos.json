@@ -1,6 +1,7 @@
 {
     "AAE": {
         "cca2": "DZ",
+        "cf_lb_region": "NAF",
         "city": "Annaba",
         "country": "Algeria",
         "iata": "AAE",
@@ -11,6 +12,7 @@
     },
     "ABJ": {
         "cca2": "CI",
+        "cf_lb_region": "NAF",
         "city": "Abidjan",
         "country": "Ivory Coast",
         "iata": "ABJ",
@@ -21,6 +23,7 @@
     },
     "ABQ": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Albuquerque",
         "country": "United States",
         "iata": "ABQ",
@@ -31,6 +34,7 @@
     },
     "ACC": {
         "cca2": "GH",
+        "cf_lb_region": "NAF",
         "city": "Accra",
         "country": "Ghana",
         "iata": "ACC",
@@ -41,6 +45,7 @@
     },
     "ADB": {
         "cca2": "TR",
+        "cf_lb_region": "EEU",
         "city": "Izmir",
         "country": "Turkey",
         "iata": "ADB",
@@ -51,6 +56,7 @@
     },
     "ADL": {
         "cca2": "AU",
+        "cf_lb_region": "OC",
         "city": "Adelaide",
         "country": "Australia",
         "iata": "ADL",
@@ -61,6 +67,7 @@
     },
     "AKL": {
         "cca2": "NZ",
+        "cf_lb_region": "OC",
         "city": "Auckland",
         "country": "New Zealand",
         "iata": "AKL",
@@ -71,6 +78,7 @@
     },
     "AKX": {
         "cca2": "KZ",
+        "cf_lb_region": "SAS",
         "city": "Aktobe",
         "country": "Kazakhstan",
         "iata": "AKX",
@@ -81,6 +89,7 @@
     },
     "ALA": {
         "cca2": "KZ",
+        "cf_lb_region": "SAS",
         "city": "Almaty",
         "country": "Kazakhstan",
         "iata": "ALA",
@@ -91,6 +100,7 @@
     },
     "ALG": {
         "cca2": "DZ",
+        "cf_lb_region": "NAF",
         "city": "Algiers",
         "country": "Algeria",
         "iata": "ALG",
@@ -101,6 +111,7 @@
     },
     "AMD": {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Ahmedabad",
         "country": "India",
         "iata": "AMD",
@@ -111,6 +122,7 @@
     },
     "AMM": {
         "cca2": "JO",
+        "cf_lb_region": "ME",
         "city": "Amman",
         "country": "Jordan",
         "iata": "AMM",
@@ -121,6 +133,7 @@
     },
     "AMS": {
         "cca2": "NL",
+        "cf_lb_region": "WEU",
         "city": "Amsterdam",
         "country": "Netherlands",
         "iata": "AMS",
@@ -131,6 +144,7 @@
     },
     "ANC": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Anchorage",
         "country": "United States",
         "iata": "ANC",
@@ -141,6 +155,7 @@
     },
     "ARI": {
         "cca2": "CL",
+        "cf_lb_region": "SSAM",
         "city": "Arica",
         "country": "Chile",
         "iata": "ARI",
@@ -151,6 +166,7 @@
     },
     "ARN": {
         "cca2": "SE",
+        "cf_lb_region": "EEU",
         "city": "Stockholm",
         "country": "Sweden",
         "iata": "ARN",
@@ -161,6 +177,7 @@
     },
     "ARU": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Aracatuba",
         "country": "Brazil",
         "iata": "ARU",
@@ -171,6 +188,7 @@
     },
     "ASK": {
         "cca2": "CI",
+        "cf_lb_region": "NAF",
         "city": "Yamoussoukro",
         "country": "Ivory Coast",
         "iata": "ASK",
@@ -181,6 +199,7 @@
     },
     "ASU": {
         "cca2": "PY",
+        "cf_lb_region": "SSAM",
         "city": "Asuncion",
         "country": "Paraguay",
         "iata": "ASU",
@@ -191,6 +210,7 @@
     },
     "ATH": {
         "cca2": "GR",
+        "cf_lb_region": "EEU",
         "city": "Athens",
         "country": "Greece",
         "iata": "ATH",
@@ -201,6 +221,7 @@
     },
     "ATL": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Atlanta",
         "country": "United States",
         "iata": "ATL",
@@ -211,6 +232,7 @@
     },
     "AUS": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Austin",
         "country": "United States",
         "iata": "AUS",
@@ -221,6 +243,7 @@
     },
     "BAH": {
         "cca2": "BH",
+        "cf_lb_region": "ME",
         "city": "Manama",
         "country": "Bahrain",
         "iata": "BAH",
@@ -231,6 +254,7 @@
     },
     "BAQ": {
         "cca2": "CO",
+        "cf_lb_region": "NSAM",
         "city": "Barranquilla",
         "country": "Colombia",
         "iata": "BAQ",
@@ -241,6 +265,7 @@
     },
     "BBI": {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Bhubaneswar",
         "country": "India",
         "iata": "BBI",
@@ -251,6 +276,7 @@
     },
     "BCN": {
         "cca2": "ES",
+        "cf_lb_region": "WEU",
         "city": "Barcelona",
         "country": "Spain",
         "iata": "BCN",
@@ -261,6 +287,7 @@
     },
     "BEG": {
         "cca2": "RS",
+        "cf_lb_region": "EEU",
         "city": "Belgrade",
         "country": "Serbia",
         "iata": "BEG",
@@ -271,6 +298,7 @@
     },
     "BEL": {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Belem",
         "country": "Brazil",
         "iata": "BEL",
@@ -281,6 +309,7 @@
     },
     "BEY": {
         "cca2": "LB",
+        "cf_lb_region": "ME",
         "city": "Beirut",
         "country": "Lebanon",
         "iata": "BEY",
@@ -291,6 +320,7 @@
     },
     "BGI": {
         "cca2": "BB",
+        "cf_lb_region": "ENAM",
         "city": "Bridgetown",
         "country": "Barbados",
         "iata": "BGI",
@@ -301,6 +331,7 @@
     },
     "BGR": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Bangor",
         "country": "United States",
         "iata": "BGR",
@@ -311,6 +342,7 @@
     },
     "BGW": {
         "cca2": "IQ",
+        "cf_lb_region": "ME",
         "city": "Baghdad",
         "country": "Iraq",
         "iata": "BGW",
@@ -328,6 +360,7 @@
     },
     "BKK": {
         "cca2": "TH",
+        "cf_lb_region": "SEAS",
         "city": "Bangkok",
         "country": "Thailand",
         "iata": "BKK",
@@ -338,6 +371,7 @@
     },
     "BLR": {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Bangalore",
         "country": "India",
         "iata": "BLR",
@@ -348,6 +382,7 @@
     },
     "BNA": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Nashville",
         "country": "United States",
         "iata": "BNA",
@@ -358,6 +393,7 @@
     },
     "BNE": {
         "cca2": "AU",
+        "cf_lb_region": "OC",
         "city": "Brisbane",
         "country": "Australia",
         "iata": "BNE",
@@ -368,6 +404,7 @@
     },
     "BNU": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Blumenau",
         "country": "Brazil",
         "iata": "BNU",
@@ -378,6 +415,7 @@
     },
     "BOD": {
         "cca2": "FR",
+        "cf_lb_region": "WEU",
         "city": "Bordeaux",
         "country": "France",
         "iata": "BOD",
@@ -388,6 +426,7 @@
     },
     "BOG": {
         "cca2": "CO",
+        "cf_lb_region": "NSAM",
         "city": "Bogota",
         "country": "Colombia",
         "iata": "BOG",
@@ -398,6 +437,7 @@
     },
     "BOM": {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Mumbai",
         "country": "India",
         "iata": "BOM",
@@ -408,6 +448,7 @@
     },
     "BOS": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Boston",
         "country": "United States",
         "iata": "BOS",
@@ -418,6 +459,7 @@
     },
     "BRU": {
         "cca2": "BE",
+        "cf_lb_region": "WEU",
         "city": "Brussels",
         "country": "Belgium",
         "iata": "BRU",
@@ -428,6 +470,7 @@
     },
     "BSB": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Brasilia",
         "country": "Brazil",
         "iata": "BSB",
@@ -438,6 +481,7 @@
     },
     "BSR": {
         "cca2": "IQ",
+        "cf_lb_region": "ME",
         "city": "Basra",
         "country": "Iraq",
         "iata": "BSR",
@@ -448,6 +492,7 @@
     },
     "BTS": {
         "cca2": "SK",
+        "cf_lb_region": "EEU",
         "city": "Bratislava",
         "country": "Slovakia",
         "iata": "BTS",
@@ -458,6 +503,7 @@
     },
     "BUD": {
         "cca2": "HU",
+        "cf_lb_region": "EEU",
         "city": "Budapest",
         "country": "Hungary",
         "iata": "BUD",
@@ -468,6 +514,7 @@
     },
     "BUF": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Buffalo",
         "country": "United States",
         "iata": "BUF",
@@ -478,6 +525,7 @@
     },
     "BWN": {
         "cca2": "BN",
+        "cf_lb_region": "SEAS",
         "city": "Bandar Seri Begawan",
         "country": "Brunei",
         "iata": "BWN",
@@ -488,6 +536,7 @@
     },
     "CAI": {
         "cca2": "EG",
+        "cf_lb_region": "NAF",
         "city": "Cairo",
         "country": "Egypt",
         "iata": "CAI",
@@ -505,6 +554,7 @@
     },
     "CAW": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Campos dos Goytacazes",
         "country": "Brazil",
         "iata": "CAW",
@@ -515,6 +565,7 @@
     },
     "CBR": {
         "cca2": "AU",
+        "cf_lb_region": "OC",
         "city": "Canberra",
         "country": "Australia",
         "iata": "CBR",
@@ -525,6 +576,7 @@
     },
     "CCU": {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Kolkata",
         "country": "India",
         "iata": "CCU",
@@ -535,6 +587,7 @@
     },
     "CDG": {
         "cca2": "FR",
+        "cf_lb_region": "WEU",
         "city": "Paris",
         "country": "France",
         "iata": "CDG",
@@ -545,6 +598,7 @@
     },
     "CEB": {
         "cca2": "PH",
+        "cf_lb_region": "SEAS",
         "city": "Cebu",
         "country": "Philippines",
         "iata": "CEB",
@@ -555,6 +609,7 @@
     },
     "CFC": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Cacador",
         "country": "Brazil",
         "iata": "CFC",
@@ -565,6 +620,7 @@
     },
     "CGB": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Cuiaba",
         "country": "Brazil",
         "iata": "CGB",
@@ -582,6 +638,7 @@
     },
     "CGK": {
         "cca2": "ID",
+        "cf_lb_region": "SEAS",
         "city": "Jakarta",
         "country": "Indonesia",
         "iata": "CGK",
@@ -599,6 +656,7 @@
     },
     "CGP": {
         "cca2": "BD",
+        "cf_lb_region": "SEAS",
         "city": "Chittagong",
         "country": "Bangladesh",
         "iata": "CGP",
@@ -609,6 +667,7 @@
     },
     "CGY": {
         "cca2": "PH",
+        "cf_lb_region": "SEAS",
         "city": "Cagayan de Oro",
         "country": "Philippines",
         "iata": "CGY",
@@ -619,6 +678,7 @@
     },
     "CHC": {
         "cca2": "NZ",
+        "cf_lb_region": "OC",
         "city": "Christchurch",
         "country": "New Zealand",
         "iata": "CHC",
@@ -636,6 +696,7 @@
     },
     "CLE": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Cleveland",
         "country": "United States",
         "iata": "CLE",
@@ -646,6 +707,7 @@
     },
     "CLO": {
         "cca2": "CO",
+        "cf_lb_region": "NSAM",
         "city": "Cali",
         "country": "Colombia",
         "iata": "CLO",
@@ -656,6 +718,7 @@
     },
     "CLT": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Charlotte",
         "country": "United States",
         "iata": "CLT",
@@ -666,6 +729,7 @@
     },
     "CMB": {
         "cca2": "LK",
+        "cf_lb_region": "SAS",
         "city": "Colombo",
         "country": "Sri Lanka",
         "iata": "CMB",
@@ -676,6 +740,7 @@
     },
     "CMH": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Columbus",
         "country": "United States",
         "iata": "CMH",
@@ -686,6 +751,7 @@
     },
     "CNF": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Belo Horizonte",
         "country": "Brazil",
         "iata": "CNF",
@@ -696,6 +762,7 @@
     },
     "CNN": {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Kannur",
         "country": "India",
         "iata": "CNN",
@@ -706,6 +773,7 @@
     },
     "CNX": {
         "cca2": "TH",
+        "cf_lb_region": "SEAS",
         "city": "Chiang Mai",
         "country": "Thailand",
         "iata": "CNX",
@@ -716,6 +784,7 @@
     },
     "COK": {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Kochi",
         "country": "India",
         "iata": "COK",
@@ -726,6 +795,7 @@
     },
     "COR": {
         "cca2": "AR",
+        "cf_lb_region": "SSAM",
         "city": "Cordoba",
         "country": "Argentina",
         "iata": "COR",
@@ -736,6 +806,7 @@
     },
     "CPH": {
         "cca2": "DK",
+        "cf_lb_region": "EEU",
         "city": "Copenhagen",
         "country": "Denmark",
         "iata": "CPH",
@@ -746,6 +817,7 @@
     },
     "CPT": {
         "cca2": "ZA",
+        "cf_lb_region": "SAF",
         "city": "Cape Town",
         "country": "South Africa",
         "iata": "CPT",
@@ -756,6 +828,7 @@
     },
     "CRK": {
         "cca2": "PH",
+        "cf_lb_region": "SEAS",
         "city": "Tarlac City",
         "country": "Philippines",
         "iata": "CRK",
@@ -780,6 +853,7 @@
     },
     "CWB": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Curitiba",
         "country": "Brazil",
         "iata": "CWB",
@@ -797,6 +871,7 @@
     },
     "DAC": {
         "cca2": "BD",
+        "cf_lb_region": "SEAS",
         "city": "Dhaka",
         "country": "Bangladesh",
         "iata": "DAC",
@@ -807,6 +882,7 @@
     },
     "DAD": {
         "cca2": "VN",
+        "cf_lb_region": "SEAS",
         "city": "Da Nang",
         "country": "Vietnam",
         "iata": "DAD",
@@ -817,6 +893,7 @@
     },
     "DAR": {
         "cca2": "TZ",
+        "cf_lb_region": "SAF",
         "city": "Dar es Salaam",
         "country": "Tanzania",
         "iata": "DAR",
@@ -827,6 +904,7 @@
     },
     "DEL": {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "New Delhi",
         "country": "India",
         "iata": "DEL",
@@ -837,6 +915,7 @@
     },
     "DEN": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Denver",
         "country": "United States",
         "iata": "DEN",
@@ -847,6 +926,7 @@
     },
     "DFW": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Dallas",
         "country": "United States",
         "iata": "DFW",
@@ -857,6 +937,7 @@
     },
     "DKR": {
         "cca2": "SN",
+        "cf_lb_region": "NAF",
         "city": "Dakar",
         "country": "Senegal",
         "iata": "DKR",
@@ -874,6 +955,7 @@
     },
     "DME": {
         "cca2": "RU",
+        "cf_lb_region": "EEU",
         "city": "Moscow",
         "country": "Russia",
         "iata": "DME",
@@ -884,6 +966,7 @@
     },
     "DMM": {
         "cca2": "SA",
+        "cf_lb_region": "ME",
         "city": "Dammam",
         "country": "Saudi Arabia",
         "iata": "DMM",
@@ -894,6 +977,7 @@
     },
     "DOH": {
         "cca2": "QA",
+        "cf_lb_region": "ME",
         "city": "Doha",
         "country": "Qatar",
         "iata": "DOH",
@@ -904,6 +988,7 @@
     },
     "DPS": {
         "cca2": "ID",
+        "cf_lb_region": "SEAS",
         "city": "Denpasar",
         "country": "Indonesia",
         "iata": "DPS",
@@ -914,6 +999,7 @@
     },
     "DTW": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Detroit",
         "country": "United States",
         "iata": "DTW",
@@ -924,6 +1010,7 @@
     },
     "DUB": {
         "cca2": "IE",
+        "cf_lb_region": "WEU",
         "city": "Dublin",
         "country": "Ireland",
         "iata": "DUB",
@@ -934,6 +1021,7 @@
     },
     "DUR": {
         "cca2": "ZA",
+        "cf_lb_region": "SAF",
         "city": "Durban",
         "country": "South Africa",
         "iata": "DUR",
@@ -944,6 +1032,7 @@
     },
     "DUS": {
         "cca2": "DE",
+        "cf_lb_region": "WEU",
         "city": "Dusseldorf",
         "country": "Germany",
         "iata": "DUS",
@@ -954,6 +1043,7 @@
     },
     "DXB": {
         "cca2": "AE",
+        "cf_lb_region": "ME",
         "city": "Dubai",
         "country": "United Arab Emirates",
         "iata": "DXB",
@@ -964,6 +1054,7 @@
     },
     "EBB": {
         "cca2": "UG",
+        "cf_lb_region": "SAF",
         "city": "Kampala",
         "country": "Uganda",
         "iata": "EBB",
@@ -974,6 +1065,7 @@
     },
     "EBL": {
         "cca2": "IQ",
+        "cf_lb_region": "ME",
         "city": "Erbil",
         "country": "Iraq",
         "iata": "EBL",
@@ -984,6 +1076,7 @@
     },
     "EDI": {
         "cca2": "GB",
+        "cf_lb_region": "WEU",
         "city": "Edinburgh",
         "country": "United Kingdom",
         "iata": "EDI",
@@ -994,6 +1087,7 @@
     },
     "EVN": {
         "cca2": "AM",
+        "cf_lb_region": "ME",
         "city": "Yerevan",
         "country": "Armenia",
         "iata": "EVN",
@@ -1004,6 +1098,7 @@
     },
     "EWR": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Newark",
         "country": "United States",
         "iata": "EWR",
@@ -1014,6 +1109,7 @@
     },
     "EZE": {
         "cca2": "AR",
+        "cf_lb_region": "SSAM",
         "city": "Buenos Aires",
         "country": "Argentina",
         "iata": "EZE",
@@ -1024,6 +1120,7 @@
     },
     "FCO": {
         "cca2": "IT",
+        "cf_lb_region": "EEU",
         "city": "Rome",
         "country": "Italy",
         "iata": "FCO",
@@ -1034,6 +1131,7 @@
     },
     "FIH": {
         "cca2": "CD",
+        "cf_lb_region": "SAF",
         "city": "Kinshasa",
         "country": "DR Congo",
         "iata": "FIH",
@@ -1044,6 +1142,7 @@
     },
     "FLN": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Florianopolis",
         "country": "Brazil",
         "iata": "FLN",
@@ -1061,6 +1160,7 @@
     },
     "FOR": {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Fortaleza",
         "country": "Brazil",
         "iata": "FOR",
@@ -1071,6 +1171,7 @@
     },
     "FRA": {
         "cca2": "DE",
+        "cf_lb_region": "WEU",
         "city": "Frankfurt",
         "country": "Germany",
         "iata": "FRA",
@@ -1081,6 +1182,7 @@
     },
     "FSD": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Sioux Falls",
         "country": "South Dakota",
         "iata": "FSD",
@@ -1091,6 +1193,7 @@
     },
     "FUK": {
         "cca2": "JP",
+        "cf_lb_region": "NEAS",
         "city": "Fukuoka",
         "country": "Japan",
         "iata": "FUK",
@@ -1108,6 +1211,7 @@
     },
     "GBE": {
         "cca2": "BW",
+        "cf_lb_region": "SAF",
         "city": "Gaborone",
         "country": "Botswana",
         "iata": "GBE",
@@ -1118,6 +1222,7 @@
     },
     "GDL": {
         "cca2": "MX",
+        "cf_lb_region": "WNAM",
         "city": "Guadalajara",
         "country": "Mexico",
         "iata": "GDL",
@@ -1128,6 +1233,7 @@
     },
     "GEO": {
         "cca2": "GY",
+        "cf_lb_region": "NSAM",
         "city": "Georgetown",
         "country": "Guyana",
         "iata": "GEO",
@@ -1138,6 +1244,7 @@
     },
     "GIG": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Rio de Janeiro",
         "country": "Brazil",
         "iata": "GIG",
@@ -1148,6 +1255,7 @@
     },
     "GND": {
         "cca2": "GD",
+        "cf_lb_region": "NSAM",
         "city": "St. George's",
         "country": "Grenada",
         "iata": "GND",
@@ -1158,6 +1266,7 @@
     },
     "GOT": {
         "cca2": "SE",
+        "cf_lb_region": "EEU",
         "city": "Gothenburg",
         "country": "Sweden",
         "iata": "GOT",
@@ -1168,6 +1277,7 @@
     },
     "GRU": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Sao Paulo",
         "country": "Brazil",
         "iata": "GRU",
@@ -1178,6 +1288,7 @@
     },
     "GUA": {
         "cca2": "GT",
+        "cf_lb_region": "NSAM",
         "city": "Guatemala City",
         "country": "Guatemala",
         "iata": "GUA",
@@ -1188,6 +1299,7 @@
     },
     "GUM": {
         "cca2": "GU",
+        "cf_lb_region": "SEAS",
         "city": "Hagatna",
         "country": "Guam",
         "iata": "GUM",
@@ -1198,6 +1310,7 @@
     },
     "GVA": {
         "cca2": "CH",
+        "cf_lb_region": "WEU",
         "city": "Geneva",
         "country": "Switzerland",
         "iata": "GVA",
@@ -1208,6 +1321,7 @@
     },
     "GYD": {
         "cca2": "AZ",
+        "cf_lb_region": "ME",
         "city": "Baku",
         "country": "Azerbaijan",
         "iata": "GYD",
@@ -1218,6 +1332,7 @@
     },
     "GYE": {
         "cca2": "EC",
+        "cf_lb_region": "NSAM",
         "city": "Guayaquil",
         "country": "Ecuador",
         "iata": "GYE",
@@ -1228,6 +1343,7 @@
     },
     "GYN": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Goiania",
         "country": "Brazil",
         "iata": "GYN",
@@ -1245,6 +1361,7 @@
     },
     "HAM": {
         "cca2": "DE",
+        "cf_lb_region": "EEU",
         "city": "Hamburg",
         "country": "Germany",
         "iata": "HAM",
@@ -1255,6 +1372,7 @@
     },
     "HAN": {
         "cca2": "VN",
+        "cf_lb_region": "SEAS",
         "city": "Hanoi",
         "country": "Vietnam",
         "iata": "HAN",
@@ -1265,6 +1383,7 @@
     },
     "HBA": {
         "cca2": "AU",
+        "cf_lb_region": "OC",
         "city": "Hobart",
         "country": "Australia",
         "iata": "HBA",
@@ -1275,6 +1394,7 @@
     },
     "HEL": {
         "cca2": "FI",
+        "cf_lb_region": "EEU",
         "city": "Helsinki",
         "country": "Finland",
         "iata": "HEL",
@@ -1285,6 +1405,7 @@
     },
     "HFA": {
         "cca2": "IL",
+        "cf_lb_region": "ME",
         "city": "Haifa",
         "country": "Israel",
         "iata": "HFA",
@@ -1302,6 +1423,7 @@
     },
     "HKG": {
         "cca2": "HK",
+        "cf_lb_region": "NEAS",
         "city": "Hong Kong",
         "iata": "HKG",
         "lat": 22.3089008331,
@@ -1311,6 +1433,7 @@
     },
     "HNL": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Honolulu",
         "country": "United States",
         "iata": "HNL",
@@ -1321,6 +1444,7 @@
     },
     "HRE": {
         "cca2": "ZW",
+        "cf_lb_region": "SAF",
         "city": "Harare",
         "country": "Zimbabwe",
         "iata": "HRE",
@@ -1331,6 +1455,7 @@
     },
     "HYD": {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Hyderabad",
         "country": "India",
         "iata": "HYD",
@@ -1348,6 +1473,7 @@
     },
     "IAD": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Ashburn",
         "country": "United States",
         "iata": "IAD",
@@ -1358,6 +1484,7 @@
     },
     "IAH": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Houston",
         "country": "United States",
         "iata": "IAH",
@@ -1368,6 +1495,7 @@
     },
     "ICN": {
         "cca2": "KR",
+        "cf_lb_region": "NEAS",
         "city": "Seoul",
         "country": "South Korea",
         "iata": "ICN",
@@ -1378,6 +1506,7 @@
     },
     "IND": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Indianapolis",
         "country": "United States",
         "iata": "IND",
@@ -1388,6 +1517,7 @@
     },
     "ISB": {
         "cca2": "PK",
+        "cf_lb_region": "SAS",
         "city": "Islamabad",
         "country": "Pakistan",
         "iata": "ISB",
@@ -1398,6 +1528,7 @@
     },
     "IST": {
         "cca2": "TR",
+        "cf_lb_region": "EEU",
         "city": "Istanbul",
         "country": "Turkey",
         "iata": "IST",
@@ -1408,6 +1539,7 @@
     },
     "ISU": {
         "cca2": "IQ",
+        "cf_lb_region": "ME",
         "city": "Sulaymaniyah",
         "country": "Iraq",
         "iata": "ISU",
@@ -1418,6 +1550,7 @@
     },
     "ITJ": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Itajai",
         "country": "Brazil",
         "iata": "ITJ",
@@ -1428,6 +1561,7 @@
     },
     "IXC": {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Chandigarh",
         "country": "India",
         "iata": "IXC",
@@ -1438,6 +1572,7 @@
     },
     "JAX": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Jacksonville",
         "country": "United States",
         "iata": "JAX",
@@ -1448,6 +1583,7 @@
     },
     "JDO": {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Juazeiro do Norte",
         "country": "Brazil",
         "iata": "JDO",
@@ -1458,6 +1594,7 @@
     },
     "JED": {
         "cca2": "SA",
+        "cf_lb_region": "ME",
         "city": "Jeddah",
         "country": "Saudi Arabia",
         "iata": "JED",
@@ -1468,6 +1605,7 @@
     },
     "JHB": {
         "cca2": "MY",
+        "cf_lb_region": "SEAS",
         "city": "Johor Bahru",
         "country": "Malaysia",
         "iata": "JHB",
@@ -1478,6 +1616,7 @@
     },
     "JIB": {
         "cca2": "DJ",
+        "cf_lb_region": "NAF",
         "city": "Djibouti",
         "country": "Djibouti",
         "iata": "JIB",
@@ -1488,6 +1627,7 @@
     },
     "JNB": {
         "cca2": "ZA",
+        "cf_lb_region": "SAF",
         "city": "Johannesburg",
         "country": "South Africa",
         "iata": "JNB",
@@ -1498,6 +1638,7 @@
     },
     "JOG": {
         "cca2": "ID",
+        "cf_lb_region": "SEAS",
         "city": "Yogyakarta",
         "country": "Indonesia",
         "iata": "JOG",
@@ -1508,6 +1649,7 @@
     },
     "JOI": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Joinville",
         "country": "Brazil",
         "iata": "JOI",
@@ -1525,6 +1667,7 @@
     },
     "KBP": {
         "cca2": "UA",
+        "cf_lb_region": "EEU",
         "city": "Kyiv",
         "country": "Ukraine",
         "iata": "KBP",
@@ -1535,6 +1678,7 @@
     },
     "KCH": {
         "cca2": "MY",
+        "cf_lb_region": "SEAS",
         "city": "Kuching",
         "country": "Malaysia",
         "iata": "KCH",
@@ -1545,6 +1689,7 @@
     },
     "KEF": {
         "cca2": "IS",
+        "cf_lb_region": "WEU",
         "city": "Reykjavik",
         "country": "Iceland",
         "iata": "KEF",
@@ -1555,6 +1700,7 @@
     },
     "KGL": {
         "cca2": "RW",
+        "cf_lb_region": "SAF",
         "city": "Kigali",
         "country": "Rwanda",
         "iata": "KGL",
@@ -1565,6 +1711,7 @@
     },
     "KHH": {
         "cca2": "TW",
+        "cf_lb_region": "NEAS",
         "city": "Kaohsiung City",
         "country": "Taiwan",
         "iata": "KHH",
@@ -1575,6 +1722,7 @@
     },
     "KHI": {
         "cca2": "PK",
+        "cf_lb_region": "SAS",
         "city": "Karachi",
         "country": "Pakistan",
         "iata": "KHI",
@@ -1592,6 +1740,7 @@
     },
     "KIN": {
         "cca2": "JM",
+        "cf_lb_region": "ENAM",
         "city": "Kingston",
         "country": "Jamaica",
         "iata": "KIN",
@@ -1602,6 +1751,7 @@
     },
     "KIV": {
         "cca2": "MD",
+        "cf_lb_region": "EEU",
         "city": "Chisinau",
         "country": "Moldova",
         "iata": "KIV",
@@ -1612,6 +1762,7 @@
     },
     "KIX": {
         "cca2": "JP",
+        "cf_lb_region": "NEAS",
         "city": "Osaka",
         "country": "Japan",
         "iata": "KIX",
@@ -1622,6 +1773,7 @@
     },
     "KJA": {
         "cca2": "RU",
+        "cf_lb_region": "SAS",
         "city": "Krasnoyarsk",
         "country": "Russia",
         "iata": "KJA",
@@ -1639,6 +1791,7 @@
     },
     "KNU": {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Kanpur",
         "country": "India",
         "iata": "KNU",
@@ -1649,6 +1802,7 @@
     },
     "KTM": {
         "cca2": "NP",
+        "cf_lb_region": "SAS",
         "city": "Kathmandu",
         "country": "Nepal",
         "iata": "KTM",
@@ -1659,6 +1813,7 @@
     },
     "KUL": {
         "cca2": "MY",
+        "cf_lb_region": "SEAS",
         "city": "Kuala Lumpur",
         "country": "Malaysia",
         "iata": "KUL",
@@ -1676,6 +1831,7 @@
     },
     "KWI": {
         "cca2": "KW",
+        "cf_lb_region": "ME",
         "city": "Kuwait City",
         "country": "Kuwait",
         "iata": "KWI",
@@ -1686,6 +1842,7 @@
     },
     "LAD": {
         "cca2": "AO",
+        "cf_lb_region": "SAF",
         "city": "Luanda",
         "country": "Angola",
         "iata": "LAD",
@@ -1696,6 +1853,7 @@
     },
     "LAS": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Las Vegas",
         "country": "United States",
         "iata": "LAS",
@@ -1706,6 +1864,7 @@
     },
     "LAX": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Los Angeles",
         "country": "United States",
         "iata": "LAX",
@@ -1716,6 +1875,7 @@
     },
     "LCA": {
         "cca2": "CY",
+        "cf_lb_region": "ME",
         "city": "Nicosia",
         "country": "Cyprus",
         "iata": "LCA",
@@ -1726,6 +1886,7 @@
     },
     "LED": {
         "cca2": "RU",
+        "cf_lb_region": "EEU",
         "city": "Saint Petersburg",
         "country": "Russia",
         "iata": "LED",
@@ -1736,6 +1897,7 @@
     },
     "LHE": {
         "cca2": "PK",
+        "cf_lb_region": "SAS",
         "city": "Lahore",
         "country": "Pakistan",
         "iata": "LHE",
@@ -1746,6 +1908,7 @@
     },
     "LHR": {
         "cca2": "GB",
+        "cf_lb_region": "WEU",
         "city": "London",
         "country": "United Kingdom",
         "iata": "LHR",
@@ -1763,6 +1926,7 @@
     },
     "LIM": {
         "cca2": "PE",
+        "cf_lb_region": "NSAM",
         "city": "Lima",
         "country": "Peru",
         "iata": "LIM",
@@ -1773,6 +1937,7 @@
     },
     "LIS": {
         "cca2": "PT",
+        "cf_lb_region": "WEU",
         "city": "Lisbon",
         "country": "Portugal",
         "iata": "LIS",
@@ -1783,6 +1948,7 @@
     },
     "LLK": {
         "cca2": "AZ",
+        "cf_lb_region": "ME",
         "city": "Astara",
         "country": "Azerbaijan",
         "iata": "LLK",
@@ -1793,6 +1959,7 @@
     },
     "LOS": {
         "cca2": "NG",
+        "cf_lb_region": "NAF",
         "city": "Lagos",
         "country": "Nigeria",
         "iata": "LOS",
@@ -1803,6 +1970,7 @@
     },
     "LPB": {
         "cca2": "BO",
+        "cf_lb_region": "SSAM",
         "city": "La Paz",
         "country": "Bolivia",
         "iata": "LPB",
@@ -1813,6 +1981,7 @@
     },
     "LUN": {
         "cca2": "ZM",
+        "cf_lb_region": "SAF",
         "city": "Lusaka",
         "country": "Zambia",
         "iata": "LUN",
@@ -1823,6 +1992,7 @@
     },
     "LUX": {
         "cca2": "LU",
+        "cf_lb_region": "WEU",
         "city": "Luxembourg City",
         "country": "Luxembourg",
         "iata": "LUX",
@@ -1833,6 +2003,7 @@
     },
     "LYS": {
         "cca2": "FR",
+        "cf_lb_region": "WEU",
         "city": "Lyon",
         "country": "France",
         "iata": "LYS",
@@ -1843,6 +2014,7 @@
     },
     "MAA": {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Chennai",
         "country": "India",
         "iata": "MAA",
@@ -1853,6 +2025,7 @@
     },
     "MAD": {
         "cca2": "ES",
+        "cf_lb_region": "WEU",
         "city": "Madrid",
         "country": "Spain",
         "iata": "MAD",
@@ -1863,6 +2036,7 @@
     },
     "MAN": {
         "cca2": "GB",
+        "cf_lb_region": "WEU",
         "city": "Manchester",
         "country": "United Kingdom",
         "iata": "MAN",
@@ -1873,6 +2047,7 @@
     },
     "MAO": {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Manaus",
         "country": "Brazil",
         "iata": "MAO",
@@ -1883,6 +2058,7 @@
     },
     "MBA": {
         "cca2": "KE",
+        "cf_lb_region": "SAF",
         "city": "Mombasa",
         "country": "Kenya",
         "iata": "MBA",
@@ -1893,6 +2069,7 @@
     },
     "MCI": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Kansas City",
         "country": "United States",
         "iata": "MCI",
@@ -1903,6 +2080,7 @@
     },
     "MCT": {
         "cca2": "OM",
+        "cf_lb_region": "ME",
         "city": "Muscat",
         "country": "Oman",
         "iata": "MCT",
@@ -1913,6 +2091,7 @@
     },
     "MDE": {
         "cca2": "CO",
+        "cf_lb_region": "NSAM",
         "city": "Medellin",
         "country": "Colombia",
         "iata": "MDE",
@@ -1923,6 +2102,7 @@
     },
     "MEL": {
         "cca2": "AU",
+        "cf_lb_region": "OC",
         "city": "Melbourne",
         "country": "Australia",
         "iata": "MEL",
@@ -1933,6 +2113,7 @@
     },
     "MEM": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Memphis",
         "country": "United States",
         "iata": "MEM",
@@ -1943,6 +2124,7 @@
     },
     "MEX": {
         "cca2": "MX",
+        "cf_lb_region": "WNAM",
         "city": "Mexico City",
         "country": "Mexico",
         "iata": "MEX",
@@ -1953,6 +2135,7 @@
     },
     "MFE": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "McAllen",
         "country": "United States",
         "iata": "MFE",
@@ -1963,6 +2146,7 @@
     },
     "MFM": {
         "cca2": "MO",
+        "cf_lb_region": "NEAS",
         "city": "Macau",
         "iata": "MFM",
         "lat": 22.1495990753,
@@ -1972,6 +2156,7 @@
     },
     "MIA": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Miami",
         "country": "United States",
         "iata": "MIA",
@@ -1982,6 +2167,7 @@
     },
     "MLE": {
         "cca2": "MV",
+        "cf_lb_region": "SAS",
         "city": "Male",
         "country": "Maldives",
         "iata": "MLE",
@@ -1992,6 +2178,7 @@
     },
     "MNL": {
         "cca2": "PH",
+        "cf_lb_region": "SEAS",
         "city": "Manila",
         "country": "Philippines",
         "iata": "MNL",
@@ -2002,6 +2189,7 @@
     },
     "MPM": {
         "cca2": "MZ",
+        "cf_lb_region": "SAF",
         "city": "Maputo",
         "country": "Mozambique",
         "iata": "MPM",
@@ -2012,6 +2200,7 @@
     },
     "MRS": {
         "cca2": "FR",
+        "cf_lb_region": "WEU",
         "city": "Marseille",
         "country": "France",
         "iata": "MRS",
@@ -2022,6 +2211,7 @@
     },
     "MRU": {
         "cca2": "MU",
+        "cf_lb_region": "SAF",
         "city": "Port Louis",
         "country": "Mauritius",
         "iata": "MRU",
@@ -2032,6 +2222,7 @@
     },
     "MSP": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Minneapolis",
         "country": "United States",
         "iata": "MSP",
@@ -2042,6 +2233,7 @@
     },
     "MSQ": {
         "cca2": "BY",
+        "cf_lb_region": "EEU",
         "city": "Minsk",
         "country": "Belarus",
         "iata": "MSQ",
@@ -2052,6 +2244,7 @@
     },
     "MUC": {
         "cca2": "DE",
+        "cf_lb_region": "EEU",
         "city": "Munich",
         "country": "Germany",
         "iata": "MUC",
@@ -2062,6 +2255,7 @@
     },
     "MXP": {
         "cca2": "IT",
+        "cf_lb_region": "WEU",
         "city": "Milan",
         "country": "Italy",
         "iata": "MXP",
@@ -2072,6 +2266,7 @@
     },
     "NAG": {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Nagpur",
         "country": "India",
         "iata": "NAG",
@@ -2082,6 +2277,7 @@
     },
     "NBO": {
         "cca2": "KE",
+        "cf_lb_region": "SAF",
         "city": "Nairobi",
         "country": "Kenya",
         "iata": "NBO",
@@ -2092,6 +2288,7 @@
     },
     "NJF": {
         "cca2": "IQ",
+        "cf_lb_region": "ME",
         "city": "Najaf",
         "country": "Iraq",
         "iata": "NJF",
@@ -2109,6 +2306,7 @@
     },
     "NOU": {
         "cca2": "NC",
+        "cf_lb_region": "WEU",
         "city": "Noumea",
         "country": "New Caledonia",
         "iata": "NOU",
@@ -2119,6 +2317,7 @@
     },
     "NQN": {
         "cca2": "AR",
+        "cf_lb_region": "SSAM",
         "city": "Neuquen",
         "country": "Argentina",
         "iata": "NQN",
@@ -2129,6 +2328,7 @@
     },
     "NQZ": {
         "cca2": "KZ",
+        "cf_lb_region": "SAS",
         "city": "Astana",
         "country": "Kazakhstan",
         "iata": "NQZ",
@@ -2139,6 +2339,7 @@
     },
     "NRT": {
         "cca2": "JP",
+        "cf_lb_region": "NEAS",
         "city": "Tokyo",
         "country": "Japan",
         "iata": "NRT",
@@ -2149,6 +2350,7 @@
     },
     "NVT": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Timbo",
         "country": "Brazil",
         "iata": "NVT",
@@ -2159,6 +2361,7 @@
     },
     "OKA": {
         "cca2": "JP",
+        "cf_lb_region": "NEAS",
         "city": "Naha",
         "country": "Japan",
         "iata": "OKA",
@@ -2169,6 +2372,7 @@
     },
     "OKC": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Oklahoma City",
         "country": "United States",
         "iata": "OKC",
@@ -2179,6 +2383,7 @@
     },
     "OMA": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Omaha",
         "country": "United States",
         "iata": "OMA",
@@ -2189,6 +2394,7 @@
     },
     "ORD": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Chicago",
         "country": "United States",
         "iata": "ORD",
@@ -2199,6 +2405,7 @@
     },
     "ORF": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Norfolk",
         "country": "United States",
         "iata": "ORF",
@@ -2209,6 +2416,7 @@
     },
     "ORK": {
         "cca2": "IE",
+        "cf_lb_region": "WEU",
         "city": "Cork",
         "country": "Ireland",
         "iata": "ORK",
@@ -2219,6 +2427,7 @@
     },
     "ORN": {
         "cca2": "DZ",
+        "cf_lb_region": "NAF",
         "city": "Oran",
         "country": "Algeria",
         "iata": "ORN",
@@ -2229,6 +2438,7 @@
     },
     "OSL": {
         "cca2": "NO",
+        "cf_lb_region": "EEU",
         "city": "Oslo",
         "country": "Norway",
         "iata": "OSL",
@@ -2239,6 +2449,7 @@
     },
     "OTP": {
         "cca2": "RO",
+        "cf_lb_region": "EEU",
         "city": "Bucharest",
         "country": "Romania",
         "iata": "OTP",
@@ -2249,6 +2460,7 @@
     },
     "OUA": {
         "cca2": "BF",
+        "cf_lb_region": "NAF",
         "city": "Ouagadougou",
         "country": "Burkina Faso",
         "iata": "OUA",
@@ -2259,6 +2471,7 @@
     },
     "PAT": {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Patna",
         "country": "India",
         "iata": "PAT",
@@ -2269,6 +2482,7 @@
     },
     "PBH": {
         "cca2": "BT",
+        "cf_lb_region": "SEAS",
         "city": "Thimphu",
         "country": "Bhutan",
         "iata": "PBH",
@@ -2279,6 +2493,7 @@
     },
     "PBM": {
         "cca2": "SR",
+        "cf_lb_region": "NSAM",
         "city": "Paramaribo",
         "country": "Suriname",
         "iata": "PBM",
@@ -2289,6 +2504,7 @@
     },
     "PDX": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Portland",
         "country": "United States",
         "iata": "PDX",
@@ -2299,6 +2515,7 @@
     },
     "PER": {
         "cca2": "AU",
+        "cf_lb_region": "OC",
         "city": "Perth",
         "country": "Australia",
         "iata": "PER",
@@ -2309,6 +2526,7 @@
     },
     "PHL": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Philadelphia",
         "country": "United States",
         "iata": "PHL",
@@ -2319,6 +2537,7 @@
     },
     "PHX": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Phoenix",
         "country": "United States",
         "iata": "PHX",
@@ -2329,6 +2548,7 @@
     },
     "PIT": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Pittsburgh",
         "country": "United States",
         "iata": "PIT",
@@ -2346,6 +2566,7 @@
     },
     "PMO": {
         "cca2": "IT",
+        "cf_lb_region": "EEU",
         "city": "Palermo",
         "country": "Italy",
         "iata": "PMO",
@@ -2356,6 +2577,7 @@
     },
     "PMW": {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Palmas",
         "country": "Brazil",
         "iata": "PMW",
@@ -2366,6 +2588,7 @@
     },
     "PNH": {
         "cca2": "KH",
+        "cf_lb_region": "SEAS",
         "city": "Phnom Penh",
         "country": "Cambodia",
         "iata": "PNH",
@@ -2376,6 +2599,7 @@
     },
     "POA": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Porto Alegre",
         "country": "Brazil",
         "iata": "POA",
@@ -2386,6 +2610,7 @@
     },
     "POS": {
         "cca2": "TT",
+        "cf_lb_region": "NSAM",
         "city": "Port of Spain",
         "country": "Trinidad and Tobago",
         "iata": "POS",
@@ -2396,6 +2621,7 @@
     },
     "PPT": {
         "cca2": "PF",
+        "cf_lb_region": "OC",
         "city": "Tahiti",
         "country": "French Polynesia",
         "iata": "PPT",
@@ -2406,6 +2632,7 @@
     },
     "PRG": {
         "cca2": "CZ",
+        "cf_lb_region": "EEU",
         "city": "Prague",
         "country": "Czech Republic",
         "iata": "PRG",
@@ -2416,6 +2643,7 @@
     },
     "PTY": {
         "cca2": "PA",
+        "cf_lb_region": "NSAM",
         "city": "Panama City",
         "country": "Panama",
         "iata": "PTY",
@@ -2426,6 +2654,7 @@
     },
     "QRO": {
         "cca2": "MX",
+        "cf_lb_region": "WNAM",
         "city": "Queretaro",
         "country": "Mexico",
         "iata": "QRO",
@@ -2436,6 +2665,7 @@
     },
     "QWJ": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Americana",
         "country": "Brazil",
         "iata": "QWJ",
@@ -2446,6 +2676,7 @@
     },
     "RAO": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Ribeirao Preto",
         "country": "Brazil",
         "iata": "RAO",
@@ -2456,6 +2687,7 @@
     },
     "RDU": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Durham",
         "country": "United States",
         "iata": "RDU",
@@ -2466,6 +2698,7 @@
     },
     "REC": {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Recife",
         "country": "Brazil",
         "iata": "REC",
@@ -2476,6 +2709,7 @@
     },
     "RIC": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Richmond",
         "country": "United States",
         "iata": "RIC",
@@ -2486,6 +2720,7 @@
     },
     "RIX": {
         "cca2": "LV",
+        "cf_lb_region": "EEU",
         "city": "Riga",
         "country": "Latvia",
         "iata": "RIX",
@@ -2496,6 +2731,7 @@
     },
     "RUH": {
         "cca2": "SA",
+        "cf_lb_region": "ME",
         "city": "Riyadh",
         "country": "Saudi Arabia",
         "iata": "RUH",
@@ -2506,6 +2742,7 @@
     },
     "RUN": {
         "cca2": "RE",
+        "cf_lb_region": "SAF",
         "city": "Saint-Denis",
         "country": "Reunion",
         "iata": "RUN",
@@ -2516,6 +2753,7 @@
     },
     "SAN": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "San Diego",
         "country": "United States",
         "iata": "SAN",
@@ -2526,6 +2764,7 @@
     },
     "SAT": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "San Antonio",
         "country": "United States",
         "iata": "SAT",
@@ -2536,6 +2775,7 @@
     },
     "SCL": {
         "cca2": "CL",
+        "cf_lb_region": "SSAM",
         "city": "Santiago",
         "country": "Chile",
         "iata": "SCL",
@@ -2546,6 +2786,7 @@
     },
     "SDQ": {
         "cca2": "DO",
+        "cf_lb_region": "ENAM",
         "city": "Santo Domingo",
         "country": "Dominican Republic",
         "iata": "SDQ",
@@ -2556,6 +2797,7 @@
     },
     "SEA": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Seattle",
         "country": "United States",
         "iata": "SEA",
@@ -2566,6 +2808,7 @@
     },
     "SFO": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "San Francisco",
         "country": "United States",
         "iata": "SFO",
@@ -2576,6 +2819,7 @@
     },
     "SGN": {
         "cca2": "VN",
+        "cf_lb_region": "SEAS",
         "city": "Ho Chi Minh City",
         "country": "Vietnam",
         "iata": "SGN",
@@ -2593,6 +2837,7 @@
     },
     "SIN": {
         "cca2": "SG",
+        "cf_lb_region": "SEAS",
         "city": "Singapore",
         "country": "Singapore",
         "iata": "SIN",
@@ -2603,6 +2848,7 @@
     },
     "SJC": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "San Jose",
         "country": "United States",
         "iata": "SJC",
@@ -2613,6 +2859,7 @@
     },
     "SJK": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Sao Jose dos Campos",
         "country": "Brazil",
         "iata": "SJK",
@@ -2623,6 +2870,7 @@
     },
     "SJO": {
         "cca2": "CR",
+        "cf_lb_region": "NSAM",
         "city": "San Jose",
         "country": "Costa Rica",
         "iata": "SJO",
@@ -2633,6 +2881,7 @@
     },
     "SJP": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Sao Jose do Rio Preto",
         "country": "Brazil",
         "iata": "SJP",
@@ -2643,6 +2892,7 @@
     },
     "SJU": {
         "cca2": "PR",
+        "cf_lb_region": "ENAM",
         "city": "San Juan",
         "country": "Puerto Rico",
         "iata": "SJU",
@@ -2660,6 +2910,7 @@
     },
     "SKG": {
         "cca2": "GR",
+        "cf_lb_region": "EEU",
         "city": "Thessaloniki",
         "country": "Greece",
         "iata": "SKG",
@@ -2670,6 +2921,7 @@
     },
     "SKP": {
         "cca2": "MK",
+        "cf_lb_region": "EEU",
         "city": "Skopje",
         "country": "North Macedonia",
         "iata": "SKP",
@@ -2680,6 +2932,7 @@
     },
     "SLC": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Salt Lake City",
         "country": "United States",
         "iata": "SLC",
@@ -2690,6 +2943,7 @@
     },
     "SMF": {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Sacramento",
         "country": "United States",
         "iata": "SMF",
@@ -2700,6 +2954,7 @@
     },
     "SOD": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Sorocaba",
         "country": "Brazil",
         "iata": "SOD",
@@ -2710,6 +2965,7 @@
     },
     "SOF": {
         "cca2": "BG",
+        "cf_lb_region": "EEU",
         "city": "Sofia",
         "country": "Bulgaria",
         "iata": "SOF",
@@ -2720,6 +2976,7 @@
     },
     "SSA": {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Salvador",
         "country": "Brazil",
         "iata": "SSA",
@@ -2730,6 +2987,7 @@
     },
     "STI": {
         "cca2": "DO",
+        "cf_lb_region": "ENAM",
         "city": "Santiago de los Caballeros",
         "country": "Dominican Republic",
         "iata": "STI",
@@ -2740,6 +2998,7 @@
     },
     "STL": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "St. Louis",
         "country": "United States",
         "iata": "STL",
@@ -2750,6 +3009,7 @@
     },
     "STR": {
         "cca2": "DE",
+        "cf_lb_region": "WEU",
         "city": "Stuttgart",
         "country": "Germany",
         "iata": "STR",
@@ -2760,6 +3020,7 @@
     },
     "SUV": {
         "cca2": "FJ",
+        "cf_lb_region": "OC",
         "city": "Suva",
         "country": "Fiji",
         "iata": "SUV",
@@ -2770,6 +3031,7 @@
     },
     "SVX": {
         "cca2": "RU",
+        "cf_lb_region": "SAS",
         "city": "Yekaterinburg",
         "country": "Russia",
         "iata": "SVX",
@@ -2780,6 +3042,7 @@
     },
     "SYD": {
         "cca2": "AU",
+        "cf_lb_region": "OC",
         "city": "Sydney",
         "country": "Australia",
         "iata": "SYD",
@@ -2804,6 +3067,7 @@
     },
     "TBS": {
         "cca2": "GE",
+        "cf_lb_region": "ME",
         "city": "Tbilisi",
         "country": "Georgia",
         "iata": "TBS",
@@ -2821,6 +3085,7 @@
     },
     "TGU": {
         "cca2": "HN",
+        "cf_lb_region": "ENAM",
         "city": "Tegucigalpa",
         "country": "Honduras",
         "iata": "TGU",
@@ -2831,6 +3096,7 @@
     },
     "TIA": {
         "cca2": "AL",
+        "cf_lb_region": "EEU",
         "city": "Tirana",
         "country": "Albania",
         "iata": "TIA",
@@ -2841,6 +3107,7 @@
     },
     "TLH": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Tallahassee",
         "country": "United States",
         "iata": "TLH",
@@ -2851,6 +3118,7 @@
     },
     "TLL": {
         "cca2": "EE",
+        "cf_lb_region": "EEU",
         "city": "Tallinn",
         "country": "Estonia",
         "iata": "TLL",
@@ -2861,6 +3129,7 @@
     },
     "TLV": {
         "cca2": "IL",
+        "cf_lb_region": "ME",
         "city": "Tel Aviv",
         "country": "Israel",
         "iata": "TLV",
@@ -2878,6 +3147,7 @@
     },
     "TNR": {
         "cca2": "MG",
+        "cf_lb_region": "SAF",
         "city": "Antananarivo",
         "country": "Madagascar",
         "iata": "TNR",
@@ -2888,6 +3158,7 @@
     },
     "TPA": {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Tampa",
         "country": "United States",
         "iata": "TPA",
@@ -2898,6 +3169,7 @@
     },
     "TPE": {
         "cca2": "TW",
+        "cf_lb_region": "NEAS",
         "city": "Taipei",
         "iata": "TPE",
         "lat": 25.0776996613,
@@ -2907,6 +3179,7 @@
     },
     "TUN": {
         "cca2": "TN",
+        "cf_lb_region": "NAF",
         "city": "Tunis",
         "country": "Tunisia",
         "iata": "TUN",
@@ -2917,6 +3190,7 @@
     },
     "TXL": {
         "cca2": "DE",
+        "cf_lb_region": "EEU",
         "city": "Berlin",
         "country": "Germany",
         "iata": "TXL",
@@ -2934,6 +3208,7 @@
     },
     "UDI": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Uberlandia",
         "country": "Brazil",
         "iata": "UDI",
@@ -2944,6 +3219,7 @@
     },
     "UIO": {
         "cca2": "EC",
+        "cf_lb_region": "NSAM",
         "city": "Quito",
         "country": "Ecuador",
         "iata": "UIO",
@@ -2954,6 +3230,7 @@
     },
     "ULN": {
         "cca2": "MN",
+        "cf_lb_region": "NEAS",
         "city": "Ulaanbaatar",
         "country": "Mongolia",
         "iata": "ULN",
@@ -2964,6 +3241,7 @@
     },
     "URT": {
         "cca2": "TH",
+        "cf_lb_region": "SEAS",
         "city": "Surat Thani",
         "country": "Thailand",
         "iata": "URT",
@@ -2974,6 +3252,7 @@
     },
     "VCP": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Campinas",
         "country": "Brazil",
         "iata": "VCP",
@@ -2984,6 +3263,7 @@
     },
     "VIE": {
         "cca2": "AT",
+        "cf_lb_region": "EEU",
         "city": "Vienna",
         "country": "Austria",
         "iata": "VIE",
@@ -2994,6 +3274,7 @@
     },
     "VIX": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Vitoria",
         "country": "Brazil",
         "iata": "VIX",
@@ -3004,6 +3285,7 @@
     },
     "VNO": {
         "cca2": "LT",
+        "cf_lb_region": "EEU",
         "city": "Vilnius",
         "country": "Lithuania",
         "iata": "VNO",
@@ -3014,6 +3296,7 @@
     },
     "VTE": {
         "cca2": "LA",
+        "cf_lb_region": "SEAS",
         "city": "Vientiane",
         "country": "Laos",
         "iata": "VTE",
@@ -3024,6 +3307,7 @@
     },
     "WAW": {
         "cca2": "PL",
+        "cf_lb_region": "EEU",
         "city": "Warsaw",
         "country": "Poland",
         "iata": "WAW",
@@ -3034,6 +3318,7 @@
     },
     "WDH": {
         "cca2": "NA",
+        "cf_lb_region": "SAF",
         "city": "Windhoek",
         "country": "Namibia",
         "iata": "WDH",
@@ -3044,6 +3329,7 @@
     },
     "XAP": {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Chapeco",
         "country": "Brazil",
         "iata": "XAP",
@@ -3068,6 +3354,7 @@
     },
     "XNH": {
         "cca2": "IQ",
+        "cf_lb_region": "ME",
         "city": "Nasiriyah",
         "country": "Iraq",
         "iata": "XNH",
@@ -3078,6 +3365,7 @@
     },
     "YHZ": {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Halifax",
         "country": "Canada",
         "iata": "YHZ",
@@ -3088,6 +3376,7 @@
     },
     "YOW": {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Ottawa",
         "country": "Canada",
         "iata": "YOW",
@@ -3098,6 +3387,7 @@
     },
     "YUL": {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Montreal",
         "country": "Canada",
         "iata": "YUL",
@@ -3108,6 +3398,7 @@
     },
     "YVR": {
         "cca2": "CA",
+        "cf_lb_region": "WNAM",
         "city": "Vancouver",
         "country": "Canada",
         "iata": "YVR",
@@ -3118,6 +3409,7 @@
     },
     "YWG": {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Winnipeg",
         "country": "Canada",
         "iata": "YWG",
@@ -3128,6 +3420,7 @@
     },
     "YXE": {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Saskatoon",
         "country": "Canada",
         "iata": "YXE",
@@ -3138,6 +3431,7 @@
     },
     "YYC": {
         "cca2": "CA",
+        "cf_lb_region": "WNAM",
         "city": "Calgary",
         "country": "Canada",
         "iata": "YYC",
@@ -3148,6 +3442,7 @@
     },
     "YYZ": {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Toronto",
         "country": "Canada",
         "iata": "YYZ",
@@ -3158,6 +3453,7 @@
     },
     "ZAG": {
         "cca2": "HR",
+        "cf_lb_region": "EEU",
         "city": "Zagreb",
         "country": "Croatia",
         "iata": "ZAG",
@@ -3168,6 +3464,7 @@
     },
     "ZDM": {
         "cca2": "PS",
+        "cf_lb_region": "ME",
         "city": "Ramallah",
         "iata": "ZDM",
         "lat": 32.2719,
@@ -3184,6 +3481,7 @@
     },
     "ZRH": {
         "cca2": "CH",
+        "cf_lb_region": "WEU",
         "city": "Zurich",
         "country": "Switzerland",
         "iata": "ZRH",
