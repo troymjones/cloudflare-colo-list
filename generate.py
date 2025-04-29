@@ -9,6 +9,129 @@ import pandas as pd
 
 os.chdir(os.path.split(os.path.realpath(sys.argv[0]))[0])
 
+pop_to_cf_lb_region = {
+    # Start Brazil
+    "QWJ": "SSAM",
+    "ARU": "SSAM",
+    "BEL": "NSAM",
+    "CNF": "SSAM",
+    "BNU": "SSAM",
+    "BSB": "SSAM",
+    "CFC": "SSAM",
+    "VCP": "SSAM",
+    "CAW": "SSAM",
+    "XAP": "SSAM",
+    "CGB": "SSAM",
+    "CWB": "SSAM",
+    "FLN": "SSAM",
+    "FOR": "NSAM",
+    "GYN": "SSAM",
+    "ITJ": "SSAM",
+    "JOI": "SSAM",
+    "JDO": "NSAM",
+    "MAO": "NSAM",
+    "PMW": "NSAM",
+    "POA": "SSAM",
+    "REC": "NSAM",
+    "RAO": "SSAM",
+    "GIG": "SSAM",
+    "SSA": "NSAM",
+    "SJP": "SSAM",
+    "SJK": "SSAM",
+    "GRU": "SSAM",
+    "SOD": "SSAM",
+    "NVT": "SSAM",
+    "UDI": "SSAM",
+    "VIX": "SSAM",
+    # End Brazil
+
+    # Start Canada
+    "YYC": "WNAM",
+    "YVR": "WNAM",
+    "YWG": "ENAM",
+    "YHZ": "ENAM",
+    "YOW": "ENAM",
+    "YYZ": "ENAM",
+    "YUL": "ENAM",
+    "YXE": "ENAM",
+    # End Canada
+
+    # Start Germany
+    "TXL": "EEU",
+    "DUS": "WEU",
+    "FRA": "WEU",
+    "HAM": "EEU",
+    "MUC": "EEU",
+    "STR": "WEU",
+    # End Germany
+
+    # Start Italy
+    "MXP": "WEU",
+    "PMO": "EEU",
+    "FCO": "EEU",
+    # End Italy
+
+    # Start Russia
+    "KJA": "SAS",
+    "DME": "EEU",
+    "LED": "EEU",
+    "SVX": "SAS",
+    # End Russia
+
+    # Start US
+    "ABQ": "WNAM",
+    "ANC": "WNAM",
+    "ATL": "ENAM",
+    "AUS": "ENAM",
+    "BNA": "ENAM",
+    "BGR": "ENAM",
+    "BOS": "ENAM",
+    "BUF": "ENAM",
+    "CLE": "ENAM",
+    "CLT": "ENAM",
+    "DFW": "WNAM",
+    "DEN": "WNAM",
+    "DTW": "ENAM",
+    "CMH": "ENAM",
+    "EWR": "ENAM",
+    "FSD": "ENAM",
+    "HNL": "WNAM",
+    "IAH": "WNAM",
+    "IAD": "ENAM",
+    "IAH": "ENAM",
+    "IND": "WNAM",
+    "JAX": "ENAM",
+    "LAX": "WNAM",
+    "LAS": "WNAM",
+    "MEM": "ENAM",
+    "MCI": "WNAM",
+    "MFE": "WNAM",
+    "MIA": "ENAM",
+    "MSP": "ENAM",
+    "OMA": "WNAM",
+    "OKC": "WNAM",
+    "ORD": "ENAM",
+    "ORF": "ENAM",
+    "PDX": "WNAM",
+    "PHL": "ENAM",
+    "PHX": "WNAM",
+    "PIT": "ENAM",
+    "RDU": "ENAM",
+    "RIC": "ENAM",
+    "SAN": "WNAM",
+    "SEA": "WNAM",
+    "SFO": "WNAM",
+    "SJC": "WNAM",
+    "SMX": "WNAM",
+    "SLC": "WNAM",
+    "SMF": "WNAM",
+    "SAT": "WNAM",
+    "STL": "ENAM",
+    "TLH": "ENAM",
+    "TPA": "ENAM",
+    # End US
+}
+
 def get(url, retry=5):
     try:
         r = requests.get(url, timeout=5)
@@ -19,7 +142,6 @@ def get(url, retry=5):
             return get(url, retry - 1)
         else:
             raise Exception('Failed to get url: {}'.format(url))
-
 
 def generate():
     data = {}
@@ -33,6 +155,20 @@ def generate():
 
     country_codes = json.load(open('country.json', 'r', encoding='utf-8'))
     country_codes_inv = {v: k for k, v in country_codes.items()}
+
+    regions = json.load(open('regions.json', 'r', encoding='utf-8'))["regions"]
+    country_to_cloudflare_region = {}
+    for region in regions:
+        region_code = region["region_code"]
+        for country in region["countries"]:
+            cc = country["country_code_a2"]
+            if cc in country_to_cloudflare_region:
+                if isinstance(country_to_cloudflare_region[cc], list):
+                    country_to_cloudflare_region[cc].append(region_code)
+                else:
+                    country_to_cloudflare_region[cc] = [country_to_cloudflare_region[cc], region_code]
+                continue
+            country_to_cloudflare_region[cc] = region_code
 
     # https://www.cloudflarestatus.com/api/v2/components.json for DC list
     components_json = json.loads(requests.get('https://www.cloudflarestatus.com/api/v2/components.json').text)
@@ -95,7 +231,15 @@ def generate():
             print(iata, 'not found in cloudflare status')
             data[iata] = location
             data[iata]['name'] = location['city'] + ', ' + country_codes[location['cca2']]
-            
+        
+        data[iata]["cf_lb_region"] = country_to_cloudflare_region[location["cca2"]]
+        if isinstance(country_to_cloudflare_region[location["cca2"]], list):
+            if iata in pop_to_cf_lb_region:
+                data[iata]["cf_lb_region"] = pop_to_cf_lb_region[iata]
+            else:
+                print(f"Error\n{data[iata]}\n {iata} has multiple cf_lb_regions: {country_to_cloudflare_region[location['cca2']]}")
+                sys.exit()
+
         if data[iata]["region"] == "North America":
             north_america.append(data[iata])
         elif data[iata]["region"] == "Europe":

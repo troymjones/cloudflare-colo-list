@@ -1,6 +1,7 @@
 [
     {
         "cca2": "AR",
+        "cf_lb_region": "SSAM",
         "city": "Buenos Aires",
         "country": "Argentina",
         "iata": "EZE",
@@ -11,6 +12,7 @@
     },
     {
         "cca2": "AR",
+        "cf_lb_region": "SSAM",
         "city": "Cordoba",
         "country": "Argentina",
         "iata": "COR",
@@ -21,6 +23,7 @@
     },
     {
         "cca2": "AR",
+        "cf_lb_region": "SSAM",
         "city": "Neuquen",
         "country": "Argentina",
         "iata": "NQN",
@@ -31,6 +34,7 @@
     },
     {
         "cca2": "BO",
+        "cf_lb_region": "SSAM",
         "city": "La Paz",
         "country": "Bolivia",
         "iata": "LPB",
@@ -41,6 +45,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Americana",
         "country": "Brazil",
         "iata": "QWJ",
@@ -51,6 +56,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Aracatuba",
         "country": "Brazil",
         "iata": "ARU",
@@ -61,6 +67,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Belem",
         "country": "Brazil",
         "iata": "BEL",
@@ -71,6 +78,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Belo Horizonte",
         "country": "Brazil",
         "iata": "CNF",
@@ -81,6 +89,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Blumenau",
         "country": "Brazil",
         "iata": "BNU",
@@ -91,6 +100,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Brasilia",
         "country": "Brazil",
         "iata": "BSB",
@@ -101,6 +111,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Cacador",
         "country": "Brazil",
         "iata": "CFC",
@@ -111,6 +122,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Campinas",
         "country": "Brazil",
         "iata": "VCP",
@@ -121,6 +133,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Campos dos Goytacazes",
         "country": "Brazil",
         "iata": "CAW",
@@ -131,6 +144,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Chapeco",
         "country": "Brazil",
         "iata": "XAP",
@@ -141,6 +155,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Cuiaba",
         "country": "Brazil",
         "iata": "CGB",
@@ -151,6 +166,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Curitiba",
         "country": "Brazil",
         "iata": "CWB",
@@ -161,6 +177,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Florianopolis",
         "country": "Brazil",
         "iata": "FLN",
@@ -171,6 +188,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Fortaleza",
         "country": "Brazil",
         "iata": "FOR",
@@ -181,6 +199,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Goiania",
         "country": "Brazil",
         "iata": "GYN",
@@ -191,6 +210,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Itajai",
         "country": "Brazil",
         "iata": "ITJ",
@@ -201,6 +221,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Joinville",
         "country": "Brazil",
         "iata": "JOI",
@@ -211,6 +232,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Juazeiro do Norte",
         "country": "Brazil",
         "iata": "JDO",
@@ -221,6 +243,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Manaus",
         "country": "Brazil",
         "iata": "MAO",
@@ -231,6 +254,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Palmas",
         "country": "Brazil",
         "iata": "PMW",
@@ -241,6 +265,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Porto Alegre",
         "country": "Brazil",
         "iata": "POA",
@@ -251,6 +276,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Recife",
         "country": "Brazil",
         "iata": "REC",
@@ -261,6 +287,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Ribeirao Preto",
         "country": "Brazil",
         "iata": "RAO",
@@ -271,6 +298,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Rio de Janeiro",
         "country": "Brazil",
         "iata": "GIG",
@@ -281,6 +309,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Salvador",
         "country": "Brazil",
         "iata": "SSA",
@@ -291,6 +320,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Sao Jose do Rio Preto",
         "country": "Brazil",
         "iata": "SJP",
@@ -301,6 +331,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Sao Jose dos Campos",
         "country": "Brazil",
         "iata": "SJK",
@@ -311,6 +342,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Sao Paulo",
         "country": "Brazil",
         "iata": "GRU",
@@ -321,6 +353,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Sorocaba",
         "country": "Brazil",
         "iata": "SOD",
@@ -331,6 +364,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Timbo",
         "country": "Brazil",
         "iata": "NVT",
@@ -341,6 +375,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Uberlandia",
         "country": "Brazil",
         "iata": "UDI",
@@ -351,6 +386,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Vitoria",
         "country": "Brazil",
         "iata": "VIX",
@@ -361,6 +397,7 @@
     },
     {
         "cca2": "CL",
+        "cf_lb_region": "SSAM",
         "city": "Arica",
         "country": "Chile",
         "iata": "ARI",
@@ -371,6 +408,7 @@
     },
     {
         "cca2": "CL",
+        "cf_lb_region": "SSAM",
         "city": "Santiago",
         "country": "Chile",
         "iata": "SCL",
@@ -381,6 +419,7 @@
     },
     {
         "cca2": "CO",
+        "cf_lb_region": "NSAM",
         "city": "Barranquilla",
         "country": "Colombia",
         "iata": "BAQ",
@@ -391,6 +430,7 @@
     },
     {
         "cca2": "CO",
+        "cf_lb_region": "NSAM",
         "city": "Bogota",
         "country": "Colombia",
         "iata": "BOG",
@@ -401,6 +441,7 @@
     },
     {
         "cca2": "CO",
+        "cf_lb_region": "NSAM",
         "city": "Cali",
         "country": "Colombia",
         "iata": "CLO",
@@ -411,6 +452,7 @@
     },
     {
         "cca2": "CO",
+        "cf_lb_region": "NSAM",
         "city": "Medellin",
         "country": "Colombia",
         "iata": "MDE",
@@ -421,6 +463,7 @@
     },
     {
         "cca2": "CR",
+        "cf_lb_region": "NSAM",
         "city": "San Jose",
         "country": "Costa Rica",
         "iata": "SJO",
@@ -431,6 +474,7 @@
     },
     {
         "cca2": "EC",
+        "cf_lb_region": "NSAM",
         "city": "Guayaquil",
         "country": "Ecuador",
         "iata": "GYE",
@@ -441,6 +485,7 @@
     },
     {
         "cca2": "EC",
+        "cf_lb_region": "NSAM",
         "city": "Quito",
         "country": "Ecuador",
         "iata": "UIO",
@@ -451,6 +496,7 @@
     },
     {
         "cca2": "GD",
+        "cf_lb_region": "NSAM",
         "city": "St. George's",
         "country": "Grenada",
         "iata": "GND",
@@ -461,6 +507,7 @@
     },
     {
         "cca2": "GY",
+        "cf_lb_region": "NSAM",
         "city": "Georgetown",
         "country": "Guyana",
         "iata": "GEO",
@@ -471,6 +518,7 @@
     },
     {
         "cca2": "HN",
+        "cf_lb_region": "ENAM",
         "city": "Tegucigalpa",
         "country": "Honduras",
         "iata": "TGU",
@@ -481,6 +529,7 @@
     },
     {
         "cca2": "PA",
+        "cf_lb_region": "NSAM",
         "city": "Panama City",
         "country": "Panama",
         "iata": "PTY",
@@ -491,6 +540,7 @@
     },
     {
         "cca2": "PY",
+        "cf_lb_region": "SSAM",
         "city": "Asuncion",
         "country": "Paraguay",
         "iata": "ASU",
@@ -501,6 +551,7 @@
     },
     {
         "cca2": "PE",
+        "cf_lb_region": "NSAM",
         "city": "Lima",
         "country": "Peru",
         "iata": "LIM",
@@ -511,6 +562,7 @@
     },
     {
         "cca2": "SR",
+        "cf_lb_region": "NSAM",
         "city": "Paramaribo",
         "country": "Suriname",
         "iata": "PBM",
@@ -521,6 +573,7 @@
     },
     {
         "cca2": "TT",
+        "cf_lb_region": "NSAM",
         "city": "Port of Spain",
         "country": "Trinidad and Tobago",
         "iata": "POS",

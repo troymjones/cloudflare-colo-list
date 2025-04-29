@@ -1,0 +1,761 @@
+{
+  "regions": [
+    {
+      "region_code": "EEU",
+      "countries": [
+        {
+          "country_code_a2": "AL",
+          "country_name": "Albania"
+        },
+        {
+          "country_code_a2": "AT",
+          "country_name": "Austria"
+        },
+        {
+          "country_code_a2": "BG",
+          "country_name": "Bulgaria"
+        },
+        {
+          "country_code_a2": "BY",
+          "country_name": "Belarus"
+        },
+        {
+          "country_code_a2": "CZ",
+          "country_name": "Czech Republic"
+        },
+        {
+          "country_code_a2": "DE",
+          "country_name": "Germany"
+        },
+        {
+          "country_code_a2": "DK",
+          "country_name": "Denmark"
+        },
+        {
+          "country_code_a2": "EE",
+          "country_name": "Estonia"
+        },
+        {
+          "country_code_a2": "FI",
+          "country_name": "Finland"
+        },
+        {
+          "country_code_a2": "GR",
+          "country_name": "Greece"
+        },
+        {
+          "country_code_a2": "HR",
+          "country_name": "Croatia"
+        },
+        {
+          "country_code_a2": "HU",
+          "country_name": "Hungary"
+        },
+        {
+          "country_code_a2": "IT",
+          "country_name": "Italy"
+        },
+        {
+          "country_code_a2": "LT",
+          "country_name": "Lithuania"
+        },
+        {
+          "country_code_a2": "LV",
+          "country_name": "Latvia"
+        },
+        {
+          "country_code_a2": "MD",
+          "country_name": "Moldova"
+        },
+        {
+          "country_code_a2": "MK",
+          "country_name": "North Macedonia"
+        },
+        {
+          "country_code_a2": "NO",
+          "country_name": "Norway"
+        },
+        {
+          "country_code_a2": "PL",
+          "country_name": "Poland"
+        },
+        {
+          "country_code_a2": "RO",
+          "country_name": "Romania"
+        },
+        {
+          "country_code_a2": "RS",
+          "country_name": "Serbia"
+        },
+        {
+          "country_code_a2": "RU",
+          "country_name": "Russian Federation"
+        },
+        {
+          "country_code_a2": "SE",
+          "country_name": "Sweden"
+        },
+        {
+          "country_code_a2": "SK",
+          "country_name": "Slovakia"
+        },
+        {
+          "country_code_a2": "TR",
+          "country_name": "Turkey"
+        },
+        {
+          "country_code_a2": "UA",
+          "country_name": "Ukraine"
+        }
+      ]
+    },
+    {
+      "region_code": "ENAM",
+      "countries": [
+        {
+          "country_code_a2": "BB",
+          "country_name": "Barbados"
+        },
+        {
+          "country_code_a2": "CA",
+          "country_name": "Canada",
+          "country_subdivisions": [
+            {
+              "subdivision_code_a2": "MB",
+              "subdivision_name": "Manitoba"
+            },
+            {
+              "subdivision_code_a2": "NS",
+              "subdivision_name": "Nova Scotia"
+            },
+            {
+              "subdivision_code_a2": "ON",
+              "subdivision_name": "Ontario"
+            },
+            {
+              "subdivision_code_a2": "QC",
+              "subdivision_name": "Quebec"
+            },
+            {
+              "subdivision_code_a2": "SK",
+              "subdivision_name": "Saskatchewan"
+            }
+          ]
+        },
+        {
+          "country_code_a2": "DO",
+          "country_name": "Dominican Republic"
+        },
+        {
+          "country_code_a2": "HN",
+          "country_name": "Honduras"
+        },
+        {
+          "country_code_a2": "JM",
+          "country_name": "Jamaica"
+        },
+        {
+          "country_code_a2": "PR",
+          "country_name": "Puerto Rico"
+        },
+        {
+          "country_code_a2": "US",
+          "country_name": "United States",
+          "country_subdivisions": [
+            {
+              "subdivision_code_a2": "FL",
+              "subdivision_name": "Florida"
+            },
+            {
+              "subdivision_code_a2": "GA",
+              "subdivision_name": "Georgia"
+            },
+            {
+              "subdivision_code_a2": "IL",
+              "subdivision_name": "Illinois"
+            },
+            {
+              "subdivision_code_a2": "IN",
+              "subdivision_name": "Indiana"
+            },
+            {
+              "subdivision_code_a2": "MA",
+              "subdivision_name": "Massachusetts"
+            },
+            {
+              "subdivision_code_a2": "ME",
+              "subdivision_name": "Maine"
+            },
+            {
+              "subdivision_code_a2": "MI",
+              "subdivision_name": "Michigan"
+            },
+            {
+              "subdivision_code_a2": "MN",
+              "subdivision_name": "Minnesota"
+            },
+            {
+              "subdivision_code_a2": "MO",
+              "subdivision_name": "Missouri"
+            },
+            {
+              "subdivision_code_a2": "NC",
+              "subdivision_name": "North Carolina"
+            },
+            {
+              "subdivision_code_a2": "NJ",
+              "subdivision_name": "New Jersey"
+            },
+            {
+              "subdivision_code_a2": "NY",
+              "subdivision_name": "New York"
+            },
+            {
+              "subdivision_code_a2": "OH",
+              "subdivision_name": "Ohio"
+            },
+            {
+              "subdivision_code_a2": "PA",
+              "subdivision_name": "Pennsylvania"
+            },
+            {
+              "subdivision_code_a2": "SD",
+              "subdivision_name": "South Dakota"
+            },
+            {
+              "subdivision_code_a2": "TN",
+              "subdivision_name": "Tennessee"
+            },
+            {
+              "subdivision_code_a2": "VA",
+              "subdivision_name": "Virginia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region_code": "ME",
+      "countries": [
+        {
+          "country_code_a2": "AE",
+          "country_name": "United Arab Emirates"
+        },
+        {
+          "country_code_a2": "AM",
+          "country_name": "Armenia"
+        },
+        {
+          "country_code_a2": "AZ",
+          "country_name": "Azerbaijan"
+        },
+        {
+          "country_code_a2": "BH",
+          "country_name": "Bahrain"
+        },
+        {
+          "country_code_a2": "CY",
+          "country_name": "Cyprus"
+        },
+        {
+          "country_code_a2": "GE",
+          "country_name": "Georgia"
+        },
+        {
+          "country_code_a2": "IL",
+          "country_name": "Israel"
+        },
+        {
+          "country_code_a2": "IQ",
+          "country_name": "Iraq"
+        },
+        {
+          "country_code_a2": "JO",
+          "country_name": "Jordan"
+        },
+        {
+          "country_code_a2": "KW",
+          "country_name": "Kuwait"
+        },
+        {
+          "country_code_a2": "LB",
+          "country_name": "Lebanon"
+        },
+        {
+          "country_code_a2": "OM",
+          "country_name": "Oman"
+        },
+        {
+          "country_code_a2": "PS",
+          "country_name": "Palestine"
+        },
+        {
+          "country_code_a2": "QA",
+          "country_name": "Qatar"
+        },
+        {
+          "country_code_a2": "SA",
+          "country_name": "Saudi Arabia"
+        }
+      ]
+    },
+    {
+      "region_code": "NAF",
+      "countries": [
+        {
+          "country_code_a2": "BF",
+          "country_name": "Burkina Faso"
+        },
+        {
+          "country_code_a2": "CI",
+          "country_name": "Côte D'Ivoire"
+        },
+        {
+          "country_code_a2": "DJ",
+          "country_name": "Djibouti"
+        },
+        {
+          "country_code_a2": "DZ",
+          "country_name": "Algeria"
+        },
+        {
+          "country_code_a2": "EG",
+          "country_name": "Egypt"
+        },
+        {
+          "country_code_a2": "GH",
+          "country_name": "Ghana"
+        },
+        {
+          "country_code_a2": "NG",
+          "country_name": "Nigeria"
+        },
+        {
+          "country_code_a2": "SN",
+          "country_name": "Senegal"
+        },
+        {
+          "country_code_a2": "TN",
+          "country_name": "Tunisia"
+        }
+      ]
+    },
+    {
+      "region_code": "NEAS",
+      "countries": [
+        {
+          "country_code_a2": "HK",
+          "country_name": "Hong Kong"
+        },
+        {
+          "country_code_a2": "JP",
+          "country_name": "Japan"
+        },
+        {
+          "country_code_a2": "KR",
+          "country_name": "Korea, South"
+        },
+        {
+          "country_code_a2": "MN",
+          "country_name": "Mongolia"
+        },
+        {
+          "country_code_a2": "MO",
+          "country_name": "Macau"
+        },
+        {
+          "country_code_a2": "TW",
+          "country_name": "Taiwan"
+        }
+      ]
+    },
+    {
+      "region_code": "NSAM",
+      "countries": [
+        {
+          "country_code_a2": "BR",
+          "country_name": "Brazil"
+        },
+        {
+          "country_code_a2": "CO",
+          "country_name": "Colombia"
+        },
+        {
+          "country_code_a2": "CR",
+          "country_name": "Costa Rica"
+        },
+        {
+          "country_code_a2": "EC",
+          "country_name": "Ecuador"
+        },
+        {
+          "country_code_a2": "GD",
+          "country_name": "Grenada"
+        },
+        {
+          "country_code_a2": "GT",
+          "country_name": "Guatemala"
+        },
+        {
+          "country_code_a2": "GY",
+          "country_name": "Guyana"
+        },
+        {
+          "country_code_a2": "PA",
+          "country_name": "Panama"
+        },
+        {
+          "country_code_a2": "PE",
+          "country_name": "Peru"
+        },
+        {
+          "country_code_a2": "SR",
+          "country_name": "Suriname"
+        },
+        {
+          "country_code_a2": "TT",
+          "country_name": "Trinidad And Tobago"
+        }
+      ]
+    },
+    {
+      "region_code": "OC",
+      "countries": [
+        {
+          "country_code_a2": "AU",
+          "country_name": "Australia"
+        },
+        {
+          "country_code_a2": "FJ",
+          "country_name": "Fiji"
+        },
+        {
+          "country_code_a2": "NZ",
+          "country_name": "New Zealand"
+        },
+        {
+          "country_code_a2": "PF",
+          "country_name": "French Polynesia"
+        }
+      ]
+    },
+    {
+      "region_code": "SAF",
+      "countries": [
+        {
+          "country_code_a2": "AO",
+          "country_name": "Angola"
+        },
+        {
+          "country_code_a2": "BW",
+          "country_name": "Botswana"
+        },
+        {
+          "country_code_a2": "CD",
+          "country_name": "Congo (Kinshasa)"
+        },
+        {
+          "country_code_a2": "KE",
+          "country_name": "Kenya"
+        },
+        {
+          "country_code_a2": "MG",
+          "country_name": "Madagascar"
+        },
+        {
+          "country_code_a2": "MU",
+          "country_name": "Mauritius"
+        },
+        {
+          "country_code_a2": "MZ",
+          "country_name": "Mozambique"
+        },
+        {
+          "country_code_a2": "NA",
+          "country_name": "Namibia"
+        },
+        {
+          "country_code_a2": "RE",
+          "country_name": "Reunion"
+        },
+        {
+          "country_code_a2": "RW",
+          "country_name": "Rwanda"
+        },
+        {
+          "country_code_a2": "TZ",
+          "country_name": "Tanzania"
+        },
+        {
+          "country_code_a2": "UG",
+          "country_name": "Uganda"
+        },
+        {
+          "country_code_a2": "ZA",
+          "country_name": "South Africa"
+        },
+        {
+          "country_code_a2": "ZM",
+          "country_name": "Zambia"
+        },
+        {
+          "country_code_a2": "ZW",
+          "country_name": "Zimbabwe"
+        }
+      ]
+    },
+    {
+      "region_code": "SAS",
+      "countries": [
+        {
+          "country_code_a2": "IN",
+          "country_name": "India"
+        },
+        {
+          "country_code_a2": "KZ",
+          "country_name": "Kazakhstan"
+        },
+        {
+          "country_code_a2": "LK",
+          "country_name": "Sri Lanka"
+        },
+        {
+          "country_code_a2": "MV",
+          "country_name": "Maldives"
+        },
+        {
+          "country_code_a2": "NP",
+          "country_name": "Nepal"
+        },
+        {
+          "country_code_a2": "PK",
+          "country_name": "Pakistan"
+        },
+        {
+          "country_code_a2": "RU",
+          "country_name": "Russian Federation"
+        }
+      ]
+    },
+    {
+      "region_code": "SEAS",
+      "countries": [
+        {
+          "country_code_a2": "BD",
+          "country_name": "Bangladesh"
+        },
+        {
+          "country_code_a2": "BN",
+          "country_name": "Brunei Darussalam"
+        },
+        {
+          "country_code_a2": "BT",
+          "country_name": "Bhutan"
+        },
+        {
+          "country_code_a2": "GU",
+          "country_name": "Guam"
+        },
+        {
+          "country_code_a2": "ID",
+          "country_name": "Indonesia"
+        },
+        {
+          "country_code_a2": "KH",
+          "country_name": "Cambodia"
+        },
+        {
+          "country_code_a2": "LA",
+          "country_name": "Laos"
+        },
+        {
+          "country_code_a2": "MY",
+          "country_name": "Malaysia"
+        },
+        {
+          "country_code_a2": "PH",
+          "country_name": "Philippines"
+        },
+        {
+          "country_code_a2": "SG",
+          "country_name": "Singapore"
+        },
+        {
+          "country_code_a2": "TH",
+          "country_name": "Thailand"
+        },
+        {
+          "country_code_a2": "VN",
+          "country_name": "Vietnam"
+        }
+      ]
+    },
+    {
+      "region_code": "SSAM",
+      "countries": [
+        {
+          "country_code_a2": "AR",
+          "country_name": "Argentina"
+        },
+        {
+          "country_code_a2": "BO",
+          "country_name": "Bolivia"
+        },
+        {
+          "country_code_a2": "BR",
+          "country_name": "Brazil"
+        },
+        {
+          "country_code_a2": "CL",
+          "country_name": "Chile"
+        },
+        {
+          "country_code_a2": "PY",
+          "country_name": "Paraguay"
+        }
+      ]
+    },
+    {
+      "region_code": "WEU",
+      "countries": [
+        {
+          "country_code_a2": "BE",
+          "country_name": "Belgium"
+        },
+        {
+          "country_code_a2": "CH",
+          "country_name": "Switzerland"
+        },
+        {
+          "country_code_a2": "DE",
+          "country_name": "Germany"
+        },
+        {
+          "country_code_a2": "ES",
+          "country_name": "Spain"
+        },
+        {
+          "country_code_a2": "FR",
+          "country_name": "France"
+        },
+        {
+          "country_code_a2": "GB",
+          "country_name": "United Kingdom"
+        },
+        {
+          "country_code_a2": "IE",
+          "country_name": "Ireland"
+        },
+        {
+          "country_code_a2": "IS",
+          "country_name": "Iceland"
+        },
+        {
+          "country_code_a2": "IT",
+          "country_name": "Italy"
+        },
+        {
+          "country_code_a2": "LU",
+          "country_name": "Luxembourg"
+        },
+        {
+          "country_code_a2": "NC",
+          "country_name": "New Caledonia"
+        },
+        {
+          "country_code_a2": "NL",
+          "country_name": "Netherlands"
+        },
+        {
+          "country_code_a2": "PT",
+          "country_name": "Portugal"
+        }
+      ]
+    },
+    {
+      "region_code": "WNAM",
+      "countries": [
+        {
+          "country_code_a2": "CA",
+          "country_name": "Canada",
+          "country_subdivisions": [
+            {
+              "subdivision_code_a2": "AB",
+              "subdivision_name": "Alberta"
+            },
+            {
+              "subdivision_code_a2": "BC",
+              "subdivision_name": "British Columbia"
+            }
+          ]
+        },
+        {
+          "country_code_a2": "MX",
+          "country_name": "Mexico"
+        },
+        {
+          "country_code_a2": "US",
+          "country_name": "United States",
+          "country_subdivisions": [
+            {
+              "subdivision_code_a2": "AK",
+              "subdivision_name": "Alaska"
+            },
+            {
+              "subdivision_code_a2": "AZ",
+              "subdivision_name": "Arizona"
+            },
+            {
+              "subdivision_code_a2": "CA",
+              "subdivision_name": "California"
+            },
+            {
+              "subdivision_code_a2": "CO",
+              "subdivision_name": "Colorado"
+            },
+            {
+              "subdivision_code_a2": "HI",
+              "subdivision_name": "Hawaii"
+            },
+            {
+              "subdivision_code_a2": "MO",
+              "subdivision_name": "Missouri"
+            },
+            {
+              "subdivision_code_a2": "NE",
+              "subdivision_name": "Nebraska"
+            },
+            {
+              "subdivision_code_a2": "NM",
+              "subdivision_name": "New Mexico"
+            },
+            {
+              "subdivision_code_a2": "NV",
+              "subdivision_name": "Nevada"
+            },
+            {
+              "subdivision_code_a2": "OK",
+              "subdivision_name": "Oklahoma"
+            },
+            {
+              "subdivision_code_a2": "OR",
+              "subdivision_name": "Oregon"
+            },
+            {
+              "subdivision_code_a2": "TX",
+              "subdivision_name": "Texas"
+            },
+            {
+              "subdivision_code_a2": "UT",
+              "subdivision_name": "Utah"
+            },
+            {
+              "subdivision_code_a2": "WA",
+              "subdivision_name": "Washington"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

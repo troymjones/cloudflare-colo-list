@@ -1,6 +1,7 @@
 [
     {
         "cca2": "AL",
+        "cf_lb_region": "EEU",
         "city": "Tirana",
         "country": "Albania",
         "iata": "TIA",
@@ -11,6 +12,7 @@
     },
     {
         "cca2": "AT",
+        "cf_lb_region": "EEU",
         "city": "Vienna",
         "country": "Austria",
         "iata": "VIE",
@@ -21,6 +23,7 @@
     },
     {
         "cca2": "BY",
+        "cf_lb_region": "EEU",
         "city": "Minsk",
         "country": "Belarus",
         "iata": "MSQ",
@@ -31,6 +34,7 @@
     },
     {
         "cca2": "BE",
+        "cf_lb_region": "WEU",
         "city": "Brussels",
         "country": "Belgium",
         "iata": "BRU",
@@ -41,6 +45,7 @@
     },
     {
         "cca2": "BG",
+        "cf_lb_region": "EEU",
         "city": "Sofia",
         "country": "Bulgaria",
         "iata": "SOF",
@@ -51,6 +56,7 @@
     },
     {
         "cca2": "HR",
+        "cf_lb_region": "EEU",
         "city": "Zagreb",
         "country": "Croatia",
         "iata": "ZAG",
@@ -61,6 +67,7 @@
     },
     {
         "cca2": "CY",
+        "cf_lb_region": "ME",
         "city": "Nicosia",
         "country": "Cyprus",
         "iata": "LCA",
@@ -71,6 +78,7 @@
     },
     {
         "cca2": "CZ",
+        "cf_lb_region": "EEU",
         "city": "Prague",
         "country": "Czech Republic",
         "iata": "PRG",
@@ -81,6 +89,7 @@
     },
     {
         "cca2": "DK",
+        "cf_lb_region": "EEU",
         "city": "Copenhagen",
         "country": "Denmark",
         "iata": "CPH",
@@ -91,6 +100,7 @@
     },
     {
         "cca2": "EE",
+        "cf_lb_region": "EEU",
         "city": "Tallinn",
         "country": "Estonia",
         "iata": "TLL",
@@ -101,6 +111,7 @@
     },
     {
         "cca2": "FI",
+        "cf_lb_region": "EEU",
         "city": "Helsinki",
         "country": "Finland",
         "iata": "HEL",
@@ -111,6 +122,7 @@
     },
     {
         "cca2": "FR",
+        "cf_lb_region": "WEU",
         "city": "Bordeaux",
         "country": "France",
         "iata": "BOD",
@@ -121,6 +133,7 @@
     },
     {
         "cca2": "FR",
+        "cf_lb_region": "WEU",
         "city": "Lyon",
         "country": "France",
         "iata": "LYS",
@@ -131,6 +144,7 @@
     },
     {
         "cca2": "FR",
+        "cf_lb_region": "WEU",
         "city": "Marseille",
         "country": "France",
         "iata": "MRS",
@@ -141,6 +155,7 @@
     },
     {
         "cca2": "FR",
+        "cf_lb_region": "WEU",
         "city": "Paris",
         "country": "France",
         "iata": "CDG",
@@ -151,6 +166,7 @@
     },
     {
         "cca2": "GE",
+        "cf_lb_region": "ME",
         "city": "Tbilisi",
         "country": "Georgia",
         "iata": "TBS",
@@ -161,6 +177,7 @@
     },
     {
         "cca2": "DE",
+        "cf_lb_region": "EEU",
         "city": "Berlin",
         "country": "Germany",
         "iata": "TXL",
@@ -171,6 +188,7 @@
     },
     {
         "cca2": "DE",
+        "cf_lb_region": "WEU",
         "city": "Dusseldorf",
         "country": "Germany",
         "iata": "DUS",
@@ -181,6 +199,7 @@
     },
     {
         "cca2": "DE",
+        "cf_lb_region": "WEU",
         "city": "Frankfurt",
         "country": "Germany",
         "iata": "FRA",
@@ -191,6 +210,7 @@
     },
     {
         "cca2": "DE",
+        "cf_lb_region": "EEU",
         "city": "Hamburg",
         "country": "Germany",
         "iata": "HAM",
@@ -201,6 +221,7 @@
     },
     {
         "cca2": "DE",
+        "cf_lb_region": "EEU",
         "city": "Munich",
         "country": "Germany",
         "iata": "MUC",
@@ -211,6 +232,7 @@
     },
     {
         "cca2": "DE",
+        "cf_lb_region": "WEU",
         "city": "Stuttgart",
         "country": "Germany",
         "iata": "STR",
@@ -221,6 +243,7 @@
     },
     {
         "cca2": "GR",
+        "cf_lb_region": "EEU",
         "city": "Athens",
         "country": "Greece",
         "iata": "ATH",
@@ -231,6 +254,7 @@
     },
     {
         "cca2": "GR",
+        "cf_lb_region": "EEU",
         "city": "Thessaloniki",
         "country": "Greece",
         "iata": "SKG",
@@ -241,6 +265,7 @@
     },
     {
         "cca2": "HU",
+        "cf_lb_region": "EEU",
         "city": "Budapest",
         "country": "Hungary",
         "iata": "BUD",
@@ -251,6 +276,7 @@
     },
     {
         "cca2": "IS",
+        "cf_lb_region": "WEU",
         "city": "Reykjavik",
         "country": "Iceland",
         "iata": "KEF",
@@ -261,6 +287,7 @@
     },
     {
         "cca2": "IE",
+        "cf_lb_region": "WEU",
         "city": "Cork",
         "country": "Ireland",
         "iata": "ORK",
@@ -271,6 +298,7 @@
     },
     {
         "cca2": "IE",
+        "cf_lb_region": "WEU",
         "city": "Dublin",
         "country": "Ireland",
         "iata": "DUB",
@@ -281,6 +309,7 @@
     },
     {
         "cca2": "IT",
+        "cf_lb_region": "WEU",
         "city": "Milan",
         "country": "Italy",
         "iata": "MXP",
@@ -291,6 +320,7 @@
     },
     {
         "cca2": "IT",
+        "cf_lb_region": "EEU",
         "city": "Palermo",
         "country": "Italy",
         "iata": "PMO",
@@ -301,6 +331,7 @@
     },
     {
         "cca2": "IT",
+        "cf_lb_region": "EEU",
         "city": "Rome",
         "country": "Italy",
         "iata": "FCO",
@@ -311,6 +342,7 @@
     },
     {
         "cca2": "LV",
+        "cf_lb_region": "EEU",
         "city": "Riga",
         "country": "Latvia",
         "iata": "RIX",
@@ -321,6 +353,7 @@
     },
     {
         "cca2": "LT",
+        "cf_lb_region": "EEU",
         "city": "Vilnius",
         "country": "Lithuania",
         "iata": "VNO",
@@ -331,6 +364,7 @@
     },
     {
         "cca2": "LU",
+        "cf_lb_region": "WEU",
         "city": "Luxembourg City",
         "country": "Luxembourg",
         "iata": "LUX",
@@ -341,6 +375,7 @@
     },
     {
         "cca2": "MD",
+        "cf_lb_region": "EEU",
         "city": "Chisinau",
         "country": "Moldova",
         "iata": "KIV",
@@ -351,6 +386,7 @@
     },
     {
         "cca2": "NL",
+        "cf_lb_region": "WEU",
         "city": "Amsterdam",
         "country": "Netherlands",
         "iata": "AMS",
@@ -361,6 +397,7 @@
     },
     {
         "cca2": "MK",
+        "cf_lb_region": "EEU",
         "city": "Skopje",
         "country": "North Macedonia",
         "iata": "SKP",
@@ -371,6 +408,7 @@
     },
     {
         "cca2": "NO",
+        "cf_lb_region": "EEU",
         "city": "Oslo",
         "country": "Norway",
         "iata": "OSL",
@@ -381,6 +419,7 @@
     },
     {
         "cca2": "PL",
+        "cf_lb_region": "EEU",
         "city": "Warsaw",
         "country": "Poland",
         "iata": "WAW",
@@ -391,6 +430,7 @@
     },
     {
         "cca2": "PT",
+        "cf_lb_region": "WEU",
         "city": "Lisbon",
         "country": "Portugal",
         "iata": "LIS",
@@ -401,6 +441,7 @@
     },
     {
         "cca2": "RO",
+        "cf_lb_region": "EEU",
         "city": "Bucharest",
         "country": "Romania",
         "iata": "OTP",
@@ -411,6 +452,7 @@
     },
     {
         "cca2": "RU",
+        "cf_lb_region": "EEU",
         "city": "Moscow",
         "country": "Russia",
         "iata": "DME",
@@ -421,6 +463,7 @@
     },
     {
         "cca2": "RU",
+        "cf_lb_region": "EEU",
         "city": "Saint Petersburg",
         "country": "Russia",
         "iata": "LED",
@@ -431,6 +474,7 @@
     },
     {
         "cca2": "RS",
+        "cf_lb_region": "EEU",
         "city": "Belgrade",
         "country": "Serbia",
         "iata": "BEG",
@@ -441,6 +485,7 @@
     },
     {
         "cca2": "SK",
+        "cf_lb_region": "EEU",
         "city": "Bratislava",
         "country": "Slovakia",
         "iata": "BTS",
@@ -451,6 +496,7 @@
     },
     {
         "cca2": "ES",
+        "cf_lb_region": "WEU",
         "city": "Barcelona",
         "country": "Spain",
         "iata": "BCN",
@@ -461,6 +507,7 @@
     },
     {
         "cca2": "ES",
+        "cf_lb_region": "WEU",
         "city": "Madrid",
         "country": "Spain",
         "iata": "MAD",
@@ -471,6 +518,7 @@
     },
     {
         "cca2": "SE",
+        "cf_lb_region": "EEU",
         "city": "Gothenburg",
         "country": "Sweden",
         "iata": "GOT",
@@ -481,6 +529,7 @@
     },
     {
         "cca2": "SE",
+        "cf_lb_region": "EEU",
         "city": "Stockholm",
         "country": "Sweden",
         "iata": "ARN",
@@ -491,6 +540,7 @@
     },
     {
         "cca2": "CH",
+        "cf_lb_region": "WEU",
         "city": "Geneva",
         "country": "Switzerland",
         "iata": "GVA",
@@ -501,6 +551,7 @@
     },
     {
         "cca2": "CH",
+        "cf_lb_region": "WEU",
         "city": "Zurich",
         "country": "Switzerland",
         "iata": "ZRH",
@@ -511,6 +562,7 @@
     },
     {
         "cca2": "TR",
+        "cf_lb_region": "EEU",
         "city": "Istanbul",
         "country": "Turkey",
         "iata": "IST",
@@ -521,6 +573,7 @@
     },
     {
         "cca2": "TR",
+        "cf_lb_region": "EEU",
         "city": "Izmir",
         "country": "Turkey",
         "iata": "ADB",
@@ -531,6 +584,7 @@
     },
     {
         "cca2": "UA",
+        "cf_lb_region": "EEU",
         "city": "Kyiv",
         "country": "Ukraine",
         "iata": "KBP",
@@ -541,6 +595,7 @@
     },
     {
         "cca2": "GB",
+        "cf_lb_region": "WEU",
         "city": "Edinburgh",
         "country": "United Kingdom",
         "iata": "EDI",
@@ -551,6 +606,7 @@
     },
     {
         "cca2": "GB",
+        "cf_lb_region": "WEU",
         "city": "London",
         "country": "United Kingdom",
         "iata": "LHR",
@@ -561,6 +617,7 @@
     },
     {
         "cca2": "GB",
+        "cf_lb_region": "WEU",
         "city": "Manchester",
         "country": "United Kingdom",
         "iata": "MAN",

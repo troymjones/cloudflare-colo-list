@@ -1,6 +1,7 @@
 [
     {
         "cca2": "BD",
+        "cf_lb_region": "SEAS",
         "city": "Chittagong",
         "country": "Bangladesh",
         "iata": "CGP",
@@ -11,6 +12,7 @@
     },
     {
         "cca2": "BD",
+        "cf_lb_region": "SEAS",
         "city": "Dhaka",
         "country": "Bangladesh",
         "iata": "DAC",
@@ -21,6 +23,7 @@
     },
     {
         "cca2": "BT",
+        "cf_lb_region": "SEAS",
         "city": "Thimphu",
         "country": "Bhutan",
         "iata": "PBH",
@@ -31,6 +34,7 @@
     },
     {
         "cca2": "BN",
+        "cf_lb_region": "SEAS",
         "city": "Bandar Seri Begawan",
         "country": "Brunei",
         "iata": "BWN",
@@ -41,6 +45,7 @@
     },
     {
         "cca2": "KH",
+        "cf_lb_region": "SEAS",
         "city": "Phnom Penh",
         "country": "Cambodia",
         "iata": "PNH",
@@ -51,6 +56,7 @@
     },
     {
         "cca2": "GU",
+        "cf_lb_region": "SEAS",
         "city": "Hagatna",
         "country": "Guam",
         "iata": "GUM",
@@ -61,6 +67,7 @@
     },
     {
         "cca2": "HK",
+        "cf_lb_region": "NEAS",
         "city": "Hong Kong",
         "iata": "HKG",
         "lat": 22.3089008331,
@@ -70,6 +77,7 @@
     },
     {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Ahmedabad",
         "country": "India",
         "iata": "AMD",
@@ -80,6 +88,7 @@
     },
     {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Bangalore",
         "country": "India",
         "iata": "BLR",
@@ -90,6 +99,7 @@
     },
     {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Bhubaneswar",
         "country": "India",
         "iata": "BBI",
@@ -100,6 +110,7 @@
     },
     {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Chandigarh",
         "country": "India",
         "iata": "IXC",
@@ -110,6 +121,7 @@
     },
     {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Chennai",
         "country": "India",
         "iata": "MAA",
@@ -120,6 +132,7 @@
     },
     {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Hyderabad",
         "country": "India",
         "iata": "HYD",
@@ -130,6 +143,7 @@
     },
     {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Kannur",
         "country": "India",
         "iata": "CNN",
@@ -140,6 +154,7 @@
     },
     {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Kanpur",
         "country": "India",
         "iata": "KNU",
@@ -150,6 +165,7 @@
     },
     {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Kochi",
         "country": "India",
         "iata": "COK",
@@ -160,6 +176,7 @@
     },
     {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Kolkata",
         "country": "India",
         "iata": "CCU",
@@ -170,6 +187,7 @@
     },
     {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Mumbai",
         "country": "India",
         "iata": "BOM",
@@ -180,6 +198,7 @@
     },
     {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Nagpur",
         "country": "India",
         "iata": "NAG",
@@ -190,6 +209,7 @@
     },
     {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "New Delhi",
         "country": "India",
         "iata": "DEL",
@@ -200,6 +220,7 @@
     },
     {
         "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Patna",
         "country": "India",
         "iata": "PAT",
@@ -210,6 +231,7 @@
     },
     {
         "cca2": "ID",
+        "cf_lb_region": "SEAS",
         "city": "Denpasar",
         "country": "Indonesia",
         "iata": "DPS",
@@ -220,6 +242,7 @@
     },
     {
         "cca2": "ID",
+        "cf_lb_region": "SEAS",
         "city": "Jakarta",
         "country": "Indonesia",
         "iata": "CGK",
@@ -230,6 +253,7 @@
     },
     {
         "cca2": "ID",
+        "cf_lb_region": "SEAS",
         "city": "Yogyakarta",
         "country": "Indonesia",
         "iata": "JOG",
@@ -240,6 +264,7 @@
     },
     {
         "cca2": "JP",
+        "cf_lb_region": "NEAS",
         "city": "Fukuoka",
         "country": "Japan",
         "iata": "FUK",
@@ -250,6 +275,7 @@
     },
     {
         "cca2": "JP",
+        "cf_lb_region": "NEAS",
         "city": "Naha",
         "country": "Japan",
         "iata": "OKA",
@@ -260,6 +286,7 @@
     },
     {
         "cca2": "JP",
+        "cf_lb_region": "NEAS",
         "city": "Osaka",
         "country": "Japan",
         "iata": "KIX",
@@ -270,6 +297,7 @@
     },
     {
         "cca2": "JP",
+        "cf_lb_region": "NEAS",
         "city": "Tokyo",
         "country": "Japan",
         "iata": "NRT",
@@ -280,6 +308,7 @@
     },
     {
         "cca2": "KZ",
+        "cf_lb_region": "SAS",
         "city": "Aktobe",
         "country": "Kazakhstan",
         "iata": "AKX",
@@ -290,6 +319,7 @@
     },
     {
         "cca2": "KZ",
+        "cf_lb_region": "SAS",
         "city": "Almaty",
         "country": "Kazakhstan",
         "iata": "ALA",
@@ -300,6 +330,7 @@
     },
     {
         "cca2": "KZ",
+        "cf_lb_region": "SAS",
         "city": "Astana",
         "country": "Kazakhstan",
         "iata": "NQZ",
@@ -310,6 +341,7 @@
     },
     {
         "cca2": "KR",
+        "cf_lb_region": "NEAS",
         "city": "Seoul",
         "country": "South Korea",
         "iata": "ICN",
@@ -320,6 +352,7 @@
     },
     {
         "cca2": "LA",
+        "cf_lb_region": "SEAS",
         "city": "Vientiane",
         "country": "Laos",
         "iata": "VTE",
@@ -330,6 +363,7 @@
     },
     {
         "cca2": "MO",
+        "cf_lb_region": "NEAS",
         "city": "Macau",
         "iata": "MFM",
         "lat": 22.1495990753,
@@ -339,6 +373,7 @@
     },
     {
         "cca2": "MY",
+        "cf_lb_region": "SEAS",
         "city": "Johor Bahru",
         "country": "Malaysia",
         "iata": "JHB",
@@ -349,6 +384,7 @@
     },
     {
         "cca2": "MY",
+        "cf_lb_region": "SEAS",
         "city": "Kuala Lumpur",
         "country": "Malaysia",
         "iata": "KUL",
@@ -359,6 +395,7 @@
     },
     {
         "cca2": "MY",
+        "cf_lb_region": "SEAS",
         "city": "Kuching",
         "country": "Malaysia",
         "iata": "KCH",
@@ -369,6 +406,7 @@
     },
     {
         "cca2": "MV",
+        "cf_lb_region": "SAS",
         "city": "Male",
         "country": "Maldives",
         "iata": "MLE",
@@ -379,6 +417,7 @@
     },
     {
         "cca2": "MN",
+        "cf_lb_region": "NEAS",
         "city": "Ulaanbaatar",
         "country": "Mongolia",
         "iata": "ULN",
@@ -389,6 +428,7 @@
     },
     {
         "cca2": "NP",
+        "cf_lb_region": "SAS",
         "city": "Kathmandu",
         "country": "Nepal",
         "iata": "KTM",
@@ -399,6 +439,7 @@
     },
     {
         "cca2": "PK",
+        "cf_lb_region": "SAS",
         "city": "Islamabad",
         "country": "Pakistan",
         "iata": "ISB",
@@ -409,6 +450,7 @@
     },
     {
         "cca2": "PK",
+        "cf_lb_region": "SAS",
         "city": "Karachi",
         "country": "Pakistan",
         "iata": "KHI",
@@ -419,6 +461,7 @@
     },
     {
         "cca2": "PK",
+        "cf_lb_region": "SAS",
         "city": "Lahore",
         "country": "Pakistan",
         "iata": "LHE",
@@ -429,6 +472,7 @@
     },
     {
         "cca2": "PH",
+        "cf_lb_region": "SEAS",
         "city": "Cagayan de Oro",
         "country": "Philippines",
         "iata": "CGY",
@@ -439,6 +483,7 @@
     },
     {
         "cca2": "PH",
+        "cf_lb_region": "SEAS",
         "city": "Cebu",
         "country": "Philippines",
         "iata": "CEB",
@@ -449,6 +494,7 @@
     },
     {
         "cca2": "PH",
+        "cf_lb_region": "SEAS",
         "city": "Manila",
         "country": "Philippines",
         "iata": "MNL",
@@ -459,6 +505,7 @@
     },
     {
         "cca2": "PH",
+        "cf_lb_region": "SEAS",
         "city": "Tarlac City",
         "country": "Philippines",
         "iata": "CRK",
@@ -469,6 +516,7 @@
     },
     {
         "cca2": "RU",
+        "cf_lb_region": "SAS",
         "city": "Krasnoyarsk",
         "country": "Russia",
         "iata": "KJA",
@@ -479,6 +527,7 @@
     },
     {
         "cca2": "RU",
+        "cf_lb_region": "SAS",
         "city": "Yekaterinburg",
         "country": "Russia",
         "iata": "SVX",
@@ -489,6 +538,7 @@
     },
     {
         "cca2": "SG",
+        "cf_lb_region": "SEAS",
         "city": "Singapore",
         "country": "Singapore",
         "iata": "SIN",
@@ -499,6 +549,7 @@
     },
     {
         "cca2": "LK",
+        "cf_lb_region": "SAS",
         "city": "Colombo",
         "country": "Sri Lanka",
         "iata": "CMB",
@@ -509,6 +560,7 @@
     },
     {
         "cca2": "TW",
+        "cf_lb_region": "NEAS",
         "city": "Kaohsiung City",
         "country": "Taiwan",
         "iata": "KHH",
@@ -519,6 +571,7 @@
     },
     {
         "cca2": "TW",
+        "cf_lb_region": "NEAS",
         "city": "Taipei",
         "iata": "TPE",
         "lat": 25.0776996613,
@@ -528,6 +581,7 @@
     },
     {
         "cca2": "TH",
+        "cf_lb_region": "SEAS",
         "city": "Bangkok",
         "country": "Thailand",
         "iata": "BKK",
@@ -538,6 +592,7 @@
     },
     {
         "cca2": "TH",
+        "cf_lb_region": "SEAS",
         "city": "Chiang Mai",
         "country": "Thailand",
         "iata": "CNX",
@@ -548,6 +603,7 @@
     },
     {
         "cca2": "TH",
+        "cf_lb_region": "SEAS",
         "city": "Surat Thani",
         "country": "Thailand",
         "iata": "URT",
@@ -558,6 +614,7 @@
     },
     {
         "cca2": "VN",
+        "cf_lb_region": "SEAS",
         "city": "Da Nang",
         "country": "Vietnam",
         "iata": "DAD",
@@ -568,6 +625,7 @@
     },
     {
         "cca2": "VN",
+        "cf_lb_region": "SEAS",
         "city": "Hanoi",
         "country": "Vietnam",
         "iata": "HAN",
@@ -578,6 +636,7 @@
     },
     {
         "cca2": "VN",
+        "cf_lb_region": "SEAS",
         "city": "Ho Chi Minh City",
         "country": "Vietnam",
         "iata": "SGN",

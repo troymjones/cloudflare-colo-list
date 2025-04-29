@@ -1,6 +1,7 @@
 [
     {
         "cca2": "BB",
+        "cf_lb_region": "ENAM",
         "city": "Bridgetown",
         "country": "Barbados",
         "iata": "BGI",
@@ -11,6 +12,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "WNAM",
         "city": "Calgary",
         "country": "Canada",
         "iata": "YYC",
@@ -21,6 +23,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "WNAM",
         "city": "Vancouver",
         "country": "Canada",
         "iata": "YVR",
@@ -31,6 +34,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Winnipeg",
         "country": "Canada",
         "iata": "YWG",
@@ -41,6 +45,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Halifax",
         "country": "Canada",
         "iata": "YHZ",
@@ -51,6 +56,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Ottawa",
         "country": "Canada",
         "iata": "YOW",
@@ -61,6 +67,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Toronto",
         "country": "Canada",
         "iata": "YYZ",
@@ -71,6 +78,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Montreal",
         "country": "Canada",
         "iata": "YUL",
@@ -81,6 +89,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Saskatoon",
         "country": "Canada",
         "iata": "YXE",
@@ -91,6 +100,7 @@
     },
     {
         "cca2": "DO",
+        "cf_lb_region": "ENAM",
         "city": "Santiago de los Caballeros",
         "country": "Dominican Republic",
         "iata": "STI",
@@ -101,6 +111,7 @@
     },
     {
         "cca2": "DO",
+        "cf_lb_region": "ENAM",
         "city": "Santo Domingo",
         "country": "Dominican Republic",
         "iata": "SDQ",
@@ -111,6 +122,7 @@
     },
     {
         "cca2": "GT",
+        "cf_lb_region": "NSAM",
         "city": "Guatemala City",
         "country": "Guatemala",
         "iata": "GUA",
@@ -121,6 +133,7 @@
     },
     {
         "cca2": "JM",
+        "cf_lb_region": "ENAM",
         "city": "Kingston",
         "country": "Jamaica",
         "iata": "KIN",
@@ -131,6 +144,7 @@
     },
     {
         "cca2": "MX",
+        "cf_lb_region": "WNAM",
         "city": "Guadalajara",
         "country": "Mexico",
         "iata": "GDL",
@@ -141,6 +155,7 @@
     },
     {
         "cca2": "MX",
+        "cf_lb_region": "WNAM",
         "city": "Mexico City",
         "country": "Mexico",
         "iata": "MEX",
@@ -151,6 +166,7 @@
     },
     {
         "cca2": "MX",
+        "cf_lb_region": "WNAM",
         "city": "Queretaro",
         "country": "Mexico",
         "iata": "QRO",
@@ -161,6 +177,7 @@
     },
     {
         "cca2": "PR",
+        "cf_lb_region": "ENAM",
         "city": "San Juan",
         "country": "Puerto Rico",
         "iata": "SJU",
@@ -171,6 +188,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Anchorage",
         "country": "United States",
         "iata": "ANC",
@@ -181,6 +199,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Phoenix",
         "country": "United States",
         "iata": "PHX",
@@ -191,6 +210,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Los Angeles",
         "country": "United States",
         "iata": "LAX",
@@ -201,6 +221,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Sacramento",
         "country": "United States",
         "iata": "SMF",
@@ -211,6 +232,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "San Diego",
         "country": "United States",
         "iata": "SAN",
@@ -221,6 +243,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "San Francisco",
         "country": "United States",
         "iata": "SFO",
@@ -231,6 +254,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "San Jose",
         "country": "United States",
         "iata": "SJC",
@@ -241,6 +265,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Denver",
         "country": "United States",
         "iata": "DEN",
@@ -251,6 +276,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Jacksonville",
         "country": "United States",
         "iata": "JAX",
@@ -261,6 +287,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Miami",
         "country": "United States",
         "iata": "MIA",
@@ -271,6 +298,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Tallahassee",
         "country": "United States",
         "iata": "TLH",
@@ -281,6 +309,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Tampa",
         "country": "United States",
         "iata": "TPA",
@@ -291,6 +320,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Atlanta",
         "country": "United States",
         "iata": "ATL",
@@ -301,6 +331,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Honolulu",
         "country": "United States",
         "iata": "HNL",
@@ -311,6 +342,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Chicago",
         "country": "United States",
         "iata": "ORD",
@@ -321,6 +353,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Indianapolis",
         "country": "United States",
         "iata": "IND",
@@ -331,6 +364,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Bangor",
         "country": "United States",
         "iata": "BGR",
@@ -341,6 +375,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Boston",
         "country": "United States",
         "iata": "BOS",
@@ -351,6 +386,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Detroit",
         "country": "United States",
         "iata": "DTW",
@@ -361,6 +397,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Minneapolis",
         "country": "United States",
         "iata": "MSP",
@@ -371,6 +408,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Kansas City",
         "country": "United States",
         "iata": "MCI",
@@ -381,6 +419,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "St. Louis",
         "country": "United States",
         "iata": "STL",
@@ -391,6 +430,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Omaha",
         "country": "United States",
         "iata": "OMA",
@@ -401,6 +441,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Las Vegas",
         "country": "United States",
         "iata": "LAS",
@@ -411,6 +452,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Newark",
         "country": "United States",
         "iata": "EWR",
@@ -421,6 +463,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Albuquerque",
         "country": "United States",
         "iata": "ABQ",
@@ -431,6 +474,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Buffalo",
         "country": "United States",
         "iata": "BUF",
@@ -441,6 +485,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Charlotte",
         "country": "United States",
         "iata": "CLT",
@@ -451,6 +496,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Durham",
         "country": "United States",
         "iata": "RDU",
@@ -461,6 +507,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Cleveland",
         "country": "United States",
         "iata": "CLE",
@@ -471,6 +518,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Columbus",
         "country": "United States",
         "iata": "CMH",
@@ -481,6 +529,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Oklahoma City",
         "country": "United States",
         "iata": "OKC",
@@ -491,6 +540,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Portland",
         "country": "United States",
         "iata": "PDX",
@@ -501,6 +551,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Philadelphia",
         "country": "United States",
         "iata": "PHL",
@@ -511,6 +562,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Pittsburgh",
         "country": "United States",
         "iata": "PIT",
@@ -521,6 +573,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Sioux Falls",
         "country": "South Dakota",
         "iata": "FSD",
@@ -531,6 +584,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Memphis",
         "country": "United States",
         "iata": "MEM",
@@ -541,6 +595,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Nashville",
         "country": "United States",
         "iata": "BNA",
@@ -551,6 +606,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Austin",
         "country": "United States",
         "iata": "AUS",
@@ -561,6 +617,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Dallas",
         "country": "United States",
         "iata": "DFW",
@@ -571,6 +628,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Houston",
         "country": "United States",
         "iata": "IAH",
@@ -581,6 +639,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "McAllen",
         "country": "United States",
         "iata": "MFE",
@@ -591,6 +650,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "San Antonio",
         "country": "United States",
         "iata": "SAT",
@@ -601,6 +661,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Salt Lake City",
         "country": "United States",
         "iata": "SLC",
@@ -611,6 +672,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Ashburn",
         "country": "United States",
         "iata": "IAD",
@@ -621,6 +683,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Norfolk",
         "country": "United States",
         "iata": "ORF",
@@ -631,6 +694,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Richmond",
         "country": "United States",
         "iata": "RIC",
@@ -641,6 +705,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Seattle",
         "country": "United States",
         "iata": "SEA",

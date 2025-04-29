@@ -1,6 +1,7 @@
 [
     {
         "cca2": "DZ",
+        "cf_lb_region": "NAF",
         "city": "Algiers",
         "country": "Algeria",
         "iata": "ALG",
@@ -11,6 +12,7 @@
     },
     {
         "cca2": "DZ",
+        "cf_lb_region": "NAF",
         "city": "Annaba",
         "country": "Algeria",
         "iata": "AAE",
@@ -21,6 +23,7 @@
     },
     {
         "cca2": "DZ",
+        "cf_lb_region": "NAF",
         "city": "Oran",
         "country": "Algeria",
         "iata": "ORN",
@@ -31,6 +34,7 @@
     },
     {
         "cca2": "AO",
+        "cf_lb_region": "SAF",
         "city": "Luanda",
         "country": "Angola",
         "iata": "LAD",
@@ -41,6 +45,7 @@
     },
     {
         "cca2": "BW",
+        "cf_lb_region": "SAF",
         "city": "Gaborone",
         "country": "Botswana",
         "iata": "GBE",
@@ -51,6 +56,7 @@
     },
     {
         "cca2": "BF",
+        "cf_lb_region": "NAF",
         "city": "Ouagadougou",
         "country": "Burkina Faso",
         "iata": "OUA",
@@ -61,6 +67,7 @@
     },
     {
         "cca2": "CD",
+        "cf_lb_region": "SAF",
         "city": "Kinshasa",
         "country": "DR Congo",
         "iata": "FIH",
@@ -71,6 +78,7 @@
     },
     {
         "cca2": "CI",
+        "cf_lb_region": "NAF",
         "city": "Abidjan",
         "country": "Ivory Coast",
         "iata": "ABJ",
@@ -81,6 +89,7 @@
     },
     {
         "cca2": "CI",
+        "cf_lb_region": "NAF",
         "city": "Yamoussoukro",
         "country": "Ivory Coast",
         "iata": "ASK",
@@ -91,6 +100,7 @@
     },
     {
         "cca2": "DJ",
+        "cf_lb_region": "NAF",
         "city": "Djibouti",
         "country": "Djibouti",
         "iata": "JIB",
@@ -101,6 +111,7 @@
     },
     {
         "cca2": "EG",
+        "cf_lb_region": "NAF",
         "city": "Cairo",
         "country": "Egypt",
         "iata": "CAI",
@@ -111,6 +122,7 @@
     },
     {
         "cca2": "GH",
+        "cf_lb_region": "NAF",
         "city": "Accra",
         "country": "Ghana",
         "iata": "ACC",
@@ -121,6 +133,7 @@
     },
     {
         "cca2": "KE",
+        "cf_lb_region": "SAF",
         "city": "Mombasa",
         "country": "Kenya",
         "iata": "MBA",
@@ -131,6 +144,7 @@
     },
     {
         "cca2": "KE",
+        "cf_lb_region": "SAF",
         "city": "Nairobi",
         "country": "Kenya",
         "iata": "NBO",
@@ -141,6 +155,7 @@
     },
     {
         "cca2": "MG",
+        "cf_lb_region": "SAF",
         "city": "Antananarivo",
         "country": "Madagascar",
         "iata": "TNR",
@@ -151,6 +166,7 @@
     },
     {
         "cca2": "MU",
+        "cf_lb_region": "SAF",
         "city": "Port Louis",
         "country": "Mauritius",
         "iata": "MRU",
@@ -161,6 +177,7 @@
     },
     {
         "cca2": "MZ",
+        "cf_lb_region": "SAF",
         "city": "Maputo",
         "country": "Mozambique",
         "iata": "MPM",
@@ -171,6 +188,7 @@
     },
     {
         "cca2": "NA",
+        "cf_lb_region": "SAF",
         "city": "Windhoek",
         "country": "Namibia",
         "iata": "WDH",
@@ -181,6 +199,7 @@
     },
     {
         "cca2": "NG",
+        "cf_lb_region": "NAF",
         "city": "Lagos",
         "country": "Nigeria",
         "iata": "LOS",
@@ -191,6 +210,7 @@
     },
     {
         "cca2": "RE",
+        "cf_lb_region": "SAF",
         "city": "Saint-Denis",
         "country": "Reunion",
         "iata": "RUN",
@@ -201,6 +221,7 @@
     },
     {
         "cca2": "RW",
+        "cf_lb_region": "SAF",
         "city": "Kigali",
         "country": "Rwanda",
         "iata": "KGL",
@@ -211,6 +232,7 @@
     },
     {
         "cca2": "SN",
+        "cf_lb_region": "NAF",
         "city": "Dakar",
         "country": "Senegal",
         "iata": "DKR",
@@ -221,6 +243,7 @@
     },
     {
         "cca2": "ZA",
+        "cf_lb_region": "SAF",
         "city": "Cape Town",
         "country": "South Africa",
         "iata": "CPT",
@@ -231,6 +254,7 @@
     },
     {
         "cca2": "ZA",
+        "cf_lb_region": "SAF",
         "city": "Durban",
         "country": "South Africa",
         "iata": "DUR",
@@ -241,6 +265,7 @@
     },
     {
         "cca2": "ZA",
+        "cf_lb_region": "SAF",
         "city": "Johannesburg",
         "country": "South Africa",
         "iata": "JNB",
@@ -251,6 +276,7 @@
     },
     {
         "cca2": "TZ",
+        "cf_lb_region": "SAF",
         "city": "Dar es Salaam",
         "country": "Tanzania",
         "iata": "DAR",
@@ -261,6 +287,7 @@
     },
     {
         "cca2": "TN",
+        "cf_lb_region": "NAF",
         "city": "Tunis",
         "country": "Tunisia",
         "iata": "TUN",
@@ -271,6 +298,7 @@
     },
     {
         "cca2": "UG",
+        "cf_lb_region": "SAF",
         "city": "Kampala",
         "country": "Uganda",
         "iata": "EBB",
@@ -281,6 +309,7 @@
     },
     {
         "cca2": "ZM",
+        "cf_lb_region": "SAF",
         "city": "Lusaka",
         "country": "Zambia",
         "iata": "LUN",
@@ -291,6 +320,7 @@
     },
     {
         "cca2": "ZW",
+        "cf_lb_region": "SAF",
         "city": "Harare",
         "country": "Zimbabwe",
         "iata": "HRE",
