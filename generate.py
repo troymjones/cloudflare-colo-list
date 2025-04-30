@@ -164,6 +164,7 @@ def get(url, retry=5):
 
 def generate():
     data = {}
+    global_locations = []
     north_america = []
     europe = []
     asia = []
@@ -292,6 +293,7 @@ def generate():
             data[iata] = location[iata]
             data[iata]['name'] = location['city'] + ', ' + country_codes[location['cca2']]
 
+        global_locations.append(data[iata])
         if data[iata]["region"] == "North America":
             north_america.append(data[iata])
         elif data[iata]["region"] == "Europe":
@@ -311,6 +313,7 @@ def generate():
 
     unicodedata_dict(data)
     unicodedata_dict(speed_locations)
+    unicodedata_dict(global_locations)
     unicodedata_dict(north_america)
     unicodedata_dict(europe)
     unicodedata_dict(asia)
@@ -319,7 +322,7 @@ def generate():
     unicodedata_dict(middle_east)
     unicodedata_dict(oceania)
 
-    return data, speed_locations, north_america, europe, asia, africa, south_america, middle_east, oceania, cf_region_to_pops
+    return data, speed_locations, global_locations, north_america, europe, asia, africa, south_america, middle_east, oceania, cf_region_to_pops
 
 def unicodedata_dict(data):
     for k in data:
@@ -334,10 +337,11 @@ def unicodedata_dict(data):
     return data
 
 if __name__ == '__main__':
-    match_data, location_data, north_america, europe, asia, africa, south_america, middle_east, oceania, region_pops = generate()
+    match_data, location_data, global_locations, north_america, europe, asia, africa, south_america, middle_east, oceania, region_pops = generate()
 
     locations_json_content = json.dumps(location_data, indent=4, ensure_ascii=False, sort_keys=True)
     dc_colos_json_content = json.dumps(match_data, indent=4, ensure_ascii=False, sort_keys=True)
+    global_locations_json_content = json.dumps(global_locations, indent=4, ensure_ascii=False, sort_keys=True)
     north_america_json_content = json.dumps(north_america, indent=4, ensure_ascii=False, sort_keys=True)
     europe_json_content = json.dumps(europe, indent=4, ensure_ascii=False, sort_keys=True)
     asia_json_content = json.dumps(asia, indent=4, ensure_ascii=False, sort_keys=True)
@@ -354,8 +358,7 @@ if __name__ == '__main__':
                 content_changed = False
 
     if not content_changed:
-        print('Content unchanged, exiting...')
-        # sys.exit()
+        print('Content unchanged...')
 
     # save locations to json
     with open('locations.json', 'w', encoding='utf-8') as f:
@@ -365,7 +368,9 @@ if __name__ == '__main__':
     with open('DC-Colos.json', 'w', encoding='utf-8') as f:
         f.write(dc_colos_json_content)
 
-    # save as DC-Colo matched data json
+    with open('global-locations.json', 'w', encoding='utf-8') as f:
+        f.write(global_locations_json_content)
+
     with open('north-america.json', 'w', encoding='utf-8') as f:
         f.write(north_america_json_content)
 
