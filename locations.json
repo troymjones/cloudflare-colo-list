@@ -225,6 +225,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Americana",
         "iata": "QWJ",
         "lat": -22.738,
@@ -233,6 +234,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Aracatuba",
         "iata": "ARU",
         "lat": -21.1413002014,
@@ -241,6 +243,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Belem",
         "iata": "BEL",
         "lat": -1.4563,
@@ -249,6 +252,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Belo Horizonte",
         "iata": "CNF",
         "lat": -19.624444,
@@ -257,6 +261,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Blumenau",
         "iata": "BNU",
         "lat": -26.89245,
@@ -265,6 +270,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Brasilia",
         "iata": "BSB",
         "lat": -15.79824,
@@ -273,6 +279,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Cacador",
         "iata": "CFC",
         "lat": -26.7762,
@@ -281,6 +288,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Campinas",
         "iata": "VCP",
         "lat": -22.90662,
@@ -289,6 +297,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Campos dos Goytacazes",
         "iata": "CAW",
         "lat": -21.698299408,
@@ -297,6 +306,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Chapeco",
         "iata": "XAP",
         "lat": -27.1341991425,
@@ -305,6 +315,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Cuiaba",
         "iata": "CGB",
         "lat": -15.59611,
@@ -313,6 +324,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Curitiba",
         "iata": "CWB",
         "lat": -25.5284996033,
@@ -321,6 +333,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Florianopolis",
         "iata": "FLN",
         "lat": -27.6702785492,
@@ -329,6 +342,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Fortaleza",
         "iata": "FOR",
         "lat": -3.7762799263,
@@ -337,6 +351,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Goiania",
         "iata": "GYN",
         "lat": -16.69727,
@@ -345,6 +360,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Itajai",
         "iata": "ITJ",
         "lat": -27.6116676331,
@@ -353,6 +369,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Joinville",
         "iata": "JOI",
         "lat": -26.304408,
@@ -361,6 +378,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Juazeiro do Norte",
         "iata": "JDO",
         "lat": -7.2242,
@@ -369,6 +387,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Manaus",
         "iata": "MAO",
         "lat": -3.11286,
@@ -377,6 +396,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Palmas",
         "iata": "PMW",
         "lat": -10.2915000916,
@@ -385,6 +405,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Porto Alegre",
         "iata": "POA",
         "lat": -29.9944000244,
@@ -393,6 +414,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Recife",
         "iata": "REC",
         "lat": -8.1264896393,
@@ -401,6 +423,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Ribeirao Preto",
         "iata": "RAO",
         "lat": -21.1363887787,
@@ -409,6 +432,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Rio de Janeiro",
         "iata": "GIG",
         "lat": -22.8099994659,
@@ -417,6 +441,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "NSAM",
         "city": "Salvador",
         "iata": "SSA",
         "lat": -12.9086112976,
@@ -425,6 +450,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Sao Jose do Rio Preto",
         "iata": "SJP",
         "lat": -20.807157,
@@ -433,6 +459,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Sao Jose dos Campos",
         "iata": "SJK",
         "lat": -23.1791,
@@ -441,6 +468,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Sao Paulo",
         "iata": "GRU",
         "lat": -23.4355564117,
@@ -449,6 +477,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Sorocaba",
         "iata": "SOD",
         "lat": -23.54389,
@@ -457,6 +486,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Timbo",
         "iata": "NVT",
         "lat": -26.8251,
@@ -465,6 +495,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Uberlandia",
         "iata": "UDI",
         "lat": -18.8836116791,
@@ -473,6 +504,7 @@
     },
     {
         "cca2": "BR",
+        "cf_lb_region": "SSAM",
         "city": "Vitoria",
         "iata": "VIX",
         "lat": -20.64871,
@@ -513,6 +545,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "WNAM",
         "city": "Calgary",
         "iata": "YYC",
         "lat": 51.113899231,
@@ -521,6 +554,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "WNAM",
         "city": "Vancouver",
         "iata": "YVR",
         "lat": 49.193901062,
@@ -529,6 +563,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Winnipeg",
         "iata": "YWG",
         "lat": 49.9099998474,
@@ -537,6 +572,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Halifax",
         "iata": "YHZ",
         "lat": 44.64601,
@@ -545,6 +581,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Ottawa",
         "iata": "YOW",
         "lat": 45.3224983215,
@@ -553,6 +590,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Toronto",
         "iata": "YYZ",
         "lat": 43.6772003174,
@@ -561,6 +599,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Montreal",
         "iata": "YUL",
         "lat": 45.4706001282,
@@ -569,6 +608,7 @@
     },
     {
         "cca2": "CA",
+        "cf_lb_region": "ENAM",
         "city": "Saskatoon",
         "iata": "YXE",
         "lat": 52.1707992554,
@@ -809,6 +849,7 @@
     },
     {
         "cca2": "DE",
+        "cf_lb_region": "EEU",
         "city": "Berlin",
         "iata": "TXL",
         "lat": 52.5597000122,
@@ -817,6 +858,7 @@
     },
     {
         "cca2": "DE",
+        "cf_lb_region": "WEU",
         "city": "Dusseldorf",
         "iata": "DUS",
         "lat": 51.2895011902,
@@ -825,6 +867,7 @@
     },
     {
         "cca2": "DE",
+        "cf_lb_region": "WEU",
         "city": "Frankfurt",
         "iata": "FRA",
         "lat": 50.0264015198,
@@ -833,6 +876,7 @@
     },
     {
         "cca2": "DE",
+        "cf_lb_region": "EEU",
         "city": "Hamburg",
         "iata": "HAM",
         "lat": 53.6304016113,
@@ -841,6 +885,7 @@
     },
     {
         "cca2": "DE",
+        "cf_lb_region": "EEU",
         "city": "Munich",
         "iata": "MUC",
         "lat": 48.3538017273,
@@ -849,6 +894,7 @@
     },
     {
         "cca2": "DE",
+        "cf_lb_region": "WEU",
         "city": "Stuttgart",
         "iata": "STR",
         "lat": 48.783333,
@@ -1161,6 +1207,7 @@
     },
     {
         "cca2": "IT",
+        "cf_lb_region": "WEU",
         "city": "Milan",
         "iata": "MXP",
         "lat": 45.6305999756,
@@ -1169,6 +1216,7 @@
     },
     {
         "cca2": "IT",
+        "cf_lb_region": "EEU",
         "city": "Palermo",
         "iata": "PMO",
         "lat": 38.16114,
@@ -1177,6 +1225,7 @@
     },
     {
         "cca2": "IT",
+        "cf_lb_region": "EEU",
         "city": "Rome",
         "iata": "FCO",
         "lat": 41.8045005798,
@@ -1649,6 +1698,7 @@
     },
     {
         "cca2": "RU",
+        "cf_lb_region": "SAS",
         "city": "Krasnoyarsk",
         "iata": "KJA",
         "lat": 56.0153,
@@ -1657,6 +1707,7 @@
     },
     {
         "cca2": "RU",
+        "cf_lb_region": "EEU",
         "city": "Moscow",
         "iata": "DME",
         "lat": 55.4087982178,
@@ -1665,6 +1716,7 @@
     },
     {
         "cca2": "RU",
+        "cf_lb_region": "EEU",
         "city": "Saint Petersburg",
         "iata": "LED",
         "lat": 59.8003005981,
@@ -1673,6 +1725,7 @@
     },
     {
         "cca2": "RU",
+        "cf_lb_region": "SAS",
         "city": "Yekaterinburg",
         "iata": "SVX",
         "lat": 56.8431,
@@ -1961,6 +2014,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Anchorage",
         "iata": "ANC",
         "lat": 61.158555,
@@ -1969,6 +2023,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Phoenix",
         "iata": "PHX",
         "lat": 33.434299469,
@@ -1977,6 +2032,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Los Angeles",
         "iata": "LAX",
         "lat": 33.94250107,
@@ -1985,6 +2041,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Sacramento",
         "iata": "SMF",
         "lat": 38.695400238,
@@ -1993,6 +2050,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "San Diego",
         "iata": "SAN",
         "lat": 32.7336006165,
@@ -2001,6 +2059,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "San Francisco",
         "iata": "SFO",
         "lat": 37.6189994812,
@@ -2009,6 +2068,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "San Jose",
         "iata": "SJC",
         "lat": 37.3625984192,
@@ -2017,6 +2077,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Denver",
         "iata": "DEN",
         "lat": 39.8616981506,
@@ -2025,6 +2086,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Jacksonville",
         "iata": "JAX",
         "lat": 30.4941005707,
@@ -2033,6 +2095,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Miami",
         "iata": "MIA",
         "lat": 25.7931995392,
@@ -2041,6 +2104,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Tallahassee",
         "iata": "TLH",
         "lat": 30.3964996338,
@@ -2049,6 +2113,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Tampa",
         "iata": "TPA",
         "lat": 27.9755001068,
@@ -2057,6 +2122,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Atlanta",
         "iata": "ATL",
         "lat": 33.6366996765,
@@ -2065,6 +2131,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Honolulu",
         "iata": "HNL",
         "lat": 21.3187007904,
@@ -2073,6 +2140,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Chicago",
         "iata": "ORD",
         "lat": 41.97859955,
@@ -2081,6 +2149,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Indianapolis",
         "iata": "IND",
         "lat": 39.717300415,
@@ -2089,6 +2158,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Bangor",
         "iata": "BGR",
         "lat": 44.8081,
@@ -2097,6 +2167,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Boston",
         "iata": "BOS",
         "lat": 42.36429977,
@@ -2105,6 +2176,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Detroit",
         "iata": "DTW",
         "lat": 42.2123985291,
@@ -2113,6 +2185,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Minneapolis",
         "iata": "MSP",
         "lat": 44.8819999695,
@@ -2121,6 +2194,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Kansas City",
         "iata": "MCI",
         "lat": 39.2975997925,
@@ -2129,6 +2203,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "St. Louis",
         "iata": "STL",
         "lat": 38.7486991882,
@@ -2137,6 +2212,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Omaha",
         "iata": "OMA",
         "lat": 41.3031997681,
@@ -2145,6 +2221,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Las Vegas",
         "iata": "LAS",
         "lat": 36.08010101,
@@ -2153,6 +2230,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Newark",
         "iata": "EWR",
         "lat": 40.6925010681,
@@ -2161,6 +2239,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Albuquerque",
         "iata": "ABQ",
         "lat": 35.0844,
@@ -2169,6 +2248,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Buffalo",
         "iata": "BUF",
         "lat": 42.94049835,
@@ -2177,6 +2257,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Charlotte",
         "iata": "CLT",
         "lat": 35.2140007019,
@@ -2185,6 +2266,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Durham",
         "iata": "RDU",
         "lat": 35.93543,
@@ -2193,6 +2275,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Cleveland",
         "iata": "CLE",
         "lat": 41.50069,
@@ -2201,6 +2284,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Columbus",
         "iata": "CMH",
         "lat": 39.9980010986,
@@ -2209,6 +2293,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Oklahoma City",
         "iata": "OKC",
         "lat": 35.46655,
@@ -2217,6 +2302,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Portland",
         "iata": "PDX",
         "lat": 45.58869934,
@@ -2225,6 +2311,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Philadelphia",
         "iata": "PHL",
         "lat": 39.8718986511,
@@ -2233,6 +2320,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Pittsburgh",
         "iata": "PIT",
         "lat": 40.49150085,
@@ -2241,6 +2329,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Sioux Falls",
         "iata": "FSD",
         "lat": 43.540819819502,
@@ -2249,6 +2338,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Memphis",
         "iata": "MEM",
         "lat": 35.0424003601,
@@ -2257,6 +2347,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Nashville",
         "iata": "BNA",
         "lat": 36.1245002747,
@@ -2265,6 +2356,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Austin",
         "iata": "AUS",
         "lat": 30.1975,
@@ -2273,6 +2365,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Dallas",
         "iata": "DFW",
         "lat": 32.8968009949,
@@ -2281,6 +2374,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Houston",
         "iata": "IAH",
         "lat": 29.9843997955,
@@ -2289,6 +2383,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "McAllen",
         "iata": "MFE",
         "lat": 26.17580032,
@@ -2297,6 +2392,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "San Antonio",
         "iata": "SAT",
         "lat": 29.429461,
@@ -2305,6 +2401,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Salt Lake City",
         "iata": "SLC",
         "lat": 40.7883987427,
@@ -2313,6 +2410,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Ashburn",
         "iata": "IAD",
         "lat": 38.94449997,
@@ -2321,6 +2419,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Norfolk",
         "iata": "ORF",
         "lat": 36.8945999146,
@@ -2329,6 +2428,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Richmond",
         "iata": "RIC",
         "lat": 37.5051994324,
@@ -2337,6 +2437,7 @@
     },
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Seattle",
         "iata": "SEA",
         "lat": 47.4490013123,

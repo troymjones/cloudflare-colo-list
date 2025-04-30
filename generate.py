@@ -252,6 +252,7 @@ def generate():
         if isinstance(country_to_cloudflare_region[location["cca2"]], list):
             if iata in pop_to_cf_lb_region:
                 data[iata]["cf_lb_region"] = pop_to_cf_lb_region[iata]
+                location["cf_lb_region"] = pop_to_cf_lb_region[iata]
                 cf_region_to_pops[pop_to_cf_lb_region[iata]].append(iata)
             else:
                 print(f"Error\n{data[iata]}\n {iata} has multiple cf_lb_regions: {country_to_cloudflare_region[location['cca2']]}")
