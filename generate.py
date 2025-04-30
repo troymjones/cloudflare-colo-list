@@ -297,11 +297,14 @@ def generate():
             data[iata] = location[iata]
             data[iata]['name'] = location['city'] + ', ' + country_codes[location['cca2']]
 
+    for iata in data:
         global_locations.append(data[iata])
         if data[iata]["region"] == "North America":
             north_america.append(data[iata])
         elif data[iata]["region"] == "Europe":
             europe.append(data[iata])
+        elif data[iata]["region"] == "Asia":
+            asia.append(data[iata])
         elif data[iata]["region"] == "Asia Pacific":
             asia.append(data[iata])
         elif data[iata]["region"] == "Africa":
@@ -313,7 +316,7 @@ def generate():
         elif data[iata]["region"] == "Oceania":
             oceania.append(data[iata])
         else:
-            print(data[iata]["region"])
+            print("Did not find region {} for {}: {}".format(data[iata]["region"], iata, data[iata]["name"]))
 
     for iata in data:
         if 'lat' not in data[iata]:
