@@ -6,8 +6,27 @@ import re
 import time
 import unicodedata
 import pandas as pd
+from collections import OrderedDict
 
 os.chdir(os.path.split(os.path.realpath(sys.argv[0]))[0])
+
+missing_city_country = {
+    "Hong Kong": "China",
+    "Ramallah": "Palestine",
+    "Taipei": "Taiwan",
+    "Macau": "China",
+    "South Dakota": "United States",
+}
+
+incorrect_missing_country_regions = {
+    "China": "NEAS",
+    "Czech Republic": "EEU",
+    "Trinidad and Tobago": "NSAM",
+    "DR Congo": "SAF",
+    "Ivory Coast": "NAF",
+    "Réunion": "SAF",
+    "Palestine": "ME",
+}
 
 pop_to_cf_lb_region = {
     # Start Brazil
@@ -228,14 +247,37 @@ def generate():
                 'region': region_name
             }
             regex2 = re.search(r'^([\s\S]+), ([\s\S]+)', name)
+            city = name
+            country_name = name
             if regex2:
-                data[colo].update({
-                    'city': regex2.group(1),
-                    'country': regex2.group(2)
-                })
-                if regex2.group(2) in country_codes_inv:
-                    data[colo]['cca2'] = country_codes_inv[regex2.group(2)]
+                city = regex2.group(1)
+                country_name = regex2.group(2)
+            if country_name in missing_city_country:
+                city = name
+                country_name = missing_city_country[country_name]
 
+            data[colo].update({
+                'city': city,
+                'country': country_name,
+            })
+            if country_name in country_codes_inv:
+                cca2 = country_codes_inv[country_name]
+                data[colo]['cca2'] = cca2
+                if isinstance(country_to_cloudflare_region[cca2], list):
+                    if colo in pop_to_cf_lb_region:
+                        data[colo]["cf_lb_region"] = pop_to_cf_lb_region[colo]
+                        cf_region_to_pops[pop_to_cf_lb_region[colo]].append(colo)
+                    else:
+                        print(f"Error\n{data[colo]}\n {colo} has multiple cf_lb_regions: {country_to_cloudflare_region[cca2]}")
+                        sys.exit()
+                else:
+                    data[colo]["cf_lb_region"] = country_to_cloudflare_region[cca2]
+                    cf_region_to_pops[country_to_cloudflare_region[cca2]].append(colo)
+            elif country_name in incorrect_missing_country_regions:
+                data[colo]["cf_lb_region"] = incorrect_missing_country_regions[country_name]
+            else:
+                print("Did not find country: {}".format(country_name))
+                
     # speed.cloudflare.com for locations
     # format: json
     speed_locations = json.loads(get('https://speed.cloudflare.com/locations').text)
@@ -243,20 +285,12 @@ def generate():
         iata = location['iata']
         if iata in data:
             data[iata].update(location)
+            cf_lb_region = data[iata].pop("cf_lb_region")
+            data[iata]["cf_lb_region"] = cf_lb_region
         else:
             print(iata, 'not found in cloudflare status')
-            data[iata] = location
+            data[iata] = location[iata]
             data[iata]['name'] = location['city'] + ', ' + country_codes[location['cca2']]
-
-        data[iata]["cf_lb_region"] = country_to_cloudflare_region[location["cca2"]]
-        if isinstance(country_to_cloudflare_region[location["cca2"]], list):
-            if iata in pop_to_cf_lb_region:
-                data[iata]["cf_lb_region"] = pop_to_cf_lb_region[iata]
-                location["cf_lb_region"] = pop_to_cf_lb_region[iata]
-                cf_region_to_pops[pop_to_cf_lb_region[iata]].append(iata)
-            else:
-                print(f"Error\n{data[iata]}\n {iata} has multiple cf_lb_regions: {country_to_cloudflare_region[location['cca2']]}")
-                sys.exit()
 
         if data[iata]["region"] == "North America":
             north_america.append(data[iata])
