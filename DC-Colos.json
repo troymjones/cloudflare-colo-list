@@ -353,6 +353,7 @@
     },
     "BHY": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Beihai",
         "country": "China",
         "name": "Beihai, China",
@@ -547,6 +548,7 @@
     },
     "CAN": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Guangzhou",
         "country": "China",
         "name": "Guangzhou, China",
@@ -631,6 +633,7 @@
     },
     "CGD": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Changde",
         "country": "China",
         "name": "Changde, China",
@@ -649,6 +652,7 @@
     },
     "CGO": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Zhengzhou",
         "country": "China",
         "name": "Zhengzhou, China",
@@ -689,6 +693,7 @@
     },
     "CKG": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Chongqing",
         "country": "China",
         "name": "Chongqing, China",
@@ -839,6 +844,7 @@
     },
     "CSX": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Changsha",
         "country": "China",
         "name": "Changsha, China",
@@ -846,6 +852,7 @@
     },
     "CTU": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Chengdu",
         "country": "China",
         "name": "Chengdu, China",
@@ -864,6 +871,7 @@
     },
     "CZX": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Changzhou",
         "country": "China",
         "name": "Changzhou, China",
@@ -948,6 +956,7 @@
     },
     "DLC": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Dalian",
         "country": "China",
         "name": "Dalian, China",
@@ -1153,6 +1162,7 @@
     },
     "FOC": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Fuzhou",
         "country": "China",
         "name": "Fuzhou, China",
@@ -1184,7 +1194,7 @@
         "cca2": "US",
         "cf_lb_region": "ENAM",
         "city": "Sioux Falls",
-        "country": "South Dakota",
+        "country": "United States",
         "iata": "FSD",
         "lat": 43.540819819502,
         "lon": -96.65511577730963,
@@ -1204,6 +1214,7 @@
     },
     "FUO": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Foshan",
         "country": "China",
         "name": "Foshan, China",
@@ -1354,6 +1365,7 @@
     },
     "HAK": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Chengmai",
         "country": "China",
         "name": "Chengmai, China",
@@ -1416,6 +1428,7 @@
     },
     "HGH": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Shaoxing",
         "country": "China",
         "name": "Shaoxing, China",
@@ -1425,6 +1438,7 @@
         "cca2": "HK",
         "cf_lb_region": "NEAS",
         "city": "Hong Kong",
+        "country": "China",
         "iata": "HKG",
         "lat": 22.3089008331,
         "lon": 113.915000916,
@@ -1466,6 +1480,7 @@
     },
     "HYN": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Taizhou",
         "country": "China",
         "name": "Taizhou, China",
@@ -1660,6 +1675,7 @@
     },
     "JXG": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Jiaxing",
         "country": "China",
         "name": "Jiaxing, China",
@@ -1733,6 +1749,7 @@
     },
     "KHN": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Nanchang",
         "country": "China",
         "name": "Nanchang, China",
@@ -1784,6 +1801,7 @@
     },
     "KMG": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Kunming",
         "country": "China",
         "name": "Kunming, China",
@@ -1824,6 +1842,7 @@
     },
     "KWE": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Guiyang",
         "country": "China",
         "name": "Guiyang, China",
@@ -1919,6 +1938,7 @@
     },
     "LHW": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Lanzhou",
         "country": "China",
         "name": "Lanzhou, China",
@@ -2148,6 +2168,7 @@
         "cca2": "MO",
         "cf_lb_region": "NEAS",
         "city": "Macau",
+        "country": "China",
         "iata": "MFM",
         "lat": 22.1495990753,
         "lon": 113.592002869,
@@ -2299,6 +2320,7 @@
     },
     "NNG": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Nanning",
         "country": "China",
         "name": "Nanning, China",
@@ -2559,6 +2581,7 @@
     },
     "PKX": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Langfang",
         "country": "China",
         "name": "Langfang, China",
@@ -2830,6 +2853,7 @@
     },
     "SHA": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Shanghai",
         "country": "China",
         "name": "Shanghai, China",
@@ -2903,6 +2927,7 @@
     },
     "SJW": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Hengshui",
         "country": "China",
         "name": "Hengshui, China",
@@ -3053,6 +3078,7 @@
     },
     "SZX": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Shenzhen",
         "country": "China",
         "name": "Shenzhen, China",
@@ -3060,6 +3086,7 @@
     },
     "TAO": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Qingdao",
         "country": "China",
         "name": "Qingdao, China",
@@ -3078,6 +3105,7 @@
     },
     "TEN": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Tongren",
         "country": "China",
         "name": "Tongren, China",
@@ -3140,6 +3168,7 @@
     },
     "TNA": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Zibo",
         "country": "China",
         "name": "Zibo, China",
@@ -3171,6 +3200,7 @@
         "cca2": "TW",
         "cf_lb_region": "NEAS",
         "city": "Taipei",
+        "country": "Taiwan",
         "iata": "TPE",
         "lat": 25.0776996613,
         "lon": 121.233001709,
@@ -3201,6 +3231,7 @@
     },
     "TYN": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Yangquan",
         "country": "China",
         "name": "Yangquan, China",
@@ -3340,6 +3371,7 @@
     },
     "XFN": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Xiangyang",
         "country": "China",
         "name": "Xiangyang, China",
@@ -3347,6 +3379,7 @@
     },
     "XIY": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Baoji",
         "country": "China",
         "name": "Baoji, China",
@@ -3466,6 +3499,7 @@
         "cca2": "PS",
         "cf_lb_region": "ME",
         "city": "Ramallah",
+        "country": "Palestine",
         "iata": "ZDM",
         "lat": 32.2719,
         "lon": 35.0194,
@@ -3474,6 +3508,7 @@
     },
     "ZGN": {
         "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Zhongshan",
         "country": "China",
         "name": "Zhongshan, China",

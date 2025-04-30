@@ -344,6 +344,10 @@
       "region_code": "NEAS",
       "countries": [
         {
+          "country_code_a2": "CN",
+          "country_name": "China"
+        },
+        {
           "country_code_a2": "HK",
           "country_name": "Hong Kong"
         },
