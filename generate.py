@@ -282,6 +282,7 @@ def generate():
                 data[colo]["cf_lb_region"] = incorrect_missing_country_regions[country_name]
             else:
                 print("Did not find country: {}".format(country_name))
+            data[colo]["iata"] = colo
                 
     # speed.cloudflare.com for locations
     # format: json
