@@ -434,6 +434,10 @@
           "country_name": "Fiji"
         },
         {
+          "country_code_a2": "NC",
+          "country_name": "New Caledonia"
+        },
+        {
           "country_code_a2": "NZ",
           "country_name": "New Zealand"
         },
@@ -661,10 +665,6 @@
         {
           "country_code_a2": "LU",
           "country_name": "Luxembourg"
-        },
-        {
-          "country_code_a2": "NC",
-          "country_name": "New Caledonia"
         },
         {
           "country_code_a2": "NL",
