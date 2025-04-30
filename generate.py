@@ -3,6 +3,7 @@ import json
 import os
 import sys
 import re
+import csv
 import time
 import unicodedata
 import pandas as pd
@@ -167,6 +168,15 @@ def generate():
     middle_east = []
     oceania = []
 
+    iata_lat_long_backup = {}
+    with open('iata-icao.csv', 'r', encoding='utf-8') as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            iata_lat_long_backup[row["iata"]] = {
+                "lat": row["latitude"],
+                "lon": row["longitude"],
+            }
+
     country_codes = json.load(open('country.json', 'r', encoding='utf-8'))
     country_codes_inv = {v: k for k, v in country_codes.items()}
 
@@ -304,6 +314,11 @@ def generate():
             oceania.append(data[iata])
         else:
             print(data[iata]["region"])
+
+    for iata in data:
+        if 'lat' not in data[iata]:
+            if iata in iata_lat_long_backup:
+                data[iata].update(iata_lat_long_backup[iata])
 
     unicodedata_dict(data)
     unicodedata_dict(speed_locations)
