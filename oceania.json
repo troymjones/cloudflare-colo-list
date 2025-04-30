@@ -11,6 +11,17 @@
         "region": "Oceania"
     },
     {
+        "cca2": "NZ",
+        "cf_lb_region": "OC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "iata": "AKL",
+        "lat": -37.0080986023,
+        "lon": 174.792007446,
+        "name": "Auckland, New Zealand",
+        "region": "Oceania"
+    },
+    {
         "cca2": "AU",
         "cf_lb_region": "OC",
         "city": "Brisbane",
@@ -33,14 +44,14 @@
         "region": "Oceania"
     },
     {
-        "cca2": "AU",
+        "cca2": "NZ",
         "cf_lb_region": "OC",
-        "city": "Hobart",
-        "country": "Australia",
-        "iata": "HBA",
-        "lat": -42.883209,
-        "lon": 147.331665,
-        "name": "Hobart, Australia",
+        "city": "Christchurch",
+        "country": "New Zealand",
+        "iata": "CHC",
+        "lat": -43.4893989563,
+        "lon": 172.5319976807,
+        "name": "Christchurch, New Zealand",
         "region": "Oceania"
     },
     {
@@ -52,6 +63,17 @@
         "lat": -37.6733016968,
         "lon": 144.843002319,
         "name": "Melbourne, VIC, Australia",
+        "region": "Oceania"
+    },
+    {
+        "cca2": "NC",
+        "cf_lb_region": "OC",
+        "city": "Noumea",
+        "country": "New Caledonia",
+        "iata": "NOU",
+        "lat": -22.0146007538,
+        "lon": 166.212997436,
+        "name": "Noumea, New Caledonia",
         "region": "Oceania"
     },
     {
@@ -77,17 +99,6 @@
         "region": "Oceania"
     },
     {
-        "cca2": "FJ",
-        "cf_lb_region": "OC",
-        "city": "Suva",
-        "country": "Fiji",
-        "iata": "SUV",
-        "lat": -18.11319,
-        "lon": 178.43859,
-        "name": "Suva, Fiji",
-        "region": "Oceania"
-    },
-    {
         "cca2": "PF",
         "cf_lb_region": "OC",
         "city": "Tahiti",
@@ -99,36 +110,25 @@
         "region": "Oceania"
     },
     {
-        "cca2": "NC",
+        "cca2": "FJ",
         "cf_lb_region": "OC",
-        "city": "Noumea",
-        "country": "New Caledonia",
-        "iata": "NOU",
-        "lat": -22.0146007538,
-        "lon": 166.212997436,
-        "name": "Noumea, New Caledonia",
+        "city": "Suva",
+        "country": "Fiji",
+        "iata": "SUV",
+        "lat": -18.11319,
+        "lon": 178.43859,
+        "name": "Suva, Fiji",
         "region": "Oceania"
     },
     {
-        "cca2": "NZ",
+        "cca2": "AU",
         "cf_lb_region": "OC",
-        "city": "Auckland",
-        "country": "New Zealand",
-        "iata": "AKL",
-        "lat": -37.0080986023,
-        "lon": 174.792007446,
-        "name": "Auckland, New Zealand",
-        "region": "Oceania"
-    },
-    {
-        "cca2": "NZ",
-        "cf_lb_region": "OC",
-        "city": "Christchurch",
-        "country": "New Zealand",
-        "iata": "CHC",
-        "lat": -43.4893989563,
-        "lon": 172.5319976807,
-        "name": "Christchurch, New Zealand",
+        "city": "Hobart",
+        "country": "Australia",
+        "iata": "HBA",
+        "lat": -42.883209,
+        "lon": 147.331665,
+        "name": "Hobart, Australia",
         "region": "Oceania"
     }
 ]

@@ -1,49 +1,5 @@
 [
     {
-        "cca2": "AR",
-        "cf_lb_region": "SSAM",
-        "city": "Buenos Aires",
-        "country": "Argentina",
-        "iata": "EZE",
-        "lat": -34.8222,
-        "lon": -58.5358,
-        "name": "Buenos Aires, Argentina",
-        "region": "South America"
-    },
-    {
-        "cca2": "AR",
-        "cf_lb_region": "SSAM",
-        "city": "Cordoba",
-        "country": "Argentina",
-        "iata": "COR",
-        "lat": -31.31,
-        "lon": -64.208333,
-        "name": "Cordoba, Argentina",
-        "region": "South America"
-    },
-    {
-        "cca2": "AR",
-        "cf_lb_region": "SSAM",
-        "city": "Neuquen",
-        "country": "Argentina",
-        "iata": "NQN",
-        "lat": -38.9490013123,
-        "lon": -68.1557006836,
-        "name": "Neuquen, Argentina",
-        "region": "South America"
-    },
-    {
-        "cca2": "BO",
-        "cf_lb_region": "SSAM",
-        "city": "La Paz",
-        "country": "Bolivia",
-        "iata": "LPB",
-        "lat": -16.4897,
-        "lon": -68.1193,
-        "name": "La Paz, Bolivia",
-        "region": "South America"
-    },
-    {
         "cca2": "BR",
         "cf_lb_region": "SSAM",
         "city": "Americana",
@@ -55,14 +11,25 @@
         "region": "South America"
     },
     {
-        "cca2": "BR",
+        "cca2": "CL",
         "cf_lb_region": "SSAM",
-        "city": "Aracatuba",
-        "country": "Brazil",
-        "iata": "ARU",
-        "lat": -21.1413002014,
-        "lon": -50.4247016907,
-        "name": "Aracatuba, Brazil",
+        "city": "Arica",
+        "country": "Chile",
+        "iata": "ARI",
+        "lat": -18.348611,
+        "lon": -70.338889,
+        "name": "Arica, Chile",
+        "region": "South America"
+    },
+    {
+        "cca2": "PY",
+        "cf_lb_region": "SSAM",
+        "city": "Asuncion",
+        "country": "Paraguay",
+        "iata": "ASU",
+        "lat": -25.2399997711,
+        "lon": -57.5200004578,
+        "name": "Asuncion, Paraguay",
         "region": "South America"
     },
     {
@@ -99,6 +66,17 @@
         "region": "South America"
     },
     {
+        "cca2": "CO",
+        "cf_lb_region": "NSAM",
+        "city": "Bogota",
+        "country": "Colombia",
+        "iata": "BOG",
+        "lat": 4.70159,
+        "lon": -74.1469,
+        "name": "Bogota, Colombia",
+        "region": "South America"
+    },
+    {
         "cca2": "BR",
         "cf_lb_region": "SSAM",
         "city": "Brasilia",
@@ -107,6 +85,17 @@
         "lat": -15.79824,
         "lon": -47.90859,
         "name": "Brasilia, Brazil",
+        "region": "South America"
+    },
+    {
+        "cca2": "AR",
+        "cf_lb_region": "SSAM",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "iata": "EZE",
+        "lat": -34.8222,
+        "lon": -58.5358,
+        "name": "Buenos Aires, Argentina",
         "region": "South America"
     },
     {
@@ -132,25 +121,14 @@
         "region": "South America"
     },
     {
-        "cca2": "BR",
+        "cca2": "AR",
         "cf_lb_region": "SSAM",
-        "city": "Campos dos Goytacazes",
-        "country": "Brazil",
-        "iata": "CAW",
-        "lat": -21.698299408,
-        "lon": -41.301700592,
-        "name": "Campos dos Goytacazes, Brazil",
-        "region": "South America"
-    },
-    {
-        "cca2": "BR",
-        "cf_lb_region": "SSAM",
-        "city": "Chapeco",
-        "country": "Brazil",
-        "iata": "XAP",
-        "lat": -27.1341991425,
-        "lon": -52.6566009521,
-        "name": "Chapeco, Brazil",
+        "city": "Cordoba",
+        "country": "Argentina",
+        "iata": "COR",
+        "lat": -31.31,
+        "lon": -64.208333,
+        "name": "Cordoba, Argentina",
         "region": "South America"
     },
     {
@@ -198,6 +176,17 @@
         "region": "South America"
     },
     {
+        "cca2": "GY",
+        "cf_lb_region": "NSAM",
+        "city": "Georgetown",
+        "country": "Guyana",
+        "iata": "GEO",
+        "lat": 6.825648,
+        "lon": -58.163756,
+        "name": "Georgetown, Guyana",
+        "region": "South America"
+    },
+    {
         "cca2": "BR",
         "cf_lb_region": "SSAM",
         "city": "Goiania",
@@ -206,6 +195,17 @@
         "lat": -16.69727,
         "lon": -49.26851,
         "name": "Goiania, Brazil",
+        "region": "South America"
+    },
+    {
+        "cca2": "EC",
+        "cf_lb_region": "NSAM",
+        "city": "Guayaquil",
+        "country": "Ecuador",
+        "iata": "GYE",
+        "lat": -2.1894,
+        "lon": -79.8891,
+        "name": "Guayaquil, Ecuador",
         "region": "South America"
     },
     {
@@ -242,6 +242,17 @@
         "region": "South America"
     },
     {
+        "cca2": "PE",
+        "cf_lb_region": "NSAM",
+        "city": "Lima",
+        "country": "Peru",
+        "iata": "LIM",
+        "lat": -12.021900177,
+        "lon": -77.1143035889,
+        "name": "Lima, Peru",
+        "region": "South America"
+    },
+    {
         "cca2": "BR",
         "cf_lb_region": "NSAM",
         "city": "Manaus",
@@ -253,14 +264,47 @@
         "region": "South America"
     },
     {
-        "cca2": "BR",
+        "cca2": "CO",
         "cf_lb_region": "NSAM",
-        "city": "Palmas",
-        "country": "Brazil",
-        "iata": "PMW",
-        "lat": -10.2915000916,
-        "lon": -48.3569984436,
-        "name": "Palmas, Brazil",
+        "city": "Medellin",
+        "country": "Colombia",
+        "iata": "MDE",
+        "lat": 6.16454,
+        "lon": -75.4231,
+        "name": "Medellin, Colombia",
+        "region": "South America"
+    },
+    {
+        "cca2": "AR",
+        "cf_lb_region": "SSAM",
+        "city": "Neuquen",
+        "country": "Argentina",
+        "iata": "NQN",
+        "lat": -38.9490013123,
+        "lon": -68.1557006836,
+        "name": "Neuquen, Argentina",
+        "region": "South America"
+    },
+    {
+        "cca2": "PA",
+        "cf_lb_region": "NSAM",
+        "city": "Panama City",
+        "country": "Panama",
+        "iata": "PTY",
+        "lat": 9.0713596344,
+        "lon": -79.3834991455,
+        "name": "Panama City, Panama",
+        "region": "South America"
+    },
+    {
+        "cca2": "SR",
+        "cf_lb_region": "NSAM",
+        "city": "Paramaribo",
+        "country": "Suriname",
+        "iata": "PBM",
+        "lat": 5.452831,
+        "lon": -55.187783,
+        "name": "Paramaribo, Suriname",
         "region": "South America"
     },
     {
@@ -272,6 +316,17 @@
         "lat": -29.9944000244,
         "lon": -51.1713981628,
         "name": "Porto Alegre, Brazil",
+        "region": "South America"
+    },
+    {
+        "cca2": "EC",
+        "cf_lb_region": "NSAM",
+        "city": "Quito",
+        "country": "Ecuador",
+        "iata": "UIO",
+        "lat": -0.1291666667,
+        "lon": -78.3575,
+        "name": "Quito, Ecuador",
         "region": "South America"
     },
     {
@@ -308,14 +363,25 @@
         "region": "South America"
     },
     {
-        "cca2": "BR",
+        "cca2": "CR",
         "cf_lb_region": "NSAM",
-        "city": "Salvador",
-        "country": "Brazil",
-        "iata": "SSA",
-        "lat": -12.9086112976,
-        "lon": -38.3224983215,
-        "name": "Salvador, Brazil",
+        "city": "San Jose",
+        "country": "Costa Rica",
+        "iata": "SJO",
+        "lat": 9.9938602448,
+        "lon": -84.2088012695,
+        "name": "San Jose, Costa Rica",
+        "region": "South America"
+    },
+    {
+        "cca2": "CL",
+        "cf_lb_region": "SSAM",
+        "city": "Santiago",
+        "country": "Chile",
+        "iata": "SCL",
+        "lat": -33.3930015564,
+        "lon": -70.7857971191,
+        "name": "Santiago, Chile",
         "region": "South America"
     },
     {
@@ -363,6 +429,17 @@
         "region": "South America"
     },
     {
+        "cca2": "HN",
+        "cf_lb_region": "ENAM",
+        "city": "Tegucigalpa",
+        "country": "Honduras",
+        "iata": "TGU",
+        "lat": 14.0608,
+        "lon": -87.2172,
+        "name": "Tegucigalpa, Honduras",
+        "region": "South America"
+    },
+    {
         "cca2": "BR",
         "cf_lb_region": "SSAM",
         "city": "Timbo",
@@ -396,102 +473,25 @@
         "region": "South America"
     },
     {
-        "cca2": "CL",
+        "cca2": "BR",
         "cf_lb_region": "SSAM",
-        "city": "Arica",
-        "country": "Chile",
-        "iata": "ARI",
-        "lat": -18.348611,
-        "lon": -70.338889,
-        "name": "Arica, Chile",
+        "city": "Campos dos Goytacazes",
+        "country": "Brazil",
+        "iata": "CAW",
+        "lat": -21.698299408,
+        "lon": -41.301700592,
+        "name": "Campos dos Goytacazes, Brazil",
         "region": "South America"
     },
     {
-        "cca2": "CL",
+        "cca2": "BR",
         "cf_lb_region": "SSAM",
-        "city": "Santiago",
-        "country": "Chile",
-        "iata": "SCL",
-        "lat": -33.3930015564,
-        "lon": -70.7857971191,
-        "name": "Santiago, Chile",
-        "region": "South America"
-    },
-    {
-        "cca2": "CO",
-        "cf_lb_region": "NSAM",
-        "city": "Barranquilla",
-        "country": "Colombia",
-        "iata": "BAQ",
-        "lat": 10.8896,
-        "lon": -74.7808,
-        "name": "Barranquilla, Colombia",
-        "region": "South America"
-    },
-    {
-        "cca2": "CO",
-        "cf_lb_region": "NSAM",
-        "city": "Bogota",
-        "country": "Colombia",
-        "iata": "BOG",
-        "lat": 4.70159,
-        "lon": -74.1469,
-        "name": "Bogota, Colombia",
-        "region": "South America"
-    },
-    {
-        "cca2": "CO",
-        "cf_lb_region": "NSAM",
-        "city": "Cali",
-        "country": "Colombia",
-        "iata": "CLO",
-        "lat": 3.54322,
-        "lon": -76.3816,
-        "name": "Cali, Colombia",
-        "region": "South America"
-    },
-    {
-        "cca2": "CO",
-        "cf_lb_region": "NSAM",
-        "city": "Medellin",
-        "country": "Colombia",
-        "iata": "MDE",
-        "lat": 6.16454,
-        "lon": -75.4231,
-        "name": "Medellin, Colombia",
-        "region": "South America"
-    },
-    {
-        "cca2": "CR",
-        "cf_lb_region": "NSAM",
-        "city": "San Jose",
-        "country": "Costa Rica",
-        "iata": "SJO",
-        "lat": 9.9938602448,
-        "lon": -84.2088012695,
-        "name": "San Jose, Costa Rica",
-        "region": "South America"
-    },
-    {
-        "cca2": "EC",
-        "cf_lb_region": "NSAM",
-        "city": "Guayaquil",
-        "country": "Ecuador",
-        "iata": "GYE",
-        "lat": -2.1894,
-        "lon": -79.8891,
-        "name": "Guayaquil, Ecuador",
-        "region": "South America"
-    },
-    {
-        "cca2": "EC",
-        "cf_lb_region": "NSAM",
-        "city": "Quito",
-        "country": "Ecuador",
-        "iata": "UIO",
-        "lat": -0.1291666667,
-        "lon": -78.3575,
-        "name": "Quito, Ecuador",
+        "city": "Chapeco",
+        "country": "Brazil",
+        "iata": "XAP",
+        "lat": -27.1341991425,
+        "lon": -52.6566009521,
+        "name": "Chapeco, Brazil",
         "region": "South America"
     },
     {
@@ -506,69 +506,47 @@
         "region": "South America"
     },
     {
-        "cca2": "GY",
-        "cf_lb_region": "NSAM",
-        "city": "Georgetown",
-        "country": "Guyana",
-        "iata": "GEO",
-        "lat": 6.825648,
-        "lon": -58.163756,
-        "name": "Georgetown, Guyana",
-        "region": "South America"
-    },
-    {
-        "cca2": "HN",
-        "cf_lb_region": "ENAM",
-        "city": "Tegucigalpa",
-        "country": "Honduras",
-        "iata": "TGU",
-        "lat": 14.0608,
-        "lon": -87.2172,
-        "name": "Tegucigalpa, Honduras",
-        "region": "South America"
-    },
-    {
-        "cca2": "PA",
-        "cf_lb_region": "NSAM",
-        "city": "Panama City",
-        "country": "Panama",
-        "iata": "PTY",
-        "lat": 9.0713596344,
-        "lon": -79.3834991455,
-        "name": "Panama City, Panama",
-        "region": "South America"
-    },
-    {
-        "cca2": "PY",
+        "cca2": "BO",
         "cf_lb_region": "SSAM",
-        "city": "Asuncion",
-        "country": "Paraguay",
-        "iata": "ASU",
-        "lat": -25.2399997711,
-        "lon": -57.5200004578,
-        "name": "Asuncion, Paraguay",
+        "city": "La Paz",
+        "country": "Bolivia",
+        "iata": "LPB",
+        "lat": -16.4897,
+        "lon": -68.1193,
+        "name": "La Paz, Bolivia",
         "region": "South America"
     },
     {
-        "cca2": "PE",
+        "cca2": "CO",
         "cf_lb_region": "NSAM",
-        "city": "Lima",
-        "country": "Peru",
-        "iata": "LIM",
-        "lat": -12.021900177,
-        "lon": -77.1143035889,
-        "name": "Lima, Peru",
+        "city": "Barranquilla",
+        "country": "Colombia",
+        "iata": "BAQ",
+        "lat": 10.8896,
+        "lon": -74.7808,
+        "name": "Barranquilla, Colombia",
         "region": "South America"
     },
     {
-        "cca2": "SR",
+        "cca2": "BR",
         "cf_lb_region": "NSAM",
-        "city": "Paramaribo",
-        "country": "Suriname",
-        "iata": "PBM",
-        "lat": 5.452831,
-        "lon": -55.187783,
-        "name": "Paramaribo, Suriname",
+        "city": "Palmas",
+        "country": "Brazil",
+        "iata": "PMW",
+        "lat": -10.2915000916,
+        "lon": -48.3569984436,
+        "name": "Palmas, Brazil",
+        "region": "South America"
+    },
+    {
+        "cca2": "BR",
+        "cf_lb_region": "SSAM",
+        "city": "Aracatuba",
+        "country": "Brazil",
+        "iata": "ARU",
+        "lat": -21.1413002014,
+        "lon": -50.4247016907,
+        "name": "Aracatuba, Brazil",
         "region": "South America"
     },
     {
@@ -580,6 +558,28 @@
         "lat": 10.5953998566,
         "lon": -61.3372001648,
         "name": "Port of Spain, Trinidad and Tobago",
+        "region": "South America"
+    },
+    {
+        "cca2": "BR",
+        "cf_lb_region": "NSAM",
+        "city": "Salvador",
+        "country": "Brazil",
+        "iata": "SSA",
+        "lat": -12.9086112976,
+        "lon": -38.3224983215,
+        "name": "Salvador, Brazil",
+        "region": "South America"
+    },
+    {
+        "cca2": "CO",
+        "cf_lb_region": "NSAM",
+        "city": "Cali",
+        "country": "Colombia",
+        "iata": "CLO",
+        "lat": 3.54322,
+        "lon": -76.3816,
+        "name": "Cali, Colombia",
         "region": "South America"
     }
 ]

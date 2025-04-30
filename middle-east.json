@@ -1,13 +1,13 @@
 [
     {
-        "cca2": "AM",
+        "cca2": "JO",
         "cf_lb_region": "ME",
-        "city": "Yerevan",
-        "country": "Armenia",
-        "iata": "EVN",
-        "lat": 40.1473007202,
-        "lon": 44.3959007263,
-        "name": "Yerevan, Armenia",
+        "city": "Amman",
+        "country": "Jordan",
+        "iata": "AMM",
+        "lat": 31.7226009369,
+        "lon": 35.9931983948,
+        "name": "Amman, Jordan",
         "region": "Middle East"
     },
     {
@@ -22,28 +22,6 @@
         "region": "Middle East"
     },
     {
-        "cca2": "AZ",
-        "cf_lb_region": "ME",
-        "city": "Baku",
-        "country": "Azerbaijan",
-        "iata": "GYD",
-        "lat": 40.4674987793,
-        "lon": 50.0466995239,
-        "name": "Baku, Azerbaijan",
-        "region": "Middle East"
-    },
-    {
-        "cca2": "BH",
-        "cf_lb_region": "ME",
-        "city": "Manama",
-        "country": "Bahrain",
-        "iata": "BAH",
-        "lat": 26.2707996368,
-        "lon": 50.6335983276,
-        "name": "Manama, Bahrain",
-        "region": "Middle East"
-    },
-    {
         "cca2": "IQ",
         "cf_lb_region": "ME",
         "city": "Baghdad",
@@ -52,6 +30,17 @@
         "lat": 33.2625007629,
         "lon": 44.2346000671,
         "name": "Baghdad, Iraq",
+        "region": "Middle East"
+    },
+    {
+        "cca2": "AZ",
+        "cf_lb_region": "ME",
+        "city": "Baku",
+        "country": "Azerbaijan",
+        "iata": "GYD",
+        "lat": 40.4674987793,
+        "lon": 50.0466995239,
+        "name": "Baku, Azerbaijan",
         "region": "Middle East"
     },
     {
@@ -66,6 +55,50 @@
         "region": "Middle East"
     },
     {
+        "cca2": "LB",
+        "cf_lb_region": "ME",
+        "city": "Beirut",
+        "country": "Lebanon",
+        "iata": "BEY",
+        "lat": 33.8208999634,
+        "lon": 35.4883995056,
+        "name": "Beirut, Lebanon",
+        "region": "Middle East"
+    },
+    {
+        "cca2": "SA",
+        "cf_lb_region": "ME",
+        "city": "Dammam",
+        "country": "Saudi Arabia",
+        "iata": "DMM",
+        "lat": 26.471200943,
+        "lon": 49.7979011536,
+        "name": "Dammam, Saudi Arabia",
+        "region": "Middle East"
+    },
+    {
+        "cca2": "QA",
+        "cf_lb_region": "ME",
+        "city": "Doha",
+        "country": "Qatar",
+        "iata": "DOH",
+        "lat": 25.2605946,
+        "lon": 51.6137665,
+        "name": "Doha, Qatar",
+        "region": "Middle East"
+    },
+    {
+        "cca2": "AE",
+        "cf_lb_region": "ME",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "iata": "DXB",
+        "lat": 25.2527999878,
+        "lon": 55.3643989563,
+        "name": "Dubai, United Arab Emirates",
+        "region": "Middle East"
+    },
+    {
         "cca2": "IQ",
         "cf_lb_region": "ME",
         "city": "Erbil",
@@ -74,6 +107,61 @@
         "lat": 36.1901,
         "lon": 43.993,
         "name": "Erbil, Iraq",
+        "region": "Middle East"
+    },
+    {
+        "cca2": "IL",
+        "cf_lb_region": "ME",
+        "city": "Haifa",
+        "country": "Israel",
+        "iata": "HFA",
+        "lat": 32.78492,
+        "lon": 34.96069,
+        "name": "Haifa, Israel",
+        "region": "Middle East"
+    },
+    {
+        "cca2": "SA",
+        "cf_lb_region": "ME",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "iata": "JED",
+        "lat": 21.679599762,
+        "lon": 39.15650177,
+        "name": "Jeddah, Saudi Arabia",
+        "region": "Middle East"
+    },
+    {
+        "cca2": "KW",
+        "cf_lb_region": "ME",
+        "city": "Kuwait City",
+        "country": "Kuwait",
+        "iata": "KWI",
+        "lat": 29.226600647,
+        "lon": 47.9688987732,
+        "name": "Kuwait City, Kuwait",
+        "region": "Middle East"
+    },
+    {
+        "cca2": "BH",
+        "cf_lb_region": "ME",
+        "city": "Manama",
+        "country": "Bahrain",
+        "iata": "BAH",
+        "lat": 26.2707996368,
+        "lon": 50.6335983276,
+        "name": "Manama, Bahrain",
+        "region": "Middle East"
+    },
+    {
+        "cca2": "OM",
+        "cf_lb_region": "ME",
+        "city": "Muscat",
+        "country": "Oman",
+        "iata": "MCT",
+        "lat": 23.5932998657,
+        "lon": 58.2844009399,
+        "name": "Muscat, Oman",
         "region": "Middle East"
     },
     {
@@ -99,83 +187,6 @@
         "region": "Middle East"
     },
     {
-        "cca2": "IQ",
-        "cf_lb_region": "ME",
-        "city": "Sulaymaniyah",
-        "country": "Iraq",
-        "iata": "ISU",
-        "lat": 35.5668,
-        "lon": 45.4161,
-        "name": "Sulaymaniyah, Iraq",
-        "region": "Middle East"
-    },
-    {
-        "cca2": "IL",
-        "cf_lb_region": "ME",
-        "city": "Haifa",
-        "country": "Israel",
-        "iata": "HFA",
-        "lat": 32.78492,
-        "lon": 34.96069,
-        "name": "Haifa, Israel",
-        "region": "Middle East"
-    },
-    {
-        "cca2": "IL",
-        "cf_lb_region": "ME",
-        "city": "Tel Aviv",
-        "country": "Israel",
-        "iata": "TLV",
-        "lat": 32.0113983154,
-        "lon": 34.8866996765,
-        "name": "Tel Aviv, Israel",
-        "region": "Middle East"
-    },
-    {
-        "cca2": "JO",
-        "cf_lb_region": "ME",
-        "city": "Amman",
-        "country": "Jordan",
-        "iata": "AMM",
-        "lat": 31.7226009369,
-        "lon": 35.9931983948,
-        "name": "Amman, Jordan",
-        "region": "Middle East"
-    },
-    {
-        "cca2": "KW",
-        "cf_lb_region": "ME",
-        "city": "Kuwait City",
-        "country": "Kuwait",
-        "iata": "KWI",
-        "lat": 29.226600647,
-        "lon": 47.9688987732,
-        "name": "Kuwait City, Kuwait",
-        "region": "Middle East"
-    },
-    {
-        "cca2": "LB",
-        "cf_lb_region": "ME",
-        "city": "Beirut",
-        "country": "Lebanon",
-        "iata": "BEY",
-        "lat": 33.8208999634,
-        "lon": 35.4883995056,
-        "name": "Beirut, Lebanon",
-        "region": "Middle East"
-    },
-    {
-        "cca2": "OM",
-        "cf_lb_region": "ME",
-        "city": "Muscat",
-        "country": "Oman",
-        "iata": "MCT",
-        "lat": 23.5932998657,
-        "lon": 58.2844009399,
-        "name": "Muscat, Oman",
-        "region": "Middle East"
-    },
-    {
         "cca2": "PS",
         "cf_lb_region": "ME",
         "city": "Ramallah",
@@ -184,39 +195,6 @@
         "lat": 32.2719,
         "lon": 35.0194,
         "name": "Ramallah",
-        "region": "Middle East"
-    },
-    {
-        "cca2": "QA",
-        "cf_lb_region": "ME",
-        "city": "Doha",
-        "country": "Qatar",
-        "iata": "DOH",
-        "lat": 25.2605946,
-        "lon": 51.6137665,
-        "name": "Doha, Qatar",
-        "region": "Middle East"
-    },
-    {
-        "cca2": "SA",
-        "cf_lb_region": "ME",
-        "city": "Dammam",
-        "country": "Saudi Arabia",
-        "iata": "DMM",
-        "lat": 26.471200943,
-        "lon": 49.7979011536,
-        "name": "Dammam, Saudi Arabia",
-        "region": "Middle East"
-    },
-    {
-        "cca2": "SA",
-        "cf_lb_region": "ME",
-        "city": "Jeddah",
-        "country": "Saudi Arabia",
-        "iata": "JED",
-        "lat": 21.679599762,
-        "lon": 39.15650177,
-        "name": "Jeddah, Saudi Arabia",
         "region": "Middle East"
     },
     {
@@ -231,14 +209,36 @@
         "region": "Middle East"
     },
     {
-        "cca2": "AE",
+        "cca2": "IQ",
         "cf_lb_region": "ME",
-        "city": "Dubai",
-        "country": "United Arab Emirates",
-        "iata": "DXB",
-        "lat": 25.2527999878,
-        "lon": 55.3643989563,
-        "name": "Dubai, United Arab Emirates",
+        "city": "Sulaymaniyah",
+        "country": "Iraq",
+        "iata": "ISU",
+        "lat": 35.5668,
+        "lon": 45.4161,
+        "name": "Sulaymaniyah, Iraq",
+        "region": "Middle East"
+    },
+    {
+        "cca2": "IL",
+        "cf_lb_region": "ME",
+        "city": "Tel Aviv",
+        "country": "Israel",
+        "iata": "TLV",
+        "lat": 32.0113983154,
+        "lon": 34.8866996765,
+        "name": "Tel Aviv, Israel",
+        "region": "Middle East"
+    },
+    {
+        "cca2": "AM",
+        "cf_lb_region": "ME",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "iata": "EVN",
+        "lat": 40.1473007202,
+        "lon": 44.3959007263,
+        "name": "Yerevan, Armenia",
         "region": "Middle East"
     }
 ]
