@@ -187,24 +187,24 @@ BWN,"Bandar Seri Begawan, Brunei",Asia Pacific,Bandar Seri Begawan,Brunei,BN,BWN
 BBI,"Bhubaneswar, India",Asia Pacific,Bhubaneswar,India,IN,BBI,20.2961,85.8245,SAS
 CEB,"Cebu, Philippines",Asia Pacific,Cebu,Philippines,PH,CEB,10.3074998856,123.978996277,SEAS
 IXC,"Chandigarh, India",Asia Pacific,Chandigarh,India,IN,IXC,30.673500061,76.7884979248,SAS
-CGD,"Changde, China",Asia,Changde,China,CN,,28.9189,111.64,NEAS
+CGD,"Changde, China",Asia,Changde,China,CN,CGD,28.9189,111.64,NEAS
 MAA,"Chennai, India",Asia Pacific,Chennai,India,IN,MAA,12.9900054932,80.1692962646,SAS
 CGP,"Chittagong, Bangladesh",Asia Pacific,Chittagong,Bangladesh,BD,CGP,22.2495995,91.8133011,SEAS
 CMB,"Colombo, Sri Lanka",Asia Pacific,Colombo,Sri Lanka,LK,CMB,7.1807599068,79.8841018677,SAS
 DAC,"Dhaka, Bangladesh",Asia Pacific,Dhaka,Bangladesh,BD,DAC,23.843347,90.397783,SEAS
-FUO,"Foshan, China",Asia,Foshan,China,CN,,23.0833,113.07,NEAS
+FUO,"Foshan, China",Asia,Foshan,China,CN,FUO,23.0833,113.07,NEAS
 FUK,"Fukuoka, Japan",Asia Pacific,Fukuoka,Japan,JP,FUK,33.5902,130.4017,NEAS
-FOC,"Fuzhou, China",Asia,Fuzhou,China,CN,,25.9351,119.663,NEAS
-CAN,"Guangzhou, China",Asia,Guangzhou,China,CN,,23.3924,113.299,NEAS
-HAK,"Chengmai, China",Asia,Chengmai,China,CN,,19.9349,110.459,NEAS
+FOC,"Fuzhou, China",Asia,Fuzhou,China,CN,FOC,25.9351,119.663,NEAS
+CAN,"Guangzhou, China",Asia,Guangzhou,China,CN,CAN,23.3924,113.299,NEAS
+HAK,"Chengmai, China",Asia,Chengmai,China,CN,HAK,19.9349,110.459,NEAS
 HAN,"Hanoi, Vietnam",Asia Pacific,Hanoi,Vietnam,VN,HAN,21.221200943,105.806999206,SEAS
-SJW,"Hengshui, China",Asia,Hengshui,China,CN,,38.2807,114.697,NEAS
+SJW,"Hengshui, China",Asia,Hengshui,China,CN,SJW,38.2807,114.697,NEAS
 SGN,"Ho Chi Minh City, Vietnam",Asia Pacific,Ho Chi Minh City,Vietnam,VN,SGN,10.8187999725,106.652000427,SEAS
 HKG,Hong Kong,Asia Pacific,Hong Kong,China,HK,HKG,22.3089008331,113.915000916,NEAS
 HYD,"Hyderabad, India",Asia Pacific,Hyderabad,India,IN,HYD,17.2313175201,78.4298553467,SAS
 ISB,"Islamabad, Pakistan",Asia Pacific,Islamabad,Pakistan,PK,ISB,33.6166992188,73.0991973877,SAS
 CGK,"Jakarta, Indonesia",Asia Pacific,Jakarta,Indonesia,ID,CGK,-6.1275229,106.6515118,SEAS
-TNA,"Zibo, China",Asia,Zibo,China,CN,,36.8572,117.216,NEAS
+TNA,"Zibo, China",Asia,Zibo,China,CN,TNA,36.8572,117.216,NEAS
 JHB,"Johor Bahru, Malaysia",Asia Pacific,Johor Bahru,Malaysia,MY,JHB,1.635848,103.665943,SEAS
 KNU,"Kanpur, India",Asia Pacific,Kanpur,India,IN,KNU,26.4499,80.3319,SAS
 KHH,"Kaohsiung City, Taiwan",Asia Pacific,Kaohsiung City,Taiwan,TW,KHH,22.5771007538,120.3499984741,NEAS
@@ -214,8 +214,8 @@ CCU,"Kolkata, India",Asia Pacific,Kolkata,India,IN,CCU,22.6476933,88.4349249,SAS
 KJA,"Krasnoyarsk, Russia",Asia Pacific,Krasnoyarsk,Russia,RU,KJA,56.0153,92.8932,SAS
 KUL,"Kuala Lumpur, Malaysia",Asia Pacific,Kuala Lumpur,Malaysia,MY,KUL,2.745579958,101.709999084,SEAS
 LHE,"Lahore, Pakistan",Asia Pacific,Lahore,Pakistan,PK,LHE,31.5216007233,74.4036026001,SAS
-PKX,"Langfang, China",Asia,Langfang,China,CN,,39.5101,116.4101,NEAS
-LHW,"Lanzhou, China",Asia,Lanzhou,China,CN,,36.5152,103.62,NEAS
+PKX,"Langfang, China",Asia,Langfang,China,CN,PKX,39.5101,116.4101,NEAS
+LHW,"Lanzhou, China",Asia,Lanzhou,China,CN,LHW,36.5152,103.62,NEAS
 MFM,Macau,Asia Pacific,Macau,China,MO,MFM,22.1495990753,113.592002869,NEAS
 MLE,"Male, Maldives",Asia Pacific,Male,Maldives,MV,MLE,4.1748,73.50888,SAS
 MNL,"Manila, Philippines",Asia Pacific,Manila,Philippines,PH,MNL,14.508600235,121.019996643,SEAS
@@ -226,48 +226,48 @@ DEL,"New Delhi, India",Asia Pacific,New Delhi,India,IN,DEL,28.5664997101,77.1031
 KIX,"Osaka, Japan",Asia Pacific,Osaka,Japan,JP,KIX,34.4272994995,135.244003296,NEAS
 PAT,"Patna, India",Asia Pacific,Patna,India,IN,PAT,25.591299057,85.0879974365,SAS
 PNH,"Phnom Penh, Cambodia",Asia Pacific,Phnom Penh,Cambodia,KH,PNH,11.5466003418,104.84400177,SEAS
-TAO,"Qingdao, China",Asia,Qingdao,China,CN,,36.2661,120.374,NEAS
+TAO,"Qingdao, China",Asia,Qingdao,China,CN,TAO,36.2661,120.374,NEAS
 ICN,"Seoul, South Korea",Asia Pacific,Seoul,South Korea,KR,ICN,37.4691009521,126.450996399,NEAS
-SHA,"Shanghai, China",Asia,Shanghai,China,CN,,31.1979,121.336,NEAS
+SHA,"Shanghai, China",Asia,Shanghai,China,CN,SHA,31.1979,121.336,NEAS
 SIN,"Singapore, Singapore",Asia Pacific,Singapore,Singapore,SG,SIN,1.3501900434,103.994003296,SEAS
 URT,"Surat Thani, Thailand",Asia Pacific,Surat Thani,Thailand,TH,URT,9.1325998306,99.135597229,SEAS
 TPE,Taipei,Asia Pacific,Taipei,Taiwan,TW,TPE,25.0776996613,121.233001709,NEAS
 NRT,"Tokyo, Japan",Asia Pacific,Tokyo,Japan,JP,NRT,35.7647018433,140.386001587,NEAS
 ULN,"Ulaanbaatar, Mongolia",Asia Pacific,Ulaanbaatar,Mongolia,MN,ULN,47.8431015015,106.766998291,NEAS
 VTE,"Vientiane, Laos",Asia Pacific,Vientiane,Laos,LA,VTE,17.9757,102.5683,SEAS
-KHN,"Nanchang, China",Asia,Nanchang,China,CN,,28.865,115.9,NEAS
+KHN,"Nanchang, China",Asia,Nanchang,China,CN,KHN,28.865,115.9,NEAS
 EVN,"Yerevan, Armenia",Middle East,Yerevan,Armenia,AM,EVN,40.1473007202,44.3959007263,ME
 JOG,"Yogyakarta, Indonesia",Asia Pacific,Yogyakarta,Indonesia,ID,JOG,-7.7881798744,110.4319992065,SEAS
-ZGN,"Zhongshan, China",Asia,Zhongshan,China,CN,,,,NEAS
+ZGN,"Zhongshan, China",Asia,Zhongshan,China,CN,ZGN,,,NEAS
 CGY,"Cagayan de Oro, Philippines",Asia Pacific,Cagayan de Oro,Philippines,PH,CGY,8.4156198502,124.611000061,SEAS
 COK,"Kochi, India",Asia Pacific,Kochi,India,IN,COK,9.9312,76.2673,SAS
 DPS,"Denpasar, Indonesia",Asia Pacific,Denpasar,Indonesia,ID,DPS,-8.748169899,115.1669998169,SEAS
 CNN,"Kannur, India",Asia Pacific,Kannur,India,IN,CNN,11.915858,75.55094,SAS
-SZX,"Shenzhen, China",Asia,Shenzhen,China,CN,,22.6393,113.811,NEAS
-KWE,"Guiyang, China",Asia,Guiyang,China,CN,,26.5385,106.801,NEAS
-HGH,"Shaoxing, China",Asia,Shaoxing,China,CN,,30.2295,120.434,NEAS
-CZX,"Changzhou, China",Asia,Changzhou,China,CN,,31.9197,119.779,NEAS
-KMG,"Kunming, China",Asia,Kunming,China,CN,,25.1019,102.929,NEAS
+SZX,"Shenzhen, China",Asia,Shenzhen,China,CN,SZX,22.6393,113.811,NEAS
+KWE,"Guiyang, China",Asia,Guiyang,China,CN,KWE,26.5385,106.801,NEAS
+HGH,"Shaoxing, China",Asia,Shaoxing,China,CN,HGH,30.2295,120.434,NEAS
+CZX,"Changzhou, China",Asia,Changzhou,China,CN,CZX,31.9197,119.779,NEAS
+KMG,"Kunming, China",Asia,Kunming,China,CN,KMG,25.1019,102.929,NEAS
 CNX,"Chiang Mai, Thailand",Asia Pacific,Chiang Mai,Thailand,TH,CNX,18.7667999268,98.962600708,SEAS
-CGO,"Zhengzhou, China",Asia,Zhengzhou,China,CN,,34.5197,113.841,NEAS
-TYN,"Yangquan, China",Asia,Yangquan,China,CN,,37.7469,112.628,NEAS
-CSX,"Changsha, China",Asia,Changsha,China,CN,,28.1892,113.22,NEAS
-DLC,"Dalian, China",Asia,Dalian,China,CN,,38.9657,121.539,NEAS
-BHY,"Beihai, China",Asia,Beihai,China,CN,,21.5394,109.294,NEAS
-CKG,"Chongqing, China",Asia,Chongqing,China,CN,,29.7192,106.642,NEAS
-XFN,"Xiangyang, China",Asia,Xiangyang,China,CN,,32.1506,112.291,NEAS
+CGO,"Zhengzhou, China",Asia,Zhengzhou,China,CN,CGO,34.5197,113.841,NEAS
+TYN,"Yangquan, China",Asia,Yangquan,China,CN,TYN,37.7469,112.628,NEAS
+CSX,"Changsha, China",Asia,Changsha,China,CN,CSX,28.1892,113.22,NEAS
+DLC,"Dalian, China",Asia,Dalian,China,CN,DLC,38.9657,121.539,NEAS
+BHY,"Beihai, China",Asia,Beihai,China,CN,BHY,21.5394,109.294,NEAS
+CKG,"Chongqing, China",Asia,Chongqing,China,CN,CKG,29.7192,106.642,NEAS
+XFN,"Xiangyang, China",Asia,Xiangyang,China,CN,XFN,32.1506,112.291,NEAS
 DAD,"Da Nang, Vietnam",Asia Pacific,Da Nang,Vietnam,VN,DAD,16.02636,108.20869,SEAS
-JXG,"Jiaxing, China",Asia,Jiaxing,China,CN,,,,NEAS
+JXG,"Jiaxing, China",Asia,Jiaxing,China,CN,JXG,,,NEAS
 CRK,"Tarlac City, Philippines",Asia Pacific,Tarlac City,Philippines,PH,CRK,15.1859,120.5599,SEAS
 PBH,"Thimphu, Bhutan",Asia Pacific,Thimphu,Bhutan,BT,PBH,27.4712,89.6339,SEAS
-XIY,"Baoji, China",Asia,Baoji,China,CN,,34.4471,108.752,NEAS
-CTU,"Chengdu, China",Asia,Chengdu,China,CN,,30.5785,103.947,NEAS
+XIY,"Baoji, China",Asia,Baoji,China,CN,XIY,34.4471,108.752,NEAS
+CTU,"Chengdu, China",Asia,Chengdu,China,CN,CTU,30.5785,103.947,NEAS
 NQZ,"Astana, Kazakhstan",Asia Pacific,Astana,Kazakhstan,KZ,NQZ,51.167801,71.418893,SAS
-NNG,"Nanning, China",Asia,Nanning,China,CN,,22.6083,108.172,NEAS
+NNG,"Nanning, China",Asia,Nanning,China,CN,NNG,22.6083,108.172,NEAS
 KCH,"Kuching, Malaysia",Asia Pacific,Kuching,Malaysia,MY,KCH,1.709727,110.353455,SEAS
 AKX,"Aktobe, Kazakhstan",Asia Pacific,Aktobe,Kazakhstan,KZ,AKX,50.286922,57.224121,SAS
-TEN,"Tongren, China",Asia,Tongren,China,CN,,27.8833,109.309,NEAS
-HYN,"Taizhou, China",Asia,Taizhou,China,CN,,28.5622,121.429,NEAS
+TEN,"Tongren, China",Asia,Tongren,China,CN,TEN,27.8833,109.309,NEAS
+HYN,"Taizhou, China",Asia,Taizhou,China,CN,HYN,28.5622,121.429,NEAS
 IAD,"Ashburn, VA, United States",North America,Ashburn,United States,US,IAD,38.94449997,-77.45580292,ENAM
 ATL,"Atlanta, GA, United States",North America,Atlanta,United States,US,ATL,33.6366996765,-84.4281005859,ENAM
 BOS,"Boston, MA, United States",North America,Boston,United States,US,BOS,42.36429977,-71.00520325,ENAM
