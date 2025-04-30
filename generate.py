@@ -173,8 +173,8 @@ def generate():
         reader = csv.DictReader(file)
         for row in reader:
             iata_lat_long_backup[row["iata"]] = {
-                "lat": row["latitude"],
-                "lon": row["longitude"],
+                "lat": float(row["latitude"]),
+                "lon": float(row["longitude"]),
             }
 
     country_codes = json.load(open('country.json', 'r', encoding='utf-8'))
