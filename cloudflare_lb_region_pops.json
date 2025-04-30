@@ -190,6 +190,7 @@
         "CBR",
         "CHC",
         "MEL",
+        "NOU",
         "PER",
         "SYD",
         "PPT",
@@ -334,7 +335,6 @@
         "ZRH",
         "LYS",
         "BOD",
-        "NOU",
         "RUN"
     ],
     "WNAM": [
