@@ -19,11 +19,6 @@ missing_city_country = {
 }
 
 incorrect_missing_country_regions = {
-    "China": "NEAS",
-    "Czech Republic": "EEU",
-    "Trinidad and Tobago": "NSAM",
-    "DR Congo": "SAF",
-    "Ivory Coast": "NAF",
     "Réunion": "SAF",
     "Palestine": "ME",
 }
@@ -101,7 +96,7 @@ pop_to_cf_lb_region = {
     "ABQ": "WNAM",
     "ANC": "WNAM",
     "ATL": "ENAM",
-    "AUS": "ENAM",
+    "AUS": "WNAM",
     "BNA": "ENAM",
     "BGR": "ENAM",
     "BOS": "ENAM",
@@ -117,8 +112,7 @@ pop_to_cf_lb_region = {
     "HNL": "WNAM",
     "IAH": "WNAM",
     "IAD": "ENAM",
-    "IAH": "ENAM",
-    "IND": "WNAM",
+    "IND": "ENAM",
     "JAX": "ENAM",
     "LAX": "WNAM",
     "LAS": "WNAM",

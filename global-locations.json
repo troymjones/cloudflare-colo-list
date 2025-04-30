@@ -2861,7 +2861,7 @@
     },
     {
         "cca2": "US",
-        "cf_lb_region": "WNAM",
+        "cf_lb_region": "ENAM",
         "city": "Indianapolis",
         "country": "United States",
         "iata": "IND",
@@ -3114,7 +3114,7 @@
     },
     {
         "cca2": "US",
-        "cf_lb_region": "ENAM",
+        "cf_lb_region": "WNAM",
         "city": "Austin",
         "country": "United States",
         "iata": "AUS",
@@ -3136,7 +3136,7 @@
     },
     {
         "cca2": "US",
-        "cf_lb_region": "ENAM",
+        "cf_lb_region": "WNAM",
         "city": "Houston",
         "country": "United States",
         "iata": "IAH",

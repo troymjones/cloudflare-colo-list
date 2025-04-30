@@ -280,8 +280,8 @@ DFW,"Dallas, TX, United States",North America,Dallas,United States,US,DFW,32.896
 DEN,"Denver, CO, United States",North America,Denver,United States,US,DEN,39.8616981506,-104.672996521,WNAM
 DTW,"Detroit, MI, United States",North America,Detroit,United States,US,DTW,42.2123985291,-83.3534011841,ENAM
 HNL,"Honolulu, HI, United States",North America,Honolulu,United States,US,HNL,21.3187007904,-157.9219970703,WNAM
-IAH,"Houston, TX, United States",North America,Houston,United States,US,IAH,29.9843997955,-95.3414001465,ENAM
-IND,"Indianapolis, IN, United States",North America,Indianapolis,United States,US,IND,39.717300415,-86.2944030762,WNAM
+IAH,"Houston, TX, United States",North America,Houston,United States,US,IAH,29.9843997955,-95.3414001465,WNAM
+IND,"Indianapolis, IN, United States",North America,Indianapolis,United States,US,IND,39.717300415,-86.2944030762,ENAM
 JAX,"Jacksonville, FL, United States",North America,Jacksonville,United States,US,JAX,30.4941005707,-81.6878967285,ENAM
 MCI,"Kansas City, MO, United States",North America,Kansas City,United States,US,MCI,39.2975997925,-94.7138977051,WNAM
 LAS,"Las Vegas, NV, United States",North America,Las Vegas,United States,US,LAS,36.08010101,-115.1520004,WNAM
@@ -318,7 +318,7 @@ YWG,"Winnipeg, MB, Canada",North America,Winnipeg,Canada,CA,YWG,49.9099998474,-9
 SFO,"San Francisco, United States",North America,San Francisco,United States,US,SFO,37.6189994812,-122.375,WNAM
 KIN,"Kingston, Jamaica",North America,Kingston,Jamaica,JM,KIN,17.9951,-76.7846,ENAM
 BGR,"Bangor, United States",North America,Bangor,United States,US,BGR,44.8081,-68.795,ENAM
-AUS,"Austin, United States",North America,Austin,United States,US,AUS,30.1975,-97.6664,ENAM
+AUS,"Austin, United States",North America,Austin,United States,US,AUS,30.1975,-97.6664,WNAM
 ABQ,"Albuquerque, United States",North America,Albuquerque,United States,US,ABQ,35.0844,-106.6504,WNAM
 GDL,"Guadalajara, Mexico",North America,Guadalajara,Mexico,MX,GDL,20.5217990875,-103.3109970093,WNAM
 SAT,"San Antonio, United States",North America,San Antonio,United States,US,SAT,29.429461,-98.487061,WNAM
