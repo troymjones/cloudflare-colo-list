@@ -1988,17 +1988,6 @@
         "name": "London, United Kingdom",
         "region": "Europe"
     },
-    "LHW": {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Lanzhou",
-        "country": "China",
-        "iata": "LHW",
-        "lat": 36.5152,
-        "lon": 103.62,
-        "name": "Lanzhou, China",
-        "region": "Asia"
-    },
     "LIM": {
         "cca2": "PE",
         "cf_lb_region": "NSAM",
@@ -2845,6 +2834,17 @@
         "lon": -117.190002441,
         "name": "San Diego, CA, United States",
         "region": "North America"
+    },
+    "SAP": {
+        "cca2": "HN",
+        "cf_lb_region": "ENAM",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "iata": "SAP",
+        "lat": 15.4525995255,
+        "lon": -87.9235992432,
+        "name": "San Pedro Sula, Honduras",
+        "region": "South America"
     },
     "SAT": {
         "cca2": "US",
