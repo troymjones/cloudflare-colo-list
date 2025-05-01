@@ -1721,6 +1721,8 @@
         "city": "Jiaxing",
         "country": "China",
         "iata": "JXG",
+        "lat": 30.7067,
+        "lon": 120.6806,
         "name": "Jiaxing, China",
         "region": "Asia"
     },
