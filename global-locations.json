@@ -1650,6 +1650,17 @@
         "region": "South America"
     },
     {
+        "cca2": "HN",
+        "cf_lb_region": "ENAM",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "iata": "SAP",
+        "lat": 15.4525995255,
+        "lon": -87.9235992432,
+        "name": "San Pedro Sula, Honduras",
+        "region": "South America"
+    },
+    {
         "cca2": "GH",
         "cf_lb_region": "NAF",
         "city": "Accra",
@@ -2373,17 +2384,6 @@
         "lat": 39.5101,
         "lon": 116.4101,
         "name": "Langfang, China",
-        "region": "Asia"
-    },
-    {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Lanzhou",
-        "country": "China",
-        "iata": "LHW",
-        "lat": 36.5152,
-        "lon": 103.62,
-        "name": "Lanzhou, China",
         "region": "Asia"
     },
     {
