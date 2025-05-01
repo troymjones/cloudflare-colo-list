@@ -323,6 +323,8 @@ def generate():
         if 'lat' not in data[iata]:
             if iata in iata_lat_long_backup:
                 data[iata].update(iata_lat_long_backup[iata])
+            else:
+                print('No lat/long data for', iata)
 
     unicodedata_dict(data)
     unicodedata_dict(speed_locations)
