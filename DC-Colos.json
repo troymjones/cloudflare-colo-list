@@ -1990,17 +1990,6 @@
         "name": "London, United Kingdom",
         "region": "Europe"
     },
-    "LHW": {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Lanzhou",
-        "country": "China",
-        "iata": "LHW",
-        "lat": 36.5152,
-        "lon": 103.62,
-        "name": "Lanzhou, China",
-        "region": "Asia"
-    },
     "LIM": {
         "cca2": "PE",
         "cf_lb_region": "NSAM",
