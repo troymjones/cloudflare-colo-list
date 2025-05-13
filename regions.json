@@ -337,20 +337,12 @@
         {
           "country_code_a2": "TN",
           "country_name": "Tunisia"
-        },
-        {
-          "country_code_a2": "ET",
-          "country_name": "Ethiopia"
         }
       ]
     },
     {
       "region_code": "NEAS",
       "countries": [
-        {
-          "country_code_a2": "CN",
-          "country_name": "China"
-        },
         {
           "country_code_a2": "HK",
           "country_name": "Hong Kong"

@@ -1,3 +1,4 @@
+from cloudflare import Cloudflare
 import requests
 import json
 import os
@@ -11,6 +12,8 @@ from collections import OrderedDict
 
 os.chdir(os.path.split(os.path.realpath(sys.argv[0]))[0])
 
+exit_code = 0
+
 missing_city_country = {
     "Hong Kong": "China",
     "Ramallah": "Palestine",
@@ -19,9 +22,15 @@ missing_city_country = {
     "South Dakota": "United States",
 }
 
-incorrect_missing_country_regions = {
-    "Réunion": "SAF",
-    "Palestine": "ME",
+missing_in_regions_json = {
+    "NAF": [{
+        "country_code_a2": "ET",
+        "country_name": "Ethiopia"
+    }],
+    "NEAS": [{
+        "country_code_a2": "CN",
+        "country_name": "China"
+    }],
 }
 
 pop_to_cf_lb_region = {
@@ -146,16 +155,18 @@ pop_to_cf_lb_region = {
     # End US
 }
 
+
 def get(url, retry=5):
     try:
         r = requests.get(url, timeout=5)
         return r
-    except:
+    except Exception:
         if retry > 0:
             time.sleep(1)
             return get(url, retry - 1)
         else:
             raise Exception('Failed to get url: {}'.format(url))
+
 
 def generate():
     data = {}
@@ -178,9 +189,23 @@ def generate():
             }
 
     country_codes = json.load(open('country.json', 'r', encoding='utf-8'))
-    country_codes_inv = {v: k for k, v in country_codes.items()}
+    country_codes_inv = {
+        normalize_str(v): normalize_str(k)
+        for k, v in country_codes.items()
+    }
 
-    regions = json.load(open('regions.json', 'r', encoding='utf-8'))["regions"]
+    try:
+        cf = Cloudflare()
+        regions = cf.load_balancers.regions.list(
+            account_id=os.environ.get("CLOUDFLARE_ACCOUNT_ID")
+        )["regions"]
+    except Exception as e:
+        print(e)
+        global exit_code
+        exit_code = 1
+        with open('regions.json', 'r', encoding='utf-8') as f:
+            regions = json.load(f)["regions"]
+
     country_to_cloudflare_region = {}
     cf_region_to_pops = {
         "EEU": [],
@@ -200,6 +225,8 @@ def generate():
 
     for region in regions:
         region_code = region["region_code"]
+        if region_code in missing_in_regions_json:
+            region["countries"].extend(missing_in_regions_json[region_code])
         for country in region["countries"]:
             cc = country["country_code_a2"]
             if cc in country_to_cloudflare_region:
@@ -214,7 +241,8 @@ def generate():
             country_to_cloudflare_region[cc] = region_code
 
     # https://www.cloudflarestatus.com/api/v2/components.json for DC list
-    components_json = json.loads(requests.get('https://www.cloudflarestatus.com/api/v2/components.json').text)
+    components_url = 'https://www.cloudflarestatus.com/api/v2/components.json'
+    components_json = json.loads(requests.get(components_url).text)
 
     grouped_list = {}
 
@@ -246,7 +274,7 @@ def generate():
         region_name = region['name']
         for v in region['child'].values():
             v = v.strip()
-            v = unicodedata.normalize("NFKD", v)
+            v = normalize_str(v)
             regex = re.search(r'^([\s\S]+?)( +-)? +\(([A-Z]{3})\)', v)
             name = regex.group(1)
             colo = regex.group(3)
@@ -274,22 +302,26 @@ def generate():
                 if isinstance(country_to_cloudflare_region[cca2], list):
                     if colo in pop_to_cf_lb_region:
                         data[colo]["cf_lb_region"] = pop_to_cf_lb_region[colo]
-                        cf_region_to_pops[pop_to_cf_lb_region[colo]].append(colo)
+                        cf_region = pop_to_cf_lb_region[colo]
+                        cf_region_to_pops[cf_region].append(colo)
                     else:
-                        print(f"Error\n{data[colo]}\n {colo} has multiple cf_lb_regions: {country_to_cloudflare_region[cca2]}")
+                        msg = (f"Error\n{data[colo]}\n {colo} has multiple "
+                               f"cf_lb_regions: "
+                               f"{country_to_cloudflare_region[cca2]}")
+                        print(msg)
                         sys.exit()
                 else:
-                    data[colo]["cf_lb_region"] = country_to_cloudflare_region[cca2]
-                    cf_region_to_pops[country_to_cloudflare_region[cca2]].append(colo)
-            elif country_name in incorrect_missing_country_regions:
-                data[colo]["cf_lb_region"] = incorrect_missing_country_regions[country_name]
+                    cf_region = country_to_cloudflare_region[cca2]
+                    data[colo]["cf_lb_region"] = cf_region
+                    cf_region_to_pops[cf_region].append(colo)
             else:
                 print("Did not find country: {}".format(country_name))
             data[colo]["iata"] = colo
                 
     # speed.cloudflare.com for locations
     # format: json
-    speed_locations = json.loads(get('https://speed.cloudflare.com/locations').text)
+    speed_url = 'https://speed.cloudflare.com/locations'
+    speed_locations = json.loads(get(speed_url).text)
     for location in speed_locations:
         iata = location['iata']
         if iata in data:
@@ -299,7 +331,9 @@ def generate():
         else:
             print(iata, 'not found in cloudflare status')
             data[iata] = location[iata]
-            data[iata]['name'] = location['city'] + ', ' + country_codes[location['cca2']]
+            city = location['city']
+            country = country_codes[location['cca2']]
+            data[iata]['name'] = f"{city}, {country}"
 
     for iata in data:
         global_locations.append(data[iata])
@@ -320,7 +354,9 @@ def generate():
         elif data[iata]["region"] == "Oceania":
             oceania.append(data[iata])
         else:
-            print("Did not find region {} for {}: {}".format(data[iata]["region"], iata, data[iata]["name"]))
+            region = data[iata]["region"]
+            name = data[iata]["name"]
+            print(f"Did not find region {region} for {iata}: {name}")
 
     for iata in data:
         if 'lat' not in data[iata]:
@@ -329,45 +365,62 @@ def generate():
             else:
                 print('No lat/long data for', iata)
 
-    unicodedata_dict(data)
-    unicodedata_dict(speed_locations)
-    unicodedata_dict(global_locations)
-    unicodedata_dict(north_america)
-    unicodedata_dict(europe)
-    unicodedata_dict(asia)
-    unicodedata_dict(africa)
-    unicodedata_dict(south_america)
-    unicodedata_dict(middle_east)
-    unicodedata_dict(oceania)
+    normalize_dict(data)
+    normalize_dict(speed_locations)
+    normalize_dict(global_locations)
+    normalize_dict(north_america)
+    normalize_dict(europe)
+    normalize_dict(asia)
+    normalize_dict(africa)
+    normalize_dict(south_america)
+    normalize_dict(middle_east)
+    normalize_dict(oceania)
 
-    return data, speed_locations, global_locations, north_america, europe, asia, africa, south_america, middle_east, oceania, cf_region_to_pops
+    return (data, speed_locations, global_locations, north_america, europe,
+            asia, africa, south_america, middle_east, oceania,
+            cf_region_to_pops)
 
-def unicodedata_dict(data):
+
+def normalize_str(s):
+    return (unicodedata.normalize('NFKD', s)
+            .encode('ascii', 'ignore')
+            .decode('utf-8'))
+
+
+def normalize_dict(data):
     for k in data:
         if isinstance(k, dict):
             for i in k:
                 if isinstance(k[i], str):
-                    k[i] = unicodedata.normalize("NFKD", k[i]).encode("ascii", "ignore").decode("utf-8")
+                    k[i] = normalize_str(k[i])
         else:
             for i in data[k]:
                 if isinstance(data[k][i], str):
-                    data[k][i] = unicodedata.normalize("NFKD", data[k][i]).encode("ascii", "ignore").decode("utf-8")
+                    data[k][i] = normalize_str(data[k][i])
     return data
 
-if __name__ == '__main__':
-    match_data, location_data, global_locations, north_america, europe, asia, africa, south_america, middle_east, oceania, region_pops = generate()
 
-    locations_json_content = json.dumps(location_data, indent=4, ensure_ascii=False, sort_keys=True)
-    dc_colos_json_content = json.dumps(match_data, indent=4, ensure_ascii=False, sort_keys=True)
-    global_locations_json_content = json.dumps(global_locations, indent=4, ensure_ascii=False, sort_keys=True)
-    north_america_json_content = json.dumps(north_america, indent=4, ensure_ascii=False, sort_keys=True)
-    europe_json_content = json.dumps(europe, indent=4, ensure_ascii=False, sort_keys=True)
-    asia_json_content = json.dumps(asia, indent=4, ensure_ascii=False, sort_keys=True)
-    africa_json_content = json.dumps(africa, indent=4, ensure_ascii=False, sort_keys=True)
-    south_america_json_content = json.dumps(south_america, indent=4, ensure_ascii=False, sort_keys=True)
-    middle_east_json_content = json.dumps(middle_east, indent=4, ensure_ascii=False, sort_keys=True)
-    oceania_json_content = json.dumps(oceania, indent=4, ensure_ascii=False, sort_keys=True)
-    cf_region_pops_json_content = json.dumps(region_pops, indent=4, ensure_ascii=False, sort_keys=True)
+if __name__ == '__main__':
+    (match_data, location_data, global_locations, north_america, europe, asia,
+     africa, south_america, middle_east, oceania, region_pops) = generate()
+
+    json_dump_args = {
+        'indent': 4,
+        'ensure_ascii': False,
+        'sort_keys': True
+    }
+
+    locations_json_content = json.dumps(location_data, **json_dump_args)
+    dc_colos_json_content = json.dumps(match_data, **json_dump_args)
+    global_locations_json = json.dumps(global_locations, **json_dump_args)
+    north_america_json_content = json.dumps(north_america, **json_dump_args)
+    europe_json_content = json.dumps(europe, **json_dump_args)
+    asia_json_content = json.dumps(asia, **json_dump_args)
+    africa_json_content = json.dumps(africa, **json_dump_args)
+    south_america_json_content = json.dumps(south_america, **json_dump_args)
+    middle_east_json_content = json.dumps(middle_east, **json_dump_args)
+    oceania_json_content = json.dumps(oceania, **json_dump_args)
+    cf_region_pops_json_content = json.dumps(region_pops, **json_dump_args)
     content_changed = True
 
     if (os.path.exists('DC-Colos.json')):
@@ -387,7 +440,7 @@ if __name__ == '__main__':
         f.write(dc_colos_json_content)
 
     with open('global-locations.json', 'w', encoding='utf-8') as f:
-        f.write(global_locations_json_content)
+        f.write(global_locations_json)
 
     with open('north-america.json', 'w', encoding='utf-8') as f:
         f.write(north_america_json_content)
@@ -421,3 +474,5 @@ if __name__ == '__main__':
     # final check for log
     for colo in dt.index[dt.cca2.isnull()]:
         print(colo, match_data[colo], 'not found in cloudflare locations')
+
+    sys.exit(exit_code)
