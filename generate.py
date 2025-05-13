@@ -206,7 +206,10 @@ def generate():
                 if isinstance(country_to_cloudflare_region[cc], list):
                     country_to_cloudflare_region[cc].append(region_code)
                 else:
-                    country_to_cloudflare_region[cc] = [country_to_cloudflare_region[cc], region_code]
+                    country_to_cloudflare_region[cc] = [
+                        country_to_cloudflare_region[cc],
+                        region_code
+                    ]
                 continue
             country_to_cloudflare_region[cc] = region_code
 
