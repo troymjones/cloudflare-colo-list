@@ -1991,6 +1991,17 @@
         "region": "Africa"
     },
     {
+        "cca2": "ET",
+        "cf_lb_region": "NAF",
+        "city": "Addis Ababa",
+        "country": "Ethiopia",
+        "iata": "ADD",
+        "lat": 9.00005,
+        "lon": 38.78446,
+        "name": "Addis Ababa, Ethiopia",
+        "region": "Africa"
+    },
+    {
         "cca2": "IN",
         "cf_lb_region": "SAS",
         "city": "Ahmedabad",
