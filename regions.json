@@ -69,7 +69,7 @@
         },
         {
           "country_code_a2": "MK",
-          "country_name": "North Macedonia"
+          "country_name": "Macedonia"
         },
         {
           "country_code_a2": "NO",
@@ -89,7 +89,7 @@
         },
         {
           "country_code_a2": "RU",
-          "country_name": "Russian Federation"
+          "country_name": "Russia"
         },
         {
           "country_code_a2": "SE",
@@ -308,7 +308,7 @@
         },
         {
           "country_code_a2": "CI",
-          "country_name": "Côte D'Ivoire"
+          "country_name": "Ivory Coast"
         },
         {
           "country_code_a2": "DJ",
@@ -337,6 +337,10 @@
         {
           "country_code_a2": "TN",
           "country_name": "Tunisia"
+        },
+        {
+          "country_code_a2": "ET",
+          "country_name": "Ethiopia"
         }
       ]
     },
@@ -357,7 +361,7 @@
         },
         {
           "country_code_a2": "KR",
-          "country_name": "Korea, South"
+          "country_name": "South Korea"
         },
         {
           "country_code_a2": "MN",
@@ -378,7 +382,13 @@
       "countries": [
         {
           "country_code_a2": "BR",
-          "country_name": "Brazil"
+          "country_name": "Brazil",
+          "country_subdivisions": [
+            {
+              "subdivision_code_a2": "TO",
+              "subdivision_name": "Tocantins"
+            }
+          ]
         },
         {
           "country_code_a2": "CO",
@@ -418,7 +428,7 @@
         },
         {
           "country_code_a2": "TT",
-          "country_name": "Trinidad And Tobago"
+          "country_name": "Trinidad and Tobago"
         }
       ]
     },
@@ -460,7 +470,7 @@
         },
         {
           "country_code_a2": "CD",
-          "country_name": "Congo (Kinshasa)"
+          "country_name": "DR Congo"
         },
         {
           "country_code_a2": "KE",
@@ -484,7 +494,7 @@
         },
         {
           "country_code_a2": "RE",
-          "country_name": "Reunion"
+          "country_name": "Réunion"
         },
         {
           "country_code_a2": "RW",
@@ -541,7 +551,7 @@
         },
         {
           "country_code_a2": "RU",
-          "country_name": "Russian Federation"
+          "country_name": "Russia"
         }
       ]
     },
@@ -554,7 +564,7 @@
         },
         {
           "country_code_a2": "BN",
-          "country_name": "Brunei Darussalam"
+          "country_name": "Brunei"
         },
         {
           "country_code_a2": "BT",
