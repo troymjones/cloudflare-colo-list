@@ -195,7 +195,9 @@ def generate():
     }
 
     try:
-        cf = Cloudflare()
+        cf = Cloudflare(
+            api_token=os.environ.get("CLOUDFLARE_API_TOKEN"),
+        )
         regions = cf.load_balancers.regions.list(
             account_id=os.environ.get("CLOUDFLARE_ACCOUNT_ID")
         )["regions"]
