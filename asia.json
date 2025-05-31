@@ -1,16 +1,5 @@
 [
     {
-        "cca2": "RU",
-        "cf_lb_region": "SAS",
-        "city": "Yekaterinburg",
-        "country": "Russia",
-        "iata": "SVX",
-        "lat": 56.8431,
-        "lon": 60.6454,
-        "name": "Yekaterinburg, Russia",
-        "region": "Asia Pacific"
-    },
-    {
         "cca2": "GU",
         "cf_lb_region": "SEAS",
         "city": "Hagatna",

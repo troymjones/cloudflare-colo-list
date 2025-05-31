@@ -3134,17 +3134,6 @@
         "name": "Suva, Fiji",
         "region": "Oceania"
     },
-    "SVX": {
-        "cca2": "RU",
-        "cf_lb_region": "SAS",
-        "city": "Yekaterinburg",
-        "country": "Russia",
-        "iata": "SVX",
-        "lat": 56.8431,
-        "lon": 60.6454,
-        "name": "Yekaterinburg, Russia",
-        "region": "Asia Pacific"
-    },
     "SYD": {
         "cca2": "AU",
         "cf_lb_region": "OC",
