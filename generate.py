@@ -85,7 +85,7 @@ pop_to_cf_lb_region = {
     "DUS": "WEU",
     "FRA": "WEU",
     "HAM": "EEU",
-    "MUC": "EEU",
+    "MUC": "WEU",
     "STR": "WEU",
     # End Germany
 
