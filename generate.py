@@ -311,7 +311,7 @@ def generate():
                                f"cf_lb_regions: "
                                f"{country_to_cloudflare_region[cca2]}")
                         print(msg)
-                        sys.exit()
+                        sys.exit(1)
                 else:
                     cf_region = country_to_cloudflare_region[cca2]
                     data[colo]["cf_lb_region"] = cf_region
