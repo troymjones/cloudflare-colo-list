@@ -23,10 +23,6 @@ missing_city_country = {
 }
 
 missing_in_regions_json = {
-    "NAF": [{
-        "country_code_a2": "ET",
-        "country_name": "Ethiopia"
-    }],
     "NEAS": [{
         "country_code_a2": "CN",
         "country_name": "China"
