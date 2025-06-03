@@ -16,7 +16,6 @@
         "KBP",
         "MSQ",
         "DME",
-        "MUC",
         "OSL",
         "PMO",
         "PRG",
@@ -160,7 +159,8 @@
         "HAK",
         "KHN",
         "TEN",
-        "HYN"
+        "HYN",
+        "SJW"
     ],
     "NSAM": [
         "BEL",
@@ -183,7 +183,8 @@
         "PMW",
         "POS",
         "SSA",
-        "CLO"
+        "CLO",
+        "BOG"
     ],
     "OC": [
         "ADL",
@@ -331,12 +332,14 @@
         "MAN",
         "MRS",
         "MXP",
+        "MUC",
         "CDG",
         "KEF",
         "STR",
         "ZRH",
         "LYS",
         "BOD",
+        "ZRH",
         "RUN"
     ],
     "WNAM": [

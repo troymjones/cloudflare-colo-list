@@ -353,7 +353,7 @@
     },
     {
         "cca2": "DE",
-        "cf_lb_region": "EEU",
+        "cf_lb_region": "WEU",
         "city": "Munich",
         "country": "Germany",
         "iata": "MUC",
@@ -2202,12 +2202,12 @@
     {
         "cca2": "CN",
         "cf_lb_region": "NEAS",
-        "city": "Hengshui",
+        "city": "Shijiazhuang",
         "country": "China",
         "iata": "SJW",
         "lat": 38.2807,
         "lon": 114.697,
-        "name": "Hengshui, China",
+        "name": "Shijiazhuang, China",
         "region": "Asia"
     },
     {
