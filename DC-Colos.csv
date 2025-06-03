@@ -31,7 +31,7 @@ MRS,"Marseille, France",Europe,Marseille,France,FR,MRS,43.439271922,5.2214241028
 MXP,"Milan, Italy",Europe,Milan,Italy,IT,MXP,45.6305999756,8.7281103134,WEU
 MSQ,"Minsk, Belarus",Europe,Minsk,Belarus,BY,MSQ,53.9006,27.599,EEU
 DME,"Moscow, Russia",Europe,Moscow,Russia,RU,DME,55.4087982178,37.9062995911,EEU
-MUC,"Munich, Germany",Europe,Munich,Germany,DE,MUC,48.3538017273,11.7861003876,EEU
+MUC,"Munich, Germany",Europe,Munich,Germany,DE,MUC,48.3538017273,11.7861003876,WEU
 LCA,"Nicosia, Cyprus",Europe,Nicosia,Cyprus,CY,LCA,34.8750991821,33.6249008179,ME
 OSL,"Oslo, Norway",Europe,Oslo,Norway,NO,OSL,60.193901062,11.100399971,EEU
 PMO,"Palermo, Italy",Europe,Palermo,Italy,IT,PMO,38.16114,13.31546,EEU
@@ -199,7 +199,7 @@ FOC,"Fuzhou, China",Asia,Fuzhou,China,CN,FOC,25.9351,119.663,NEAS
 CAN,"Guangzhou, China",Asia,Guangzhou,China,CN,CAN,23.3924,113.299,NEAS
 HAK,"Chengmai, China",Asia,Chengmai,China,CN,HAK,19.9349,110.459,NEAS
 HAN,"Hanoi, Vietnam",Asia Pacific,Hanoi,Vietnam,VN,HAN,21.221200943,105.806999206,SEAS
-SJW,"Hengshui, China",Asia,Hengshui,China,CN,SJW,38.2807,114.697,NEAS
+SJW,"Shijiazhuang, China",Asia,Shijiazhuang,China,CN,SJW,38.2807,114.697,NEAS
 SGN,"Ho Chi Minh City, Vietnam",Asia Pacific,Ho Chi Minh City,Vietnam,VN,SGN,10.8187999725,106.652000427,SEAS
 HKG,Hong Kong,Asia Pacific,Hong Kong,China,HK,HKG,22.3089008331,113.915000916,NEAS
 HYD,"Hyderabad, India",Asia Pacific,Hyderabad,India,IN,HYD,17.2313175201,78.4298553467,SAS
