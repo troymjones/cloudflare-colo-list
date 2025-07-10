@@ -66,17 +66,6 @@
         "region": "Asia Pacific"
     },
     {
-        "cca2": "IN",
-        "cf_lb_region": "SAS",
-        "city": "Bhubaneswar",
-        "country": "India",
-        "iata": "BBI",
-        "lat": 20.2961,
-        "lon": 85.8245,
-        "name": "Bhubaneswar, India",
-        "region": "Asia Pacific"
-    },
-    {
         "cca2": "PH",
         "cf_lb_region": "SEAS",
         "city": "Cebu",
