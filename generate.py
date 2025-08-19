@@ -8,7 +8,6 @@ import csv
 import time
 import unicodedata
 import pandas as pd
-from collections import OrderedDict
 
 os.chdir(os.path.split(os.path.realpath(sys.argv[0]))[0])
 
@@ -30,10 +29,6 @@ missing_in_regions_json = {
     "SAS": [{
         "country_code_a2": "KG",
         "country_name": "Kyrgyzstan"
-    }],
-    "NAF": [{
-        "country_code_a2": "ET",
-        "country_name": "Ethiopia"
     }],
 }
 
@@ -206,9 +201,11 @@ def generate():
             account_id=os.environ.get("CLOUDFLARE_ACCOUNT_ID")
         )["regions"]
     except Exception as e:
-        print(e)
-        global exit_code
-        exit_code = 1
+        # Fall back to the checked-in regions.json without failing the script
+        print(
+            "Warning: Falling back to local regions.json due to error:",
+            e,
+        )
         with open('regions.json', 'r', encoding='utf-8') as f:
             regions = json.load(f)["regions"]
 
@@ -323,7 +320,7 @@ def generate():
             else:
                 print("Did not find country: {}".format(country_name))
             data[colo]["iata"] = colo
-                
+
     # speed.cloudflare.com for locations
     # format: json
     speed_url = 'https://speed.cloudflare.com/locations'
@@ -340,7 +337,6 @@ def generate():
             city = location['city']
             country = country_codes[location['cca2']]
             data[iata]['name'] = f"{city}, {country}"
-
     for iata in data:
         global_locations.append(data[iata])
         if data[iata]["region"] == "North America":
@@ -468,7 +464,7 @@ if __name__ == '__main__':
 
     with open('oceania.json', 'w', encoding='utf-8') as f:
         f.write(oceania_json_content)
-    
+
     with open('cloudflare_lb_region_pops.json', 'w', encoding='utf-8') as f:
         f.write(cf_region_pops_json_content)
 
