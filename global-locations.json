@@ -2959,6 +2959,17 @@
         "region": "Asia"
     },
     {
+        "cca2": "KG",
+        "cf_lb_region": "SAS",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "iata": "FRU",
+        "lat": 42.875608,
+        "lon": 74.604613,
+        "name": "Bishkek, Kyrgyzstan",
+        "region": "Asia Pacific"
+    },
+    {
         "cca2": "US",
         "cf_lb_region": "ENAM",
         "city": "Ashburn",
