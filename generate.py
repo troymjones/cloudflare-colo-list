@@ -25,11 +25,7 @@ missing_in_regions_json = {
     "NEAS": [{
         "country_code_a2": "CN",
         "country_name": "China"
-    }],
-    "SAS": [{
-        "country_code_a2": "KG",
-        "country_name": "Kyrgyzstan"
-    }],
+    }]
 }
 
 pop_to_cf_lb_region = {
