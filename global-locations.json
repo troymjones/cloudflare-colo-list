@@ -1650,17 +1650,6 @@
         "region": "South America"
     },
     {
-        "cca2": "CL",
-        "cf_lb_region": "SSAM",
-        "city": "Concepcion",
-        "country": "Chile",
-        "iata": "CCP",
-        "lat": -36.8201,
-        "lon": -73.0444,
-        "name": "Concepcion, Chile",
-        "region": "South America"
-    },
-    {
         "cca2": "GH",
         "cf_lb_region": "NAF",
         "city": "Accra",

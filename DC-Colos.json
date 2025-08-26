@@ -582,17 +582,6 @@
         "name": "Canberra, ACT, Australia",
         "region": "Oceania"
     },
-    "CCP": {
-        "cca2": "CL",
-        "cf_lb_region": "SSAM",
-        "city": "Concepcion",
-        "country": "Chile",
-        "iata": "CCP",
-        "lat": -36.8201,
-        "lon": -73.0444,
-        "name": "Concepcion, Chile",
-        "region": "South America"
-    },
     "CCU": {
         "cca2": "IN",
         "cf_lb_region": "SAS",

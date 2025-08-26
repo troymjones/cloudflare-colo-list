@@ -592,16 +592,5 @@
         "lon": -87.9235992432,
         "name": "San Pedro Sula, Honduras",
         "region": "South America"
-    },
-    {
-        "cca2": "CL",
-        "cf_lb_region": "SSAM",
-        "city": "Concepcion",
-        "country": "Chile",
-        "iata": "CCP",
-        "lat": -36.8201,
-        "lon": -73.0444,
-        "name": "Concepcion, Chile",
-        "region": "South America"
     }
 ]
