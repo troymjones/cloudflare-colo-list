@@ -2210,17 +2210,6 @@
         "name": "Mexico City, Mexico",
         "region": "North America"
     },
-    "MFE": {
-        "cca2": "US",
-        "cf_lb_region": "WNAM",
-        "city": "McAllen",
-        "country": "United States",
-        "iata": "MFE",
-        "lat": 26.17580032,
-        "lon": -98.23860168,
-        "name": "McAllen, TX, United States",
-        "region": "North America"
-    },
     "MFM": {
         "cca2": "MO",
         "cf_lb_region": "NEAS",
