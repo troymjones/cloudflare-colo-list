@@ -25,6 +25,10 @@ missing_in_regions_json = {
     "NEAS": [{
         "country_code_a2": "CN",
         "country_name": "China"
+    }],
+    "NAF": [{
+        "country_code_a2": "MW",
+        "country_name": "Malawi"
     }]
 }
 
