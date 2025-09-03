@@ -339,5 +339,16 @@
         "lon": 38.78446,
         "name": "Addis Ababa, Ethiopia",
         "region": "Africa"
+    },
+    {
+        "cca2": "MW",
+        "cf_lb_region": "NAF",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "iata": "LLW",
+        "lat": -13.980935,
+        "lon": 33.761462,
+        "name": "Lilongwe, Malawi",
+        "region": "Africa"
     }
 ]
