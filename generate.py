@@ -333,6 +333,9 @@ def generate():
             data[iata]["cf_lb_region"] = cf_lb_region
         else:
             print(iata, 'not found in cloudflare status')
+            if iata not in location:
+                print(iata, 'not found in cloudflare speed locations')
+                continue
             data[iata] = location[iata]
             city = location['city']
             country = country_codes[location['cca2']]
