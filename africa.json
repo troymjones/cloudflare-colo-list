@@ -350,5 +350,16 @@
         "lon": 33.761462,
         "name": "Lilongwe, Malawi",
         "region": "Africa"
+    },
+    {
+        "cca2": "DZ",
+        "cf_lb_region": "NAF",
+        "city": "Constantine",
+        "country": "Algeria",
+        "iata": "CZL",
+        "lat": 36.335972,
+        "lon": 6.598562,
+        "name": "Constantine, Algeria",
+        "region": "Africa"
     }
 ]
