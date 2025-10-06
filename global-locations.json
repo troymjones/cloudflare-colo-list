@@ -2640,17 +2640,6 @@
         "region": "Asia Pacific"
     },
     {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Zhongshan",
-        "country": "China",
-        "iata": "ZGN",
-        "lat": 22.51667,
-        "lon": 113.3667,
-        "name": "Zhongshan, China",
-        "region": "Asia"
-    },
-    {
         "cca2": "PH",
         "cf_lb_region": "SEAS",
         "city": "Cagayan de Oro",
