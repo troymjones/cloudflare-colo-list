@@ -3618,17 +3618,6 @@
         "name": "Ramallah",
         "region": "Middle East"
     },
-    "ZGN": {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Zhongshan",
-        "country": "China",
-        "iata": "ZGN",
-        "lat": 22.51667,
-        "lon": 113.3667,
-        "name": "Zhongshan, China",
-        "region": "Asia"
-    },
     "ZRH": {
         "cca2": "CH",
         "cf_lb_region": "WEU",
