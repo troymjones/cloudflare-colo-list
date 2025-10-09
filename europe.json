@@ -583,17 +583,6 @@
         "region": "Europe"
     },
     {
-        "cca2": "CH",
-        "cf_lb_region": "WEU",
-        "city": "Zurich",
-        "country": "Switzerland",
-        "iata": "ZRH",
-        "lat": 47.4646987915,
-        "lon": 8.5491695404,
-        "name": "Zurich, Switzerland",
-        "region": "Europe"
-    },
-    {
         "cca2": "FR",
         "cf_lb_region": "WEU",
         "city": "Lyon",
@@ -624,6 +613,17 @@
         "lat": 41.9616012573,
         "lon": 21.6214008331,
         "name": "Skopje, North Macedonia",
+        "region": "Europe"
+    },
+    {
+        "cca2": "CH",
+        "cf_lb_region": "WEU",
+        "city": "Zurich",
+        "country": "Switzerland",
+        "iata": "ZRH",
+        "lat": 47.4646987915,
+        "lon": 8.5491695404,
+        "name": "Zurich, Switzerland",
         "region": "Europe"
     }
 ]
