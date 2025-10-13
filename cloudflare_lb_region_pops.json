@@ -115,7 +115,6 @@
         "ABJ",
         "JIB",
         "ADD",
-        "LLW",
         "CZL"
     ],
     "NEAS": [
@@ -221,7 +220,8 @@
         "EBB",
         "RUN",
         "DAR",
-        "LUN"
+        "LUN",
+        "LLW"
     ],
     "SAS": [
         "AMD",
