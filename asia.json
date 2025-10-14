@@ -858,17 +858,6 @@
         "region": "Asia"
     },
     {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Chengdu",
-        "country": "China",
-        "iata": "CTU",
-        "lat": 30.5785,
-        "lon": 103.947,
-        "name": "Chengdu, China",
-        "region": "Asia"
-    },
-    {
         "cca2": "KZ",
         "cf_lb_region": "SAS",
         "city": "Astana",
