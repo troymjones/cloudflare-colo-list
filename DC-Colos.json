@@ -1121,17 +1121,6 @@
         "name": "Erbil, Iraq",
         "region": "Middle East"
     },
-    "EDI": {
-        "cca2": "GB",
-        "cf_lb_region": "WEU",
-        "city": "Edinburgh",
-        "country": "United Kingdom",
-        "iata": "EDI",
-        "lat": 55.9500007629,
-        "lon": -3.3724999428,
-        "name": "Edinburgh, United Kingdom",
-        "region": "Europe"
-    },
     "EVN": {
         "cca2": "AM",
         "cf_lb_region": "ME",

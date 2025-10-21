@@ -154,17 +154,6 @@
         "region": "Europe"
     },
     {
-        "cca2": "GB",
-        "cf_lb_region": "WEU",
-        "city": "Edinburgh",
-        "country": "United Kingdom",
-        "iata": "EDI",
-        "lat": 55.9500007629,
-        "lon": -3.3724999428,
-        "name": "Edinburgh, United Kingdom",
-        "region": "Europe"
-    },
-    {
         "cca2": "DE",
         "cf_lb_region": "WEU",
         "city": "Frankfurt",
