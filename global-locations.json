@@ -123,17 +123,6 @@
     {
         "cca2": "IE",
         "cf_lb_region": "WEU",
-        "city": "Cork",
-        "country": "Ireland",
-        "iata": "ORK",
-        "lat": 51.8413009644,
-        "lon": -8.491109848,
-        "name": "Cork, Ireland",
-        "region": "Europe"
-    },
-    {
-        "cca2": "IE",
-        "cf_lb_region": "WEU",
         "city": "Dublin",
         "country": "Ireland",
         "iata": "DUB",

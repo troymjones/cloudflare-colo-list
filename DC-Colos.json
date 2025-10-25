@@ -2485,17 +2485,6 @@
         "name": "Norfolk, VA, United States",
         "region": "North America"
     },
-    "ORK": {
-        "cca2": "IE",
-        "cf_lb_region": "WEU",
-        "city": "Cork",
-        "country": "Ireland",
-        "iata": "ORK",
-        "lat": 51.8413009644,
-        "lon": -8.491109848,
-        "name": "Cork, Ireland",
-        "region": "Europe"
-    },
     "ORN": {
         "cca2": "DZ",
         "cf_lb_region": "NAF",
