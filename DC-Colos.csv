@@ -100,7 +100,6 @@ EZE,"Buenos Aires, Argentina",South America,Buenos Aires,Argentina,AR,EZE,-34.82
 CFC,"Cacador, Brazil",South America,Cacador,Brazil,BR,CFC,-26.7762,-51.0125,SSAM
 VCP,"Campinas, Brazil",South America,Campinas,Brazil,BR,VCP,-22.90662,-47.08576,SSAM
 COR,"Cordoba, Argentina",South America,Cordoba,Argentina,AR,COR,-31.31,-64.208333,SSAM
-CGB,"Cuiaba, Brazil",South America,Cuiaba,Brazil,BR,CGB,-15.59611,-56.09667,SSAM
 CWB,"Curitiba, Brazil",South America,Curitiba,Brazil,BR,CWB,-25.5284996033,-49.1758003235,SSAM
 FLN,"Florianopolis, Brazil",South America,Florianopolis,Brazil,BR,FLN,-27.6702785492,-48.5525016785,SSAM
 FOR,"Fortaleza, Brazil",South America,Fortaleza,Brazil,BR,FOR,-3.7762799263,-38.5326004028,NSAM
@@ -145,6 +144,7 @@ PMW,"Palmas, Brazil",South America,Palmas,Brazil,BR,PMW,-10.2915000916,-48.35699
 ARU,"Aracatuba, Brazil",South America,Aracatuba,Brazil,BR,ARU,-21.1413002014,-50.4247016907,SSAM
 POS,"Port of Spain, Trinidad and Tobago",South America,Port of Spain,Trinidad and Tobago,TT,POS,10.5953998566,-61.3372001648,NSAM
 SSA,"Salvador, Brazil",South America,Salvador,Brazil,BR,SSA,-12.9086112976,-38.3224983215,NSAM
+CGB,"Cuiaba, Brazil",South America,Cuiaba,Brazil,BR,CGB,-15.59611,-56.09667,SSAM
 CLO,"Cali, Colombia",South America,Cali,Colombia,CO,CLO,3.54322,-76.3816,NSAM
 SAP,"San Pedro Sula, Honduras",South America,San Pedro Sula,Honduras,HN,SAP,15.4525995255,-87.9235992432,ENAM
 CCP,"Concepcion, Chile",South America,Concepcion,Chile,CL,CCP,-36.8201,-73.0444,SSAM
