@@ -169,7 +169,6 @@ NBO,"Nairobi, Kenya",Africa,Nairobi,Kenya,KE,NBO,-1.319239974,36.9277992249,SAF
 ORN,"Oran, Algeria",Africa,Oran,Algeria,DZ,ORN,35.6911,-0.6416,NAF
 OUA,"Ouagadougou, Burkina Faso",Africa,Ouagadougou,Burkina Faso,BF,OUA,12.3531999588,-1.5124200583,NAF
 MRU,"Port Louis, Mauritius",Africa,Port Louis,Mauritius,MU,MRU,-20.4302005768,57.6836013794,SAF
-RUN,"Saint-Denis, Reunion",Africa,Saint-Denis,Reunion,RE,RUN,-20.8871002197,55.5102996826,SAF
 TUN,"Tunis, Tunisia",Africa,Tunis,Tunisia,TN,TUN,36.8510017395,10.2271995544,NAF
 FIH,"Kinshasa, DR Congo",Africa,Kinshasa,DR Congo,CD,FIH,-4.3857498169,15.4446001053,SAF
 CAI,"Cairo, Egypt",Africa,Cairo,Egypt,EG,CAI,30.1219005585,31.4055995941,NAF
@@ -177,6 +176,7 @@ WDH,"Windhoek, Namibia",Africa,Windhoek,Namibia,NA,WDH,-22.565587,17.085334,SAF
 ASK,"Yamoussoukro, Ivory Coast",Africa,Yamoussoukro,Ivory Coast,CI,ASK,6.842178,-5.259932,NAF
 ABJ,"Abidjan, Ivory Coast",Africa,Abidjan,Ivory Coast,CI,ABJ,5.292598,-3.999133,NAF
 EBB,"Kampala, Uganda",Africa,Kampala,Uganda,UG,EBB,0.3152,32.5816,SAF
+RUN,"Saint-Denis, Reunion",Africa,Saint-Denis,Reunion,RE,RUN,-20.8871002197,55.5102996826,SAF
 LUN,"Lusaka, Zambia",Africa,Lusaka,Zambia,ZM,LUN,-15.371446,28.317837,SAF
 ADD,"Addis Ababa, Ethiopia",Africa,Addis Ababa,Ethiopia,ET,ADD,9.00005,38.78446,NAF
 LLW,"Lilongwe, Malawi",Africa,Lilongwe,Malawi,MW,LLW,-13.980935,33.761462,SAF
@@ -307,7 +307,7 @@ SAN,"San Diego, CA, United States",North America,San Diego,United States,US,SAN,
 SJC,"San Jose, CA, United States",North America,San Jose,United States,US,SJC,37.3625984192,-121.929000855,WNAM
 YXE,"Saskatoon, SK, Canada",North America,Saskatoon,Canada,CA,YXE,52.1707992554,-106.699996948,ENAM
 SEA,"Seattle, WA, United States",North America,Seattle,United States,US,SEA,47.4490013123,-122.308998108,WNAM
-FSD,"Sioux Falls, South Dakota",North America,Sioux Falls,United States,US,FSD,43.540819819502,-96.65511577730963,ENAM
+FSD,"Sioux Falls, SD, United States",North America,Sioux Falls,United States,US,FSD,43.540819819502,-96.65511577730963,ENAM
 STL,"St. Louis, MO, United States",North America,St. Louis,United States,US,STL,38.7486991882,-90.3700027466,ENAM
 TLH,"Tallahassee, FL, United States",North America,Tallahassee,United States,US,TLH,30.3964996338,-84.3503036499,ENAM
 YYZ,"Toronto, ON, Canada",North America,Toronto,Canada,CA,YYZ,43.6772003174,-79.6305999756,ENAM

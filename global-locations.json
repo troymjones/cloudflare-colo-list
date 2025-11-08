@@ -1870,17 +1870,6 @@
         "region": "Africa"
     },
     {
-        "cca2": "RE",
-        "cf_lb_region": "SAF",
-        "city": "Saint-Denis",
-        "country": "Reunion",
-        "iata": "RUN",
-        "lat": -20.8871002197,
-        "lon": 55.5102996826,
-        "name": "Saint-Denis, Reunion",
-        "region": "Africa"
-    },
-    {
         "cca2": "TN",
         "cf_lb_region": "NAF",
         "city": "Tunis",
@@ -1955,6 +1944,17 @@
         "lat": 0.3152,
         "lon": 32.5816,
         "name": "Kampala, Uganda",
+        "region": "Africa"
+    },
+    {
+        "cca2": "RE",
+        "cf_lb_region": "SAF",
+        "city": "Saint-Denis",
+        "country": "Reunion",
+        "iata": "RUN",
+        "lat": -20.8871002197,
+        "lon": 55.5102996826,
+        "name": "Saint-Denis, Reunion",
         "region": "Africa"
     },
     {
@@ -3395,7 +3395,7 @@
         "iata": "FSD",
         "lat": 43.540819819502,
         "lon": -96.65511577730963,
-        "name": "Sioux Falls, South Dakota",
+        "name": "Sioux Falls, SD, United States",
         "region": "North America"
     },
     {
