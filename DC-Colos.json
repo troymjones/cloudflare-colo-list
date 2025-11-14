@@ -1616,17 +1616,6 @@
         "name": "Sulaymaniyah, Iraq",
         "region": "Middle East"
     },
-    "ITJ": {
-        "cca2": "BR",
-        "cf_lb_region": "SSAM",
-        "city": "Itajai",
-        "country": "Brazil",
-        "iata": "ITJ",
-        "lat": -27.6116676331,
-        "lon": -48.6727790833,
-        "name": "Itajai, Brazil",
-        "region": "South America"
-    },
     "IXC": {
         "cca2": "IN",
         "cf_lb_region": "SAS",
