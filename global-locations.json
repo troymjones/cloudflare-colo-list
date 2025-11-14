@@ -1190,17 +1190,6 @@
     {
         "cca2": "BR",
         "cf_lb_region": "SSAM",
-        "city": "Itajai",
-        "country": "Brazil",
-        "iata": "ITJ",
-        "lat": -27.6116676331,
-        "lon": -48.6727790833,
-        "name": "Itajai, Brazil",
-        "region": "South America"
-    },
-    {
-        "cca2": "BR",
-        "cf_lb_region": "SSAM",
         "city": "Joinville",
         "country": "Brazil",
         "iata": "JOI",
