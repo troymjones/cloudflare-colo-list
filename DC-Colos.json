@@ -3431,6 +3431,17 @@
         "name": "Windhoek, Namibia",
         "region": "Africa"
     },
+    "WRO": {
+        "cca2": "PL",
+        "cf_lb_region": "EEU",
+        "city": "Wroclaw",
+        "country": "Poland",
+        "iata": "WRO",
+        "lat": 51.106742,
+        "lon": 16.983773,
+        "name": "Wroclaw, Poland",
+        "region": "Europe"
+    },
     "XAP": {
         "cca2": "BR",
         "cf_lb_region": "SSAM",
