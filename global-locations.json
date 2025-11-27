@@ -605,6 +605,17 @@
         "region": "Europe"
     },
     {
+        "cca2": "PL",
+        "cf_lb_region": "EEU",
+        "city": "Wroclaw",
+        "country": "Poland",
+        "iata": "WRO",
+        "lat": 51.106742,
+        "lon": 16.983773,
+        "name": "Wroclaw, Poland",
+        "region": "Europe"
+    },
+    {
         "cca2": "JO",
         "cf_lb_region": "ME",
         "city": "Amman",

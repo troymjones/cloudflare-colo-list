@@ -603,5 +603,16 @@
         "lon": 8.5491695404,
         "name": "Zurich, Switzerland",
         "region": "Europe"
+    },
+    {
+        "cca2": "PL",
+        "cf_lb_region": "EEU",
+        "city": "Wroclaw",
+        "country": "Poland",
+        "iata": "WRO",
+        "lat": 51.106742,
+        "lon": 16.983773,
+        "name": "Wroclaw, Poland",
+        "region": "Europe"
     }
 ]
