@@ -2970,6 +2970,17 @@
         "region": "Asia Pacific"
     },
     {
+        "cca2": "CN",
+        "cf_lb_region": "NEAS",
+        "city": "Chengdu",
+        "country": "China",
+        "iata": "CTU",
+        "lat": 30.5785,
+        "lon": 103.947,
+        "name": "Chengdu, China",
+        "region": "Asia"
+    },
+    {
         "cca2": "US",
         "cf_lb_region": "ENAM",
         "city": "Ashburn",

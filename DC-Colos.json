@@ -879,6 +879,17 @@
         "name": "Changsha, China",
         "region": "Asia"
     },
+    "CTU": {
+        "cca2": "CN",
+        "cf_lb_region": "NEAS",
+        "city": "Chengdu",
+        "country": "China",
+        "iata": "CTU",
+        "lat": 30.5785,
+        "lon": 103.947,
+        "name": "Chengdu, China",
+        "region": "Asia"
+    },
     "CWB": {
         "cca2": "BR",
         "cf_lb_region": "SSAM",
