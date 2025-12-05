@@ -5,8 +5,8 @@
         "city": "Annaba",
         "country": "Algeria",
         "iata": "AAE",
-        "lat": 36.85596,
-        "lon": 7.79207,
+        "lat": 36.8222,
+        "lon": 7.80917,
         "name": "Annaba, Algeria",
         "region": "Africa"
     },
@@ -16,8 +16,8 @@
         "city": "Abidjan",
         "country": "Ivory Coast",
         "iata": "ABJ",
-        "lat": 5.292598,
-        "lon": -3.999133,
+        "lat": 5.26139,
+        "lon": -3.92629,
         "name": "Abidjan, Ivory Coast",
         "region": "Africa"
     },
@@ -27,8 +27,8 @@
         "city": "Albuquerque",
         "country": "United States",
         "iata": "ABQ",
-        "lat": 35.0844,
-        "lon": -106.6504,
+        "lat": 35.0402,
+        "lon": -106.609,
         "name": "Albuquerque, United States",
         "region": "North America"
     },
@@ -38,8 +38,8 @@
         "city": "Accra",
         "country": "Ghana",
         "iata": "ACC",
-        "lat": 5.614818,
-        "lon": -0.205874,
+        "lat": 5.60519,
+        "lon": -0.166786,
         "name": "Accra, Ghana",
         "region": "Africa"
     },
@@ -49,8 +49,8 @@
         "city": "Izmir",
         "country": "Turkey",
         "iata": "ADB",
-        "lat": 38.32377,
-        "lon": 27.14317,
+        "lat": 38.2916,
+        "lon": 27.1487,
         "name": "Izmir, Turkey",
         "region": "Europe"
     },
@@ -60,19 +60,19 @@
         "city": "Addis Ababa",
         "country": "Ethiopia",
         "iata": "ADD",
-        "lat": 9.00005,
-        "lon": 38.78446,
+        "lat": 8.97778,
+        "lon": 38.7994,
         "name": "Addis Ababa, Ethiopia",
         "region": "Africa"
     },
     "ADL": {
         "cca2": "AU",
         "cf_lb_region": "OC",
-        "city": "Adelaide",
+        "city": "Adelaide, SA",
         "country": "Australia",
         "iata": "ADL",
-        "lat": -34.9431729,
-        "lon": 138.5335637,
+        "lat": -34.945,
+        "lon": 138.531,
         "name": "Adelaide, SA, Australia",
         "region": "Oceania"
     },
@@ -82,8 +82,8 @@
         "city": "Auckland",
         "country": "New Zealand",
         "iata": "AKL",
-        "lat": -37.0080986023,
-        "lon": 174.792007446,
+        "lat": -37.0081,
+        "lon": 174.792,
         "name": "Auckland, New Zealand",
         "region": "Oceania"
     },
@@ -93,10 +93,10 @@
         "city": "Aktobe",
         "country": "Kazakhstan",
         "iata": "AKX",
-        "lat": 50.286922,
-        "lon": 57.224121,
+        "lat": 50.2458,
+        "lon": 57.2067,
         "name": "Aktobe, Kazakhstan",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "ALA": {
         "cca2": "KZ",
@@ -104,10 +104,10 @@
         "city": "Almaty",
         "country": "Kazakhstan",
         "iata": "ALA",
-        "lat": 43.3521003723,
-        "lon": 77.0404968262,
+        "lat": 43.3521,
+        "lon": 77.0405,
         "name": "Almaty, Kazakhstan",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "ALG": {
         "cca2": "DZ",
@@ -115,8 +115,8 @@
         "city": "Algiers",
         "country": "Algeria",
         "iata": "ALG",
-        "lat": 36.6910018921,
-        "lon": 3.2154099941,
+        "lat": 36.691,
+        "lon": 3.21541,
         "name": "Algiers, Algeria",
         "region": "Africa"
     },
@@ -126,10 +126,10 @@
         "city": "Ahmedabad",
         "country": "India",
         "iata": "AMD",
-        "lat": 23.0225,
-        "lon": 72.5714,
+        "lat": 23.0772,
+        "lon": 72.6347,
         "name": "Ahmedabad, India",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "AMM": {
         "cca2": "JO",
@@ -137,8 +137,8 @@
         "city": "Amman",
         "country": "Jordan",
         "iata": "AMM",
-        "lat": 31.7226009369,
-        "lon": 35.9931983948,
+        "lat": 31.7226,
+        "lon": 35.9932,
         "name": "Amman, Jordan",
         "region": "Middle East"
     },
@@ -148,8 +148,8 @@
         "city": "Amsterdam",
         "country": "Netherlands",
         "iata": "AMS",
-        "lat": 52.3086013794,
-        "lon": 4.7638897896,
+        "lat": 52.3086,
+        "lon": 4.76389,
         "name": "Amsterdam, Netherlands",
         "region": "Europe"
     },
@@ -159,8 +159,8 @@
         "city": "Anchorage",
         "country": "United States",
         "iata": "ANC",
-        "lat": 61.158555,
-        "lon": -149.890208,
+        "lat": 61.1744,
+        "lon": -149.996,
         "name": "Anchorage, United States",
         "region": "North America"
     },
@@ -170,10 +170,10 @@
         "city": "Arica",
         "country": "Chile",
         "iata": "ARI",
-        "lat": -18.348611,
-        "lon": -70.338889,
+        "lat": -18.3485,
+        "lon": -70.3387,
         "name": "Arica, Chile",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "ARN": {
         "cca2": "SE",
@@ -181,8 +181,8 @@
         "city": "Stockholm",
         "country": "Sweden",
         "iata": "ARN",
-        "lat": 59.6519012451,
-        "lon": 17.9186000824,
+        "lat": 59.6519,
+        "lon": 17.9186,
         "name": "Stockholm, Sweden",
         "region": "Europe"
     },
@@ -192,10 +192,10 @@
         "city": "Aracatuba",
         "country": "Brazil",
         "iata": "ARU",
-        "lat": -21.1413002014,
-        "lon": -50.4247016907,
+        "lat": -21.1413,
+        "lon": -50.4247,
         "name": "Aracatuba, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "ASK": {
         "cca2": "CI",
@@ -203,8 +203,8 @@
         "city": "Yamoussoukro",
         "country": "Ivory Coast",
         "iata": "ASK",
-        "lat": 6.842178,
-        "lon": -5.259932,
+        "lat": 6.90317,
+        "lon": -5.36558,
         "name": "Yamoussoukro, Ivory Coast",
         "region": "Africa"
     },
@@ -214,10 +214,10 @@
         "city": "Asuncion",
         "country": "Paraguay",
         "iata": "ASU",
-        "lat": -25.2399997711,
-        "lon": -57.5200004578,
+        "lat": -25.24,
+        "lon": -57.52,
         "name": "Asuncion, Paraguay",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "ATH": {
         "cca2": "GR",
@@ -225,19 +225,19 @@
         "city": "Athens",
         "country": "Greece",
         "iata": "ATH",
-        "lat": 37.9364013672,
-        "lon": 23.9444999695,
+        "lat": 37.9364,
+        "lon": 23.9445,
         "name": "Athens, Greece",
         "region": "Europe"
     },
     "ATL": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Atlanta",
+        "city": "Atlanta, GA",
         "country": "United States",
         "iata": "ATL",
-        "lat": 33.6366996765,
-        "lon": -84.4281005859,
+        "lat": 33.6367,
+        "lon": -84.4281,
         "name": "Atlanta, GA, United States",
         "region": "North America"
     },
@@ -247,8 +247,8 @@
         "city": "Austin",
         "country": "United States",
         "iata": "AUS",
-        "lat": 30.1975,
-        "lon": -97.6664,
+        "lat": 30.1945,
+        "lon": -97.6699,
         "name": "Austin, United States",
         "region": "North America"
     },
@@ -258,8 +258,8 @@
         "city": "Manama",
         "country": "Bahrain",
         "iata": "BAH",
-        "lat": 26.2707996368,
-        "lon": 50.6335983276,
+        "lat": 26.2708,
+        "lon": 50.6336,
         "name": "Manama, Bahrain",
         "region": "Middle East"
     },
@@ -272,7 +272,7 @@
         "lat": 10.8896,
         "lon": -74.7808,
         "name": "Barranquilla, Colombia",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "BCN": {
         "cca2": "ES",
@@ -280,8 +280,8 @@
         "city": "Barcelona",
         "country": "Spain",
         "iata": "BCN",
-        "lat": 41.2971000671,
-        "lon": 2.0784599781,
+        "lat": 41.2971,
+        "lon": 2.07846,
         "name": "Barcelona, Spain",
         "region": "Europe"
     },
@@ -291,8 +291,8 @@
         "city": "Belgrade",
         "country": "Serbia",
         "iata": "BEG",
-        "lat": 44.8184013367,
-        "lon": 20.3090991974,
+        "lat": 44.8184,
+        "lon": 20.3091,
         "name": "Belgrade, Serbia",
         "region": "Europe"
     },
@@ -302,10 +302,10 @@
         "city": "Belem",
         "country": "Brazil",
         "iata": "BEL",
-        "lat": -1.4563,
-        "lon": -48.5013,
+        "lat": -1.37925,
+        "lon": -48.4763,
         "name": "Belem, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "BEY": {
         "cca2": "LB",
@@ -313,8 +313,8 @@
         "city": "Beirut",
         "country": "Lebanon",
         "iata": "BEY",
-        "lat": 33.8208999634,
-        "lon": 35.4883995056,
+        "lat": 33.8209,
+        "lon": 35.4884,
         "name": "Beirut, Lebanon",
         "region": "Middle East"
     },
@@ -324,10 +324,10 @@
         "city": "Bridgetown",
         "country": "Barbados",
         "iata": "BGI",
-        "lat": 13.103562,
-        "lon": -59.603226,
+        "lat": 13.0746,
+        "lon": -59.4925,
         "name": "Bridgetown, Barbados",
-        "region": "North America"
+        "region": "Latin America & the Caribbean"
     },
     "BGR": {
         "cca2": "US",
@@ -335,8 +335,8 @@
         "city": "Bangor",
         "country": "United States",
         "iata": "BGR",
-        "lat": 44.8081,
-        "lon": -68.795,
+        "lat": 44.8074,
+        "lon": -68.8281,
         "name": "Bangor, United States",
         "region": "North America"
     },
@@ -346,8 +346,8 @@
         "city": "Baghdad",
         "country": "Iraq",
         "iata": "BGW",
-        "lat": 33.2625007629,
-        "lon": 44.2346000671,
+        "lat": 33.2625,
+        "lon": 44.2346,
         "name": "Baghdad, Iraq",
         "region": "Middle East"
     },
@@ -368,10 +368,10 @@
         "city": "Bangkok",
         "country": "Thailand",
         "iata": "BKK",
-        "lat": 13.6810998917,
-        "lon": 100.747001648,
+        "lat": 13.6811,
+        "lon": 100.747,
         "name": "Bangkok, Thailand",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "BLR": {
         "cca2": "IN",
@@ -379,10 +379,10 @@
         "city": "Bangalore",
         "country": "India",
         "iata": "BLR",
-        "lat": 13.7835719,
-        "lon": 76.6165937,
+        "lat": 13.1979,
+        "lon": 77.7063,
         "name": "Bangalore, India",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "BNA": {
         "cca2": "US",
@@ -390,19 +390,19 @@
         "city": "Nashville",
         "country": "United States",
         "iata": "BNA",
-        "lat": 36.1245002747,
-        "lon": -86.6781997681,
+        "lat": 36.1245,
+        "lon": -86.6782,
         "name": "Nashville, United States",
         "region": "North America"
     },
     "BNE": {
         "cca2": "AU",
         "cf_lb_region": "OC",
-        "city": "Brisbane",
+        "city": "Brisbane, QLD",
         "country": "Australia",
         "iata": "BNE",
-        "lat": -27.3841991425,
-        "lon": 153.117004394,
+        "lat": -27.3842,
+        "lon": 153.117,
         "name": "Brisbane, QLD, Australia",
         "region": "Oceania"
     },
@@ -412,10 +412,10 @@
         "city": "Blumenau",
         "country": "Brazil",
         "iata": "BNU",
-        "lat": -26.89245,
-        "lon": -49.07696,
+        "lat": -26.8306,
+        "lon": -49.0903,
         "name": "Blumenau, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "BOD": {
         "cca2": "FR",
@@ -423,8 +423,8 @@
         "city": "Bordeaux",
         "country": "France",
         "iata": "BOD",
-        "lat": 44.82946,
-        "lon": -0.58355,
+        "lat": 44.8283,
+        "lon": -0.715556,
         "name": "Bordeaux, France",
         "region": "Europe"
     },
@@ -437,7 +437,7 @@
         "lat": 4.70159,
         "lon": -74.1469,
         "name": "Bogota, Colombia",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "BOM": {
         "cca2": "IN",
@@ -445,19 +445,19 @@
         "city": "Mumbai",
         "country": "India",
         "iata": "BOM",
-        "lat": 19.0886993408,
-        "lon": 72.8678970337,
+        "lat": 19.0887,
+        "lon": 72.8679,
         "name": "Mumbai, India",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "BOS": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Boston",
+        "city": "Boston, MA",
         "country": "United States",
         "iata": "BOS",
-        "lat": 42.36429977,
-        "lon": -71.00520325,
+        "lat": 42.3643,
+        "lon": -71.0052,
         "name": "Boston, MA, United States",
         "region": "North America"
     },
@@ -467,8 +467,8 @@
         "city": "Brussels",
         "country": "Belgium",
         "iata": "BRU",
-        "lat": 50.9014015198,
-        "lon": 4.4844398499,
+        "lat": 50.9014,
+        "lon": 4.48444,
         "name": "Brussels, Belgium",
         "region": "Europe"
     },
@@ -478,10 +478,10 @@
         "city": "Brasilia",
         "country": "Brazil",
         "iata": "BSB",
-        "lat": -15.79824,
-        "lon": -47.90859,
+        "lat": -15.8692,
+        "lon": -47.9208,
         "name": "Brasilia, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "BSR": {
         "cca2": "IQ",
@@ -489,8 +489,8 @@
         "city": "Basra",
         "country": "Iraq",
         "iata": "BSR",
-        "lat": 30.5491008759,
-        "lon": 47.6621017456,
+        "lat": 30.5491,
+        "lon": 47.6621,
         "name": "Basra, Iraq",
         "region": "Middle East"
     },
@@ -500,8 +500,8 @@
         "city": "Bratislava",
         "country": "Slovakia",
         "iata": "BTS",
-        "lat": 48.1486,
-        "lon": 17.1077,
+        "lat": 48.1702,
+        "lon": 17.2127,
         "name": "Bratislava, Slovakia",
         "region": "Europe"
     },
@@ -511,19 +511,19 @@
         "city": "Budapest",
         "country": "Hungary",
         "iata": "BUD",
-        "lat": 47.4369010925,
-        "lon": 19.2555999756,
+        "lat": 47.4298,
+        "lon": 19.2611,
         "name": "Budapest, Hungary",
         "region": "Europe"
     },
     "BUF": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Buffalo",
+        "city": "Buffalo, NY",
         "country": "United States",
         "iata": "BUF",
-        "lat": 42.94049835,
-        "lon": -78.73220062,
+        "lat": 42.9405,
+        "lon": -78.7322,
         "name": "Buffalo, NY, United States",
         "region": "North America"
     },
@@ -533,10 +533,10 @@
         "city": "Bandar Seri Begawan",
         "country": "Brunei",
         "iata": "BWN",
-        "lat": 4.903052,
-        "lon": 114.939819,
+        "lat": 4.9442,
+        "lon": 114.928,
         "name": "Bandar Seri Begawan, Brunei",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "CAI": {
         "cca2": "EG",
@@ -544,8 +544,8 @@
         "city": "Cairo",
         "country": "Egypt",
         "iata": "CAI",
-        "lat": 30.1219005585,
-        "lon": 31.4055995941,
+        "lat": 30.1219,
+        "lon": 31.4056,
         "name": "Cairo, Egypt",
         "region": "Africa"
     },
@@ -566,19 +566,19 @@
         "city": "Campos dos Goytacazes",
         "country": "Brazil",
         "iata": "CAW",
-        "lat": -21.698299408,
-        "lon": -41.301700592,
+        "lat": -21.6983,
+        "lon": -41.3017,
         "name": "Campos dos Goytacazes, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "CBR": {
         "cca2": "AU",
         "cf_lb_region": "OC",
-        "city": "Canberra",
+        "city": "Canberra, ACT",
         "country": "Australia",
         "iata": "CBR",
-        "lat": -35.3069000244,
-        "lon": 149.1950073242,
+        "lat": -35.3069,
+        "lon": 149.195,
         "name": "Canberra, ACT, Australia",
         "region": "Oceania"
     },
@@ -588,10 +588,10 @@
         "city": "Concepcion",
         "country": "Chile",
         "iata": "CCP",
-        "lat": -36.8201,
-        "lon": -73.0444,
+        "lat": -36.7727,
+        "lon": -73.0631,
         "name": "Concepcion, Chile",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "CCU": {
         "cca2": "IN",
@@ -599,10 +599,10 @@
         "city": "Kolkata",
         "country": "India",
         "iata": "CCU",
-        "lat": 22.6476933,
-        "lon": 88.4349249,
+        "lat": 22.6547,
+        "lon": 88.4467,
         "name": "Kolkata, India",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "CDG": {
         "cca2": "FR",
@@ -610,8 +610,8 @@
         "city": "Paris",
         "country": "France",
         "iata": "CDG",
-        "lat": 49.0127983093,
-        "lon": 2.5499999523,
+        "lat": 49.0097,
+        "lon": 2.54778,
         "name": "Paris, France",
         "region": "Europe"
     },
@@ -621,10 +621,10 @@
         "city": "Cebu",
         "country": "Philippines",
         "iata": "CEB",
-        "lat": 10.3074998856,
-        "lon": 123.978996277,
+        "lat": 10.3075,
+        "lon": 123.979,
         "name": "Cebu, Philippines",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "CFC": {
         "cca2": "BR",
@@ -632,10 +632,10 @@
         "city": "Cacador",
         "country": "Brazil",
         "iata": "CFC",
-        "lat": -26.7762,
-        "lon": -51.0125,
+        "lat": -26.7884,
+        "lon": -50.9398,
         "name": "Cacador, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "CGB": {
         "cca2": "BR",
@@ -643,10 +643,10 @@
         "city": "Cuiaba",
         "country": "Brazil",
         "iata": "CGB",
-        "lat": -15.59611,
-        "lon": -56.09667,
+        "lat": -15.6529,
+        "lon": -56.1167,
         "name": "Cuiaba, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "CGD": {
         "cca2": "CN",
@@ -665,10 +665,10 @@
         "city": "Jakarta",
         "country": "Indonesia",
         "iata": "CGK",
-        "lat": -6.1275229,
-        "lon": 106.6515118,
+        "lat": -6.12556,
+        "lon": 106.656,
         "name": "Jakarta, Indonesia",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "CGO": {
         "cca2": "CN",
@@ -687,10 +687,10 @@
         "city": "Chittagong",
         "country": "Bangladesh",
         "iata": "CGP",
-        "lat": 22.2495995,
-        "lon": 91.8133011,
+        "lat": 22.2496,
+        "lon": 91.8133,
         "name": "Chittagong, Bangladesh",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "CGY": {
         "cca2": "PH",
@@ -698,10 +698,10 @@
         "city": "Cagayan de Oro",
         "country": "Philippines",
         "iata": "CGY",
-        "lat": 8.4156198502,
-        "lon": 124.611000061,
+        "lat": 8.6122,
+        "lon": 124.456,
         "name": "Cagayan de Oro, Philippines",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "CHC": {
         "cca2": "NZ",
@@ -709,8 +709,8 @@
         "city": "Christchurch",
         "country": "New Zealand",
         "iata": "CHC",
-        "lat": -43.4893989563,
-        "lon": 172.5319976807,
+        "lat": -43.4894,
+        "lon": 172.532,
         "name": "Christchurch, New Zealand",
         "region": "Oceania"
     },
@@ -731,8 +731,8 @@
         "city": "Cleveland",
         "country": "United States",
         "iata": "CLE",
-        "lat": 41.50069,
-        "lon": -81.68412,
+        "lat": 41.4117,
+        "lon": -81.8498,
         "name": "Cleveland, United States",
         "region": "North America"
     },
@@ -745,16 +745,16 @@
         "lat": 3.54322,
         "lon": -76.3816,
         "name": "Cali, Colombia",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "CLT": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Charlotte",
+        "city": "Charlotte, NC",
         "country": "United States",
         "iata": "CLT",
-        "lat": 35.2140007019,
-        "lon": -80.9430999756,
+        "lat": 35.214,
+        "lon": -80.9431,
         "name": "Charlotte, NC, United States",
         "region": "North America"
     },
@@ -764,19 +764,19 @@
         "city": "Colombo",
         "country": "Sri Lanka",
         "iata": "CMB",
-        "lat": 7.1807599068,
-        "lon": 79.8841018677,
+        "lat": 7.18076,
+        "lon": 79.8841,
         "name": "Colombo, Sri Lanka",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "CMH": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Columbus",
+        "city": "Columbus, OH",
         "country": "United States",
         "iata": "CMH",
-        "lat": 39.9980010986,
-        "lon": -82.8918991089,
+        "lat": 39.998,
+        "lon": -82.8919,
         "name": "Columbus, OH, United States",
         "region": "North America"
     },
@@ -786,10 +786,10 @@
         "city": "Belo Horizonte",
         "country": "Brazil",
         "iata": "CNF",
-        "lat": -19.624444,
-        "lon": -43.971944,
+        "lat": -19.6336,
+        "lon": -43.9686,
         "name": "Belo Horizonte, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "CNN": {
         "cca2": "IN",
@@ -797,10 +797,10 @@
         "city": "Kannur",
         "country": "India",
         "iata": "CNN",
-        "lat": 11.915858,
-        "lon": 75.55094,
+        "lat": 11.9186,
+        "lon": 75.5472,
         "name": "Kannur, India",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "CNX": {
         "cca2": "TH",
@@ -808,10 +808,10 @@
         "city": "Chiang Mai",
         "country": "Thailand",
         "iata": "CNX",
-        "lat": 18.7667999268,
-        "lon": 98.962600708,
+        "lat": 18.7668,
+        "lon": 98.9626,
         "name": "Chiang Mai, Thailand",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "COK": {
         "cca2": "IN",
@@ -819,10 +819,10 @@
         "city": "Kochi",
         "country": "India",
         "iata": "COK",
-        "lat": 9.9312,
-        "lon": 76.2673,
+        "lat": 10.152,
+        "lon": 76.4019,
         "name": "Kochi, India",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "COR": {
         "cca2": "AR",
@@ -830,10 +830,10 @@
         "city": "Cordoba",
         "country": "Argentina",
         "iata": "COR",
-        "lat": -31.31,
-        "lon": -64.208333,
+        "lat": -31.3236,
+        "lon": -64.208,
         "name": "Cordoba, Argentina",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "CPH": {
         "cca2": "DK",
@@ -841,8 +841,8 @@
         "city": "Copenhagen",
         "country": "Denmark",
         "iata": "CPH",
-        "lat": 55.6179008484,
-        "lon": 12.6560001373,
+        "lat": 55.6179,
+        "lon": 12.656,
         "name": "Copenhagen, Denmark",
         "region": "Europe"
     },
@@ -852,8 +852,8 @@
         "city": "Cape Town",
         "country": "South Africa",
         "iata": "CPT",
-        "lat": -33.9648017883,
-        "lon": 18.6016998291,
+        "lat": -33.9648,
+        "lon": 18.6017,
         "name": "Cape Town, South Africa",
         "region": "Africa"
     },
@@ -863,10 +863,10 @@
         "city": "Tarlac City",
         "country": "Philippines",
         "iata": "CRK",
-        "lat": 15.1859,
-        "lon": 120.5599,
+        "lat": 15.186,
+        "lon": 120.56,
         "name": "Tarlac City, Philippines",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "CSX": {
         "cca2": "CN",
@@ -896,10 +896,10 @@
         "city": "Curitiba",
         "country": "Brazil",
         "iata": "CWB",
-        "lat": -25.5284996033,
-        "lon": -49.1758003235,
+        "lat": -25.5285,
+        "lon": -49.1758,
         "name": "Curitiba, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "CZL": {
         "cca2": "DZ",
@@ -907,8 +907,8 @@
         "city": "Constantine",
         "country": "Algeria",
         "iata": "CZL",
-        "lat": 36.335972,
-        "lon": 6.598562,
+        "lat": 36.276,
+        "lon": 6.62039,
         "name": "Constantine, Algeria",
         "region": "Africa"
     },
@@ -929,10 +929,10 @@
         "city": "Dhaka",
         "country": "Bangladesh",
         "iata": "DAC",
-        "lat": 23.843347,
-        "lon": 90.397783,
+        "lat": 23.8433,
+        "lon": 90.3978,
         "name": "Dhaka, Bangladesh",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "DAD": {
         "cca2": "VN",
@@ -940,10 +940,10 @@
         "city": "Da Nang",
         "country": "Vietnam",
         "iata": "DAD",
-        "lat": 16.02636,
-        "lon": 108.20869,
+        "lat": 16.0439,
+        "lon": 108.199,
         "name": "Da Nang, Vietnam",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "DAR": {
         "cca2": "TZ",
@@ -951,8 +951,8 @@
         "city": "Dar es Salaam",
         "country": "Tanzania",
         "iata": "DAR",
-        "lat": -6.8781099319,
-        "lon": 39.2025985718,
+        "lat": -6.87811,
+        "lon": 39.2026,
         "name": "Dar es Salaam, Tanzania",
         "region": "Africa"
     },
@@ -962,30 +962,30 @@
         "city": "New Delhi",
         "country": "India",
         "iata": "DEL",
-        "lat": 28.5664997101,
-        "lon": 77.1031036377,
+        "lat": 28.5665,
+        "lon": 77.1031,
         "name": "New Delhi, India",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "DEN": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Denver",
+        "city": "Denver, CO",
         "country": "United States",
         "iata": "DEN",
-        "lat": 39.8616981506,
-        "lon": -104.672996521,
+        "lat": 39.8617,
+        "lon": -104.673,
         "name": "Denver, CO, United States",
         "region": "North America"
     },
     "DFW": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Dallas",
+        "city": "Dallas, TX",
         "country": "United States",
         "iata": "DFW",
-        "lat": 32.8968009949,
-        "lon": -97.0380020142,
+        "lat": 32.8968,
+        "lon": -97.038,
         "name": "Dallas, TX, United States",
         "region": "North America"
     },
@@ -995,8 +995,8 @@
         "city": "Dakar",
         "country": "Senegal",
         "iata": "DKR",
-        "lat": 14.7412099,
-        "lon": -17.4889771,
+        "lat": 14.7397,
+        "lon": -17.4902,
         "name": "Dakar, Senegal",
         "region": "Africa"
     },
@@ -1017,8 +1017,8 @@
         "city": "Moscow",
         "country": "Russia",
         "iata": "DME",
-        "lat": 55.4087982178,
-        "lon": 37.9062995911,
+        "lat": 55.4102,
+        "lon": 37.902,
         "name": "Moscow, Russia",
         "region": "Europe"
     },
@@ -1028,8 +1028,8 @@
         "city": "Dammam",
         "country": "Saudi Arabia",
         "iata": "DMM",
-        "lat": 26.471200943,
-        "lon": 49.7979011536,
+        "lat": 26.4712,
+        "lon": 49.7979,
         "name": "Dammam, Saudi Arabia",
         "region": "Middle East"
     },
@@ -1039,8 +1039,8 @@
         "city": "Doha",
         "country": "Qatar",
         "iata": "DOH",
-        "lat": 25.2605946,
-        "lon": 51.6137665,
+        "lat": 25.2731,
+        "lon": 51.6081,
         "name": "Doha, Qatar",
         "region": "Middle East"
     },
@@ -1050,19 +1050,19 @@
         "city": "Denpasar",
         "country": "Indonesia",
         "iata": "DPS",
-        "lat": -8.748169899,
-        "lon": 115.1669998169,
+        "lat": -8.74817,
+        "lon": 115.167,
         "name": "Denpasar, Indonesia",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "DTW": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Detroit",
+        "city": "Detroit, MI",
         "country": "United States",
         "iata": "DTW",
-        "lat": 42.2123985291,
-        "lon": -83.3534011841,
+        "lat": 42.2125,
+        "lon": -83.3533,
         "name": "Detroit, MI, United States",
         "region": "North America"
     },
@@ -1072,8 +1072,8 @@
         "city": "Dublin",
         "country": "Ireland",
         "iata": "DUB",
-        "lat": 53.4212989807,
-        "lon": -6.270070076,
+        "lat": 53.4213,
+        "lon": -6.27007,
         "name": "Dublin, Ireland",
         "region": "Europe"
     },
@@ -1083,8 +1083,8 @@
         "city": "Durban",
         "country": "South Africa",
         "iata": "DUR",
-        "lat": -29.6144444444,
-        "lon": 31.1197222222,
+        "lat": -29.6144,
+        "lon": 31.1197,
         "name": "Durban, South Africa",
         "region": "Africa"
     },
@@ -1094,8 +1094,8 @@
         "city": "Dusseldorf",
         "country": "Germany",
         "iata": "DUS",
-        "lat": 51.2895011902,
-        "lon": 6.7667798996,
+        "lat": 51.2895,
+        "lon": 6.76678,
         "name": "Dusseldorf, Germany",
         "region": "Europe"
     },
@@ -1105,8 +1105,8 @@
         "city": "Dubai",
         "country": "United Arab Emirates",
         "iata": "DXB",
-        "lat": 25.2527999878,
-        "lon": 55.3643989563,
+        "lat": 25.2528,
+        "lon": 55.3644,
         "name": "Dubai, United Arab Emirates",
         "region": "Middle East"
     },
@@ -1116,8 +1116,8 @@
         "city": "Kampala",
         "country": "Uganda",
         "iata": "EBB",
-        "lat": 0.3152,
-        "lon": 32.5816,
+        "lat": 0.042386,
+        "lon": 32.4435,
         "name": "Kampala, Uganda",
         "region": "Africa"
     },
@@ -1127,8 +1127,8 @@
         "city": "Erbil",
         "country": "Iraq",
         "iata": "EBL",
-        "lat": 36.1901,
-        "lon": 43.993,
+        "lat": 36.2376,
+        "lon": 43.9632,
         "name": "Erbil, Iraq",
         "region": "Middle East"
     },
@@ -1138,19 +1138,19 @@
         "city": "Yerevan",
         "country": "Armenia",
         "iata": "EVN",
-        "lat": 40.1473007202,
-        "lon": 44.3959007263,
+        "lat": 40.1473,
+        "lon": 44.3959,
         "name": "Yerevan, Armenia",
-        "region": "Middle East"
+        "region": "Asia"
     },
     "EWR": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Newark",
+        "city": "Newark, NJ",
         "country": "United States",
         "iata": "EWR",
-        "lat": 40.6925010681,
-        "lon": -74.1687011719,
+        "lat": 40.6925,
+        "lon": -74.1686,
         "name": "Newark, NJ, United States",
         "region": "North America"
     },
@@ -1163,7 +1163,7 @@
         "lat": -34.8222,
         "lon": -58.5358,
         "name": "Buenos Aires, Argentina",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "FCO": {
         "cca2": "IT",
@@ -1171,8 +1171,8 @@
         "city": "Rome",
         "country": "Italy",
         "iata": "FCO",
-        "lat": 41.8045005798,
-        "lon": 12.2508001328,
+        "lat": 41.8003,
+        "lon": 12.2389,
         "name": "Rome, Italy",
         "region": "Europe"
     },
@@ -1182,8 +1182,8 @@
         "city": "Kinshasa",
         "country": "DR Congo",
         "iata": "FIH",
-        "lat": -4.3857498169,
-        "lon": 15.4446001053,
+        "lat": -4.38575,
+        "lon": 15.4446,
         "name": "Kinshasa, DR Congo",
         "region": "Africa"
     },
@@ -1193,10 +1193,10 @@
         "city": "Florianopolis",
         "country": "Brazil",
         "iata": "FLN",
-        "lat": -27.6702785492,
-        "lon": -48.5525016785,
+        "lat": -27.6703,
+        "lon": -48.5525,
         "name": "Florianopolis, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "FOC": {
         "cca2": "CN",
@@ -1215,10 +1215,10 @@
         "city": "Fortaleza",
         "country": "Brazil",
         "iata": "FOR",
-        "lat": -3.7762799263,
-        "lon": -38.5326004028,
+        "lat": -3.77628,
+        "lon": -38.5326,
         "name": "Fortaleza, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "FRA": {
         "cca2": "DE",
@@ -1226,8 +1226,8 @@
         "city": "Frankfurt",
         "country": "Germany",
         "iata": "FRA",
-        "lat": 50.0264015198,
-        "lon": 8.543129921,
+        "lat": 50.0333,
+        "lon": 8.57056,
         "name": "Frankfurt, Germany",
         "region": "Europe"
     },
@@ -1237,19 +1237,19 @@
         "city": "Bishkek",
         "country": "Kyrgyzstan",
         "iata": "FRU",
-        "lat": 42.875608,
-        "lon": 74.604613,
+        "lat": 43.0613,
+        "lon": 74.4776,
         "name": "Bishkek, Kyrgyzstan",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "FSD": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Sioux Falls",
+        "city": "Sioux Falls, SD",
         "country": "United States",
         "iata": "FSD",
-        "lat": 43.540819819502,
-        "lon": -96.65511577730963,
+        "lat": 43.582,
+        "lon": -96.7419,
         "name": "Sioux Falls, SD, United States",
         "region": "North America"
     },
@@ -1259,10 +1259,10 @@
         "city": "Fukuoka",
         "country": "Japan",
         "iata": "FUK",
-        "lat": 33.5902,
-        "lon": 130.4017,
+        "lat": 33.5859,
+        "lon": 130.451,
         "name": "Fukuoka, Japan",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "FUO": {
         "cca2": "CN",
@@ -1281,8 +1281,8 @@
         "city": "Gaborone",
         "country": "Botswana",
         "iata": "GBE",
-        "lat": -24.6282,
-        "lon": 25.9231,
+        "lat": -24.5552,
+        "lon": 25.9182,
         "name": "Gaborone, Botswana",
         "region": "Africa"
     },
@@ -1292,8 +1292,8 @@
         "city": "Guadalajara",
         "country": "Mexico",
         "iata": "GDL",
-        "lat": 20.5217990875,
-        "lon": -103.3109970093,
+        "lat": 20.5218,
+        "lon": -103.311,
         "name": "Guadalajara, Mexico",
         "region": "North America"
     },
@@ -1303,10 +1303,10 @@
         "city": "Georgetown",
         "country": "Guyana",
         "iata": "GEO",
-        "lat": 6.825648,
-        "lon": -58.163756,
+        "lat": 6.49855,
+        "lon": -58.2541,
         "name": "Georgetown, Guyana",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "GIG": {
         "cca2": "BR",
@@ -1314,10 +1314,10 @@
         "city": "Rio de Janeiro",
         "country": "Brazil",
         "iata": "GIG",
-        "lat": -22.8099994659,
-        "lon": -43.2505569458,
+        "lat": -22.81,
+        "lon": -43.2506,
         "name": "Rio de Janeiro, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "GND": {
         "cca2": "GD",
@@ -1325,10 +1325,10 @@
         "city": "St. George's",
         "country": "Grenada",
         "iata": "GND",
-        "lat": 12.007116,
-        "lon": -61.7882288,
+        "lat": 12.0042,
+        "lon": -61.7862,
         "name": "St. George's, Grenada",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "GOT": {
         "cca2": "SE",
@@ -1336,8 +1336,8 @@
         "city": "Gothenburg",
         "country": "Sweden",
         "iata": "GOT",
-        "lat": 57.6627998352,
-        "lon": 12.279800415,
+        "lat": 57.6628,
+        "lon": 12.2798,
         "name": "Gothenburg, Sweden",
         "region": "Europe"
     },
@@ -1347,10 +1347,10 @@
         "city": "Sao Paulo",
         "country": "Brazil",
         "iata": "GRU",
-        "lat": -23.4355564117,
-        "lon": -46.4730567932,
+        "lat": -23.4322,
+        "lon": -46.4692,
         "name": "Sao Paulo, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "GUA": {
         "cca2": "GT",
@@ -1358,10 +1358,10 @@
         "city": "Guatemala City",
         "country": "Guatemala",
         "iata": "GUA",
-        "lat": 14.5832996368,
-        "lon": -90.5274963379,
+        "lat": 14.5817,
+        "lon": -90.5267,
         "name": "Guatemala City, Guatemala",
-        "region": "North America"
+        "region": "Latin America & the Caribbean"
     },
     "GUM": {
         "cca2": "GU",
@@ -1369,10 +1369,10 @@
         "city": "Hagatna",
         "country": "Guam",
         "iata": "GUM",
-        "lat": 13.4834003448,
-        "lon": 144.796005249,
+        "lat": 13.4834,
+        "lon": 144.796,
         "name": "Hagatna, Guam",
-        "region": "Asia Pacific"
+        "region": "Oceania"
     },
     "GVA": {
         "cca2": "CH",
@@ -1380,8 +1380,8 @@
         "city": "Geneva",
         "country": "Switzerland",
         "iata": "GVA",
-        "lat": 46.2380981445,
-        "lon": 6.1089501381,
+        "lat": 46.2381,
+        "lon": 6.10895,
         "name": "Geneva, Switzerland",
         "region": "Europe"
     },
@@ -1391,8 +1391,8 @@
         "city": "Baku",
         "country": "Azerbaijan",
         "iata": "GYD",
-        "lat": 40.4674987793,
-        "lon": 50.0466995239,
+        "lat": 40.4675,
+        "lon": 50.0467,
         "name": "Baku, Azerbaijan",
         "region": "Middle East"
     },
@@ -1402,10 +1402,10 @@
         "city": "Guayaquil",
         "country": "Ecuador",
         "iata": "GYE",
-        "lat": -2.1894,
-        "lon": -79.8891,
+        "lat": -2.15742,
+        "lon": -79.8836,
         "name": "Guayaquil, Ecuador",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "GYN": {
         "cca2": "BR",
@@ -1413,10 +1413,10 @@
         "city": "Goiania",
         "country": "Brazil",
         "iata": "GYN",
-        "lat": -16.69727,
-        "lon": -49.26851,
+        "lat": -16.632,
+        "lon": -49.2207,
         "name": "Goiania, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "HAK": {
         "cca2": "CN",
@@ -1435,8 +1435,8 @@
         "city": "Hamburg",
         "country": "Germany",
         "iata": "HAM",
-        "lat": 53.6304016113,
-        "lon": 9.9882297516,
+        "lat": 53.6304,
+        "lon": 9.98823,
         "name": "Hamburg, Germany",
         "region": "Europe"
     },
@@ -1446,10 +1446,10 @@
         "city": "Hanoi",
         "country": "Vietnam",
         "iata": "HAN",
-        "lat": 21.221200943,
-        "lon": 105.806999206,
+        "lat": 21.2212,
+        "lon": 105.807,
         "name": "Hanoi, Vietnam",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "HBA": {
         "cca2": "AU",
@@ -1457,8 +1457,8 @@
         "city": "Hobart",
         "country": "Australia",
         "iata": "HBA",
-        "lat": -42.883209,
-        "lon": 147.331665,
+        "lat": -42.8361,
+        "lon": 147.51,
         "name": "Hobart, Australia",
         "region": "Oceania"
     },
@@ -1468,8 +1468,8 @@
         "city": "Helsinki",
         "country": "Finland",
         "iata": "HEL",
-        "lat": 60.317199707,
-        "lon": 24.963300705,
+        "lat": 60.3172,
+        "lon": 24.9633,
         "name": "Helsinki, Finland",
         "region": "Europe"
     },
@@ -1479,8 +1479,8 @@
         "city": "Haifa",
         "country": "Israel",
         "iata": "HFA",
-        "lat": 32.78492,
-        "lon": 34.96069,
+        "lat": 32.8094,
+        "lon": 35.0431,
         "name": "Haifa, Israel",
         "region": "Middle East"
     },
@@ -1496,24 +1496,24 @@
         "region": "Asia"
     },
     "HKG": {
-        "cca2": "HK",
+        "cca2": "CN",
         "cf_lb_region": "NEAS",
         "city": "Hong Kong",
         "country": "China",
         "iata": "HKG",
-        "lat": 22.3089008331,
-        "lon": 113.915000916,
+        "lat": 22.3089,
+        "lon": 113.915,
         "name": "Hong Kong",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "HNL": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Honolulu",
+        "city": "Honolulu, HI",
         "country": "United States",
         "iata": "HNL",
-        "lat": 21.3187007904,
-        "lon": -157.9219970703,
+        "lat": 21.3206,
+        "lon": -157.924,
         "name": "Honolulu, HI, United States",
         "region": "North America"
     },
@@ -1523,8 +1523,8 @@
         "city": "Harare",
         "country": "Zimbabwe",
         "iata": "HRE",
-        "lat": -17.9318008423,
-        "lon": 31.0928001404,
+        "lat": -17.9318,
+        "lon": 31.0928,
         "name": "Harare, Zimbabwe",
         "region": "Africa"
     },
@@ -1534,10 +1534,10 @@
         "city": "Hyderabad",
         "country": "India",
         "iata": "HYD",
-        "lat": 17.2313175201,
-        "lon": 78.4298553467,
+        "lat": 17.2313,
+        "lon": 78.4299,
         "name": "Hyderabad, India",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "HYN": {
         "cca2": "CN",
@@ -1553,22 +1553,22 @@
     "IAD": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Ashburn",
+        "city": "Ashburn, VA",
         "country": "United States",
         "iata": "IAD",
-        "lat": 38.94449997,
-        "lon": -77.45580292,
+        "lat": 38.9445,
+        "lon": -77.4558,
         "name": "Ashburn, VA, United States",
         "region": "North America"
     },
     "IAH": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Houston",
+        "city": "Houston, TX",
         "country": "United States",
         "iata": "IAH",
-        "lat": 29.9843997955,
-        "lon": -95.3414001465,
+        "lat": 29.9844,
+        "lon": -95.3414,
         "name": "Houston, TX, United States",
         "region": "North America"
     },
@@ -1578,19 +1578,19 @@
         "city": "Seoul",
         "country": "South Korea",
         "iata": "ICN",
-        "lat": 37.4691009521,
-        "lon": 126.450996399,
+        "lat": 37.4633,
+        "lon": 126.44,
         "name": "Seoul, South Korea",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "IND": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Indianapolis",
+        "city": "Indianapolis, IN",
         "country": "United States",
         "iata": "IND",
-        "lat": 39.717300415,
-        "lon": -86.2944030762,
+        "lat": 39.7173,
+        "lon": -86.2944,
         "name": "Indianapolis, IN, United States",
         "region": "North America"
     },
@@ -1600,10 +1600,10 @@
         "city": "Islamabad",
         "country": "Pakistan",
         "iata": "ISB",
-        "lat": 33.6166992188,
-        "lon": 73.0991973877,
+        "lat": 33.5607,
+        "lon": 72.8516,
         "name": "Islamabad, Pakistan",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "IST": {
         "cca2": "TR",
@@ -1611,8 +1611,8 @@
         "city": "Istanbul",
         "country": "Turkey",
         "iata": "IST",
-        "lat": 40.9768981934,
-        "lon": 28.8145999908,
+        "lat": 41.2753,
+        "lon": 28.7519,
         "name": "Istanbul, Turkey",
         "region": "Europe"
     },
@@ -1622,8 +1622,8 @@
         "city": "Sulaymaniyah",
         "country": "Iraq",
         "iata": "ISU",
-        "lat": 35.5668,
-        "lon": 45.4161,
+        "lat": 35.5617,
+        "lon": 45.3167,
         "name": "Sulaymaniyah, Iraq",
         "region": "Middle East"
     },
@@ -1633,19 +1633,19 @@
         "city": "Chandigarh",
         "country": "India",
         "iata": "IXC",
-        "lat": 30.673500061,
-        "lon": 76.7884979248,
+        "lat": 30.6735,
+        "lon": 76.7885,
         "name": "Chandigarh, India",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "JAX": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Jacksonville",
+        "city": "Jacksonville, FL",
         "country": "United States",
         "iata": "JAX",
-        "lat": 30.4941005707,
-        "lon": -81.6878967285,
+        "lat": 30.4941,
+        "lon": -81.6879,
         "name": "Jacksonville, FL, United States",
         "region": "North America"
     },
@@ -1655,10 +1655,10 @@
         "city": "Juazeiro do Norte",
         "country": "Brazil",
         "iata": "JDO",
-        "lat": -7.2242,
-        "lon": -39.313,
+        "lat": -7.21896,
+        "lon": -39.2701,
         "name": "Juazeiro do Norte, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "JED": {
         "cca2": "SA",
@@ -1666,8 +1666,8 @@
         "city": "Jeddah",
         "country": "Saudi Arabia",
         "iata": "JED",
-        "lat": 21.679599762,
-        "lon": 39.15650177,
+        "lat": 21.6796,
+        "lon": 39.1565,
         "name": "Jeddah, Saudi Arabia",
         "region": "Middle East"
     },
@@ -1677,10 +1677,10 @@
         "city": "Johor Bahru",
         "country": "Malaysia",
         "iata": "JHB",
-        "lat": 1.635848,
-        "lon": 103.665943,
+        "lat": 1.64131,
+        "lon": 103.67,
         "name": "Johor Bahru, Malaysia",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "JIB": {
         "cca2": "DJ",
@@ -1688,8 +1688,8 @@
         "city": "Djibouti",
         "country": "Djibouti",
         "iata": "JIB",
-        "lat": 11.5473003387,
-        "lon": 43.1595001221,
+        "lat": 11.5473,
+        "lon": 43.1595,
         "name": "Djibouti, Djibouti",
         "region": "Africa"
     },
@@ -1699,8 +1699,8 @@
         "city": "Johannesburg",
         "country": "South Africa",
         "iata": "JNB",
-        "lat": -26.133333,
-        "lon": 28.25,
+        "lat": -26.1392,
+        "lon": 28.246,
         "name": "Johannesburg, South Africa",
         "region": "Africa"
     },
@@ -1710,10 +1710,10 @@
         "city": "Yogyakarta",
         "country": "Indonesia",
         "iata": "JOG",
-        "lat": -7.7881798744,
-        "lon": 110.4319992065,
+        "lat": -7.78818,
+        "lon": 110.432,
         "name": "Yogyakarta, Indonesia",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "JOI": {
         "cca2": "BR",
@@ -1721,10 +1721,10 @@
         "city": "Joinville",
         "country": "Brazil",
         "iata": "JOI",
-        "lat": -26.304408,
-        "lon": -48.846383,
+        "lat": -26.2245,
+        "lon": -48.7974,
         "name": "Joinville, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "JXG": {
         "cca2": "CN",
@@ -1743,8 +1743,8 @@
         "city": "Kyiv",
         "country": "Ukraine",
         "iata": "KBP",
-        "lat": 50.3450012207,
-        "lon": 30.8946990967,
+        "lat": 50.345,
+        "lon": 30.8947,
         "name": "Kyiv, Ukraine",
         "region": "Europe"
     },
@@ -1754,10 +1754,10 @@
         "city": "Kuching",
         "country": "Malaysia",
         "iata": "KCH",
-        "lat": 1.709727,
-        "lon": 110.353455,
+        "lat": 1.4847,
+        "lon": 110.347,
         "name": "Kuching, Malaysia",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "KEF": {
         "cca2": "IS",
@@ -1765,8 +1765,8 @@
         "city": "Reykjavik",
         "country": "Iceland",
         "iata": "KEF",
-        "lat": 63.9850006104,
-        "lon": -22.6056003571,
+        "lat": 63.985,
+        "lon": -22.6056,
         "name": "Reykjavik, Iceland",
         "region": "Europe"
     },
@@ -1776,8 +1776,8 @@
         "city": "Kigali",
         "country": "Rwanda",
         "iata": "KGL",
-        "lat": -1.9686299563,
-        "lon": 30.1394996643,
+        "lat": -1.96863,
+        "lon": 30.1395,
         "name": "Kigali, Rwanda",
         "region": "Africa"
     },
@@ -1787,10 +1787,10 @@
         "city": "Kaohsiung City",
         "country": "Taiwan",
         "iata": "KHH",
-        "lat": 22.5771007538,
-        "lon": 120.3499984741,
+        "lat": 22.5771,
+        "lon": 120.35,
         "name": "Kaohsiung City, Taiwan",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "KHI": {
         "cca2": "PK",
@@ -1798,10 +1798,10 @@
         "city": "Karachi",
         "country": "Pakistan",
         "iata": "KHI",
-        "lat": 24.9064998627,
-        "lon": 67.1607971191,
+        "lat": 24.9065,
+        "lon": 67.1608,
         "name": "Karachi, Pakistan",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "KHN": {
         "cca2": "CN",
@@ -1820,8 +1820,8 @@
         "city": "Kingston",
         "country": "Jamaica",
         "iata": "KIN",
-        "lat": 17.9951,
-        "lon": -76.7846,
+        "lat": 17.9357,
+        "lon": -76.7875,
         "name": "Kingston, Jamaica",
         "region": "North America"
     },
@@ -1831,8 +1831,6 @@
         "city": "Chisinau",
         "country": "Moldova",
         "iata": "KIV",
-        "lat": 46.9277000427,
-        "lon": 28.9309997559,
         "name": "Chisinau, Moldova",
         "region": "Europe"
     },
@@ -1842,10 +1840,10 @@
         "city": "Osaka",
         "country": "Japan",
         "iata": "KIX",
-        "lat": 34.4272994995,
-        "lon": 135.244003296,
+        "lat": 34.4305,
+        "lon": 135.23,
         "name": "Osaka, Japan",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "KJA": {
         "cca2": "RU",
@@ -1853,10 +1851,10 @@
         "city": "Krasnoyarsk",
         "country": "Russia",
         "iata": "KJA",
-        "lat": 56.0153,
-        "lon": 92.8932,
+        "lat": 56.1729,
+        "lon": 92.4933,
         "name": "Krasnoyarsk, Russia",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "KMG": {
         "cca2": "CN",
@@ -1875,10 +1873,10 @@
         "city": "Kanpur",
         "country": "India",
         "iata": "KNU",
-        "lat": 26.4499,
-        "lon": 80.3319,
+        "lat": 26.4043,
+        "lon": 80.4101,
         "name": "Kanpur, India",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "KTM": {
         "cca2": "NP",
@@ -1886,10 +1884,10 @@
         "city": "Kathmandu",
         "country": "Nepal",
         "iata": "KTM",
-        "lat": 27.6965999603,
-        "lon": 85.3591003418,
+        "lat": 27.6966,
+        "lon": 85.3591,
         "name": "Kathmandu, Nepal",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "KUL": {
         "cca2": "MY",
@@ -1897,10 +1895,10 @@
         "city": "Kuala Lumpur",
         "country": "Malaysia",
         "iata": "KUL",
-        "lat": 2.745579958,
-        "lon": 101.709999084,
+        "lat": 2.74558,
+        "lon": 101.71,
         "name": "Kuala Lumpur, Malaysia",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "KWE": {
         "cca2": "CN",
@@ -1919,8 +1917,8 @@
         "city": "Kuwait City",
         "country": "Kuwait",
         "iata": "KWI",
-        "lat": 29.226600647,
-        "lon": 47.9688987732,
+        "lat": 29.2266,
+        "lon": 47.9689,
         "name": "Kuwait City, Kuwait",
         "region": "Middle East"
     },
@@ -1930,30 +1928,30 @@
         "city": "Luanda",
         "country": "Angola",
         "iata": "LAD",
-        "lat": -8.8583698273,
-        "lon": 13.2312002182,
+        "lat": -8.85837,
+        "lon": 13.2312,
         "name": "Luanda, Angola",
         "region": "Africa"
     },
     "LAS": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Las Vegas",
+        "city": "Las Vegas, NV",
         "country": "United States",
         "iata": "LAS",
-        "lat": 36.08010101,
-        "lon": -115.1520004,
+        "lat": 36.0801,
+        "lon": -115.152,
         "name": "Las Vegas, NV, United States",
         "region": "North America"
     },
     "LAX": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Los Angeles",
+        "city": "Los Angeles, CA",
         "country": "United States",
         "iata": "LAX",
-        "lat": 33.94250107,
-        "lon": -118.4079971,
+        "lat": 33.9425,
+        "lon": -118.408,
         "name": "Los Angeles, CA, United States",
         "region": "North America"
     },
@@ -1963,8 +1961,8 @@
         "city": "Nicosia",
         "country": "Cyprus",
         "iata": "LCA",
-        "lat": 34.8750991821,
-        "lon": 33.6249008179,
+        "lat": 34.8751,
+        "lon": 33.6249,
         "name": "Nicosia, Cyprus",
         "region": "Europe"
     },
@@ -1974,8 +1972,8 @@
         "city": "Saint Petersburg",
         "country": "Russia",
         "iata": "LED",
-        "lat": 59.8003005981,
-        "lon": 30.2625007629,
+        "lat": 59.8003,
+        "lon": 30.2625,
         "name": "Saint Petersburg, Russia",
         "region": "Europe"
     },
@@ -1985,10 +1983,10 @@
         "city": "Lahore",
         "country": "Pakistan",
         "iata": "LHE",
-        "lat": 31.5216007233,
-        "lon": 74.4036026001,
+        "lat": 31.5216,
+        "lon": 74.4036,
         "name": "Lahore, Pakistan",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "LHR": {
         "cca2": "GB",
@@ -1996,8 +1994,8 @@
         "city": "London",
         "country": "United Kingdom",
         "iata": "LHR",
-        "lat": 51.4706001282,
-        "lon": -0.4619410038,
+        "lat": 51.4775,
+        "lon": -0.461389,
         "name": "London, United Kingdom",
         "region": "Europe"
     },
@@ -2007,10 +2005,10 @@
         "city": "Lima",
         "country": "Peru",
         "iata": "LIM",
-        "lat": -12.021900177,
-        "lon": -77.1143035889,
+        "lat": -12.0219,
+        "lon": -77.1143,
         "name": "Lima, Peru",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "LIS": {
         "cca2": "PT",
@@ -2018,8 +2016,8 @@
         "city": "Lisbon",
         "country": "Portugal",
         "iata": "LIS",
-        "lat": 38.7812995911,
-        "lon": -9.1359195709,
+        "lat": 38.7813,
+        "lon": -9.13592,
         "name": "Lisbon, Portugal",
         "region": "Europe"
     },
@@ -2029,8 +2027,8 @@
         "city": "Astara",
         "country": "Azerbaijan",
         "iata": "LLK",
-        "lat": 38.7463989258,
-        "lon": 48.8180007935,
+        "lat": 38.7464,
+        "lon": 48.818,
         "name": "Astara, Azerbaijan",
         "region": "Middle East"
     },
@@ -2040,8 +2038,8 @@
         "city": "Lilongwe",
         "country": "Malawi",
         "iata": "LLW",
-        "lat": -13.980935,
-        "lon": 33.761462,
+        "lat": -13.7894,
+        "lon": 33.781,
         "name": "Lilongwe, Malawi",
         "region": "Africa"
     },
@@ -2051,8 +2049,8 @@
         "city": "Lagos",
         "country": "Nigeria",
         "iata": "LOS",
-        "lat": 6.5773701668,
-        "lon": 3.321160078,
+        "lat": 6.57737,
+        "lon": 3.32116,
         "name": "Lagos, Nigeria",
         "region": "Africa"
     },
@@ -2062,10 +2060,10 @@
         "city": "La Paz",
         "country": "Bolivia",
         "iata": "LPB",
-        "lat": -16.4897,
-        "lon": -68.1193,
+        "lat": -16.5133,
+        "lon": -68.1923,
         "name": "La Paz, Bolivia",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "LUN": {
         "cca2": "ZM",
@@ -2073,8 +2071,8 @@
         "city": "Lusaka",
         "country": "Zambia",
         "iata": "LUN",
-        "lat": -15.371446,
-        "lon": 28.317837,
+        "lat": -15.3308,
+        "lon": 28.4526,
         "name": "Lusaka, Zambia",
         "region": "Africa"
     },
@@ -2084,8 +2082,8 @@
         "city": "Luxembourg City",
         "country": "Luxembourg",
         "iata": "LUX",
-        "lat": 49.6265983582,
-        "lon": 6.211520195,
+        "lat": 49.6233,
+        "lon": 6.20444,
         "name": "Luxembourg City, Luxembourg",
         "region": "Europe"
     },
@@ -2095,8 +2093,8 @@
         "city": "Lyon",
         "country": "France",
         "iata": "LYS",
-        "lat": 45.7263,
-        "lon": 5.0908,
+        "lat": 45.7256,
+        "lon": 5.08111,
         "name": "Lyon, France",
         "region": "Europe"
     },
@@ -2106,10 +2104,10 @@
         "city": "Chennai",
         "country": "India",
         "iata": "MAA",
-        "lat": 12.9900054932,
-        "lon": 80.1692962646,
+        "lat": 12.99,
+        "lon": 80.1693,
         "name": "Chennai, India",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "MAD": {
         "cca2": "ES",
@@ -2117,8 +2115,8 @@
         "city": "Madrid",
         "country": "Spain",
         "iata": "MAD",
-        "lat": 40.4936,
-        "lon": -3.56676,
+        "lat": 40.4719,
+        "lon": -3.56264,
         "name": "Madrid, Spain",
         "region": "Europe"
     },
@@ -2128,8 +2126,8 @@
         "city": "Manchester",
         "country": "United Kingdom",
         "iata": "MAN",
-        "lat": 53.3536987305,
-        "lon": -2.2749500275,
+        "lat": 53.3537,
+        "lon": -2.27495,
         "name": "Manchester, United Kingdom",
         "region": "Europe"
     },
@@ -2139,10 +2137,10 @@
         "city": "Manaus",
         "country": "Brazil",
         "iata": "MAO",
-        "lat": -3.11286,
-        "lon": -60.01949,
+        "lat": -3.03861,
+        "lon": -60.0497,
         "name": "Manaus, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "MBA": {
         "cca2": "KE",
@@ -2150,19 +2148,19 @@
         "city": "Mombasa",
         "country": "Kenya",
         "iata": "MBA",
-        "lat": -4.0348300934,
-        "lon": 39.5942001343,
+        "lat": -4.03483,
+        "lon": 39.5942,
         "name": "Mombasa, Kenya",
         "region": "Africa"
     },
     "MCI": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Kansas City",
+        "city": "Kansas City, MO",
         "country": "United States",
         "iata": "MCI",
-        "lat": 39.2975997925,
-        "lon": -94.7138977051,
+        "lat": 39.2976,
+        "lon": -94.7139,
         "name": "Kansas City, MO, United States",
         "region": "North America"
     },
@@ -2172,8 +2170,8 @@
         "city": "Muscat",
         "country": "Oman",
         "iata": "MCT",
-        "lat": 23.5932998657,
-        "lon": 58.2844009399,
+        "lat": 23.5933,
+        "lon": 58.2844,
         "name": "Muscat, Oman",
         "region": "Middle East"
     },
@@ -2186,27 +2184,27 @@
         "lat": 6.16454,
         "lon": -75.4231,
         "name": "Medellin, Colombia",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "MEL": {
         "cca2": "AU",
         "cf_lb_region": "OC",
-        "city": "Melbourne",
+        "city": "Melbourne, VIC",
         "country": "Australia",
         "iata": "MEL",
-        "lat": -37.6733016968,
-        "lon": 144.843002319,
+        "lat": -37.6733,
+        "lon": 144.843,
         "name": "Melbourne, VIC, Australia",
         "region": "Oceania"
     },
     "MEM": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Memphis",
+        "city": "Memphis, TN",
         "country": "United States",
         "iata": "MEM",
-        "lat": 35.0424003601,
-        "lon": -89.9766998291,
+        "lat": 35.0424,
+        "lon": -89.9767,
         "name": "Memphis, TN, United States",
         "region": "North America"
     },
@@ -2216,32 +2214,43 @@
         "city": "Mexico City",
         "country": "Mexico",
         "iata": "MEX",
-        "lat": 19.4363002777,
-        "lon": -99.0720977783,
+        "lat": 19.4363,
+        "lon": -99.0721,
         "name": "Mexico City, Mexico",
         "region": "North America"
     },
     "MFM": {
-        "cca2": "MO",
+        "cca2": "CN",
         "cf_lb_region": "NEAS",
         "city": "Macau",
         "country": "China",
         "iata": "MFM",
-        "lat": 22.1495990753,
-        "lon": 113.592002869,
+        "lat": 22.1496,
+        "lon": 113.592,
         "name": "Macau",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "MIA": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Miami",
+        "city": "Miami, FL",
         "country": "United States",
         "iata": "MIA",
-        "lat": 25.7931995392,
-        "lon": -80.2906036377,
+        "lat": 25.7932,
+        "lon": -80.2906,
         "name": "Miami, FL, United States",
         "region": "North America"
+    },
+    "MLA": {
+        "cca2": "MT",
+        "cf_lb_region": "WEU",
+        "city": "Santa Venera",
+        "country": "Malta",
+        "iata": "MLA",
+        "lat": 35.8575,
+        "lon": 14.4775,
+        "name": "Santa Venera, Malta",
+        "region": "Europe"
     },
     "MLE": {
         "cca2": "MV",
@@ -2249,10 +2258,10 @@
         "city": "Male",
         "country": "Maldives",
         "iata": "MLE",
-        "lat": 4.1748,
-        "lon": 73.50888,
+        "lat": 4.19183,
+        "lon": 73.5291,
         "name": "Male, Maldives",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "MLG": {
         "cca2": "ID",
@@ -2260,10 +2269,10 @@
         "city": "Malang",
         "country": "Indonesia",
         "iata": "MLG",
-        "lat": -8.100347,
-        "lon": 112.186641,
+        "lat": -7.92656,
+        "lon": 112.715,
         "name": "Malang, Indonesia",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "MNL": {
         "cca2": "PH",
@@ -2271,10 +2280,10 @@
         "city": "Manila",
         "country": "Philippines",
         "iata": "MNL",
-        "lat": 14.508600235,
-        "lon": 121.019996643,
+        "lat": 14.5086,
+        "lon": 121.02,
         "name": "Manila, Philippines",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "MPM": {
         "cca2": "MZ",
@@ -2282,8 +2291,8 @@
         "city": "Maputo",
         "country": "Mozambique",
         "iata": "MPM",
-        "lat": -25.9207992554,
-        "lon": 32.5726013184,
+        "lat": -25.9208,
+        "lon": 32.5726,
         "name": "Maputo, Mozambique",
         "region": "Africa"
     },
@@ -2293,8 +2302,8 @@
         "city": "Marseille",
         "country": "France",
         "iata": "MRS",
-        "lat": 43.439271922,
-        "lon": 5.2214241028,
+        "lat": 43.4393,
+        "lon": 5.22142,
         "name": "Marseille, France",
         "region": "Europe"
     },
@@ -2304,19 +2313,19 @@
         "city": "Port Louis",
         "country": "Mauritius",
         "iata": "MRU",
-        "lat": -20.4302005768,
-        "lon": 57.6836013794,
+        "lat": -20.4302,
+        "lon": 57.6836,
         "name": "Port Louis, Mauritius",
         "region": "Africa"
     },
     "MSP": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Minneapolis",
+        "city": "Minneapolis, MN",
         "country": "United States",
         "iata": "MSP",
-        "lat": 44.8819999695,
-        "lon": -93.2218017578,
+        "lat": 44.882,
+        "lon": -93.2218,
         "name": "Minneapolis, MN, United States",
         "region": "North America"
     },
@@ -2326,8 +2335,8 @@
         "city": "Minsk",
         "country": "Belarus",
         "iata": "MSQ",
-        "lat": 53.9006,
-        "lon": 27.599,
+        "lat": 53.8825,
+        "lon": 28.0307,
         "name": "Minsk, Belarus",
         "region": "Europe"
     },
@@ -2337,8 +2346,8 @@
         "city": "Munich",
         "country": "Germany",
         "iata": "MUC",
-        "lat": 48.3538017273,
-        "lon": 11.7861003876,
+        "lat": 48.3538,
+        "lon": 11.7861,
         "name": "Munich, Germany",
         "region": "Europe"
     },
@@ -2348,8 +2357,8 @@
         "city": "Milan",
         "country": "Italy",
         "iata": "MXP",
-        "lat": 45.6305999756,
-        "lon": 8.7281103134,
+        "lat": 45.6306,
+        "lon": 8.72811,
         "name": "Milan, Italy",
         "region": "Europe"
     },
@@ -2359,10 +2368,10 @@
         "city": "Nagpur",
         "country": "India",
         "iata": "NAG",
-        "lat": 21.1610714,
-        "lon": 79.0024702,
+        "lat": 21.0922,
+        "lon": 79.0472,
         "name": "Nagpur, India",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "NBO": {
         "cca2": "KE",
@@ -2370,8 +2379,8 @@
         "city": "Nairobi",
         "country": "Kenya",
         "iata": "NBO",
-        "lat": -1.319239974,
-        "lon": 36.9277992249,
+        "lat": -1.31924,
+        "lon": 36.9278,
         "name": "Nairobi, Kenya",
         "region": "Africa"
     },
@@ -2381,8 +2390,8 @@
         "city": "Najaf",
         "country": "Iraq",
         "iata": "NJF",
-        "lat": 31.989722,
-        "lon": 44.404167,
+        "lat": 31.9899,
+        "lon": 44.4043,
         "name": "Najaf, Iraq",
         "region": "Middle East"
     },
@@ -2403,8 +2412,8 @@
         "city": "Noumea",
         "country": "New Caledonia",
         "iata": "NOU",
-        "lat": -22.0146007538,
-        "lon": 166.212997436,
+        "lat": -22.0146,
+        "lon": 166.213,
         "name": "Noumea, New Caledonia",
         "region": "Oceania"
     },
@@ -2414,10 +2423,10 @@
         "city": "Neuquen",
         "country": "Argentina",
         "iata": "NQN",
-        "lat": -38.9490013123,
-        "lon": -68.1557006836,
+        "lat": -38.949,
+        "lon": -68.1557,
         "name": "Neuquen, Argentina",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "NQZ": {
         "cca2": "KZ",
@@ -2425,10 +2434,10 @@
         "city": "Astana",
         "country": "Kazakhstan",
         "iata": "NQZ",
-        "lat": 51.167801,
-        "lon": 71.418893,
+        "lat": 51.0222,
+        "lon": 71.4669,
         "name": "Astana, Kazakhstan",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "NRT": {
         "cca2": "JP",
@@ -2436,10 +2445,10 @@
         "city": "Tokyo",
         "country": "Japan",
         "iata": "NRT",
-        "lat": 35.7647018433,
-        "lon": 140.386001587,
+        "lat": 35.7653,
+        "lon": 140.386,
         "name": "Tokyo, Japan",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "NVT": {
         "cca2": "BR",
@@ -2447,10 +2456,10 @@
         "city": "Timbo",
         "country": "Brazil",
         "iata": "NVT",
-        "lat": -26.8251,
-        "lon": -49.2695,
+        "lat": -26.88,
+        "lon": -48.6514,
         "name": "Timbo, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "OKA": {
         "cca2": "JP",
@@ -2461,7 +2470,7 @@
         "lat": 26.1958,
         "lon": 127.646,
         "name": "Naha, Japan",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "OKC": {
         "cca2": "US",
@@ -2469,41 +2478,41 @@
         "city": "Oklahoma City",
         "country": "United States",
         "iata": "OKC",
-        "lat": 35.46655,
-        "lon": -97.65373,
+        "lat": 35.3931,
+        "lon": -97.6007,
         "name": "Oklahoma City, United States",
         "region": "North America"
     },
     "OMA": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Omaha",
+        "city": "Omaha, NE",
         "country": "United States",
         "iata": "OMA",
-        "lat": 41.3031997681,
-        "lon": -95.8940963745,
+        "lat": 41.3032,
+        "lon": -95.8941,
         "name": "Omaha, NE, United States",
         "region": "North America"
     },
     "ORD": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Chicago",
+        "city": "Chicago, IL",
         "country": "United States",
         "iata": "ORD",
-        "lat": 41.97859955,
-        "lon": -87.90480042,
+        "lat": 41.9786,
+        "lon": -87.9047,
         "name": "Chicago, IL, United States",
         "region": "North America"
     },
     "ORF": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Norfolk",
+        "city": "Norfolk, VA",
         "country": "United States",
         "iata": "ORF",
-        "lat": 36.8945999146,
-        "lon": -76.2012023926,
+        "lat": 36.8946,
+        "lon": -76.2012,
         "name": "Norfolk, VA, United States",
         "region": "North America"
     },
@@ -2513,8 +2522,8 @@
         "city": "Oran",
         "country": "Algeria",
         "iata": "ORN",
-        "lat": 35.6911,
-        "lon": -0.6416,
+        "lat": 35.6239,
+        "lon": -0.621183,
         "name": "Oran, Algeria",
         "region": "Africa"
     },
@@ -2524,8 +2533,8 @@
         "city": "Oslo",
         "country": "Norway",
         "iata": "OSL",
-        "lat": 60.193901062,
-        "lon": 11.100399971,
+        "lat": 60.1939,
+        "lon": 11.1004,
         "name": "Oslo, Norway",
         "region": "Europe"
     },
@@ -2535,8 +2544,8 @@
         "city": "Bucharest",
         "country": "Romania",
         "iata": "OTP",
-        "lat": 44.5722007751,
-        "lon": 26.1021995544,
+        "lat": 44.5711,
+        "lon": 26.085,
         "name": "Bucharest, Romania",
         "region": "Europe"
     },
@@ -2546,8 +2555,8 @@
         "city": "Ouagadougou",
         "country": "Burkina Faso",
         "iata": "OUA",
-        "lat": 12.3531999588,
-        "lon": -1.5124200583,
+        "lat": 12.3532,
+        "lon": -1.51242,
         "name": "Ouagadougou, Burkina Faso",
         "region": "Africa"
     },
@@ -2557,10 +2566,10 @@
         "city": "Patna",
         "country": "India",
         "iata": "PAT",
-        "lat": 25.591299057,
-        "lon": 85.0879974365,
+        "lat": 25.5913,
+        "lon": 85.088,
         "name": "Patna, India",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "PBH": {
         "cca2": "BT",
@@ -2568,10 +2577,10 @@
         "city": "Thimphu",
         "country": "Bhutan",
         "iata": "PBH",
-        "lat": 27.4712,
-        "lon": 89.6339,
+        "lat": 27.4032,
+        "lon": 89.4246,
         "name": "Thimphu, Bhutan",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "PBM": {
         "cca2": "SR",
@@ -2579,30 +2588,30 @@
         "city": "Paramaribo",
         "country": "Suriname",
         "iata": "PBM",
-        "lat": 5.452831,
-        "lon": -55.187783,
+        "lat": 5.45283,
+        "lon": -55.1878,
         "name": "Paramaribo, Suriname",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "PDX": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Portland",
+        "city": "Portland, OR",
         "country": "United States",
         "iata": "PDX",
-        "lat": 45.58869934,
-        "lon": -122.5979996,
+        "lat": 45.5887,
+        "lon": -122.598,
         "name": "Portland, OR, United States",
         "region": "North America"
     },
     "PER": {
         "cca2": "AU",
         "cf_lb_region": "OC",
-        "city": "Perth",
+        "city": "Perth, WA",
         "country": "Australia",
         "iata": "PER",
-        "lat": -31.9402999878,
-        "lon": 115.967002869,
+        "lat": -31.9403,
+        "lon": 115.967,
         "name": "Perth, WA, Australia",
         "region": "Oceania"
     },
@@ -2612,30 +2621,30 @@
         "city": "Philadelphia",
         "country": "United States",
         "iata": "PHL",
-        "lat": 39.8718986511,
-        "lon": -75.2410964966,
+        "lat": 39.8719,
+        "lon": -75.2411,
         "name": "Philadelphia, United States",
         "region": "North America"
     },
     "PHX": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Phoenix",
+        "city": "Phoenix, AZ",
         "country": "United States",
         "iata": "PHX",
-        "lat": 33.434299469,
-        "lon": -112.012001038,
+        "lat": 33.4343,
+        "lon": -112.012,
         "name": "Phoenix, AZ, United States",
         "region": "North America"
     },
     "PIT": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Pittsburgh",
+        "city": "Pittsburgh, PA",
         "country": "United States",
         "iata": "PIT",
-        "lat": 40.49150085,
-        "lon": -80.23290253,
+        "lat": 40.4915,
+        "lon": -80.2329,
         "name": "Pittsburgh, PA, United States",
         "region": "North America"
     },
@@ -2656,8 +2665,8 @@
         "city": "Palermo",
         "country": "Italy",
         "iata": "PMO",
-        "lat": 38.16114,
-        "lon": 13.31546,
+        "lat": 38.176,
+        "lon": 13.091,
         "name": "Palermo, Italy",
         "region": "Europe"
     },
@@ -2667,10 +2676,10 @@
         "city": "Palmas",
         "country": "Brazil",
         "iata": "PMW",
-        "lat": -10.2915000916,
-        "lon": -48.3569984436,
+        "lat": -10.2915,
+        "lon": -48.357,
         "name": "Palmas, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "PNH": {
         "cca2": "KH",
@@ -2678,10 +2687,10 @@
         "city": "Phnom Penh",
         "country": "Cambodia",
         "iata": "PNH",
-        "lat": 11.5466003418,
-        "lon": 104.84400177,
+        "lat": 11.5466,
+        "lon": 104.844,
         "name": "Phnom Penh, Cambodia",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "POA": {
         "cca2": "BR",
@@ -2689,10 +2698,10 @@
         "city": "Porto Alegre",
         "country": "Brazil",
         "iata": "POA",
-        "lat": -29.9944000244,
-        "lon": -51.1713981628,
+        "lat": -29.9944,
+        "lon": -51.1714,
         "name": "Porto Alegre, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "POS": {
         "cca2": "TT",
@@ -2700,10 +2709,10 @@
         "city": "Port of Spain",
         "country": "Trinidad and Tobago",
         "iata": "POS",
-        "lat": 10.5953998566,
-        "lon": -61.3372001648,
+        "lat": 10.5954,
+        "lon": -61.3372,
         "name": "Port of Spain, Trinidad and Tobago",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "PPT": {
         "cca2": "PF",
@@ -2711,8 +2720,8 @@
         "city": "Tahiti",
         "country": "French Polynesia",
         "iata": "PPT",
-        "lat": -17.5536994934,
-        "lon": -149.606994629,
+        "lat": -17.5537,
+        "lon": -149.607,
         "name": "Tahiti, French Polynesia",
         "region": "Oceania"
     },
@@ -2722,8 +2731,8 @@
         "city": "Prague",
         "country": "Czech Republic",
         "iata": "PRG",
-        "lat": 50.1007995605,
-        "lon": 14.2600002289,
+        "lat": 50.1008,
+        "lon": 14.26,
         "name": "Prague, Czech Republic",
         "region": "Europe"
     },
@@ -2733,19 +2742,19 @@
         "city": "Panama City",
         "country": "Panama",
         "iata": "PTY",
-        "lat": 9.0713596344,
-        "lon": -79.3834991455,
+        "lat": 9.07136,
+        "lon": -79.3835,
         "name": "Panama City, Panama",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "QRO": {
         "cca2": "MX",
         "cf_lb_region": "WNAM",
-        "city": "Queretaro",
+        "city": "Queretaro, MX",
         "country": "Mexico",
         "iata": "QRO",
-        "lat": 20.6173000336,
-        "lon": -100.185997009,
+        "lat": 20.6173,
+        "lon": -100.186,
         "name": "Queretaro, MX, Mexico",
         "region": "North America"
     },
@@ -2755,10 +2764,8 @@
         "city": "Americana",
         "country": "Brazil",
         "iata": "QWJ",
-        "lat": -22.738,
-        "lon": -47.334,
         "name": "Americana, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "RAO": {
         "cca2": "BR",
@@ -2766,10 +2773,10 @@
         "city": "Ribeirao Preto",
         "country": "Brazil",
         "iata": "RAO",
-        "lat": -21.1363887787,
-        "lon": -47.7766685486,
+        "lat": -21.1364,
+        "lon": -47.7767,
         "name": "Ribeirao Preto, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "RDU": {
         "cca2": "US",
@@ -2777,8 +2784,8 @@
         "city": "Durham",
         "country": "United States",
         "iata": "RDU",
-        "lat": 35.93543,
-        "lon": -78.88075,
+        "lat": 35.8776,
+        "lon": -78.7875,
         "name": "Durham, United States",
         "region": "North America"
     },
@@ -2788,19 +2795,19 @@
         "city": "Recife",
         "country": "Brazil",
         "iata": "REC",
-        "lat": -8.1264896393,
-        "lon": -34.9235992432,
+        "lat": -8.12649,
+        "lon": -34.9236,
         "name": "Recife, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "RIC": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Richmond",
+        "city": "Richmond, VA",
         "country": "United States",
         "iata": "RIC",
-        "lat": 37.5051994324,
-        "lon": -77.3197021484,
+        "lat": 37.5052,
+        "lon": -77.3197,
         "name": "Richmond, VA, United States",
         "region": "North America"
     },
@@ -2810,8 +2817,8 @@
         "city": "Riga",
         "country": "Latvia",
         "iata": "RIX",
-        "lat": 56.9235992432,
-        "lon": 23.9710998535,
+        "lat": 56.9236,
+        "lon": 23.9711,
         "name": "Riga, Latvia",
         "region": "Europe"
     },
@@ -2821,8 +2828,8 @@
         "city": "Riyadh",
         "country": "Saudi Arabia",
         "iata": "RUH",
-        "lat": 24.9575996399,
-        "lon": 46.6987991333,
+        "lat": 24.9576,
+        "lon": 46.6988,
         "name": "Riyadh, Saudi Arabia",
         "region": "Middle East"
     },
@@ -2832,19 +2839,19 @@
         "city": "Saint-Denis",
         "country": "Reunion",
         "iata": "RUN",
-        "lat": -20.8871002197,
-        "lon": 55.5102996826,
+        "lat": -20.8871,
+        "lon": 55.5103,
         "name": "Saint-Denis, Reunion",
         "region": "Africa"
     },
     "SAN": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "San Diego",
+        "city": "San Diego, CA",
         "country": "United States",
         "iata": "SAN",
-        "lat": 32.7336006165,
-        "lon": -117.190002441,
+        "lat": 32.7336,
+        "lon": -117.19,
         "name": "San Diego, CA, United States",
         "region": "North America"
     },
@@ -2854,10 +2861,10 @@
         "city": "San Pedro Sula",
         "country": "Honduras",
         "iata": "SAP",
-        "lat": 15.4525995255,
-        "lon": -87.9235992432,
+        "lat": 15.4526,
+        "lon": -87.9236,
         "name": "San Pedro Sula, Honduras",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "SAT": {
         "cca2": "US",
@@ -2865,8 +2872,8 @@
         "city": "San Antonio",
         "country": "United States",
         "iata": "SAT",
-        "lat": 29.429461,
-        "lon": -98.487061,
+        "lat": 29.5337,
+        "lon": -98.4698,
         "name": "San Antonio, United States",
         "region": "North America"
     },
@@ -2876,10 +2883,10 @@
         "city": "Santiago",
         "country": "Chile",
         "iata": "SCL",
-        "lat": -33.3930015564,
-        "lon": -70.7857971191,
+        "lat": -33.3928,
+        "lon": -70.7856,
         "name": "Santiago, Chile",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "SDQ": {
         "cca2": "DO",
@@ -2887,19 +2894,19 @@
         "city": "Santo Domingo",
         "country": "Dominican Republic",
         "iata": "SDQ",
-        "lat": 18.4297008514,
-        "lon": -69.6688995361,
+        "lat": 18.4297,
+        "lon": -69.6689,
         "name": "Santo Domingo, Dominican Republic",
-        "region": "North America"
+        "region": "Latin America & the Caribbean"
     },
     "SEA": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Seattle",
+        "city": "Seattle, WA",
         "country": "United States",
         "iata": "SEA",
-        "lat": 47.4490013123,
-        "lon": -122.308998108,
+        "lat": 47.449,
+        "lon": -122.309,
         "name": "Seattle, WA, United States",
         "region": "North America"
     },
@@ -2909,7 +2916,7 @@
         "city": "San Francisco",
         "country": "United States",
         "iata": "SFO",
-        "lat": 37.6189994812,
+        "lat": 37.619,
         "lon": -122.375,
         "name": "San Francisco, United States",
         "region": "North America"
@@ -2920,10 +2927,10 @@
         "city": "Ho Chi Minh City",
         "country": "Vietnam",
         "iata": "SGN",
-        "lat": 10.8187999725,
-        "lon": 106.652000427,
+        "lat": 10.8188,
+        "lon": 106.652,
         "name": "Ho Chi Minh City, Vietnam",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "SHA": {
         "cca2": "CN",
@@ -2942,19 +2949,19 @@
         "city": "Singapore",
         "country": "Singapore",
         "iata": "SIN",
-        "lat": 1.3501900434,
-        "lon": 103.994003296,
+        "lat": 1.35019,
+        "lon": 103.994,
         "name": "Singapore, Singapore",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "SJC": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "San Jose",
+        "city": "San Jose, CA",
         "country": "United States",
         "iata": "SJC",
-        "lat": 37.3625984192,
-        "lon": -121.929000855,
+        "lat": 37.3626,
+        "lon": -121.929,
         "name": "San Jose, CA, United States",
         "region": "North America"
     },
@@ -2964,10 +2971,10 @@
         "city": "Sao Jose dos Campos",
         "country": "Brazil",
         "iata": "SJK",
-        "lat": -23.1791,
-        "lon": -45.8872,
+        "lat": -23.2292,
+        "lon": -45.8615,
         "name": "Sao Jose dos Campos, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "SJO": {
         "cca2": "CR",
@@ -2975,10 +2982,10 @@
         "city": "San Jose",
         "country": "Costa Rica",
         "iata": "SJO",
-        "lat": 9.9938602448,
-        "lon": -84.2088012695,
+        "lat": 9.99386,
+        "lon": -84.2088,
         "name": "San Jose, Costa Rica",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "SJP": {
         "cca2": "BR",
@@ -2986,10 +2993,10 @@
         "city": "Sao Jose do Rio Preto",
         "country": "Brazil",
         "iata": "SJP",
-        "lat": -20.807157,
-        "lon": -49.378994,
+        "lat": -20.8166,
+        "lon": -49.4065,
         "name": "Sao Jose do Rio Preto, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "SJU": {
         "cca2": "PR",
@@ -2997,10 +3004,10 @@
         "city": "San Juan",
         "country": "Puerto Rico",
         "iata": "SJU",
-        "lat": 18.411391,
-        "lon": -66.102793,
+        "lat": 18.4394,
+        "lon": -66.0018,
         "name": "San Juan, Puerto Rico",
-        "region": "North America"
+        "region": "Latin America & the Caribbean"
     },
     "SJW": {
         "cca2": "CN",
@@ -3019,8 +3026,8 @@
         "city": "Thessaloniki",
         "country": "Greece",
         "iata": "SKG",
-        "lat": 40.5196990967,
-        "lon": 22.9708995819,
+        "lat": 40.5197,
+        "lon": 22.9709,
         "name": "Thessaloniki, Greece",
         "region": "Europe"
     },
@@ -3030,30 +3037,30 @@
         "city": "Skopje",
         "country": "North Macedonia",
         "iata": "SKP",
-        "lat": 41.9616012573,
-        "lon": 21.6214008331,
+        "lat": 41.9616,
+        "lon": 21.6214,
         "name": "Skopje, North Macedonia",
         "region": "Europe"
     },
     "SLC": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Salt Lake City",
+        "city": "Salt Lake City, UT",
         "country": "United States",
         "iata": "SLC",
-        "lat": 40.7883987427,
-        "lon": -111.977996826,
+        "lat": 40.7884,
+        "lon": -111.978,
         "name": "Salt Lake City, UT, United States",
         "region": "North America"
     },
     "SMF": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Sacramento",
+        "city": "Sacramento, CA",
         "country": "United States",
         "iata": "SMF",
-        "lat": 38.695400238,
-        "lon": -121.591003418,
+        "lat": 38.6954,
+        "lon": -121.591,
         "name": "Sacramento, CA, United States",
         "region": "North America"
     },
@@ -3063,10 +3070,10 @@
         "city": "Sorocaba",
         "country": "Brazil",
         "iata": "SOD",
-        "lat": -23.54389,
-        "lon": -46.63445,
+        "lat": -23.478,
+        "lon": -47.49,
         "name": "Sorocaba, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "SOF": {
         "cca2": "BG",
@@ -3074,8 +3081,8 @@
         "city": "Sofia",
         "country": "Bulgaria",
         "iata": "SOF",
-        "lat": 42.6966934204,
-        "lon": 23.4114360809,
+        "lat": 42.6967,
+        "lon": 23.4114,
         "name": "Sofia, Bulgaria",
         "region": "Europe"
     },
@@ -3085,10 +3092,10 @@
         "city": "Salvador",
         "country": "Brazil",
         "iata": "SSA",
-        "lat": -12.9086112976,
-        "lon": -38.3224983215,
+        "lat": -12.9086,
+        "lon": -38.3225,
         "name": "Salvador, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "STI": {
         "cca2": "DO",
@@ -3096,19 +3103,19 @@
         "city": "Santiago de los Caballeros",
         "country": "Dominican Republic",
         "iata": "STI",
-        "lat": 19.4060993195,
-        "lon": -70.6046981812,
+        "lat": 19.4061,
+        "lon": -70.6047,
         "name": "Santiago de los Caballeros, Dominican Republic",
-        "region": "North America"
+        "region": "Latin America & the Caribbean"
     },
     "STL": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "St. Louis",
+        "city": "St. Louis, MO",
         "country": "United States",
         "iata": "STL",
-        "lat": 38.7486991882,
-        "lon": -90.3700027466,
+        "lat": 38.7487,
+        "lon": -90.37,
         "name": "St. Louis, MO, United States",
         "region": "North America"
     },
@@ -3118,8 +3125,8 @@
         "city": "Stuttgart",
         "country": "Germany",
         "iata": "STR",
-        "lat": 48.783333,
-        "lon": 9.183333,
+        "lat": 48.6899,
+        "lon": 9.22196,
         "name": "Stuttgart, Germany",
         "region": "Europe"
     },
@@ -3129,19 +3136,19 @@
         "city": "Suva",
         "country": "Fiji",
         "iata": "SUV",
-        "lat": -18.11319,
-        "lon": 178.43859,
+        "lat": -18.0433,
+        "lon": 178.559,
         "name": "Suva, Fiji",
         "region": "Oceania"
     },
     "SYD": {
         "cca2": "AU",
         "cf_lb_region": "OC",
-        "city": "Sydney",
+        "city": "Sydney, NSW",
         "country": "Australia",
         "iata": "SYD",
-        "lat": -33.9460983276,
-        "lon": 151.177001953,
+        "lat": -33.9461,
+        "lon": 151.177,
         "name": "Sydney, NSW, Australia",
         "region": "Oceania"
     },
@@ -3173,8 +3180,8 @@
         "city": "Tbilisi",
         "country": "Georgia",
         "iata": "TBS",
-        "lat": 41.6692008972,
-        "lon": 44.95470047,
+        "lat": 41.6692,
+        "lon": 44.9547,
         "name": "Tbilisi, Georgia",
         "region": "Europe"
     },
@@ -3195,10 +3202,10 @@
         "city": "Tegucigalpa",
         "country": "Honduras",
         "iata": "TGU",
-        "lat": 14.0608,
+        "lat": 14.0609,
         "lon": -87.2172,
         "name": "Tegucigalpa, Honduras",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "TIA": {
         "cca2": "AL",
@@ -3206,19 +3213,19 @@
         "city": "Tirana",
         "country": "Albania",
         "iata": "TIA",
-        "lat": 41.4146995544,
-        "lon": 19.7206001282,
+        "lat": 41.4147,
+        "lon": 19.7206,
         "name": "Tirana, Albania",
         "region": "Europe"
     },
     "TLH": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Tallahassee",
+        "city": "Tallahassee, FL",
         "country": "United States",
         "iata": "TLH",
-        "lat": 30.3964996338,
-        "lon": -84.3503036499,
+        "lat": 30.3965,
+        "lon": -84.3503,
         "name": "Tallahassee, FL, United States",
         "region": "North America"
     },
@@ -3228,8 +3235,8 @@
         "city": "Tallinn",
         "country": "Estonia",
         "iata": "TLL",
-        "lat": 59.4132995605,
-        "lon": 24.8327999115,
+        "lat": 59.4133,
+        "lon": 24.8328,
         "name": "Tallinn, Estonia",
         "region": "Europe"
     },
@@ -3239,8 +3246,8 @@
         "city": "Tel Aviv",
         "country": "Israel",
         "iata": "TLV",
-        "lat": 32.0113983154,
-        "lon": 34.8866996765,
+        "lat": 32.0114,
+        "lon": 34.8867,
         "name": "Tel Aviv, Israel",
         "region": "Middle East"
     },
@@ -3261,8 +3268,8 @@
         "city": "Antananarivo",
         "country": "Madagascar",
         "iata": "TNR",
-        "lat": -18.91368,
-        "lon": 47.53613,
+        "lat": -18.7969,
+        "lon": 47.4788,
         "name": "Antananarivo, Madagascar",
         "region": "Africa"
     },
@@ -3272,8 +3279,8 @@
         "city": "Tampa",
         "country": "United States",
         "iata": "TPA",
-        "lat": 27.9755001068,
-        "lon": -82.533203125,
+        "lat": 27.9755,
+        "lon": -82.5332,
         "name": "Tampa, United States",
         "region": "North America"
     },
@@ -3283,10 +3290,10 @@
         "city": "Taipei",
         "country": "Taiwan",
         "iata": "TPE",
-        "lat": 25.0776996613,
-        "lon": 121.233001709,
+        "lat": 25.0777,
+        "lon": 121.233,
         "name": "Taipei",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "TUN": {
         "cca2": "TN",
@@ -3294,8 +3301,8 @@
         "city": "Tunis",
         "country": "Tunisia",
         "iata": "TUN",
-        "lat": 36.8510017395,
-        "lon": 10.2271995544,
+        "lat": 36.8511,
+        "lon": 10.2272,
         "name": "Tunis, Tunisia",
         "region": "Africa"
     },
@@ -3305,8 +3312,8 @@
         "city": "Berlin",
         "country": "Germany",
         "iata": "TXL",
-        "lat": 52.5597000122,
-        "lon": 13.2876996994,
+        "lat": 52.5597,
+        "lon": 13.2877,
         "name": "Berlin, Germany",
         "region": "Europe"
     },
@@ -3327,10 +3334,10 @@
         "city": "Uberlandia",
         "country": "Brazil",
         "iata": "UDI",
-        "lat": -18.8836116791,
-        "lon": -48.225276947,
+        "lat": -18.8836,
+        "lon": -48.2253,
         "name": "Uberlandia, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "UIO": {
         "cca2": "EC",
@@ -3338,10 +3345,10 @@
         "city": "Quito",
         "country": "Ecuador",
         "iata": "UIO",
-        "lat": -0.1291666667,
+        "lat": -0.129167,
         "lon": -78.3575,
         "name": "Quito, Ecuador",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "ULN": {
         "cca2": "MN",
@@ -3349,10 +3356,10 @@
         "city": "Ulaanbaatar",
         "country": "Mongolia",
         "iata": "ULN",
-        "lat": 47.8431015015,
-        "lon": 106.766998291,
+        "lat": 47.8431,
+        "lon": 106.767,
         "name": "Ulaanbaatar, Mongolia",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "URT": {
         "cca2": "TH",
@@ -3360,10 +3367,10 @@
         "city": "Surat Thani",
         "country": "Thailand",
         "iata": "URT",
-        "lat": 9.1325998306,
-        "lon": 99.135597229,
+        "lat": 9.1326,
+        "lon": 99.1356,
         "name": "Surat Thani, Thailand",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "VCP": {
         "cca2": "BR",
@@ -3371,10 +3378,10 @@
         "city": "Campinas",
         "country": "Brazil",
         "iata": "VCP",
-        "lat": -22.90662,
-        "lon": -47.08576,
+        "lat": -23.0081,
+        "lon": -47.1344,
         "name": "Campinas, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "VIE": {
         "cca2": "AT",
@@ -3382,8 +3389,8 @@
         "city": "Vienna",
         "country": "Austria",
         "iata": "VIE",
-        "lat": 48.1102981567,
-        "lon": 16.5697002411,
+        "lat": 48.1103,
+        "lon": 16.5697,
         "name": "Vienna, Austria",
         "region": "Europe"
     },
@@ -3393,10 +3400,10 @@
         "city": "Vitoria",
         "country": "Brazil",
         "iata": "VIX",
-        "lat": -20.64871,
-        "lon": -41.90857,
+        "lat": -20.2581,
+        "lon": -40.2864,
         "name": "Vitoria, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "VNO": {
         "cca2": "LT",
@@ -3404,8 +3411,8 @@
         "city": "Vilnius",
         "country": "Lithuania",
         "iata": "VNO",
-        "lat": 54.6341018677,
-        "lon": 25.2858009338,
+        "lat": 54.6341,
+        "lon": 25.2858,
         "name": "Vilnius, Lithuania",
         "region": "Europe"
     },
@@ -3415,10 +3422,10 @@
         "city": "Vientiane",
         "country": "Laos",
         "iata": "VTE",
-        "lat": 17.9757,
-        "lon": 102.5683,
+        "lat": 17.9883,
+        "lon": 102.563,
         "name": "Vientiane, Laos",
-        "region": "Asia Pacific"
+        "region": "Asia"
     },
     "WAW": {
         "cca2": "PL",
@@ -3426,8 +3433,8 @@
         "city": "Warsaw",
         "country": "Poland",
         "iata": "WAW",
-        "lat": 52.1656990051,
-        "lon": 20.9671001434,
+        "lat": 52.1657,
+        "lon": 20.9671,
         "name": "Warsaw, Poland",
         "region": "Europe"
     },
@@ -3437,8 +3444,8 @@
         "city": "Windhoek",
         "country": "Namibia",
         "iata": "WDH",
-        "lat": -22.565587,
-        "lon": 17.085334,
+        "lat": -22.4799,
+        "lon": 17.4709,
         "name": "Windhoek, Namibia",
         "region": "Africa"
     },
@@ -3448,8 +3455,8 @@
         "city": "Wroclaw",
         "country": "Poland",
         "iata": "WRO",
-        "lat": 51.106742,
-        "lon": 16.983773,
+        "lat": 51.1027,
+        "lon": 16.8858,
         "name": "Wroclaw, Poland",
         "region": "Europe"
     },
@@ -3459,10 +3466,10 @@
         "city": "Chapeco",
         "country": "Brazil",
         "iata": "XAP",
-        "lat": -27.1341991425,
-        "lon": -52.6566009521,
+        "lat": -27.1342,
+        "lon": -52.6566,
         "name": "Chapeco, Brazil",
-        "region": "South America"
+        "region": "Latin America & the Caribbean"
     },
     "XFN": {
         "cca2": "CN",
@@ -3492,8 +3499,6 @@
         "city": "Nasiriyah",
         "country": "Iraq",
         "iata": "XNH",
-        "lat": 30.9358005524,
-        "lon": 46.0900993347,
         "name": "Nasiriyah, Iraq",
         "region": "Middle East"
     },
@@ -3514,8 +3519,8 @@
         "city": "Halifax",
         "country": "Canada",
         "iata": "YHZ",
-        "lat": 44.64601,
-        "lon": -63.66844,
+        "lat": 44.8808,
+        "lon": -63.5086,
         "name": "Halifax, Canada",
         "region": "North America"
     },
@@ -3525,74 +3530,74 @@
         "city": "Ottawa",
         "country": "Canada",
         "iata": "YOW",
-        "lat": 45.3224983215,
-        "lon": -75.6691970825,
+        "lat": 45.3225,
+        "lon": -75.6692,
         "name": "Ottawa, Canada",
         "region": "North America"
     },
     "YUL": {
         "cca2": "CA",
         "cf_lb_region": "ENAM",
-        "city": "Montreal",
+        "city": "Montreal, QC",
         "country": "Canada",
         "iata": "YUL",
-        "lat": 45.4706001282,
-        "lon": -73.7407989502,
+        "lat": 45.4657,
+        "lon": -73.7455,
         "name": "Montreal, QC, Canada",
         "region": "North America"
     },
     "YVR": {
         "cca2": "CA",
         "cf_lb_region": "WNAM",
-        "city": "Vancouver",
+        "city": "Vancouver, BC",
         "country": "Canada",
         "iata": "YVR",
-        "lat": 49.193901062,
-        "lon": -123.183998108,
+        "lat": 49.1939,
+        "lon": -123.184,
         "name": "Vancouver, BC, Canada",
         "region": "North America"
     },
     "YWG": {
         "cca2": "CA",
         "cf_lb_region": "ENAM",
-        "city": "Winnipeg",
+        "city": "Winnipeg, MB",
         "country": "Canada",
         "iata": "YWG",
-        "lat": 49.9099998474,
-        "lon": -97.2398986816,
+        "lat": 49.91,
+        "lon": -97.2399,
         "name": "Winnipeg, MB, Canada",
         "region": "North America"
     },
     "YXE": {
         "cca2": "CA",
         "cf_lb_region": "ENAM",
-        "city": "Saskatoon",
+        "city": "Saskatoon, SK",
         "country": "Canada",
         "iata": "YXE",
-        "lat": 52.1707992554,
-        "lon": -106.699996948,
+        "lat": 52.1708,
+        "lon": -106.7,
         "name": "Saskatoon, SK, Canada",
         "region": "North America"
     },
     "YYC": {
         "cca2": "CA",
         "cf_lb_region": "WNAM",
-        "city": "Calgary",
+        "city": "Calgary, AB",
         "country": "Canada",
         "iata": "YYC",
-        "lat": 51.113899231,
-        "lon": -114.019996643,
+        "lat": 51.1139,
+        "lon": -114.02,
         "name": "Calgary, AB, Canada",
         "region": "North America"
     },
     "YYZ": {
         "cca2": "CA",
         "cf_lb_region": "ENAM",
-        "city": "Toronto",
+        "city": "Toronto, ON",
         "country": "Canada",
         "iata": "YYZ",
-        "lat": 43.6772003174,
-        "lon": -79.6305999756,
+        "lat": 43.6797,
+        "lon": -79.6227,
         "name": "Toronto, ON, Canada",
         "region": "North America"
     },
@@ -3602,8 +3607,8 @@
         "city": "Zagreb",
         "country": "Croatia",
         "iata": "ZAG",
-        "lat": 45.7429008484,
-        "lon": 16.0687999725,
+        "lat": 45.7429,
+        "lon": 16.0688,
         "name": "Zagreb, Croatia",
         "region": "Europe"
     },
@@ -3613,8 +3618,6 @@
         "city": "Ramallah",
         "country": "Palestine",
         "iata": "ZDM",
-        "lat": 32.2719,
-        "lon": 35.0194,
         "name": "Ramallah",
         "region": "Middle East"
     },
@@ -3624,8 +3627,8 @@
         "city": "Zurich",
         "country": "Switzerland",
         "iata": "ZRH",
-        "lat": 47.4646987915,
-        "lon": 8.5491695404,
+        "lat": 47.4647,
+        "lon": 8.54917,
         "name": "Zurich, Switzerland",
         "region": "Europe"
     }
