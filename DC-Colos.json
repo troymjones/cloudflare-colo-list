@@ -3503,6 +3503,8 @@
         "city": "Nasiriyah",
         "country": "Iraq",
         "iata": "XNH",
+        "lat": 36.281579,
+        "lon": -94.307766,
         "name": "Nasiriyah, Iraq",
         "region": "Middle East"
     },
@@ -3622,6 +3624,8 @@
         "city": "Ramallah",
         "country": "Palestine",
         "iata": "ZDM",
+        "lat": 32.27,
+        "lon": 35.0191667,
         "name": "Ramallah",
         "region": "Middle East"
     },
