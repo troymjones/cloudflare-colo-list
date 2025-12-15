@@ -1831,6 +1831,8 @@
         "city": "Chisinau",
         "country": "Moldova",
         "iata": "KIV",
+        "lat": 46.9277,
+        "lon": 28.931,
         "name": "Chisinau, Moldova",
         "region": "Europe"
     },
