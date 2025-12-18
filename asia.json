@@ -977,5 +977,16 @@
         "lon": 103.947,
         "name": "Chengdu, China",
         "region": "Asia"
+    },
+    {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Agra",
+        "country": "India",
+        "iata": "AGR",
+        "lat": 27.1558,
+        "lon": 77.9609,
+        "name": "Agra, India",
+        "region": "Asia"
     }
 ]

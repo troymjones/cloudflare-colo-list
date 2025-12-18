@@ -76,6 +76,17 @@
         "name": "Adelaide, SA, Australia",
         "region": "Oceania"
     },
+    "AGR": {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Agra",
+        "country": "India",
+        "iata": "AGR",
+        "lat": 27.1558,
+        "lon": 77.9609,
+        "name": "Agra, India",
+        "region": "Asia"
+    },
     "AKL": {
         "cca2": "NZ",
         "cf_lb_region": "OC",
