@@ -725,6 +725,17 @@
         "name": "Christchurch, New Zealand",
         "region": "Oceania"
     },
+    "CJB": {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Coimbatore",
+        "country": "India",
+        "iata": "CJB",
+        "lat": 11.03,
+        "lon": 77.0434,
+        "name": "Coimbatore, India",
+        "region": "Asia"
+    },
     "CKG": {
         "cca2": "CN",
         "cf_lb_region": "NEAS",

@@ -988,5 +988,16 @@
         "lon": 77.9609,
         "name": "Agra, India",
         "region": "Asia"
+    },
+    {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Coimbatore",
+        "country": "India",
+        "iata": "CJB",
+        "lat": 11.03,
+        "lon": 77.0434,
+        "name": "Coimbatore, India",
+        "region": "Asia"
     }
 ]
