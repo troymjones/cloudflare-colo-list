@@ -4,6 +4,7 @@ ATH,"Athens, Greece",Europe,Athens,Greece,GR,EEU,ATH,37.9364,23.9445
 BCN,"Barcelona, Spain",Europe,Barcelona,Spain,ES,WEU,BCN,41.2971,2.07846
 BEG,"Belgrade, Serbia",Europe,Belgrade,Serbia,RS,EEU,BEG,44.8184,20.3091
 TXL,"Berlin, Germany",Europe,Berlin,Germany,DE,EEU,TXL,52.5597,13.2877
+BOD,"Bordeaux, France",Europe,Bordeaux,France,FR,WEU,BOD,44.8283,-0.715556
 BTS,"Bratislava, Slovakia",Europe,Bratislava,Slovakia,SK,EEU,BTS,48.1702,17.2127
 BRU,"Brussels, Belgium",Europe,Brussels,Belgium,BE,WEU,BRU,50.9014,4.48444
 OTP,"Bucharest, Romania",Europe,Bucharest,Romania,RO,EEU,OTP,44.5711,26.085
@@ -23,6 +24,7 @@ KBP,"Kyiv, Ukraine",Europe,Kyiv,Ukraine,UA,EEU,KBP,50.345,30.8947
 LIS,"Lisbon, Portugal",Europe,Lisbon,Portugal,PT,WEU,LIS,38.7813,-9.13592
 LHR,"London, United Kingdom",Europe,London,United Kingdom,GB,WEU,LHR,51.4775,-0.461389
 LUX,"Luxembourg City, Luxembourg",Europe,Luxembourg City,Luxembourg,LU,WEU,LUX,49.6233,6.20444
+LYS,"Lyon, France",Europe,Lyon,France,FR,WEU,LYS,45.7256,5.08111
 MAD,"Madrid, Spain",Europe,Madrid,Spain,ES,WEU,MAD,40.4719,-3.56264
 MAN,"Manchester, United Kingdom",Europe,Manchester,United Kingdom,GB,WEU,MAN,53.3537,-2.27495
 MRS,"Marseille, France",Europe,Marseille,France,FR,WEU,MRS,43.4393,5.22142
@@ -39,6 +41,8 @@ KEF,"Reykjavik, Iceland",Europe,Reykjavik,Iceland,IS,WEU,KEF,63.985,-22.6056
 RIX,"Riga, Latvia",Europe,Riga,Latvia,LV,EEU,RIX,56.9236,23.9711
 FCO,"Rome, Italy",Europe,Rome,Italy,IT,EEU,FCO,41.8003,12.2389
 LED,"Saint Petersburg, Russia",Europe,Saint Petersburg,Russia,RU,EEU,LED,59.8003,30.2625
+MLA,"Santa Venera, Malta",Europe,Santa Venera,Malta,MT,WEU,MLA,35.8575,14.4775
+SKP,"Skopje, North Macedonia",Europe,Skopje,North Macedonia,MK,EEU,SKP,41.9616,21.6214
 SOF,"Sofia, Bulgaria",Europe,Sofia,Bulgaria,BG,EEU,SOF,42.6967,23.4114
 ARN,"Stockholm, Sweden",Europe,Stockholm,Sweden,SE,EEU,ARN,59.6519,17.9186
 STR,"Stuttgart, Germany",Europe,Stuttgart,Germany,DE,WEU,STR,48.6899,9.22196
@@ -49,13 +53,9 @@ TIA,"Tirana, Albania",Europe,Tirana,Albania,AL,EEU,TIA,41.4147,19.7206
 VIE,"Vienna, Austria",Europe,Vienna,Austria,AT,EEU,VIE,48.1103,16.5697
 VNO,"Vilnius, Lithuania",Europe,Vilnius,Lithuania,LT,EEU,VNO,54.6341,25.2858
 WAW,"Warsaw, Poland",Europe,Warsaw,Poland,PL,EEU,WAW,52.1657,20.9671
-ZAG,"Zagreb, Croatia",Europe,Zagreb,Croatia,HR,EEU,ZAG,45.7429,16.0688
-LYS,"Lyon, France",Europe,Lyon,France,FR,WEU,LYS,45.7256,5.08111
-BOD,"Bordeaux, France",Europe,Bordeaux,France,FR,WEU,BOD,44.8283,-0.715556
-SKP,"Skopje, North Macedonia",Europe,Skopje,North Macedonia,MK,EEU,SKP,41.9616,21.6214
-ZRH,"Zurich, Switzerland",Europe,Zurich,Switzerland,CH,WEU,ZRH,47.4647,8.54917
 WRO,"Wroclaw, Poland",Europe,Wroclaw,Poland,PL,EEU,WRO,51.1027,16.8858
-MLA,"Santa Venera, Malta",Europe,Santa Venera,Malta,MT,WEU,MLA,35.8575,14.4775
+ZAG,"Zagreb, Croatia",Europe,Zagreb,Croatia,HR,EEU,ZAG,45.7429,16.0688
+ZRH,"Zurich, Switzerland",Europe,Zurich,Switzerland,CH,WEU,ZRH,47.4647,8.54917
 AMM,"Amman, Jordan",Middle East,Amman,Jordan,JO,ME,AMM,31.7226,35.9932
 LLK,"Astara, Azerbaijan",Middle East,Astara,Azerbaijan,AZ,ME,LLK,38.7464,48.818
 BGW,"Baghdad, Iraq",Middle East,Baghdad,Iraq,IQ,ME,BGW,33.2625,44.2346
@@ -273,22 +273,31 @@ LHE,"Lahore, Pakistan",Asia,Lahore,Pakistan,PK,SAS,LHE,31.5216,74.4036
 CTU,"Chengdu, China",Asia,Chengdu,China,CN,NEAS,CTU,30.5785,103.947
 AGR,"Agra, India",Asia,Agra,India,IN,SAS,AGR,27.1558,77.9609
 CJB,"Coimbatore, India",Asia,Coimbatore,India,IN,SAS,CJB,11.03,77.0434
+ABQ,"Albuquerque, NM, United States",North America,"Albuquerque, NM",United States,US,WNAM,ABQ,35.0402,-106.609
+ANC,"Anchorage, AK, United States",North America,"Anchorage, AK",United States,US,WNAM,ANC,61.1744,-149.996
 IAD,"Ashburn, VA, United States",North America,"Ashburn, VA",United States,US,ENAM,IAD,38.9445,-77.4558
 ATL,"Atlanta, GA, United States",North America,"Atlanta, GA",United States,US,ENAM,ATL,33.6367,-84.4281
+AUS,"Austin, TX, United States",North America,"Austin, TX",United States,US,WNAM,AUS,30.1945,-97.6699
+BGR,"Bangor, ME, United States",North America,"Bangor, ME",United States,US,ENAM,BGR,44.8074,-68.8281
 BOS,"Boston, MA, United States",North America,"Boston, MA",United States,US,ENAM,BOS,42.3643,-71.0052
 BUF,"Buffalo, NY, United States",North America,"Buffalo, NY",United States,US,ENAM,BUF,42.9405,-78.7322
 YYC,"Calgary, AB, Canada",North America,"Calgary, AB",Canada,CA,WNAM,YYC,51.1139,-114.02
 CLT,"Charlotte, NC, United States",North America,"Charlotte, NC",United States,US,ENAM,CLT,35.214,-80.9431
 ORD,"Chicago, IL, United States",North America,"Chicago, IL",United States,US,ENAM,ORD,41.9786,-87.9047
+CLE,"Cleveland, OH, United States",North America,"Cleveland, OH",United States,US,ENAM,CLE,41.4117,-81.8498
 CMH,"Columbus, OH, United States",North America,"Columbus, OH",United States,US,ENAM,CMH,39.998,-82.8919
 DFW,"Dallas, TX, United States",North America,"Dallas, TX",United States,US,WNAM,DFW,32.8968,-97.038
 DEN,"Denver, CO, United States",North America,"Denver, CO",United States,US,WNAM,DEN,39.8617,-104.673
 DTW,"Detroit, MI, United States",North America,"Detroit, MI",United States,US,ENAM,DTW,42.2125,-83.3533
+RDU,"Durham, NC, United States",North America,"Durham, NC",United States,US,ENAM,RDU,35.8776,-78.7875
+GDL,"Guadalajara, Mexico",North America,Guadalajara,Mexico,MX,WNAM,GDL,20.5218,-103.311
+YHZ,"Halifax, Canada",North America,Halifax,Canada,CA,ENAM,YHZ,44.8808,-63.5086
 HNL,"Honolulu, HI, United States",North America,"Honolulu, HI",United States,US,WNAM,HNL,21.3206,-157.924
 IAH,"Houston, TX, United States",North America,"Houston, TX",United States,US,WNAM,IAH,29.9844,-95.3414
 IND,"Indianapolis, IN, United States",North America,"Indianapolis, IN",United States,US,ENAM,IND,39.7173,-86.2944
 JAX,"Jacksonville, FL, United States",North America,"Jacksonville, FL",United States,US,ENAM,JAX,30.4941,-81.6879
 MCI,"Kansas City, MO, United States",North America,"Kansas City, MO",United States,US,WNAM,MCI,39.2976,-94.7139
+KIN,"Kingston, Jamaica",North America,Kingston,Jamaica,JM,ENAM,KIN,17.9357,-76.7875
 LAS,"Las Vegas, NV, United States",North America,"Las Vegas, NV",United States,US,WNAM,LAS,36.0801,-115.152
 LAX,"Los Angeles, CA, United States",North America,"Los Angeles, CA",United States,US,WNAM,LAX,33.9425,-118.408
 MEM,"Memphis, TN, United States",North America,"Memphis, TN",United States,US,ENAM,MEM,35.0424,-89.9767
@@ -299,6 +308,7 @@ YUL,"Montreal, QC, Canada",North America,"Montreal, QC",Canada,CA,ENAM,YUL,45.46
 BNA,"Nashville, United States",North America,Nashville,United States,US,ENAM,BNA,36.1245,-86.6782
 EWR,"Newark, NJ, United States",North America,"Newark, NJ",United States,US,ENAM,EWR,40.6925,-74.1686
 ORF,"Norfolk, VA, United States",North America,"Norfolk, VA",United States,US,ENAM,ORF,36.8946,-76.2012
+OKC,"Oklahoma City, OK, United States",North America,"Oklahoma City, OK",United States,US,WNAM,OKC,35.3931,-97.6007
 OMA,"Omaha, NE, United States",North America,"Omaha, NE",United States,US,WNAM,OMA,41.3032,-95.8941
 YOW,"Ottawa, Canada",North America,Ottawa,Canada,CA,ENAM,YOW,45.3225,-75.6692
 PHL,"Philadelphia, United States",North America,Philadelphia,United States,US,ENAM,PHL,39.8719,-75.2411
@@ -309,26 +319,16 @@ QRO,"Queretaro, MX, Mexico",North America,"Queretaro, MX",Mexico,MX,WNAM,QRO,20.
 RIC,"Richmond, VA, United States",North America,"Richmond, VA",United States,US,ENAM,RIC,37.5052,-77.3197
 SMF,"Sacramento, CA, United States",North America,"Sacramento, CA",United States,US,WNAM,SMF,38.6954,-121.591
 SLC,"Salt Lake City, UT, United States",North America,"Salt Lake City, UT",United States,US,WNAM,SLC,40.7884,-111.978
+SAT,"San Antonio, TX, United States",North America,"San Antonio, TX",United States,US,WNAM,SAT,29.5337,-98.4698
 SAN,"San Diego, CA, United States",North America,"San Diego, CA",United States,US,WNAM,SAN,32.7336,-117.19
+SFO,"San Francisco, CA, United States",North America,"San Francisco, CA",United States,US,WNAM,SFO,37.619,-122.375
 SJC,"San Jose, CA, United States",North America,"San Jose, CA",United States,US,WNAM,SJC,37.3626,-121.929
 YXE,"Saskatoon, SK, Canada",North America,"Saskatoon, SK",Canada,CA,ENAM,YXE,52.1708,-106.7
 SEA,"Seattle, WA, United States",North America,"Seattle, WA",United States,US,WNAM,SEA,47.449,-122.309
 FSD,"Sioux Falls, SD, United States",North America,"Sioux Falls, SD",United States,US,ENAM,FSD,43.582,-96.7419
 STL,"St. Louis, MO, United States",North America,"St. Louis, MO",United States,US,ENAM,STL,38.7487,-90.37
 TLH,"Tallahassee, FL, United States",North America,"Tallahassee, FL",United States,US,ENAM,TLH,30.3965,-84.3503
+TPA,"Tampa, FL, United States",North America,"Tampa, FL",United States,US,ENAM,TPA,27.9755,-82.5332
 YYZ,"Toronto, ON, Canada",North America,"Toronto, ON",Canada,CA,ENAM,YYZ,43.6797,-79.6227
 YVR,"Vancouver, BC, Canada",North America,"Vancouver, BC",Canada,CA,WNAM,YVR,49.1939,-123.184
 YWG,"Winnipeg, MB, Canada",North America,"Winnipeg, MB",Canada,CA,ENAM,YWG,49.91,-97.2399
-SFO,"San Francisco, United States",North America,San Francisco,United States,US,WNAM,SFO,37.619,-122.375
-KIN,"Kingston, Jamaica",North America,Kingston,Jamaica,JM,ENAM,KIN,17.9357,-76.7875
-BGR,"Bangor, United States",North America,Bangor,United States,US,ENAM,BGR,44.8074,-68.8281
-AUS,"Austin, United States",North America,Austin,United States,US,WNAM,AUS,30.1945,-97.6699
-ABQ,"Albuquerque, United States",North America,Albuquerque,United States,US,WNAM,ABQ,35.0402,-106.609
-GDL,"Guadalajara, Mexico",North America,Guadalajara,Mexico,MX,WNAM,GDL,20.5218,-103.311
-SAT,"San Antonio, United States",North America,San Antonio,United States,US,WNAM,SAT,29.5337,-98.4698
-CLE,"Cleveland, United States",North America,Cleveland,United States,US,ENAM,CLE,41.4117,-81.8498
-RDU,"Durham, United States",North America,Durham,United States,US,ENAM,RDU,35.8776,-78.7875
-OKC,"Oklahoma City, United States",North America,Oklahoma City,United States,US,WNAM,OKC,35.3931,-97.6007
-TPA,"Tampa, United States",North America,Tampa,United States,US,ENAM,TPA,27.9755,-82.5332
-ANC,"Anchorage, United States",North America,Anchorage,United States,US,WNAM,ANC,61.1744,-149.996
-YHZ,"Halifax, Canada",North America,Halifax,Canada,CA,ENAM,YHZ,44.8808,-63.5086

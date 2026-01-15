@@ -55,6 +55,17 @@
         "region": "Europe"
     },
     {
+        "cca2": "FR",
+        "cf_lb_region": "WEU",
+        "city": "Bordeaux",
+        "country": "France",
+        "iata": "BOD",
+        "lat": 44.8283,
+        "lon": -0.715556,
+        "name": "Bordeaux, France",
+        "region": "Europe"
+    },
+    {
         "cca2": "SK",
         "cf_lb_region": "EEU",
         "city": "Bratislava",
@@ -264,6 +275,17 @@
         "region": "Europe"
     },
     {
+        "cca2": "FR",
+        "cf_lb_region": "WEU",
+        "city": "Lyon",
+        "country": "France",
+        "iata": "LYS",
+        "lat": 45.7256,
+        "lon": 5.08111,
+        "name": "Lyon, France",
+        "region": "Europe"
+    },
+    {
         "cca2": "ES",
         "cf_lb_region": "WEU",
         "city": "Madrid",
@@ -440,6 +462,28 @@
         "region": "Europe"
     },
     {
+        "cca2": "MT",
+        "cf_lb_region": "WEU",
+        "city": "Santa Venera",
+        "country": "Malta",
+        "iata": "MLA",
+        "lat": 35.8575,
+        "lon": 14.4775,
+        "name": "Santa Venera, Malta",
+        "region": "Europe"
+    },
+    {
+        "cca2": "MK",
+        "cf_lb_region": "EEU",
+        "city": "Skopje",
+        "country": "North Macedonia",
+        "iata": "SKP",
+        "lat": 41.9616,
+        "lon": 21.6214,
+        "name": "Skopje, North Macedonia",
+        "region": "Europe"
+    },
+    {
         "cca2": "BG",
         "cf_lb_region": "EEU",
         "city": "Sofia",
@@ -550,61 +594,6 @@
         "region": "Europe"
     },
     {
-        "cca2": "HR",
-        "cf_lb_region": "EEU",
-        "city": "Zagreb",
-        "country": "Croatia",
-        "iata": "ZAG",
-        "lat": 45.7429,
-        "lon": 16.0688,
-        "name": "Zagreb, Croatia",
-        "region": "Europe"
-    },
-    {
-        "cca2": "FR",
-        "cf_lb_region": "WEU",
-        "city": "Lyon",
-        "country": "France",
-        "iata": "LYS",
-        "lat": 45.7256,
-        "lon": 5.08111,
-        "name": "Lyon, France",
-        "region": "Europe"
-    },
-    {
-        "cca2": "FR",
-        "cf_lb_region": "WEU",
-        "city": "Bordeaux",
-        "country": "France",
-        "iata": "BOD",
-        "lat": 44.8283,
-        "lon": -0.715556,
-        "name": "Bordeaux, France",
-        "region": "Europe"
-    },
-    {
-        "cca2": "MK",
-        "cf_lb_region": "EEU",
-        "city": "Skopje",
-        "country": "North Macedonia",
-        "iata": "SKP",
-        "lat": 41.9616,
-        "lon": 21.6214,
-        "name": "Skopje, North Macedonia",
-        "region": "Europe"
-    },
-    {
-        "cca2": "CH",
-        "cf_lb_region": "WEU",
-        "city": "Zurich",
-        "country": "Switzerland",
-        "iata": "ZRH",
-        "lat": 47.4647,
-        "lon": 8.54917,
-        "name": "Zurich, Switzerland",
-        "region": "Europe"
-    },
-    {
         "cca2": "PL",
         "cf_lb_region": "EEU",
         "city": "Wroclaw",
@@ -616,14 +605,25 @@
         "region": "Europe"
     },
     {
-        "cca2": "MT",
+        "cca2": "HR",
+        "cf_lb_region": "EEU",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "iata": "ZAG",
+        "lat": 45.7429,
+        "lon": 16.0688,
+        "name": "Zagreb, Croatia",
+        "region": "Europe"
+    },
+    {
+        "cca2": "CH",
         "cf_lb_region": "WEU",
-        "city": "Santa Venera",
-        "country": "Malta",
-        "iata": "MLA",
-        "lat": 35.8575,
-        "lon": 14.4775,
-        "name": "Santa Venera, Malta",
+        "city": "Zurich",
+        "country": "Switzerland",
+        "iata": "ZRH",
+        "lat": 47.4647,
+        "lon": 8.54917,
+        "name": "Zurich, Switzerland",
         "region": "Europe"
     }
 ]

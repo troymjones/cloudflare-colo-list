@@ -1,6 +1,28 @@
 [
     {
         "cca2": "US",
+        "cf_lb_region": "WNAM",
+        "city": "Albuquerque, NM",
+        "country": "United States",
+        "iata": "ABQ",
+        "lat": 35.0402,
+        "lon": -106.609,
+        "name": "Albuquerque, NM, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "cf_lb_region": "WNAM",
+        "city": "Anchorage, AK",
+        "country": "United States",
+        "iata": "ANC",
+        "lat": 61.1744,
+        "lon": -149.996,
+        "name": "Anchorage, AK, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
         "cf_lb_region": "ENAM",
         "city": "Ashburn, VA",
         "country": "United States",
@@ -19,6 +41,28 @@
         "lat": 33.6367,
         "lon": -84.4281,
         "name": "Atlanta, GA, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "cf_lb_region": "WNAM",
+        "city": "Austin, TX",
+        "country": "United States",
+        "iata": "AUS",
+        "lat": 30.1945,
+        "lon": -97.6699,
+        "name": "Austin, TX, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "cf_lb_region": "ENAM",
+        "city": "Bangor, ME",
+        "country": "United States",
+        "iata": "BGR",
+        "lat": 44.8074,
+        "lon": -68.8281,
+        "name": "Bangor, ME, United States",
         "region": "North America"
     },
     {
@@ -79,6 +123,17 @@
     {
         "cca2": "US",
         "cf_lb_region": "ENAM",
+        "city": "Cleveland, OH",
+        "country": "United States",
+        "iata": "CLE",
+        "lat": 41.4117,
+        "lon": -81.8498,
+        "name": "Cleveland, OH, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Columbus, OH",
         "country": "United States",
         "iata": "CMH",
@@ -118,6 +173,39 @@
         "lat": 42.2125,
         "lon": -83.3533,
         "name": "Detroit, MI, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "cf_lb_region": "ENAM",
+        "city": "Durham, NC",
+        "country": "United States",
+        "iata": "RDU",
+        "lat": 35.8776,
+        "lon": -78.7875,
+        "name": "Durham, NC, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "MX",
+        "cf_lb_region": "WNAM",
+        "city": "Guadalajara",
+        "country": "Mexico",
+        "iata": "GDL",
+        "lat": 20.5218,
+        "lon": -103.311,
+        "name": "Guadalajara, Mexico",
+        "region": "North America"
+    },
+    {
+        "cca2": "CA",
+        "cf_lb_region": "ENAM",
+        "city": "Halifax",
+        "country": "Canada",
+        "iata": "YHZ",
+        "lat": 44.8808,
+        "lon": -63.5086,
+        "name": "Halifax, Canada",
         "region": "North America"
     },
     {
@@ -173,6 +261,17 @@
         "lat": 39.2976,
         "lon": -94.7139,
         "name": "Kansas City, MO, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "JM",
+        "cf_lb_region": "ENAM",
+        "city": "Kingston",
+        "country": "Jamaica",
+        "iata": "KIN",
+        "lat": 17.9357,
+        "lon": -76.7875,
+        "name": "Kingston, Jamaica",
         "region": "North America"
     },
     {
@@ -288,6 +387,17 @@
     {
         "cca2": "US",
         "cf_lb_region": "WNAM",
+        "city": "Oklahoma City, OK",
+        "country": "United States",
+        "iata": "OKC",
+        "lat": 35.3931,
+        "lon": -97.6007,
+        "name": "Oklahoma City, OK, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "Omaha, NE",
         "country": "United States",
         "iata": "OMA",
@@ -398,12 +508,34 @@
     {
         "cca2": "US",
         "cf_lb_region": "WNAM",
+        "city": "San Antonio, TX",
+        "country": "United States",
+        "iata": "SAT",
+        "lat": 29.5337,
+        "lon": -98.4698,
+        "name": "San Antonio, TX, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "cf_lb_region": "WNAM",
         "city": "San Diego, CA",
         "country": "United States",
         "iata": "SAN",
         "lat": 32.7336,
         "lon": -117.19,
         "name": "San Diego, CA, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "cf_lb_region": "WNAM",
+        "city": "San Francisco, CA",
+        "country": "United States",
+        "iata": "SFO",
+        "lat": 37.619,
+        "lon": -122.375,
+        "name": "San Francisco, CA, United States",
         "region": "North America"
     },
     {
@@ -473,6 +605,17 @@
         "region": "North America"
     },
     {
+        "cca2": "US",
+        "cf_lb_region": "ENAM",
+        "city": "Tampa, FL",
+        "country": "United States",
+        "iata": "TPA",
+        "lat": 27.9755,
+        "lon": -82.5332,
+        "name": "Tampa, FL, United States",
+        "region": "North America"
+    },
+    {
         "cca2": "CA",
         "cf_lb_region": "ENAM",
         "city": "Toronto, ON",
@@ -503,149 +646,6 @@
         "lat": 49.91,
         "lon": -97.2399,
         "name": "Winnipeg, MB, Canada",
-        "region": "North America"
-    },
-    {
-        "cca2": "US",
-        "cf_lb_region": "WNAM",
-        "city": "San Francisco",
-        "country": "United States",
-        "iata": "SFO",
-        "lat": 37.619,
-        "lon": -122.375,
-        "name": "San Francisco, United States",
-        "region": "North America"
-    },
-    {
-        "cca2": "JM",
-        "cf_lb_region": "ENAM",
-        "city": "Kingston",
-        "country": "Jamaica",
-        "iata": "KIN",
-        "lat": 17.9357,
-        "lon": -76.7875,
-        "name": "Kingston, Jamaica",
-        "region": "North America"
-    },
-    {
-        "cca2": "US",
-        "cf_lb_region": "ENAM",
-        "city": "Bangor",
-        "country": "United States",
-        "iata": "BGR",
-        "lat": 44.8074,
-        "lon": -68.8281,
-        "name": "Bangor, United States",
-        "region": "North America"
-    },
-    {
-        "cca2": "US",
-        "cf_lb_region": "WNAM",
-        "city": "Austin",
-        "country": "United States",
-        "iata": "AUS",
-        "lat": 30.1945,
-        "lon": -97.6699,
-        "name": "Austin, United States",
-        "region": "North America"
-    },
-    {
-        "cca2": "US",
-        "cf_lb_region": "WNAM",
-        "city": "Albuquerque",
-        "country": "United States",
-        "iata": "ABQ",
-        "lat": 35.0402,
-        "lon": -106.609,
-        "name": "Albuquerque, United States",
-        "region": "North America"
-    },
-    {
-        "cca2": "MX",
-        "cf_lb_region": "WNAM",
-        "city": "Guadalajara",
-        "country": "Mexico",
-        "iata": "GDL",
-        "lat": 20.5218,
-        "lon": -103.311,
-        "name": "Guadalajara, Mexico",
-        "region": "North America"
-    },
-    {
-        "cca2": "US",
-        "cf_lb_region": "WNAM",
-        "city": "San Antonio",
-        "country": "United States",
-        "iata": "SAT",
-        "lat": 29.5337,
-        "lon": -98.4698,
-        "name": "San Antonio, United States",
-        "region": "North America"
-    },
-    {
-        "cca2": "US",
-        "cf_lb_region": "ENAM",
-        "city": "Cleveland",
-        "country": "United States",
-        "iata": "CLE",
-        "lat": 41.4117,
-        "lon": -81.8498,
-        "name": "Cleveland, United States",
-        "region": "North America"
-    },
-    {
-        "cca2": "US",
-        "cf_lb_region": "ENAM",
-        "city": "Durham",
-        "country": "United States",
-        "iata": "RDU",
-        "lat": 35.8776,
-        "lon": -78.7875,
-        "name": "Durham, United States",
-        "region": "North America"
-    },
-    {
-        "cca2": "US",
-        "cf_lb_region": "WNAM",
-        "city": "Oklahoma City",
-        "country": "United States",
-        "iata": "OKC",
-        "lat": 35.3931,
-        "lon": -97.6007,
-        "name": "Oklahoma City, United States",
-        "region": "North America"
-    },
-    {
-        "cca2": "US",
-        "cf_lb_region": "ENAM",
-        "city": "Tampa",
-        "country": "United States",
-        "iata": "TPA",
-        "lat": 27.9755,
-        "lon": -82.5332,
-        "name": "Tampa, United States",
-        "region": "North America"
-    },
-    {
-        "cca2": "US",
-        "cf_lb_region": "WNAM",
-        "city": "Anchorage",
-        "country": "United States",
-        "iata": "ANC",
-        "lat": 61.1744,
-        "lon": -149.996,
-        "name": "Anchorage, United States",
-        "region": "North America"
-    },
-    {
-        "cca2": "CA",
-        "cf_lb_region": "ENAM",
-        "city": "Halifax",
-        "country": "Canada",
-        "iata": "YHZ",
-        "lat": 44.8808,
-        "lon": -63.5086,
-        "name": "Halifax, Canada",
         "region": "North America"
     }
 ]

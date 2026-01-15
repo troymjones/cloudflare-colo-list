@@ -24,12 +24,12 @@
     "ABQ": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Albuquerque",
+        "city": "Albuquerque, NM",
         "country": "United States",
         "iata": "ABQ",
         "lat": 35.0402,
         "lon": -106.609,
-        "name": "Albuquerque, United States",
+        "name": "Albuquerque, NM, United States",
         "region": "North America"
     },
     "ACC": {
@@ -167,12 +167,12 @@
     "ANC": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Anchorage",
+        "city": "Anchorage, AK",
         "country": "United States",
         "iata": "ANC",
         "lat": 61.1744,
         "lon": -149.996,
-        "name": "Anchorage, United States",
+        "name": "Anchorage, AK, United States",
         "region": "North America"
     },
     "ARI": {
@@ -255,12 +255,12 @@
     "AUS": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Austin",
+        "city": "Austin, TX",
         "country": "United States",
         "iata": "AUS",
         "lat": 30.1945,
         "lon": -97.6699,
-        "name": "Austin, United States",
+        "name": "Austin, TX, United States",
         "region": "North America"
     },
     "BAH": {
@@ -343,12 +343,12 @@
     "BGR": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Bangor",
+        "city": "Bangor, ME",
         "country": "United States",
         "iata": "BGR",
         "lat": 44.8074,
         "lon": -68.8281,
-        "name": "Bangor, United States",
+        "name": "Bangor, ME, United States",
         "region": "North America"
     },
     "BGW": {
@@ -750,12 +750,12 @@
     "CLE": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Cleveland",
+        "city": "Cleveland, OH",
         "country": "United States",
         "iata": "CLE",
         "lat": 41.4117,
         "lon": -81.8498,
-        "name": "Cleveland, United States",
+        "name": "Cleveland, OH, United States",
         "region": "North America"
     },
     "CLO": {
@@ -2499,12 +2499,12 @@
     "OKC": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Oklahoma City",
+        "city": "Oklahoma City, OK",
         "country": "United States",
         "iata": "OKC",
         "lat": 35.3931,
         "lon": -97.6007,
-        "name": "Oklahoma City, United States",
+        "name": "Oklahoma City, OK, United States",
         "region": "North America"
     },
     "OMA": {
@@ -2807,12 +2807,12 @@
     "RDU": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Durham",
+        "city": "Durham, NC",
         "country": "United States",
         "iata": "RDU",
         "lat": 35.8776,
         "lon": -78.7875,
-        "name": "Durham, United States",
+        "name": "Durham, NC, United States",
         "region": "North America"
     },
     "REC": {
@@ -2895,12 +2895,12 @@
     "SAT": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "San Antonio",
+        "city": "San Antonio, TX",
         "country": "United States",
         "iata": "SAT",
         "lat": 29.5337,
         "lon": -98.4698,
-        "name": "San Antonio, United States",
+        "name": "San Antonio, TX, United States",
         "region": "North America"
     },
     "SCL": {
@@ -2939,12 +2939,12 @@
     "SFO": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "San Francisco",
+        "city": "San Francisco, CA",
         "country": "United States",
         "iata": "SFO",
         "lat": 37.619,
         "lon": -122.375,
-        "name": "San Francisco, United States",
+        "name": "San Francisco, CA, United States",
         "region": "North America"
     },
     "SGN": {
@@ -3302,12 +3302,12 @@
     "TPA": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Tampa",
+        "city": "Tampa, FL",
         "country": "United States",
         "iata": "TPA",
         "lat": 27.9755,
         "lon": -82.5332,
-        "name": "Tampa, United States",
+        "name": "Tampa, FL, United States",
         "region": "North America"
     },
     "TPE": {
