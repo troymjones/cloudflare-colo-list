@@ -2419,17 +2419,6 @@
         "name": "Najaf, Iraq",
         "region": "Middle East"
     },
-    "NNG": {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Nanning",
-        "country": "China",
-        "iata": "NNG",
-        "lat": 22.6083,
-        "lon": 108.172,
-        "name": "Nanning, China",
-        "region": "Asia"
-    },
     "NOU": {
         "cca2": "NC",
         "cf_lb_region": "OC",
