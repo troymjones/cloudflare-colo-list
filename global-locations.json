@@ -2882,17 +2882,6 @@
         "region": "Asia"
     },
     {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Nanning",
-        "country": "China",
-        "iata": "NNG",
-        "lat": 22.6083,
-        "lon": 108.172,
-        "name": "Nanning, China",
-        "region": "Asia"
-    },
-    {
         "cca2": "MY",
         "cf_lb_region": "SEAS",
         "city": "Kuching",
