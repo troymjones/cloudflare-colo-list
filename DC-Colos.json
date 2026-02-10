@@ -3519,17 +3519,6 @@
         "name": "Nasiriyah, Iraq",
         "region": "Middle East"
     },
-    "XNN": {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Xining",
-        "country": "China",
-        "iata": "XNN",
-        "lat": 36.5275,
-        "lon": 102.043,
-        "name": "Xining, China",
-        "region": "Asia"
-    },
     "YHZ": {
         "cca2": "CA",
         "cf_lb_region": "ENAM",
