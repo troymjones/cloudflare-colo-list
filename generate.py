@@ -13,6 +13,10 @@ os.chdir(os.path.split(os.path.realpath(sys.argv[0]))[0])
 
 exit_code = 0
 
+coordinate_overrides = {
+    "XNH": {"lat": 31.05, "lon": 46.27},  # Nasiriyah, Iraq (upstream data places it in Kansas)
+}
+
 missing_city_country = {
     "Hong Kong": "China",
     "Ramallah": "Palestine",
@@ -365,6 +369,11 @@ def generate():
                 data[iata].update(iata_lat_long_backup[iata])
             else:
                 print('No lat/long data for', iata)
+
+    # Apply coordinate overrides for known-bad upstream data
+    for iata, coords in coordinate_overrides.items():
+        if iata in data:
+            data[iata].update(coords)
 
     normalize_dict(data)
     normalize_dict(speed_locations)
