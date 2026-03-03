@@ -1,0 +1,93 @@
+{
+    "BR": {
+        "NSAM": [
+            "Amazonas",
+            "Bahia",
+            "Ceará",
+            "Maranhão",
+            "Pará",
+            "Pernambuco",
+            "Tocantins"
+        ],
+        "SSAM": [
+            "Espírito Santo",
+            "Federal-District",
+            "Goiás",
+            "Mato Grosso",
+            "Mato Grosso do Sul",
+            "Minas Gerais",
+            "Paraná",
+            "Rio de Janeiro",
+            "Rio Grande do Sul",
+            "Santa Catarina",
+            "São Paulo"
+        ]
+    },
+    "DE": {
+        "EEU": [
+            "Berlin",
+            "Brandenburg",
+            "Hamburg",
+            "Mecklenburg-Vorpommern",
+            "Sachsen",
+            "Sachsen-Anhalt",
+            "Schleswig-Holstein",
+            "Thüringen"
+        ],
+        "WEU": [
+            "Baden-Württemberg",
+            "Bayern",
+            "Bremen",
+            "Hesse",
+            "Niedersachsen",
+            "Nordrhein-Westfalen",
+            "Rheinland-Pfalz",
+            "Saarland"
+        ]
+    },
+    "IT": {
+        "EEU": [
+            "Abruzzo",
+            "Apulia",
+            "Basilicata",
+            "Calabria",
+            "Campania",
+            "Latium",
+            "Molise",
+            "Sardinia",
+            "Sicily"
+        ],
+        "WEU": [
+            "Emilia-Romagna",
+            "Friuli Venezia Giulia",
+            "Liguria",
+            "Lombardy",
+            "Piedmont",
+            "Trentino-Alto Adige",
+            "Tuscany",
+            "Umbria",
+            "Veneto"
+        ]
+    },
+    "US": {
+        "ENAM": [
+            "District of Columbia",
+            "Puerto Rico"
+        ]
+    },
+    "RU": {
+        "EEU": [
+            "Bashkortostan",
+            "Leningradskaya-Oblast'",
+            "Moscow",
+            "Moscow-Oblast",
+            "Tatarstan"
+        ],
+        "SAS": [
+            "Chelyabinskaya",
+            "Krasnoyarskiy",
+            "Novosibirskaya-Oblast'",
+            "Sverdlovsk"
+        ]
+    }
+}
