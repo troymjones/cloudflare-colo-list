@@ -43,6 +43,17 @@
         "name": "Accra, Ghana",
         "region": "Africa"
     },
+    "ACX": {
+        "cca2": "CN",
+        "cf_lb_region": "NEAS",
+        "city": "Xingyi",
+        "country": "China",
+        "iata": "ACX",
+        "lat": 25.08639,
+        "lon": 104.95944,
+        "name": "Xingyi, China",
+        "region": "Asia"
+    },
     "ADB": {
         "cca2": "TR",
         "cf_lb_region": "EEU",
