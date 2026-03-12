@@ -3475,6 +3475,17 @@
         "name": "Windhoek, Namibia",
         "region": "Africa"
     },
+    "WLG": {
+        "cca2": "NZ",
+        "cf_lb_region": "OC",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "iata": "WLG",
+        "lat": -41.3272,
+        "lon": 174.80499,
+        "name": "Wellington, New Zealand",
+        "region": "Oceania"
+    },
     "WRO": {
         "cca2": "PL",
         "cf_lb_region": "EEU",
