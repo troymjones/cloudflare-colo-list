@@ -3509,6 +3509,17 @@
         "region": "Europe"
     },
     {
+        "cca2": "NZ",
+        "cf_lb_region": "OC",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "iata": "WLG",
+        "lat": -41.3272,
+        "lon": 174.80499,
+        "name": "Wellington, New Zealand",
+        "region": "Oceania"
+    },
+    {
         "cca2": "NA",
         "cf_lb_region": "SAF",
         "city": "Windhoek",
