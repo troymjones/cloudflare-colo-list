@@ -6,7 +6,7 @@ on:
   push:
     branches:
     - main
-  pull_request: 
+  pull_request:
   workflow_dispatch:
 
 jobs:
@@ -28,9 +28,18 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
       working-directory: ${{ env.workpath }}
-    
+
     - name: Checkout
       uses: actions/checkout@v4
+
+    - name: Save current PoP count
+      run: |
+        if [ -f global-locations.json ]; then
+          python3 -c "import json; data=json.load(open('global-locations.json')); print('\n'.join(sorted(p['iata'] for p in data)))" > /tmp/pops-before.txt
+        else
+          touch /tmp/pops-before.txt
+        fi
+      working-directory: ${{ env.workpath }}
 
     - name: Generate data
       env:
@@ -39,12 +48,42 @@ jobs:
       run: python generate.py
       working-directory: ${{ env.workpath }}
 
+    - name: Build commit message
+      id: commit_msg
+      run: |
+        python3 -c "import json; data=json.load(open('global-locations.json')); print('\n'.join(sorted(p['iata'] for p in data)))" > /tmp/pops-after.txt
+
+        ADDED=$(comm -13 /tmp/pops-before.txt /tmp/pops-after.txt)
+        REMOVED=$(comm -23 /tmp/pops-before.txt /tmp/pops-after.txt)
+        TOTAL=$(wc -l < /tmp/pops-after.txt | tr -d ' ')
+
+        if [ -n "$ADDED" ] || [ -n "$REMOVED" ]; then
+          MSG="Update PoP data (${TOTAL} locations)"
+          BODY=""
+          if [ -n "$ADDED" ]; then
+            ADDED_DETAILS=""
+            for iata in $ADDED; do
+              name=$(python3 -c "import json; data=json.load(open('DC-Colos.json')); print(data.get('${iata}',{}).get('name','unknown'))")
+              region=$(python3 -c "import json; data=json.load(open('DC-Colos.json')); print(data.get('${iata}',{}).get('cf_lb_region','?'))")
+              ADDED_DETAILS="${ADDED_DETAILS}\n  + ${iata} ${name} (${region})"
+            done
+            BODY="${BODY}\nNew PoPs:${ADDED_DETAILS}"
+          fi
+          if [ -n "$REMOVED" ]; then
+            REMOVED_LIST=$(echo "$REMOVED" | tr '\n' ', ' | sed 's/,$//')
+            BODY="${BODY}\nRemoved PoPs: ${REMOVED_LIST}"
+          fi
+          echo "message<<ENDMSG" >> $GITHUB_OUTPUT
+          echo -e "${MSG}\n${BODY}" >> $GITHUB_OUTPUT
+          echo "ENDMSG" >> $GITHUB_OUTPUT
+        else
+          echo "message=Update PoP data (${TOTAL} locations, no changes)" >> $GITHUB_OUTPUT
+        fi
+      working-directory: ${{ env.workpath }}
+
     - name: Push generated data
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         branch: main
         repository: .
-        commit_options: '--allow-empty'
-        commit_message: |
-          update generated data
-          Triggered by ${{ github.sha }}
+        commit_message: ${{ steps.commit_msg.outputs.message }}
