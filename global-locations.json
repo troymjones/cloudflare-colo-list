@@ -1980,6 +1980,17 @@
         "region": "Africa"
     },
     {
+        "cca2": "CN",
+        "cf_lb_region": "NEAS",
+        "city": "Luoyang",
+        "country": "China",
+        "iata": "LYA",
+        "lat": 34.7411,
+        "lon": 112.388,
+        "name": "Luoyang, China",
+        "region": "Asia"
+    },
+    {
         "cca2": "ZM",
         "cf_lb_region": "SAF",
         "city": "Lusaka",
