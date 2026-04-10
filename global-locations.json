@@ -1947,6 +1947,17 @@
         "region": "Europe"
     },
     {
+        "cca2": "SI",
+        "cf_lb_region": "WEU",
+        "city": "Ljubljana",
+        "country": "Slovenia",
+        "iata": "LJU",
+        "lat": 46.2237,
+        "lon": 14.4576,
+        "name": "Ljubljana, Slovenia",
+        "region": "Europe"
+    },
+    {
         "cca2": "GB",
         "cf_lb_region": "WEU",
         "city": "London",
