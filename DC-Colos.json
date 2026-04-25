@@ -2749,6 +2749,17 @@
         "name": "Phnom Penh, Cambodia",
         "region": "Asia"
     },
+    "PNQ": {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Pune",
+        "country": "India",
+        "iata": "PNQ",
+        "lat": 18.5821,
+        "lon": 73.9197,
+        "name": "Pune, India",
+        "region": "Asia"
+    },
     "POA": {
         "cca2": "BR",
         "cf_lb_region": "SSAM",
