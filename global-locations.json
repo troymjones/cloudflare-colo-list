@@ -946,17 +946,6 @@
         "region": "North America"
     },
     {
-        "cca2": "CL",
-        "cf_lb_region": "SSAM",
-        "city": "Concepcion",
-        "country": "Chile",
-        "iata": "CCP",
-        "lat": -36.7727,
-        "lon": -73.0631,
-        "name": "Concepcion, Chile",
-        "region": "Latin America & the Caribbean"
-    },
-    {
         "cca2": "DZ",
         "cf_lb_region": "NAF",
         "city": "Constantine",
