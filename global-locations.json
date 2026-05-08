@@ -2882,6 +2882,17 @@
         "region": "Latin America & the Caribbean"
     },
     {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Sambalpur",
+        "country": "India",
+        "iata": "JRG",
+        "lat": 21.91483,
+        "lon": 84.04867,
+        "name": "Sambalpur, India",
+        "region": "Asia"
+    },
+    {
         "cca2": "US",
         "cf_lb_region": "WNAM",
         "city": "San Antonio, TX",

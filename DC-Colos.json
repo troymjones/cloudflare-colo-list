@@ -1759,6 +1759,17 @@
         "name": "Joinville, Brazil",
         "region": "Latin America & the Caribbean"
     },
+    "JRG": {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Sambalpur",
+        "country": "India",
+        "iata": "JRG",
+        "lat": 21.91483,
+        "lon": 84.04867,
+        "name": "Sambalpur, India",
+        "region": "Asia"
+    },
     "JXG": {
         "cca2": "CN",
         "cf_lb_region": "NEAS",
