@@ -473,6 +473,17 @@
         "region": "Europe"
     },
     {
+        "cca2": "MT",
+        "cf_lb_region": "WEU",
+        "city": "Santa Venera",
+        "country": "Malta",
+        "iata": "MLA",
+        "lat": 35.8575,
+        "lon": 14.4775,
+        "name": "Santa Venera, Malta",
+        "region": "Europe"
+    },
+    {
         "cca2": "MK",
         "cf_lb_region": "EEU",
         "city": "Skopje",
@@ -558,17 +569,6 @@
         "lat": 41.4147,
         "lon": 19.7206,
         "name": "Tirana, Albania",
-        "region": "Europe"
-    },
-    {
-        "cca2": "MT",
-        "cf_lb_region": "WEU",
-        "city": "Valletta",
-        "country": "Malta",
-        "iata": "MLA",
-        "lat": 35.8575,
-        "lon": 14.4775,
-        "name": "Valletta, Malta",
         "region": "Europe"
     },
     {

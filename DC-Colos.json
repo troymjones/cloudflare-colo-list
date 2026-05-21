@@ -981,12 +981,12 @@
     "DAR": {
         "cca2": "TZ",
         "cf_lb_region": "SAF",
-        "city": "Dar es Salaam",
+        "city": "Dar Es Salaam",
         "country": "Tanzania",
         "iata": "DAR",
         "lat": -6.87811,
         "lon": 39.2026,
-        "name": "Dar es Salaam, Tanzania",
+        "name": "Dar Es Salaam, Tanzania",
         "region": "Africa"
     },
     "DEL": {
@@ -1454,12 +1454,12 @@
     "HAK": {
         "cca2": "CN",
         "cf_lb_region": "NEAS",
-        "city": "Chengmai",
+        "city": "Haikou",
         "country": "China",
         "iata": "HAK",
         "lat": 19.9349,
         "lon": 110.459,
-        "name": "Chengmai, China",
+        "name": "Haikou, China",
         "region": "Asia"
     },
     "HAM": {
@@ -1718,12 +1718,12 @@
     "JIB": {
         "cca2": "DJ",
         "cf_lb_region": "NAF",
-        "city": "Djibouti",
+        "city": "Djibouti City",
         "country": "Djibouti",
         "iata": "JIB",
         "lat": 11.5473,
         "lon": 43.1595,
-        "name": "Djibouti, Djibouti",
+        "name": "Djibouti City, Djibouti",
         "region": "Africa"
     },
     "JNB": {
@@ -1850,12 +1850,12 @@
     "KHN": {
         "cca2": "CN",
         "cf_lb_region": "NEAS",
-        "city": "Nanchang",
+        "city": "Xinyu",
         "country": "China",
         "iata": "KHN",
         "lat": 28.865,
         "lon": 115.9,
-        "name": "Nanchang, China",
+        "name": "Xinyu, China",
         "region": "Asia"
     },
     "KIN": {
@@ -2312,12 +2312,12 @@
     "MLA": {
         "cca2": "MT",
         "cf_lb_region": "WEU",
-        "city": "Valletta",
+        "city": "Santa Venera",
         "country": "Malta",
         "iata": "MLA",
         "lat": 35.8575,
         "lon": 14.4775,
-        "name": "Valletta, Malta",
+        "name": "Santa Venera, Malta",
         "region": "Europe"
     },
     "MLE": {
@@ -3082,12 +3082,12 @@
     "SJW": {
         "cca2": "CN",
         "cf_lb_region": "NEAS",
-        "city": "Shijiazhuang",
+        "city": "Hengshui",
         "country": "China",
         "iata": "SJW",
         "lat": 38.2807,
         "lon": 114.697,
-        "name": "Shijiazhuang, China",
+        "name": "Hengshui, China",
         "region": "Asia"
     },
     "SKG": {
@@ -3324,12 +3324,12 @@
     "TNA": {
         "cca2": "CN",
         "cf_lb_region": "NEAS",
-        "city": "Zibo",
+        "city": "Jinan",
         "country": "China",
         "iata": "TNA",
         "lat": 36.8572,
         "lon": 117.216,
-        "name": "Zibo, China",
+        "name": "Jinan, China",
         "region": "Asia"
     },
     "TNR": {

@@ -814,17 +814,6 @@
         "region": "Asia"
     },
     {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Chengmai",
-        "country": "China",
-        "iata": "HAK",
-        "lat": 19.9349,
-        "lon": 110.459,
-        "name": "Chengmai, China",
-        "region": "Asia"
-    },
-    {
         "cca2": "IN",
         "cf_lb_region": "SAS",
         "city": "Chennai",
@@ -1058,12 +1047,12 @@
     {
         "cca2": "TZ",
         "cf_lb_region": "SAF",
-        "city": "Dar es Salaam",
+        "city": "Dar Es Salaam",
         "country": "Tanzania",
         "iata": "DAR",
         "lat": -6.87811,
         "lon": 39.2026,
-        "name": "Dar es Salaam, Tanzania",
+        "name": "Dar Es Salaam, Tanzania",
         "region": "Africa"
     },
     {
@@ -1113,12 +1102,12 @@
     {
         "cca2": "DJ",
         "cf_lb_region": "NAF",
-        "city": "Djibouti",
+        "city": "Djibouti City",
         "country": "Djibouti",
         "iata": "JIB",
         "lat": 11.5473,
         "lon": 43.1595,
-        "name": "Djibouti, Djibouti",
+        "name": "Djibouti City, Djibouti",
         "region": "Africa"
     },
     {
@@ -1397,6 +1386,17 @@
         "region": "Middle East"
     },
     {
+        "cca2": "CN",
+        "cf_lb_region": "NEAS",
+        "city": "Haikou",
+        "country": "China",
+        "iata": "HAK",
+        "lat": 19.9349,
+        "lon": 110.459,
+        "name": "Haikou, China",
+        "region": "Asia"
+    },
+    {
         "cca2": "CA",
         "cf_lb_region": "ENAM",
         "city": "Halifax",
@@ -1450,6 +1450,17 @@
         "lon": 24.9633,
         "name": "Helsinki, Finland",
         "region": "Europe"
+    },
+    {
+        "cca2": "CN",
+        "cf_lb_region": "NEAS",
+        "city": "Hengshui",
+        "country": "China",
+        "iata": "SJW",
+        "lat": 38.2807,
+        "lon": 114.697,
+        "name": "Hengshui, China",
+        "region": "Asia"
     },
     {
         "cca2": "VN",
@@ -1603,6 +1614,17 @@
         "lat": 30.78,
         "lon": 120.74,
         "name": "Jiaxing, China",
+        "region": "Asia"
+    },
+    {
+        "cca2": "CN",
+        "cf_lb_region": "NEAS",
+        "city": "Jinan",
+        "country": "China",
+        "iata": "TNA",
+        "lat": 36.8572,
+        "lon": 117.216,
+        "name": "Jinan, China",
         "region": "Asia"
     },
     {
@@ -2332,17 +2354,6 @@
         "region": "Middle East"
     },
     {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Nanchang",
-        "country": "China",
-        "iata": "KHN",
-        "lat": 28.865,
-        "lon": 115.9,
-        "name": "Nanchang, China",
-        "region": "Asia"
-    },
-    {
         "cca2": "US",
         "cf_lb_region": "ENAM",
         "city": "Nashville",
@@ -2970,6 +2981,17 @@
         "region": "Latin America & the Caribbean"
     },
     {
+        "cca2": "MT",
+        "cf_lb_region": "WEU",
+        "city": "Santa Venera",
+        "country": "Malta",
+        "iata": "MLA",
+        "lat": 35.8575,
+        "lon": 14.4775,
+        "name": "Santa Venera, Malta",
+        "region": "Europe"
+    },
+    {
         "cca2": "DO",
         "cf_lb_region": "ENAM",
         "city": "Santiago de los Caballeros",
@@ -3099,17 +3121,6 @@
         "lat": 22.6393,
         "lon": 113.811,
         "name": "Shenzhen, China",
-        "region": "Asia"
-    },
-    {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Shijiazhuang",
-        "country": "China",
-        "iata": "SJW",
-        "lat": 38.2807,
-        "lon": 114.697,
-        "name": "Shijiazhuang, China",
         "region": "Asia"
     },
     {
@@ -3476,17 +3487,6 @@
         "region": "Asia"
     },
     {
-        "cca2": "MT",
-        "cf_lb_region": "WEU",
-        "city": "Valletta",
-        "country": "Malta",
-        "iata": "MLA",
-        "lat": 35.8575,
-        "lon": 14.4775,
-        "name": "Valletta, Malta",
-        "region": "Europe"
-    },
-    {
         "cca2": "CA",
         "cf_lb_region": "WNAM",
         "city": "Vancouver, BC",
@@ -3619,6 +3619,17 @@
         "region": "Asia"
     },
     {
+        "cca2": "CN",
+        "cf_lb_region": "NEAS",
+        "city": "Xinyu",
+        "country": "China",
+        "iata": "KHN",
+        "lat": 28.865,
+        "lon": 115.9,
+        "name": "Xinyu, China",
+        "region": "Asia"
+    },
+    {
         "cca2": "CI",
         "cf_lb_region": "NAF",
         "city": "Yamoussoukro",
@@ -3682,17 +3693,6 @@
         "lat": 34.5197,
         "lon": 113.841,
         "name": "Zhengzhou, China",
-        "region": "Asia"
-    },
-    {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Zibo",
-        "country": "China",
-        "iata": "TNA",
-        "lat": 36.8572,
-        "lon": 117.216,
-        "name": "Zibo, China",
         "region": "Asia"
     },
     {
