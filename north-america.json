@@ -123,6 +123,17 @@
     {
         "cca2": "US",
         "cf_lb_region": "ENAM",
+        "city": "Cincinnati",
+        "country": "United States",
+        "iata": "CVG",
+        "lat": 39.048837,
+        "lon": -84.667821,
+        "name": "Cincinnati, United States",
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "cf_lb_region": "ENAM",
         "city": "Cleveland, OH",
         "country": "United States",
         "iata": "CLE",

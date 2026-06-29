@@ -439,17 +439,6 @@
         "name": "Brisbane, QLD, Australia",
         "region": "Oceania"
     },
-    "BNU": {
-        "cca2": "BR",
-        "cf_lb_region": "SSAM",
-        "city": "Blumenau",
-        "country": "Brazil",
-        "iata": "BNU",
-        "lat": -26.8306,
-        "lon": -49.0903,
-        "name": "Blumenau, Brazil",
-        "region": "Latin America & the Caribbean"
-    },
     "BOD": {
         "cca2": "FR",
         "cf_lb_region": "WEU",
@@ -922,6 +911,17 @@
         "lon": 103.947,
         "name": "Chengdu, China",
         "region": "Asia"
+    },
+    "CVG": {
+        "cca2": "US",
+        "cf_lb_region": "ENAM",
+        "city": "Cincinnati",
+        "country": "United States",
+        "iata": "CVG",
+        "lat": 39.048837,
+        "lon": -84.667821,
+        "name": "Cincinnati, United States",
+        "region": "North America"
     },
     "CWB": {
         "cca2": "BR",
@@ -1833,7 +1833,7 @@
         "iata": "KHH",
         "lat": 22.5771,
         "lon": 120.35,
-        "name": "Kaohsiung City, Taiwan",
+        "name": "Kaohsiung City",
         "region": "Asia"
     },
     "KHI": {
