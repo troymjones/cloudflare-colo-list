@@ -3596,17 +3596,6 @@
         "name": "Halifax, Canada",
         "region": "North America"
     },
-    "YOW": {
-        "cca2": "CA",
-        "cf_lb_region": "ENAM",
-        "city": "Ottawa",
-        "country": "Canada",
-        "iata": "YOW",
-        "lat": 45.3225,
-        "lon": -75.6692,
-        "name": "Ottawa, Canada",
-        "region": "North America"
-    },
     "YUL": {
         "cca2": "CA",
         "cf_lb_region": "ENAM",
