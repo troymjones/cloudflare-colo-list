@@ -1033,6 +1033,17 @@
         "name": "Dakar, Senegal",
         "region": "Africa"
     },
+    "DLA": {
+        "cca2": "CM",
+        "cf_lb_region": "NAF",
+        "city": "Douala",
+        "country": "Cameroon",
+        "iata": "DLA",
+        "lat": 4.00608,
+        "lon": 9.71948,
+        "name": "Douala, Cameroon",
+        "region": "Africa"
+    },
     "DLC": {
         "cca2": "CN",
         "cf_lb_region": "NEAS",
