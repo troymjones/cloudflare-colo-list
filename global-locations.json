@@ -1925,17 +1925,6 @@
         "region": "North America"
     },
     {
-        "cca2": "MW",
-        "cf_lb_region": "SAF",
-        "city": "Lilongwe",
-        "country": "Malawi",
-        "iata": "LLW",
-        "lat": -13.7894,
-        "lon": 33.781,
-        "name": "Lilongwe, Malawi",
-        "region": "Africa"
-    },
-    {
         "cca2": "PE",
         "cf_lb_region": "NSAM",
         "city": "Lima",
