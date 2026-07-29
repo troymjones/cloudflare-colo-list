@@ -274,6 +274,17 @@
         "name": "Austin, TX, United States",
         "region": "North America"
     },
+    "AVA": {
+        "cca2": "CN",
+        "cf_lb_region": "NEAS",
+        "city": "Anshun",
+        "country": "China",
+        "iata": "AVA",
+        "lat": 26.26056,
+        "lon": 105.87333,
+        "name": "Anshun, China",
+        "region": "Asia"
+    },
     "BAH": {
         "cca2": "BH",
         "cf_lb_region": "ME",

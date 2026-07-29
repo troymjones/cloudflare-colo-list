@@ -165,6 +165,17 @@
         "region": "Africa"
     },
     {
+        "cca2": "CN",
+        "cf_lb_region": "NEAS",
+        "city": "Anshun",
+        "country": "China",
+        "iata": "AVA",
+        "lat": 26.26056,
+        "lon": 105.87333,
+        "name": "Anshun, China",
+        "region": "Asia"
+    },
+    {
         "cca2": "MG",
         "cf_lb_region": "SAF",
         "city": "Antananarivo",
