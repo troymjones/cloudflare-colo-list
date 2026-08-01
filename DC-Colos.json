@@ -329,6 +329,17 @@
         "name": "Barcelona, Spain",
         "region": "Europe"
     },
+    "BDQ": {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Jamnagar",
+        "country": "India",
+        "iata": "BDQ",
+        "lat": 22.3362,
+        "lon": 73.2263,
+        "name": "Jamnagar, India",
+        "region": "Asia"
+    },
     "BEG": {
         "cca2": "RS",
         "cf_lb_region": "EEU",
