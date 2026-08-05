@@ -406,17 +406,6 @@
         "name": "Baghdad, Iraq",
         "region": "Middle East"
     },
-    "BHY": {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Beihai",
-        "country": "China",
-        "iata": "BHY",
-        "lat": 21.5394,
-        "lon": 109.294,
-        "name": "Beihai, China",
-        "region": "Asia"
-    },
     "BKK": {
         "cca2": "TH",
         "cf_lb_region": "SEAS",

@@ -407,17 +407,6 @@
         "region": "Middle East"
     },
     {
-        "cca2": "CN",
-        "cf_lb_region": "NEAS",
-        "city": "Beihai",
-        "country": "China",
-        "iata": "BHY",
-        "lat": 21.5394,
-        "lon": 109.294,
-        "name": "Beihai, China",
-        "region": "Asia"
-    },
-    {
         "cca2": "LB",
         "cf_lb_region": "ME",
         "city": "Beirut",
