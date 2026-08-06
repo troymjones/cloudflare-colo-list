@@ -3487,6 +3487,17 @@
         "region": "Latin America & the Caribbean"
     },
     {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Udaipur",
+        "country": "India",
+        "iata": "UDR",
+        "lat": 24.6177,
+        "lon": 73.8961,
+        "name": "Udaipur, India",
+        "region": "Asia"
+    },
+    {
         "cca2": "MN",
         "cf_lb_region": "NEAS",
         "city": "Ulaanbaatar",

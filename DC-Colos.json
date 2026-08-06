@@ -3431,6 +3431,17 @@
         "name": "Uberlandia, Brazil",
         "region": "Latin America & the Caribbean"
     },
+    "UDR": {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Udaipur",
+        "country": "India",
+        "iata": "UDR",
+        "lat": 24.6177,
+        "lon": 73.8961,
+        "name": "Udaipur, India",
+        "region": "Asia"
+    },
     "UIO": {
         "cca2": "EC",
         "cf_lb_region": "NSAM",
