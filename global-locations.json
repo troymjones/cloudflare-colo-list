@@ -1608,6 +1608,17 @@
     {
         "cca2": "IN",
         "cf_lb_region": "SAS",
+        "city": "Jalandhar",
+        "country": "India",
+        "iata": "AIP",
+        "lat": 31.4338,
+        "lon": 75.7588,
+        "name": "Jalandhar, India",
+        "region": "Asia"
+    },
+    {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
         "city": "Jamnagar",
         "country": "India",
         "iata": "BDQ",

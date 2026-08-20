@@ -98,6 +98,17 @@
         "name": "Agra, India",
         "region": "Asia"
     },
+    "AIP": {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Jalandhar",
+        "country": "India",
+        "iata": "AIP",
+        "lat": 31.4338,
+        "lon": 75.7588,
+        "name": "Jalandhar, India",
+        "region": "Asia"
+    },
     "AKL": {
         "cca2": "NZ",
         "cf_lb_region": "OC",
