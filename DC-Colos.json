@@ -1176,6 +1176,16 @@
         "name": "Dubai, United Arab Emirates",
         "region": "Middle East"
     },
+    "DYU": {
+        "cca2": "TJ",
+        "city": "Dushanbe",
+        "country": "Tajikistan",
+        "iata": "DYU",
+        "lat": 38.5433,
+        "lon": 68.825,
+        "name": "Dushanbe, Tajikistan",
+        "region": "Asia"
+    },
     "EBB": {
         "cca2": "UG",
         "cf_lb_region": "SAF",

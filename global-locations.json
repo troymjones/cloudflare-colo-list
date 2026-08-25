@@ -1177,6 +1177,16 @@
         "region": "North America"
     },
     {
+        "cca2": "TJ",
+        "city": "Dushanbe",
+        "country": "Tajikistan",
+        "iata": "DYU",
+        "lat": 38.5433,
+        "lon": 68.825,
+        "name": "Dushanbe, Tajikistan",
+        "region": "Asia"
+    },
+    {
         "cca2": "DE",
         "cf_lb_region": "WEU",
         "city": "Dusseldorf",
