@@ -2057,6 +2057,17 @@
         "region": "Africa"
     },
     {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Ludhiana",
+        "country": "India",
+        "iata": "LUH",
+        "lat": 30.855833,
+        "lon": 75.950556,
+        "name": "Ludhiana, India",
+        "region": "Asia"
+    },
+    {
         "cca2": "CN",
         "cf_lb_region": "NEAS",
         "city": "Luoyang",
