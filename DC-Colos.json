@@ -1935,17 +1935,6 @@
         "name": "Osaka, Japan",
         "region": "Asia"
     },
-    "KJA": {
-        "cca2": "RU",
-        "cf_lb_region": "SAS",
-        "city": "Krasnoyarsk",
-        "country": "Russia",
-        "iata": "KJA",
-        "lat": 56.1729,
-        "lon": 92.4933,
-        "name": "Krasnoyarsk, Russia",
-        "region": "Asia"
-    },
     "KMG": {
         "cca2": "CN",
         "cf_lb_region": "NEAS",
