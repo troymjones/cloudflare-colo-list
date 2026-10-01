@@ -77,17 +77,6 @@
         "region": "North America"
     },
     {
-        "cca2": "US",
-        "cf_lb_region": "ENAM",
-        "city": "Buffalo, NY",
-        "country": "United States",
-        "iata": "BUF",
-        "lat": 42.940427,
-        "lon": -78.73057,
-        "name": "Buffalo, NY, United States",
-        "region": "North America"
-    },
-    {
         "cca2": "CA",
         "cf_lb_region": "WNAM",
         "city": "Calgary, AB",
