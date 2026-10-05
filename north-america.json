@@ -258,8 +258,8 @@
         "city": "Kansas City, MO",
         "country": "United States",
         "iata": "MCI",
-        "lat": 39.297611,
-        "lon": -94.713889,
+        "lat": 39.297604,
+        "lon": -94.713906,
         "name": "Kansas City, MO, United States",
         "region": "North America"
     },
@@ -379,8 +379,8 @@
         "city": "Norfolk, VA",
         "country": "United States",
         "iata": "ORF",
-        "lat": 36.894604,
-        "lon": -76.201229,
+        "lat": 36.895631,
+        "lon": -76.198865,
         "name": "Norfolk, VA, United States",
         "region": "North America"
     },
