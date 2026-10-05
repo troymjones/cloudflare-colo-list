@@ -207,10 +207,6 @@
               "subdivision_name": "New Jersey"
             },
             {
-              "subdivision_code_a2": "NY",
-              "subdivision_name": "New York"
-            },
-            {
               "subdivision_code_a2": "OH",
               "subdivision_name": "Ohio"
             },
@@ -311,6 +307,10 @@
           "country_name": "Ivory Coast"
         },
         {
+          "country_code_a2": "CM",
+          "country_name": "Cameroon"
+        },
+        {
           "country_code_a2": "DJ",
           "country_name": "Djibouti"
         },
@@ -321,6 +321,10 @@
         {
           "country_code_a2": "EG",
           "country_name": "Egypt"
+        },
+        {
+          "country_code_a2": "ET",
+          "country_name": "Ethiopia"
         },
         {
           "country_code_a2": "GH",
@@ -407,6 +411,10 @@
           "country_name": "Guyana"
         },
         {
+          "country_code_a2": "Pa",
+          "country_name": "Panama"
+        },
+        {
           "country_code_a2": "PA",
           "country_name": "Panama"
         },
@@ -477,6 +485,10 @@
           "country_name": "Mauritius"
         },
         {
+          "country_code_a2": "MW",
+          "country_name": "Malawi"
+        },
+        {
           "country_code_a2": "MZ",
           "country_name": "Mozambique"
         },
@@ -522,6 +534,10 @@
           "country_name": "India"
         },
         {
+          "country_code_a2": "KG",
+          "country_name": "Kyrgyzstan"
+        },
+        {
           "country_code_a2": "KZ",
           "country_name": "Kazakhstan"
         },
@@ -544,6 +560,10 @@
         {
           "country_code_a2": "RU",
           "country_name": "Russia"
+        },
+        {
+          "country_code_a2": "TJ",
+          "country_name": "Tajikistan"
         }
       ]
     },
@@ -669,12 +689,20 @@
           "country_name": "Luxembourg"
         },
         {
+          "country_code_a2": "MT",
+          "country_name": "Malta"
+        },
+        {
           "country_code_a2": "NL",
           "country_name": "Netherlands"
         },
         {
           "country_code_a2": "PT",
           "country_name": "Portugal"
+        },
+        {
+          "country_code_a2": "SI",
+          "country_name": "Slovenia"
         }
       ]
     },

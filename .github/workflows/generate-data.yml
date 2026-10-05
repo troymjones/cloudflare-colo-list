@@ -18,15 +18,19 @@ jobs:
     steps:
     - uses: actions/checkout@v6
 
-    - name: Set up Python 3.10
+    - name: Set up Python 3.13
       uses: actions/setup-python@v6
       with:
-        python-version: '3.10'
+        python-version: '3.13'
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+      working-directory: ${{ env.workpath }}
+
+    - name: Run tests
+      run: python -m unittest -v
       working-directory: ${{ env.workpath }}
 
     - name: Save current PoP count
@@ -54,9 +58,9 @@ jobs:
         REMOVED=$(comm -23 /tmp/pops-before.txt /tmp/pops-after.txt)
         TOTAL=$(wc -l < /tmp/pops-after.txt | tr -d ' ')
 
+        BODY=""
         if [ -n "$ADDED" ] || [ -n "$REMOVED" ]; then
           MSG="Update PoP data (${TOTAL} locations)"
-          BODY=""
           if [ -n "$ADDED" ]; then
             ADDED_DETAILS=""
             for iata in $ADDED; do
@@ -70,15 +74,24 @@ jobs:
             REMOVED_LIST=$(echo "$REMOVED" | tr '\n' ', ' | sed 's/,$//')
             BODY="${BODY}\nRemoved PoPs: ${REMOVED_LIST}"
           fi
-          echo "message<<ENDMSG" >> $GITHUB_OUTPUT
-          echo -e "${MSG}\n${BODY}" >> $GITHUB_OUTPUT
-          echo "ENDMSG" >> $GITHUB_OUTPUT
         else
-          echo "message=Update PoP data (${TOTAL} locations, no changes)" >> $GITHUB_OUTPUT
+          MSG="Update PoP data (${TOTAL} locations, no changes)"
         fi
+
+        PENDING=$(python3 -c "import json; p=json.load(open('pending-changes.json')); print('\n'.join('  %s %s %s (first seen %s)' % (s, k, v['name'], v['first_seen']) for s, d in (('+', p['added']), ('-', p['removed'])) for k, v in sorted(d.items())))")
+        if [ -n "$PENDING" ]; then
+          BODY="${BODY}\nPending PoPs (published after 72h):\n${PENDING}"
+        fi
+
+        echo "message<<ENDMSG" >> $GITHUB_OUTPUT
+        echo -e "${MSG}\n${BODY}" >> $GITHUB_OUTPUT
+        echo "ENDMSG" >> $GITHUB_OUTPUT
       working-directory: ${{ env.workpath }}
 
+    # PR runs validate only. Committing would publish data built by unmerged
+    # code to main, and fork or Dependabot PRs get a read-only token anyway.
     - name: Push generated data
+      if: github.event_name != 'pull_request'
       uses: stefanzweifel/git-auto-commit-action@v7
       with:
         branch: main

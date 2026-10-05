@@ -16,6 +16,7 @@ Structured data for all Cloudflare PoP (Point of Presence) locations worldwide, 
 | `DC-Colos.json` | All PoPs keyed by IATA code | Object `{ IATA: PoP }` |
 | `cloudflare_lb_region_pops.json` | Load Balancer region to IATA code mapping | Object `{ region: [IATA] }` |
 | `regions.json` | Cloudflare LB region definitions with country lists | Fallback for API |
+| `pending-changes.json` | PoP additions and removals waiting out the 72-hour hold | Object `{ added: {IATA: info}, removed: {IATA: info} }` |
 
 ## PoP Object Schema
 
@@ -115,8 +116,12 @@ The `generate.py` script runs twice daily via GitHub Actions:
 1. Fetches the current PoP list from Cloudflare's status page
 2. Enriches each PoP with coordinates from airportsdata
 3. Maps each PoP to a Cloudflare Load Balancer region using the Regions API
-4. Outputs structured JSON files
-5. Commits any changes with a descriptive message listing new/removed PoPs
+4. Holds new and removed PoPs in `pending-changes.json` until the change has persisted for 72 hours, because Cloudflare sometimes reverses one within two days. Changes to existing PoPs publish immediately.
+5. Refuses to publish if the status page returns under 90% of the published PoP count
+6. Outputs structured JSON files
+7. Commits any changes with a descriptive message listing new, removed and pending PoPs
+
+`airportsdata` is pinned so coordinates only change when a Dependabot PR bumping it is merged.
 
 ## Configuration
 

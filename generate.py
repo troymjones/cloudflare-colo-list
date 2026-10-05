@@ -13,6 +13,7 @@ import json
 import os
 import re
 import unicodedata
+from datetime import datetime, timedelta, timezone
 
 import airportsdata
 import requests
@@ -21,11 +22,22 @@ from cloudflare import Cloudflare
 # Countries missing from the Regions API that need to be added
 EXTRA_REGION_COUNTRIES = {
     "NEAS": [{"country_code_a2": "CN", "country_name": "China"}],
-    "WEU": [{"country_code_a2": "MT", "country_name": "Malta"}],
-    "NAF": [{"country_code_a2": "ET", "country_name": "Ethiopia"}],
-    "SAF": [{"country_code_a2": "MW", "country_name": "Malawi"}],
-    "SAS": [{"country_code_a2": "KG", "country_name": "Kyrgyzstan"}],
 }
+
+STATUS_URL = "https://www.cloudflarestatus.com/api/v2/components.json"
+# The status API rate-limits clients without an identifiable User-Agent.
+USER_AGENT = (
+    "cloudflare-colo-list/1.0 "
+    "(+https://github.com/troymjones/cloudflare-colo-list)"
+)
+
+PENDING_FILE = "pending-changes.json"
+# Cloudflare sometimes adds or drops a PoP and reverses it within two days,
+# so additions and removals publish only after persisting this long.
+CONFIRM_AFTER = timedelta(hours=72)
+# A response this much smaller than the published list is a broken fetch,
+# not a mass removal.
+MIN_POP_FRACTION = 0.9
 
 
 def normalize_str(s):
@@ -103,8 +115,10 @@ def parse_status_page():
 
     Returns list of dicts: {iata, city, parsed_country, region, name}
     """
-    url = "https://www.cloudflarestatus.com/api/v2/components.json"
-    resp = requests.get(url, timeout=10)
+    resp = requests.get(
+        STATUS_URL, headers={"User-Agent": USER_AGENT}, timeout=30
+    )
+    resp.raise_for_status()
     components = resp.json()["components"]
 
     # Group components by parent group
@@ -196,6 +210,58 @@ def derive_cf_lb_region(
     return mapping[0]
 
 
+def load_json(path, default):
+    """Load a JSON file, or return default if it does not exist."""
+    if not os.path.exists(path):
+        return default
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def check_not_truncated(fresh_count, published_count):
+    """Refuse a status page response far smaller than the published list."""
+    if published_count and fresh_count < published_count * MIN_POP_FRACTION:
+        raise RuntimeError(
+            f"Status page returned {fresh_count} PoPs, under "
+            f"{MIN_POP_FRACTION:.0%} of the {published_count} published. "
+            "Refusing to publish."
+        )
+
+
+def apply_debounce(fresh, published, pending, now):
+    """Hold PoP additions and removals until they persist for CONFIRM_AFTER.
+
+    Returns (pops to publish, new pending state). A held addition is left out,
+    a held removal keeps its published entry, and a pending change that
+    reverts before it is confirmed is dropped.
+    """
+    new_pending = {"added": {}, "removed": {}}
+    if not published:
+        return dict(fresh), new_pending
+
+    def held(kind, iata, pop):
+        prior = pending.get(kind, {}).get(iata)
+        first_seen = (
+            prior["first_seen"] if prior else now.isoformat(timespec="seconds")
+        )
+        if now - datetime.fromisoformat(first_seen) >= CONFIRM_AFTER:
+            return False
+        new_pending[kind][iata] = {
+            "first_seen": first_seen,
+            "name": pop.get("name", ""),
+        }
+        return True
+
+    result = {}
+    for iata, pop in fresh.items():
+        if iata in published or not held("added", iata, pop):
+            result[iata] = pop
+    for iata, pop in published.items():
+        if iata not in fresh and held("removed", iata, pop):
+            result[iata] = pop
+    return result, new_pending
+
+
 def generate():
     """Main generation logic."""
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
@@ -279,12 +345,20 @@ def generate():
             if cf_region:
                 entry["cf_lb_region"] = cf_region
 
-        # Track region-to-pops mapping
-        cf_region = entry.get("cf_lb_region")
-        if cf_region and cf_region in cf_region_to_pops:
-            cf_region_to_pops[cf_region].append(iata)
-
         all_pops[iata] = entry
+
+    published = load_json("DC-Colos.json", {})
+    check_not_truncated(len(all_pops), len(published))
+    pending = load_json(PENDING_FILE, {"added": {}, "removed": {}})
+    all_pops, pending = apply_debounce(
+        all_pops, published, pending, datetime.now(timezone.utc)
+    )
+
+    # Track region-to-pops mapping
+    for pop in all_pops.values():
+        cf_region = pop.get("cf_lb_region")
+        if cf_region in cf_region_to_pops:
+            cf_region_to_pops[cf_region].append(pop["iata"])
 
     # Build output lists sorted by display name
     global_locations = []
@@ -303,11 +377,20 @@ def generate():
     for rc in cf_region_to_pops:
         cf_region_to_pops[rc].sort()
 
-    return all_pops, global_locations, north_america, europe, cf_region_to_pops
+    return (
+        all_pops,
+        global_locations,
+        north_america,
+        europe,
+        cf_region_to_pops,
+        pending,
+    )
 
 
 if __name__ == "__main__":
-    data, global_locations, north_america, europe, region_pops = generate()
+    data, global_locations, north_america, europe, region_pops, pending = (
+        generate()
+    )
 
     json_args = {"indent": 4, "ensure_ascii": False, "sort_keys": True}
 
@@ -317,6 +400,7 @@ if __name__ == "__main__":
         "europe.json": europe,
         "DC-Colos.json": data,
         "cloudflare_lb_region_pops.json": region_pops,
+        PENDING_FILE: pending,
     }
 
     for filename, content in outputs.items():
@@ -326,3 +410,7 @@ if __name__ == "__main__":
     print(f"Generated {len(global_locations)} PoP locations")
     print(f"  North America: {len(north_america)}")
     print(f"  Europe: {len(europe)}")
+    for kind, sign in (("added", "+"), ("removed", "-")):
+        for iata, info in sorted(pending[kind].items()):
+            print(f"  Pending {sign}{iata} {info['name']} since "
+                  f"{info['first_seen']}")
