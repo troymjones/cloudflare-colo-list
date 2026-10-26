@@ -18,18 +18,18 @@
         "iata": "ABJ",
         "lat": 5.26139,
         "lon": -3.92629,
-        "name": "Abidjan, Ivory Coast",
+        "name": "Abidjan, Cote dIvoire",
         "region": "Africa"
     },
     "ABQ": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Albuquerque, NM",
+        "city": "Albuquerque",
         "country": "United States",
         "iata": "ABQ",
         "lat": 35.038932,
         "lon": -106.608262,
-        "name": "Albuquerque, NM, United States",
+        "name": "Albuquerque, United States",
         "region": "North America"
     },
     "ACC": {
@@ -79,12 +79,12 @@
     "ADL": {
         "cca2": "AU",
         "cf_lb_region": "OC",
-        "city": "Adelaide, SA",
+        "city": "Adelaide",
         "country": "Australia",
         "iata": "ADL",
         "lat": -34.945,
         "lon": 138.53101,
-        "name": "Adelaide, SA, Australia",
+        "name": "Adelaide, Australia",
         "region": "Oceania"
     },
     "AGR": {
@@ -129,7 +129,7 @@
         "lat": 50.2458,
         "lon": 57.2067,
         "name": "Aktobe, Kazakhstan",
-        "region": "Asia"
+        "region": "Europe"
     },
     "ALA": {
         "cca2": "KZ",
@@ -140,7 +140,7 @@
         "lat": 43.3521,
         "lon": 77.0405,
         "name": "Almaty, Kazakhstan",
-        "region": "Asia"
+        "region": "Europe"
     },
     "ALG": {
         "cca2": "DZ",
@@ -189,12 +189,12 @@
     "ANC": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Anchorage, AK",
+        "city": "Anchorage",
         "country": "United States",
         "iata": "ANC",
         "lat": 61.174085,
         "lon": -149.998138,
-        "name": "Anchorage, AK, United States",
+        "name": "Anchorage, United States",
         "region": "North America"
     },
     "ARI": {
@@ -238,7 +238,7 @@
         "iata": "ASK",
         "lat": 6.90317,
         "lon": -5.36558,
-        "name": "Yamoussoukro, Ivory Coast",
+        "name": "Yamoussoukro, Cote dIvoire",
         "region": "Africa"
     },
     "ASU": {
@@ -266,23 +266,23 @@
     "ATL": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Atlanta, GA",
+        "city": "Atlanta",
         "country": "United States",
         "iata": "ATL",
         "lat": 33.6367,
         "lon": -84.427864,
-        "name": "Atlanta, GA, United States",
+        "name": "Atlanta, United States",
         "region": "North America"
     },
     "AUS": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Austin, TX",
+        "city": "Austin",
         "country": "United States",
         "iata": "AUS",
         "lat": 30.194527,
         "lon": -97.669876,
-        "name": "Austin, TX, United States",
+        "name": "Austin, United States",
         "region": "North America"
     },
     "AVA": {
@@ -393,17 +393,17 @@
         "lat": 13.0746,
         "lon": -59.4925,
         "name": "Bridgetown, Barbados",
-        "region": "Latin America & the Caribbean"
+        "region": "North America"
     },
     "BGR": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Bangor, ME",
+        "city": "Bangor",
         "country": "United States",
         "iata": "BGR",
         "lat": 44.807444,
         "lon": -68.828139,
-        "name": "Bangor, ME, United States",
+        "name": "Bangor, United States",
         "region": "North America"
     },
     "BGW": {
@@ -453,12 +453,12 @@
     "BNE": {
         "cca2": "AU",
         "cf_lb_region": "OC",
-        "city": "Brisbane, QLD",
+        "city": "Brisbane",
         "country": "Australia",
         "iata": "BNE",
         "lat": -27.3842,
         "lon": 153.117,
-        "name": "Brisbane, QLD, Australia",
+        "name": "Brisbane, Australia",
         "region": "Oceania"
     },
     "BOD": {
@@ -497,12 +497,12 @@
     "BOS": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Boston, MA",
+        "city": "Boston",
         "country": "United States",
         "iata": "BOS",
         "lat": 42.362944,
         "lon": -71.006389,
-        "name": "Boston, MA, United States",
+        "name": "Boston, United States",
         "region": "North America"
     },
     "BRU": {
@@ -607,12 +607,12 @@
     "CBR": {
         "cca2": "AU",
         "cf_lb_region": "OC",
-        "city": "Canberra, ACT",
+        "city": "Canberra",
         "country": "Australia",
         "iata": "CBR",
         "lat": -35.3069,
         "lon": 149.19501,
-        "name": "Canberra, ACT, Australia",
+        "name": "Canberra, Australia",
         "region": "Oceania"
     },
     "CCU": {
@@ -761,12 +761,12 @@
     "CLE": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Cleveland, OH",
+        "city": "Cleveland",
         "country": "United States",
         "iata": "CLE",
         "lat": 41.409407,
         "lon": -81.854691,
-        "name": "Cleveland, OH, United States",
+        "name": "Cleveland, United States",
         "region": "North America"
     },
     "CLO": {
@@ -783,12 +783,12 @@
     "CLT": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Charlotte, NC",
+        "city": "Charlotte",
         "country": "United States",
         "iata": "CLT",
         "lat": 35.213187,
         "lon": -80.951379,
-        "name": "Charlotte, NC, United States",
+        "name": "Charlotte, United States",
         "region": "North America"
     },
     "CMB": {
@@ -805,12 +805,12 @@
     "CMH": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Columbus, OH",
+        "city": "Columbus",
         "country": "United States",
         "iata": "CMH",
         "lat": 39.996947,
         "lon": -82.892159,
-        "name": "Columbus, OH, United States",
+        "name": "Columbus, United States",
         "region": "North America"
     },
     "CNF": {
@@ -992,12 +992,12 @@
     "DAR": {
         "cca2": "TZ",
         "cf_lb_region": "SAF",
-        "city": "Dar Es Salaam",
+        "city": "Dar es Salaam",
         "country": "Tanzania",
         "iata": "DAR",
         "lat": -6.87811,
         "lon": 39.2026,
-        "name": "Dar Es Salaam, Tanzania",
+        "name": "Dar es Salaam, Tanzania",
         "region": "Africa"
     },
     "DEL": {
@@ -1014,23 +1014,23 @@
     "DEN": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Denver, CO",
+        "city": "Denver",
         "country": "United States",
         "iata": "DEN",
         "lat": 39.861667,
         "lon": -104.673167,
-        "name": "Denver, CO, United States",
+        "name": "Denver, United States",
         "region": "North America"
     },
     "DFW": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Dallas, TX",
+        "city": "Dallas",
         "country": "United States",
         "iata": "DFW",
         "lat": 32.897233,
         "lon": -97.037695,
-        "name": "Dallas, TX, United States",
+        "name": "Dallas, United States",
         "region": "North America"
     },
     "DKR": {
@@ -1113,12 +1113,12 @@
     "DTW": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Detroit, MI",
+        "city": "Detroit",
         "country": "United States",
         "iata": "DTW",
         "lat": 42.212431,
         "lon": -83.353393,
-        "name": "Detroit, MI, United States",
+        "name": "Detroit, United States",
         "region": "North America"
     },
     "DUB": {
@@ -1207,17 +1207,17 @@
         "lat": 40.1473,
         "lon": 44.3959,
         "name": "Yerevan, Armenia",
-        "region": "Asia"
+        "region": "Middle East"
     },
     "EWR": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Newark, NJ",
+        "city": "Newark",
         "country": "United States",
         "iata": "EWR",
         "lat": 40.692481,
         "lon": -74.168688,
-        "name": "Newark, NJ, United States",
+        "name": "Newark, United States",
         "region": "North America"
     },
     "EZE": {
@@ -1241,17 +1241,6 @@
         "lon": 12.2508,
         "name": "Rome, Italy",
         "region": "Europe"
-    },
-    "FIH": {
-        "cca2": "CD",
-        "cf_lb_region": "SAF",
-        "city": "Kinshasa",
-        "country": "DR Congo",
-        "iata": "FIH",
-        "lat": -4.38575,
-        "lon": 15.4446,
-        "name": "Kinshasa, DR Congo",
-        "region": "Africa"
     },
     "FLN": {
         "cca2": "BR",
@@ -1311,12 +1300,12 @@
     "FSD": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Sioux Falls, SD",
+        "city": "Sioux Falls",
         "country": "United States",
         "iata": "FSD",
         "lat": 43.582018,
         "lon": -96.741925,
-        "name": "Sioux Falls, SD, United States",
+        "name": "Sioux Falls, United States",
         "region": "North America"
     },
     "FUK": {
@@ -1427,7 +1416,7 @@
         "lat": 14.5833,
         "lon": -90.5275,
         "name": "Guatemala City, Guatemala",
-        "region": "Latin America & the Caribbean"
+        "region": "North America"
     },
     "GUM": {
         "cca2": "GU",
@@ -1438,7 +1427,7 @@
         "lat": 13.483952,
         "lon": 144.797129,
         "name": "Hagatna, Guam",
-        "region": "Oceania"
+        "region": "Asia"
     },
     "GVA": {
         "cca2": "CH",
@@ -1487,12 +1476,12 @@
     "HAK": {
         "cca2": "CN",
         "cf_lb_region": "NEAS",
-        "city": "Haikou",
+        "city": "Chengmai",
         "country": "China",
         "iata": "HAK",
         "lat": 19.9349,
         "lon": 110.459,
-        "name": "Haikou, China",
+        "name": "Chengmai, China",
         "region": "Asia"
     },
     "HAM": {
@@ -1575,12 +1564,12 @@
     "HNL": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Honolulu, HI",
+        "city": "Honolulu",
         "country": "United States",
         "iata": "HNL",
         "lat": 21.317825,
         "lon": -157.92025,
-        "name": "Honolulu, HI, United States",
+        "name": "Honolulu, United States",
         "region": "North America"
     },
     "HRE": {
@@ -1619,23 +1608,23 @@
     "IAD": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Ashburn, VA",
+        "city": "Ashburn",
         "country": "United States",
         "iata": "IAD",
         "lat": 38.947456,
         "lon": -77.459929,
-        "name": "Ashburn, VA, United States",
+        "name": "Ashburn, United States",
         "region": "North America"
     },
     "IAH": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Houston, TX",
+        "city": "Houston",
         "country": "United States",
         "iata": "IAH",
         "lat": 29.984435,
         "lon": -95.341442,
-        "name": "Houston, TX, United States",
+        "name": "Houston, United States",
         "region": "North America"
     },
     "ICN": {
@@ -1652,12 +1641,12 @@
     "IND": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Indianapolis, IN",
+        "city": "Indianapolis",
         "country": "United States",
         "iata": "IND",
         "lat": 39.717306,
         "lon": -86.294639,
-        "name": "Indianapolis, IN, United States",
+        "name": "Indianapolis, United States",
         "region": "North America"
     },
     "ISB": {
@@ -1707,12 +1696,12 @@
     "JAX": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Jacksonville, FL",
+        "city": "Jacksonville",
         "country": "United States",
         "iata": "JAX",
         "lat": 30.494046,
         "lon": -81.687847,
-        "name": "Jacksonville, FL, United States",
+        "name": "Jacksonville, United States",
         "region": "North America"
     },
     "JDO": {
@@ -1751,12 +1740,12 @@
     "JIB": {
         "cca2": "DJ",
         "cf_lb_region": "NAF",
-        "city": "Djibouti City",
+        "city": "Djibouti",
         "country": "Djibouti",
         "iata": "JIB",
         "lat": 11.5473,
         "lon": 43.1595,
-        "name": "Djibouti City, Djibouti",
+        "name": "Djibouti, Djibouti",
         "region": "Africa"
     },
     "JNB": {
@@ -1883,12 +1872,12 @@
     "KHN": {
         "cca2": "CN",
         "cf_lb_region": "NEAS",
-        "city": "Xinyu",
+        "city": "Nanchang",
         "country": "China",
         "iata": "KHN",
         "lat": 28.865,
         "lon": 115.9,
-        "name": "Xinyu, China",
+        "name": "Nanchang, China",
         "region": "Asia"
     },
     "KIN": {
@@ -2004,23 +1993,23 @@
     "LAS": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Las Vegas, NV",
+        "city": "Las Vegas",
         "country": "United States",
         "iata": "LAS",
         "lat": 36.080343,
         "lon": -115.152449,
-        "name": "Las Vegas, NV, United States",
+        "name": "Las Vegas, United States",
         "region": "North America"
     },
     "LAX": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Los Angeles, CA",
+        "city": "Los Angeles",
         "country": "United States",
         "iata": "LAX",
         "lat": 33.942496,
         "lon": -118.408049,
-        "name": "Los Angeles, CA, United States",
+        "name": "Los Angeles, United States",
         "region": "North America"
     },
     "LCA": {
@@ -2268,12 +2257,12 @@
     "MCI": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Kansas City, MO",
+        "city": "Kansas City",
         "country": "United States",
         "iata": "MCI",
         "lat": 39.297604,
         "lon": -94.713906,
-        "name": "Kansas City, MO, United States",
+        "name": "Kansas City, United States",
         "region": "North America"
     },
     "MCT": {
@@ -2301,23 +2290,23 @@
     "MEL": {
         "cca2": "AU",
         "cf_lb_region": "OC",
-        "city": "Melbourne, VIC",
+        "city": "Melbourne",
         "country": "Australia",
         "iata": "MEL",
         "lat": -37.6733,
         "lon": 144.843,
-        "name": "Melbourne, VIC, Australia",
+        "name": "Melbourne, Australia",
         "region": "Oceania"
     },
     "MEM": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Memphis, TN",
+        "city": "Memphis",
         "country": "United States",
         "iata": "MEM",
         "lat": 35.042411,
         "lon": -89.976679,
-        "name": "Memphis, TN, United States",
+        "name": "Memphis, United States",
         "region": "North America"
     },
     "MEX": {
@@ -2345,23 +2334,23 @@
     "MIA": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Miami, FL",
+        "city": "Miami",
         "country": "United States",
         "iata": "MIA",
         "lat": 25.795361,
         "lon": -80.290116,
-        "name": "Miami, FL, United States",
+        "name": "Miami, United States",
         "region": "North America"
     },
     "MLA": {
         "cca2": "MT",
         "cf_lb_region": "WEU",
-        "city": "Santa Venera",
+        "city": "Valletta",
         "country": "Malta",
         "iata": "MLA",
         "lat": 35.8575,
         "lon": 14.4775,
-        "name": "Santa Venera, Malta",
+        "name": "Valletta, Malta",
         "region": "Europe"
     },
     "MLE": {
@@ -2433,12 +2422,12 @@
     "MSP": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Minneapolis, MN",
+        "city": "Minneapolis",
         "country": "United States",
         "iata": "MSP",
         "lat": 44.881972,
         "lon": -93.221778,
-        "name": "Minneapolis, MN, United States",
+        "name": "Minneapolis, United States",
         "region": "North America"
     },
     "MSQ": {
@@ -2576,45 +2565,45 @@
     "OKC": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Oklahoma City, OK",
+        "city": "Oklahoma City",
         "country": "United States",
         "iata": "OKC",
         "lat": 35.393073,
         "lon": -97.600766,
-        "name": "Oklahoma City, OK, United States",
+        "name": "Oklahoma City, United States",
         "region": "North America"
     },
     "OMA": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Omaha, NE",
+        "city": "Omaha",
         "country": "United States",
         "iata": "OMA",
         "lat": 41.303167,
         "lon": -95.894056,
-        "name": "Omaha, NE, United States",
+        "name": "Omaha, United States",
         "region": "North America"
     },
     "ORD": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Chicago, IL",
+        "city": "Chicago",
         "country": "United States",
         "iata": "ORD",
         "lat": 41.97694,
         "lon": -87.90815,
-        "name": "Chicago, IL, United States",
+        "name": "Chicago, United States",
         "region": "North America"
     },
     "ORF": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Norfolk, VA",
+        "city": "Norfolk",
         "country": "United States",
         "iata": "ORF",
         "lat": 36.895631,
         "lon": -76.198865,
-        "name": "Norfolk, VA, United States",
+        "name": "Norfolk, United States",
         "region": "North America"
     },
     "ORN": {
@@ -2697,23 +2686,23 @@
     "PDX": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Portland, OR",
+        "city": "Portland",
         "country": "United States",
         "iata": "PDX",
         "lat": 45.588709,
         "lon": -122.596869,
-        "name": "Portland, OR, United States",
+        "name": "Portland, United States",
         "region": "North America"
     },
     "PER": {
         "cca2": "AU",
         "cf_lb_region": "OC",
-        "city": "Perth, WA",
+        "city": "Perth",
         "country": "Australia",
         "iata": "PER",
         "lat": -31.9403,
         "lon": 115.967,
-        "name": "Perth, WA, Australia",
+        "name": "Perth, Australia",
         "region": "Oceania"
     },
     "PHL": {
@@ -2730,34 +2719,34 @@
     "PHX": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Phoenix, AZ",
+        "city": "Phoenix",
         "country": "United States",
         "iata": "PHX",
         "lat": 33.434278,
         "lon": -112.011583,
-        "name": "Phoenix, AZ, United States",
+        "name": "Phoenix, United States",
         "region": "North America"
     },
     "PIT": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Pittsburgh, PA",
+        "city": "Pittsburgh",
         "country": "United States",
         "iata": "PIT",
         "lat": 40.491417,
         "lon": -80.232694,
-        "name": "Pittsburgh, PA, United States",
+        "name": "Pittsburgh, United States",
         "region": "North America"
     },
     "PKX": {
         "cca2": "CN",
         "cf_lb_region": "NEAS",
-        "city": "Langfang",
+        "city": "Beijing",
         "country": "China",
         "iata": "PKX",
         "lat": 39.5,
         "lon": 116.4,
-        "name": "Langfang, China",
+        "name": "Beijing, China",
         "region": "Asia"
     },
     "PMO": {
@@ -2823,7 +2812,7 @@
         "iata": "POS",
         "lat": 10.5954,
         "lon": -61.3372,
-        "name": "Port of Spain, Trinidad and Tobago",
+        "name": "Port of Spain, Trinidad & Tobago",
         "region": "Latin America & the Caribbean"
     },
     "PPT": {
@@ -2845,11 +2834,12 @@
         "iata": "PRG",
         "lat": 50.1008,
         "lon": 14.26,
-        "name": "Prague, Czech Republic",
+        "name": "Prague, Czechia",
         "region": "Europe"
     },
     "PRN": {
         "cca2": "XK",
+        "cf_lb_region": "EEU",
         "city": "Prishtine ",
         "country": "Kosovo",
         "iata": "PRN",
@@ -2872,12 +2862,12 @@
     "QRO": {
         "cca2": "MX",
         "cf_lb_region": "WNAM",
-        "city": "Queretaro, MX",
+        "city": "Queretaro",
         "country": "Mexico",
         "iata": "QRO",
         "lat": 20.6173,
         "lon": -100.186,
-        "name": "Queretaro, MX, Mexico",
+        "name": "Queretaro, Mexico",
         "region": "North America"
     },
     "QWJ": {
@@ -2905,12 +2895,12 @@
     "RDU": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Durham, NC",
+        "city": "Durham",
         "country": "United States",
         "iata": "RDU",
         "lat": 35.877639,
         "lon": -78.787472,
-        "name": "Durham, NC, United States",
+        "name": "Durham, United States",
         "region": "North America"
     },
     "REC": {
@@ -2927,12 +2917,12 @@
     "RIC": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Richmond, VA",
+        "city": "Richmond",
         "country": "United States",
         "iata": "RIC",
         "lat": 37.505181,
         "lon": -77.319739,
-        "name": "Richmond, VA, United States",
+        "name": "Richmond, United States",
         "region": "North America"
     },
     "RIX": {
@@ -2971,12 +2961,12 @@
     "SAN": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "San Diego, CA",
+        "city": "San Diego",
         "country": "United States",
         "iata": "SAN",
         "lat": 32.733563,
         "lon": -117.189663,
-        "name": "San Diego, CA, United States",
+        "name": "San Diego, United States",
         "region": "North America"
     },
     "SAP": {
@@ -2993,12 +2983,12 @@
     "SAT": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "San Antonio, TX",
+        "city": "San Antonio",
         "country": "United States",
         "iata": "SAT",
         "lat": 29.533958,
         "lon": -98.469057,
-        "name": "San Antonio, TX, United States",
+        "name": "San Antonio, United States",
         "region": "North America"
     },
     "SCL": {
@@ -3021,28 +3011,28 @@
         "lat": 18.4297,
         "lon": -69.6689,
         "name": "Santo Domingo, Dominican Republic",
-        "region": "Latin America & the Caribbean"
+        "region": "North America"
     },
     "SEA": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Seattle, WA",
+        "city": "Seattle",
         "country": "United States",
         "iata": "SEA",
         "lat": 47.449889,
         "lon": -122.311778,
-        "name": "Seattle, WA, United States",
+        "name": "Seattle, United States",
         "region": "North America"
     },
     "SFO": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "San Francisco, CA",
+        "city": "San Francisco",
         "country": "United States",
         "iata": "SFO",
         "lat": 37.618806,
         "lon": -122.375417,
-        "name": "San Francisco, CA, United States",
+        "name": "San Francisco, United States",
         "region": "North America"
     },
     "SGN": {
@@ -3081,12 +3071,12 @@
     "SJC": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "San Jose, CA",
+        "city": "San Jose",
         "country": "United States",
         "iata": "SJC",
         "lat": 37.362995,
         "lon": -121.928621,
-        "name": "San Jose, CA, United States",
+        "name": "San Jose, United States",
         "region": "North America"
     },
     "SJK": {
@@ -3131,7 +3121,7 @@
         "lat": 18.439399,
         "lon": -66.002133,
         "name": "San Juan, Puerto Rico",
-        "region": "Latin America & the Caribbean"
+        "region": "North America"
     },
     "SJW": {
         "cca2": "CN",
@@ -3163,29 +3153,29 @@
         "iata": "SKP",
         "lat": 41.9616,
         "lon": 21.6214,
-        "name": "Skopje, North Macedonia",
+        "name": "Skopje, Macedonia",
         "region": "Europe"
     },
     "SLC": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Salt Lake City, UT",
+        "city": "Salt Lake City",
         "country": "United States",
         "iata": "SLC",
         "lat": 40.788393,
         "lon": -111.977773,
-        "name": "Salt Lake City, UT, United States",
+        "name": "Salt Lake City, United States",
         "region": "North America"
     },
     "SMF": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "Sacramento, CA",
+        "city": "Sacramento",
         "country": "United States",
         "iata": "SMF",
         "lat": 38.695444,
         "lon": -121.590778,
-        "name": "Sacramento, CA, United States",
+        "name": "Sacramento, United States",
         "region": "North America"
     },
     "SOD": {
@@ -3230,17 +3220,17 @@
         "lat": 19.4061,
         "lon": -70.6047,
         "name": "Santiago de los Caballeros, Dominican Republic",
-        "region": "Latin America & the Caribbean"
+        "region": "North America"
     },
     "STL": {
         "cca2": "US",
         "cf_lb_region": "WNAM",
-        "city": "St. Louis, MO",
+        "city": "St. Louis",
         "country": "United States",
         "iata": "STL",
         "lat": 38.748698,
         "lon": -90.370026,
-        "name": "St. Louis, MO, United States",
+        "name": "St. Louis, United States",
         "region": "North America"
     },
     "STR": {
@@ -3268,12 +3258,12 @@
     "SYD": {
         "cca2": "AU",
         "cf_lb_region": "OC",
-        "city": "Sydney, NSW",
+        "city": "Sydney",
         "country": "Australia",
         "iata": "SYD",
         "lat": -33.9461,
         "lon": 151.177,
-        "name": "Sydney, NSW, Australia",
+        "name": "Sydney, Australia",
         "region": "Oceania"
     },
     "SZX": {
@@ -3345,12 +3335,12 @@
     "TLH": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Tallahassee, FL",
+        "city": "Tallahassee",
         "country": "United States",
         "iata": "TLH",
         "lat": 30.396754,
         "lon": -84.350869,
-        "name": "Tallahassee, FL, United States",
+        "name": "Tallahassee, United States",
         "region": "North America"
     },
     "TLL": {
@@ -3400,12 +3390,12 @@
     "TPA": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
-        "city": "Tampa, FL",
+        "city": "Tampa",
         "country": "United States",
         "iata": "TPA",
         "lat": 27.975469,
         "lon": -82.533248,
-        "name": "Tampa, FL, United States",
+        "name": "Tampa, United States",
         "region": "North America"
     },
     "TPE": {
@@ -3664,67 +3654,67 @@
     "YUL": {
         "cca2": "CA",
         "cf_lb_region": "ENAM",
-        "city": "Montreal, QC",
+        "city": "Montreal",
         "country": "Canada",
         "iata": "YUL",
         "lat": 45.4706,
         "lon": -73.7408,
-        "name": "Montreal, QC, Canada",
+        "name": "Montreal, Canada",
         "region": "North America"
     },
     "YVR": {
         "cca2": "CA",
         "cf_lb_region": "WNAM",
-        "city": "Vancouver, BC",
+        "city": "Vancouver",
         "country": "Canada",
         "iata": "YVR",
         "lat": 49.1939,
         "lon": -123.184,
-        "name": "Vancouver, BC, Canada",
+        "name": "Vancouver, Canada",
         "region": "North America"
     },
     "YWG": {
         "cca2": "CA",
         "cf_lb_region": "ENAM",
-        "city": "Winnipeg, MB",
+        "city": "Winnipeg",
         "country": "Canada",
         "iata": "YWG",
         "lat": 49.91,
         "lon": -97.2399,
-        "name": "Winnipeg, MB, Canada",
+        "name": "Winnipeg, Canada",
         "region": "North America"
     },
     "YXE": {
         "cca2": "CA",
         "cf_lb_region": "ENAM",
-        "city": "Saskatoon, SK",
+        "city": "Saskatoon",
         "country": "Canada",
         "iata": "YXE",
         "lat": 52.1708,
         "lon": -106.7,
-        "name": "Saskatoon, SK, Canada",
+        "name": "Saskatoon, Canada",
         "region": "North America"
     },
     "YYC": {
         "cca2": "CA",
         "cf_lb_region": "WNAM",
-        "city": "Calgary, AB",
+        "city": "Calgary",
         "country": "Canada",
         "iata": "YYC",
         "lat": 51.1139,
         "lon": -114.02,
-        "name": "Calgary, AB, Canada",
+        "name": "Calgary, Canada",
         "region": "North America"
     },
     "YYZ": {
         "cca2": "CA",
         "cf_lb_region": "ENAM",
-        "city": "Toronto, ON",
+        "city": "Toronto",
         "country": "Canada",
         "iata": "YYZ",
         "lat": 43.6772,
         "lon": -79.6306,
-        "name": "Toronto, ON, Canada",
+        "name": "Toronto, Canada",
         "region": "North America"
     },
     "ZAG": {

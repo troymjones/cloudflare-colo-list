@@ -1,5 +1,27 @@
 [
     {
+        "cca2": "KZ",
+        "cf_lb_region": "SAS",
+        "city": "Aktobe",
+        "country": "Kazakhstan",
+        "iata": "AKX",
+        "lat": 50.2458,
+        "lon": 57.2067,
+        "name": "Aktobe, Kazakhstan",
+        "region": "Europe"
+    },
+    {
+        "cca2": "KZ",
+        "cf_lb_region": "SAS",
+        "city": "Almaty",
+        "country": "Kazakhstan",
+        "iata": "ALA",
+        "lat": 43.3521,
+        "lon": 77.0405,
+        "name": "Almaty, Kazakhstan",
+        "region": "Europe"
+    },
+    {
         "cca2": "NL",
         "cf_lb_region": "WEU",
         "city": "Amsterdam",
@@ -425,11 +447,12 @@
         "iata": "PRG",
         "lat": 50.1008,
         "lon": 14.26,
-        "name": "Prague, Czech Republic",
+        "name": "Prague, Czechia",
         "region": "Europe"
     },
     {
         "cca2": "XK",
+        "cf_lb_region": "EEU",
         "city": "Prishtine ",
         "country": "Kosovo",
         "iata": "PRN",
@@ -483,17 +506,6 @@
         "region": "Europe"
     },
     {
-        "cca2": "MT",
-        "cf_lb_region": "WEU",
-        "city": "Santa Venera",
-        "country": "Malta",
-        "iata": "MLA",
-        "lat": 35.8575,
-        "lon": 14.4775,
-        "name": "Santa Venera, Malta",
-        "region": "Europe"
-    },
-    {
         "cca2": "MK",
         "cf_lb_region": "EEU",
         "city": "Skopje",
@@ -501,7 +513,7 @@
         "iata": "SKP",
         "lat": 41.9616,
         "lon": 21.6214,
-        "name": "Skopje, North Macedonia",
+        "name": "Skopje, Macedonia",
         "region": "Europe"
     },
     {
@@ -579,6 +591,17 @@
         "lat": 41.4147,
         "lon": 19.7206,
         "name": "Tirana, Albania",
+        "region": "Europe"
+    },
+    {
+        "cca2": "MT",
+        "cf_lb_region": "WEU",
+        "city": "Valletta",
+        "country": "Malta",
+        "iata": "MLA",
+        "lat": 35.8575,
+        "lon": 14.4775,
+        "name": "Valletta, Malta",
         "region": "Europe"
     },
     {
