@@ -1,7 +1,12 @@
 import unittest
 from datetime import datetime, timedelta, timezone
 
-from generate import CONFIRM_AFTER, apply_debounce, check_not_truncated
+from generate import (
+    CONFIRM_AFTER,
+    apply_debounce,
+    check_not_truncated,
+    override_region,
+)
 
 NOW = datetime(2026, 10, 5, 13, 0, tzinfo=timezone.utc)
 EMPTY = {"added": {}, "removed": {}}
@@ -93,6 +98,21 @@ class ApplyDebounceTest(unittest.TestCase):
             {"AAA": renamed}, {"AAA": pop("AAA")}, EMPTY, NOW
         )
         self.assertEqual(result["AAA"], renamed)
+
+
+class OverrideRegionTest(unittest.TestCase):
+    OVERRIDES = {"ITJ": {"cf_lb_region": "SSAM"}, "PRN": {"cf_lb_region": "EEU"}}
+
+    def test_override_for_mapped_country_is_honored(self):
+        self.assertEqual(
+            override_region("ITJ", "BR", self.OVERRIDES, {"BR", "AL"}), "SSAM"
+        )
+
+    def test_override_for_unmapped_country_is_ignored(self):
+        self.assertIsNone(override_region("PRN", "XK", self.OVERRIDES, {"BR", "AL"}))
+
+    def test_no_override_returns_none(self):
+        self.assertIsNone(override_region("FRA", "DE", self.OVERRIDES, {"DE"}))
 
 
 class CheckNotTruncatedTest(unittest.TestCase):

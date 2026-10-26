@@ -40,7 +40,7 @@ Add it to `config/pop_overrides.json` with lat, lon, cca2, and optionally cf_lb_
 ### A PoP is in the wrong LB region
 Add a `cf_lb_region` key to its entry in `config/pop_overrides.json`.
 
-Do not add one for a PoP whose country the Regions API lacks (Kosovo, mainland China). Cloudflare's load balancer API rejects such a colo in `pop_pools`, and consumers rely on the missing `cf_lb_region` to know that.
+An override is ignored for a PoP whose country the Regions API itself lacks (Kosovo): Cloudflare's load balancer API rejects such a colo in `pop_pools`, and consumers rely on the missing `cf_lb_region` to know that. Mainland China is the exception, hand-mapped through `EXTRA_REGION_COUNTRIES` because nothing steers on it.
 
 ### The Cloudflare Regions API is down
 The script falls back to `regions.json`. If the API response has changed, update `regions.json` manually.

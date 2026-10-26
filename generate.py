@@ -61,13 +61,35 @@ def load_regions():
         with open("regions.json", "r", encoding="utf-8") as f:
             regions = json.load(f)["regions"]
 
+    # Countries the API itself maps; an override may not invent a region for any other
+    api_countries = {
+        c["country_code_a2"] for region in regions for c in region["countries"]
+    }
+
     # Supplement with countries missing from the API
     for region in regions:
         rc = region["region_code"]
         if rc in EXTRA_REGION_COUNTRIES:
             region["countries"].extend(EXTRA_REGION_COUNTRIES[rc])
 
-    return regions
+    return regions, api_countries
+
+
+def override_region(iata, cca2, pop_overrides, api_countries):
+    """Return the cf_lb_region override for a PoP, or None.
+
+    An override is ignored when the PoP's country is absent from the Regions
+    API: Cloudflare's load balancer API rejects such a colo whatever we
+    publish, and consumers read the missing field as "not steerable yet".
+    """
+    region = pop_overrides.get(iata, {}).get("cf_lb_region")
+    if region and cca2 not in api_countries:
+        print(
+            f"  Warning: ignoring cf_lb_region override for {iata}: "
+            f"{cca2} is not in the Regions API"
+        )
+        return None
+    return region
 
 
 def build_region_mappings(regions, subdivision_regions_config):
@@ -276,7 +298,7 @@ def generate():
     airports = airportsdata.load("IATA")
 
     # Load and process region data
-    regions = load_regions()
+    regions, api_countries = load_regions()
     country_to_regions, subdivision_to_region, country_names = (
         build_region_mappings(regions, subdivision_regions_config)
     )
@@ -331,8 +353,9 @@ def generate():
         entry["name"] = pop["name"]
 
         # Derive CF LB region
-        if iata in pop_overrides and "cf_lb_region" in pop_overrides[iata]:
-            entry["cf_lb_region"] = pop_overrides[iata]["cf_lb_region"]
+        override = override_region(iata, cca2, pop_overrides, api_countries)
+        if override:
+            entry["cf_lb_region"] = override
         elif cca2:
             cf_region = derive_cf_lb_region(
                 iata,
