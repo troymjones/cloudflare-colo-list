@@ -25,9 +25,6 @@
         "lon": 104.84,
         "cca2": "KH"
     },
-    "PRN": {
-        "cf_lb_region": "EEU"
-    },
     "QWJ": {
         "cf_lb_region": "SSAM",
         "lat": -22.35,
