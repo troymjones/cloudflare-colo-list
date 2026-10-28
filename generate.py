@@ -75,6 +75,18 @@ def load_regions():
     return regions, api_countries
 
 
+def steerable_or_unlocated(pop):
+    """Decide whether a PoP belongs in the regional steering files.
+
+    A PoP whose country is known but has no load balancer region is the one
+    case Cloudflare's load balancer API rejects, so it stays out of
+    north-america.json and europe.json until the Regions API maps the
+    country. A PoP with no country at all (missing from airportsdata and
+    pop_overrides) is still published so consumers notice and add an override.
+    """
+    return bool(pop.get("cf_lb_region")) or not pop.get("cca2")
+
+
 def override_region(iata, cca2, pop_overrides, api_countries):
     """Return the cf_lb_region override for a PoP, or None.
 
@@ -388,13 +400,22 @@ def generate():
     north_america = []
     europe = []
 
+    withheld = []
     for pop in sorted(all_pops.values(), key=lambda p: p.get("name", "")):
         global_locations.append(pop)
+        if not steerable_or_unlocated(pop):
+            withheld.append(pop["iata"])
+            continue
         region = pop.get("region", "")
         if region == "North America":
             north_america.append(pop)
         elif region == "Europe":
             europe.append(pop)
+    if withheld:
+        print(
+            "  Withheld from the regional files until the Regions API maps "
+            f"their country: {', '.join(withheld)}"
+        )
 
     # Sort region-to-pops lists
     for rc in cf_region_to_pops:

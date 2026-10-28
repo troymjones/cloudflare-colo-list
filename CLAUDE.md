@@ -23,7 +23,7 @@ Structured data for all Cloudflare PoP (Point of Presence) locations. Updated tw
 5. Maps each PoP to a Cloudflare LB region using the Regions API (or `regions.json` fallback)
 6. Fails if the PoP count drops under 90% of the published `DC-Colos.json`
 7. Holds new and removed PoPs in `pending-changes.json` for 72 hours; a change that reverts in that window never publishes
-8. Outputs all JSON files sorted by display name
+8. Outputs all JSON files sorted by display name. `north-america.json` and `europe.json` omit a PoP whose country is known but absent from the Regions API (Kosovo), because Cloudflare's load balancer API rejects such a colo; it appears there the first run after the country is mapped. `global-locations.json` keeps every PoP. A PoP with no country at all is still published so a consumer notices and adds an override.
 
 ## Data Sources
 - cloudflarestatus.com API — authoritative PoP list

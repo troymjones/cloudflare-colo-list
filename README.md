@@ -13,6 +13,8 @@ Structured data for all Cloudflare PoP (Point of Presence) locations worldwide, 
 | `global-locations.json` | All PoPs worldwide | Array of PoP objects |
 | `north-america.json` | North American PoPs only | Array of PoP objects |
 | `europe.json` | European PoPs only | Array of PoP objects |
+
+The two regional files omit a PoP whose country is known but absent from Cloudflare's load balancer Regions API, because the load balancer API rejects such a colo in `pop_pools`; it appears the first run after the country is mapped. `global-locations.json` always has every PoP.
 | `DC-Colos.json` | All PoPs keyed by IATA code | Object `{ IATA: PoP }` |
 | `cloudflare_lb_region_pops.json` | Load Balancer region to IATA code mapping | Object `{ region: [IATA] }` |
 | `regions.json` | Cloudflare LB region definitions with country lists | Fallback for API |

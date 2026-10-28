@@ -6,6 +6,7 @@ from generate import (
     apply_debounce,
     check_not_truncated,
     override_region,
+    steerable_or_unlocated,
 )
 
 NOW = datetime(2026, 10, 5, 13, 0, tzinfo=timezone.utc)
@@ -113,6 +114,17 @@ class OverrideRegionTest(unittest.TestCase):
 
     def test_no_override_returns_none(self):
         self.assertIsNone(override_region("FRA", "DE", self.OVERRIDES, {"DE"}))
+
+
+class SteerableOrUnlocatedTest(unittest.TestCase):
+    def test_pop_with_region_is_published(self):
+        self.assertTrue(steerable_or_unlocated({"iata": "FRA", "cca2": "DE", "cf_lb_region": "WEU"}))
+
+    def test_known_country_without_region_is_withheld(self):
+        self.assertFalse(steerable_or_unlocated({"iata": "PRN", "cca2": "XK"}))
+
+    def test_unlocated_pop_is_still_published(self):
+        self.assertTrue(steerable_or_unlocated({"iata": "NEW", "cca2": None}))
 
 
 class CheckNotTruncatedTest(unittest.TestCase):
