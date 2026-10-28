@@ -451,16 +451,6 @@
         "region": "Europe"
     },
     {
-        "cca2": "XK",
-        "city": "Prishtine ",
-        "country": "Kosovo",
-        "iata": "PRN",
-        "lat": 42.57283,
-        "lon": 21.03583,
-        "name": "Prishtine , Kosovo",
-        "region": "Europe"
-    },
-    {
         "cca2": "IS",
         "cf_lb_region": "WEU",
         "city": "Reykjavik",
