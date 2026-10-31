@@ -1606,6 +1606,17 @@
         "region": "North America"
     },
     {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Jaipur",
+        "country": "India",
+        "iata": "JAI",
+        "lat": 26.8242,
+        "lon": 75.8122,
+        "name": "Jaipur, India",
+        "region": "Asia"
+    },
+    {
         "cca2": "ID",
         "cf_lb_region": "SEAS",
         "city": "Jakarta",

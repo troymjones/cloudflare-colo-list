@@ -1693,6 +1693,17 @@
         "name": "Chandigarh, India",
         "region": "Asia"
     },
+    "JAI": {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Jaipur",
+        "country": "India",
+        "iata": "JAI",
+        "lat": 26.8242,
+        "lon": 75.8122,
+        "name": "Jaipur, India",
+        "region": "Asia"
+    },
     "JAX": {
         "cca2": "US",
         "cf_lb_region": "ENAM",
