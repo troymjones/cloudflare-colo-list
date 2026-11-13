@@ -1242,6 +1242,17 @@
         "name": "Rome, Italy",
         "region": "Europe"
     },
+    "FIH": {
+        "cca2": "CD",
+        "cf_lb_region": "SAF",
+        "city": "Kinshasa",
+        "country": "DR Congo",
+        "iata": "FIH",
+        "lat": -4.38575,
+        "lon": 15.4446,
+        "name": "Kinshasa, Congo - Kinshasa",
+        "region": "Africa"
+    },
     "FLN": {
         "cca2": "BR",
         "cf_lb_region": "SSAM",
