@@ -3675,6 +3675,17 @@
     {
         "cca2": "CN",
         "cf_lb_region": "NEAS",
+        "city": "Wuhan",
+        "country": "China",
+        "iata": "WUH",
+        "lat": 30.7838,
+        "lon": 114.208,
+        "name": "Wuhan, China",
+        "region": "Asia"
+    },
+    {
+        "cca2": "CN",
+        "cf_lb_region": "NEAS",
         "city": "Xiangyang",
         "country": "China",
         "iata": "XFN",

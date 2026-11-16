@@ -3617,6 +3617,17 @@
         "name": "Wroclaw, Poland",
         "region": "Europe"
     },
+    "WUH": {
+        "cca2": "CN",
+        "cf_lb_region": "NEAS",
+        "city": "Wuhan",
+        "country": "China",
+        "iata": "WUH",
+        "lat": 30.7838,
+        "lon": 114.208,
+        "name": "Wuhan, China",
+        "region": "Asia"
+    },
     "XAP": {
         "cca2": "BR",
         "cf_lb_region": "SSAM",
