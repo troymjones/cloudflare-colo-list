@@ -3331,6 +3331,17 @@
         "name": "Tongren, China",
         "region": "Asia"
     },
+    "TEZ": {
+        "cca2": "IN",
+        "cf_lb_region": "SAS",
+        "city": "Nagaon",
+        "country": "India",
+        "iata": "TEZ",
+        "lat": 26.7091,
+        "lon": 92.7847,
+        "name": "Nagaon, India",
+        "region": "Asia"
+    },
     "TGU": {
         "cca2": "HN",
         "cf_lb_region": "ENAM",
